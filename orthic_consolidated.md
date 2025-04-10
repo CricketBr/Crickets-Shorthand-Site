@@ -31,7 +31,7 @@ This guide addresses the first problem. [Cricket’s Shorthand Tips](https://doc
 
 This collection of publications does one thing better than most other shorthand books. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it, the it's written well-enough.
 
-I encourage all writers to share their writing, and look at their colleagues' samples. Sources include orthic.shorthand.fun , https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
+I encourage all writers to share their writing, and look at their colleagues' samples. Sources include (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
 
 # Speeds
 
