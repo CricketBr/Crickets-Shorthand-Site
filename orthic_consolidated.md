@@ -82,13 +82,13 @@ https://orthic.shorthand.fun/teaching-pt1
 Part 1 covers the Manual in 9 lessons, and has links to practice material, and a few optional rules that are in neither the Manual nor the Supplement. Part 2 adds even more rules
 Both the Manual and the Supplement ?? are needed to follow the lessons.
 
-### Clarey
+### Extended
 
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; by Hugh L Callendar ; Revised, Extended and Improved by E Clarey, 1911
 
 https://orthic.shorthand.fun/  under Resources
 
-This booklet is an update of the Manual, which merges rules from the Supplement (and Teaching??), and adds a few more.
+This booklet is an update of the Manual, which merges (many) rules from the Supplement (and Teaching??), and adds a few more.
 
 ### Notes on the Reporting Style
 
@@ -102,7 +102,19 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 …
 “Stevens occasionally overdoes things. There is a great deal to admire here, but there are many rough edges as well, and you should expect to do some fine-tuning if you want to use Orthic in a reporting style. All rules should be taken as suggestions. I will recommend against a couple of them along the way, though you may of course disagree with me.”
 
-The Alphabet
+# Preface, Introduction
+
+The Manual, Supplement, Teaching, and Extended all discuss the benefits of the an orthographic system over a phonetic system in great length.
+
+A few things I disagree with:
+
+Only two sizes of characters are employed.
+Each character has only 2 sizes in the Fully Written and Abbreviated styles -- as compared to the similar character, but not to the system overall -- but Reporting adds a 3rd size, and calls them slurs. Be prepared.
+
+A word can only be written one way.
+Nope. We already know about differences between countries. Then Orthic suggest simplfying spelling, and using abbreviations, and even removing sounds entirely. Many of the rules are optional.
+
+
 
 
 
