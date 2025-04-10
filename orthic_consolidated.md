@@ -23,7 +23,7 @@ The Abbreviated level simplifies spelling and adds optional (but highly recommen
 The final level, Reporting, is more optional rules. Some of these were promoted to Abbreviated in later publications.
 
 The existing publications have a few deficiencies:
-- Rules are spread out over too many publications.
+- Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement, and a Teaching booklet, and then, finally, Clarey revised the manual.
 - Minimal guidance for studying.
 - Insufficient material at each chapter. Some rules may not appear in the passages chosen.
 
@@ -37,9 +37,11 @@ I encourage all writers to share their writing, and look at their colleagues' sa
 
 Before computers, most adults could write cursive at 20-40 wpm (words per minute). An introductory typing class, with 110 hours in class, required 20wpm to pass. Typical speeds are now 20-80wpm. Entry level office shorthand in the US required 60 or 80wpm. Journalists in the UK needed 100wpm until fairly recently, and often considered shorthand their most difficult course. Current office shorthand requirement in other areas is 100-120. Toastmasters recommends 120 for formal speeches. Court reporting and closed captioning require over 200wpm, usually in bursts.
 
+Looking just at stroke count (but not actually doing the work of counting), the Fully Written level is comparable to Forkner, which is well-documented to exceed 100wpm. Orthic students have been reported to reach as high as 165 and 190wpm.
+
 # Publications and Source Material
 
-Most are available on (orthic.shorthand.fun) .
+Most of these, and some contributions from the community, are available on (orthic.shorthand.fun) .
 
 ### Cursive, sometimes called Phonetic Cursive
 
@@ -47,7 +49,7 @@ A Manual of Cursive Shorthand, by Hugh L Callendar, 1889.
 
 https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up
 
-This is included for historical reasons only. It was Callendar’s first shorthand publication.
+This is included for historical reasons only. It was Callendar’s first shorthand publication. Much of the book is dedicated to a systematic condemnation of Pitman. Callendar was fluent in Pitman. He was also a Victorian gentleman, lawyer, and engineer. It's a fun read.
 
 ### The Manual
 
@@ -100,6 +102,7 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 …
 “Stevens occasionally overdoes things. There is a great deal to admire here, but there are many rough edges as well, and you should expect to do some fine-tuning if you want to use Orthic in a reporting style. All rules should be taken as suggestions. I will recommend against a couple of them along the way, though you may of course disagree with me.”
 
+The Alphabet
 
 
 
@@ -107,28 +110,3 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 
 
 
-
-
-
-
-
-Unlike some shorthands, it is explicitly designed so you can mix levels in a single sentence, without confusion.
-
-
-Orthic shorthand, invented by Hugh L Callendar, got shortchanged due to history. By the time it was invented, Pitman had cornered the market.
-It’s very fast to learn at the Fully Written level, which reduces stroke count to ⅓  compared to longhand cursive (increase writing speed by 3). Higher levels have been reported to reach as high as 165 and 190wpm. (For comparison, 100wpm is suitable for offices. Toastmasters recommends 120wpm for formal speeches. Court reporters and closed captioners require over 200wpm, usually in bursts.
-It is difficult to learn from the original books partly because of the way they are organized. The first one, the Manual, was printed in 1891. A year later Calendar published the Supplement, which improved the system. In order to learn it, though, you need to have both books open, reading the Manual, and then flipping through the Supplement to see if anything changed. Xx Stevens wrote a few samples (Aesop’s Fables and some Psalms). 
-
-
-
-
- has the potential to be as fast and clear – or clearer – than Gregg and Pitman. 
-
-Orthic: The Cambridge System; by Hugh L Callendar; Revised, Extended and Improved by E. Clarey, 1911
-https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323
-
-I think myself that I could keep out of bed all right if I once got out. It is the wrenching away of the head from the pillow that I find so hard, and no amount of over-night determination makes it easier. I say to myself, after having wasted the whole evening, “Well, I won’t do any more work to-night; I’ll get up early to-morrow morning;” and I am thoroughly resolved to do so—then. In the morning, however, I feel less enthusiastic about the idea, and reflect that it would have been much better if I had stopped up last night. And then there is the trouble of dressing, and the more one thinks about that the more one wants to put it off.
-https://essays.quotidiana.org/jerome/being_idle/
-
-Notes ont he reporting style
-https://drive.google.com/file/d/14sBSBwjT76eqooWqHTABaRk_ar_MeOeF/view
