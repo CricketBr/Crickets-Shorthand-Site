@@ -1,7 +1,7 @@
 # Orthic Consolidated
 
-Being an Improved and Expanded Consolidation of the Manual, Supplement, and Teaching, 
-with Clarifications, Additions, Warnings, and Opinions of the Author
+### Being an Improved and Expanded Consolidation of the Manual, Supplement, and Teaching, 
+### with Clarifications, Additions, Warnings, and Opinions of the Author
 
 By CricketB, Reddit u/CrBr
 
@@ -14,7 +14,7 @@ Revison date .....
 
 Orthic shorthand is a good first shorthand for most students. It is very quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion.
 
-The Fully Written level simply replaces each letter with a single-stroke equivalent, and provides “joins” for shapes that do not work well together. You do not need to relearn how to spell or to guess at letters that were left out. It reduces stroke count down to ??? compared to longhand cursive, which increases writing speed by ??? . This math says that speeds of ?? or higher are possible – but speedbuilding with this set of rules is not advised.
+The Fully Written level simply replaces each letter with a single-stroke equivalent, and provides “joins” to combine letters that otherwise do not work well together. You do not need to relearn how to spell or to guess at letters that were left out. It reduces stroke count down to ??? compared to longhand cursive, which increases writing speed by ??? . This math says that speeds of ?? or higher are possible – but speedbuilding with this set of rules is not advised.
 
 Excessive practice at the Fully Written level will train your hand and brain to write fully – even when it’s not necessary. Do the exercises as described, so you are 80% comfortable with the alphabet (even if you have to look up letters and combinations), then move to Abbreviated.
 
