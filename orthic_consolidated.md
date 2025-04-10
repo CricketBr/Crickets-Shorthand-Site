@@ -27,9 +27,9 @@ The existing publications have a few deficiencies:
 - Minimal guidance for studying.
 - Insufficient material at each chapter. Some rules may not appear in the passages chosen.
 
-This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second, somewhat. The third, however, requires more work than any are willing to do. Once you've practiced the rules, the exercises from other shorthand books .
+This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second, somewhat. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the exercises from other shorthand books can be used. They focus on just a few rules at a time.
 
-This collection of publications does one thing better than most other shorthand books. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it, the it's written well-enough.
+This collection of publications does one thing better than most other shorthand books. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form, but begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it, then it's written well-enough. It would be nice if there was a firm line dividing "everyone knows" from "optional" but there isn't.
 
 I encourage all writers to share their writing, and look at their colleagues' samples. Sources include (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
 
@@ -104,15 +104,26 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 
 # Preface, Introduction
 
-The Manual, Supplement, Teaching, and Extended all discuss the benefits of the an orthographic system over a phonetic system in great length.
+The Manual, Supplement, Teaching, and Extended all have prefaces and/or introductions discuss the benefits of the an orthographic system over a phonetic system in great length. Read them if you're interested.
 
 A few things I disagree with:
 
 Only two sizes of characters are employed.
-Each character has only 2 sizes in the Fully Written and Abbreviated styles -- as compared to the similar character, but not to the system overall -- but Reporting adds a 3rd size, and calls them slurs. Be prepared.
+Each character has only 2 sizes in the Fully Written and Abbreviated styles -- as compared to the similar character, but not to the system overall -- but Reporting adds a 3rd size, called slurs. Be prepared.
 
 A word can only be written one way.
 Nope. We already know about differences between countries. Then Orthic suggest simplfying spelling, and using abbreviations, and even removing sounds entirely. Many of the rules are optional.
+
+Levels.
+The supplement discusses Fully Written, Ordinary, and Abbreviated.
+
+# Practice Schedule
+
+Teaching recommends only 15 minutes a day in addition to the lesson (which I assume is weekly). A full hour would be better, but, like all mental/physical skills, a daily short session is better than a single long one.
+
+# The Alphabet
+
+
 
 
 
