@@ -27,7 +27,11 @@ The existing publications have a few deficiencies:
 - Minimal guidance for studying.
 - Insufficient material at each chapter. Some rules may not appear in the passages chosen.
 
-This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second, somewhat. The third, however, requires more work than any are willing to do. Once you've practiced the rules, the exercises from other shorthand books 
+This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second, somewhat. The third, however, requires more work than any are willing to do. Once you've practiced the rules, the exercises from other shorthand books .
+
+This collection of publications does one thing better than most other shorthand books. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it, the it's written well-enough.
+
+I encourage all writers to share their writing, and look at their colleagues' samples. Sources include orthic.shorthand.fun , https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
 
 # Speeds
 
@@ -41,7 +45,7 @@ Most are available on (orthic.shorthand.fun) .
 
 A Manual of Cursive Shorthand, by Hugh L Callendar, 1889.
 
-(https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up)
+https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up
 
 This is included for historical reasons only. It was Callendar’s first shorthand publication.
 
@@ -49,7 +53,7 @@ This is included for historical reasons only. It was Callendar’s first shortha
 
 A Manual of Orthographic Shorthand: The Cambridge System, by Hugh L Callendar, 1891.
 
-(https://orthic.shorthand.fun/manual)
+https://orthic.shorthand.fun/manual
 
 “Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.”
 
@@ -57,7 +61,7 @@ A Manual of Orthographic Shorthand: The Cambridge System, by Hugh L Callendar, 1
 
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], Hugh L Callendar, 1982
 
-(https://orthic.shorthand.fun/supplement)
+https://orthic.shorthand.fun/supplement
 
 “It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.”
 …
@@ -76,28 +80,28 @@ https://orthic.shorthand.fun/teaching-pt1
 Part 1 covers the Manual in 9 lessons, and has links to practice material, and a few optional rules that are in neither the Manual nor the Supplement. Part 2 adds even more rules
 Both the Manual and the Supplement ?? are needed to follow the lessons.
 
-Clarey
+### Clarey
 
-Orthographic Cursive Shorthand [Orthic] ; The Cambridge System ; by Hugh L Callendar ; Revised, Extended and Improved by E Clarey, 1911
+Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; by Hugh L Callendar ; Revised, Extended and Improved by E Clarey, 1911
 
 https://orthic.shorthand.fun/  under Resources
 
 This booklet is an update of the Manual, which merges rules from the Supplement (and Teaching??), and adds a few more.
 
-Notes on the Reporting Style
+### Notes on the Reporting Style
 
 Notes on the Reporting Style of Orthic Shorthand, given by W. Stevens in 'The Teaching of Orthic Shorthand' (1896) , Reddit u/uwula, 2015 (2019 - 4 = 2015)
 
-(https://drive.google.com/file/d/14sBSBwjT76eqooWqHTABaRk_ar_MeOeF/view)
+https://drive.google.com/file/d/14sBSBwjT76eqooWqHTABaRk_ar_MeOeF/view
 
-(https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/comments/ag2pq0/notes_on_the_reporting_style_of_orthic_shorthand/)
+https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/comments/ag2pq0/notes_on_the_reporting_style_of_orthic_shorthand/
 
 “At the request of a couple users here, I've put together some notes on W. Stevens's The Teaching of Orthic Shorthand.”
 …
 “Stevens occasionally overdoes things. There is a great deal to admire here, but there are many rough edges as well, and you should expect to do some fine-tuning if you want to use Orthic in a reporting style. All rules should be taken as suggestions. I will recommend against a couple of them along the way, though you may of course disagree with me.”
 
 
-Penmanship
+
 
 
 
