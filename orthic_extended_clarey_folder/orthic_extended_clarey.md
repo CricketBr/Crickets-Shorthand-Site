@@ -1,7 +1,5 @@
 xx get the format from https://github.com/jeremy-w/orthic/blob/master/manual.md?plain=1
 
-![](assets/clarey/test.png)
-
 Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
 Revised, Extended and Improved by E. Clarey ("The Age" staff).
@@ -71,6 +69,21 @@ Do not attempt to write fast before the hand is familiar with the forms of the c
 NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts of an Idle Fellow](https://www.gutenberg.org/files/849/849-h/849-h.htm) by Jerome K. Jerome.
 
 # The Alphabet
+
+
+| Letter | Example |
+| --- | --- |
+| A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png) absent , ![](assets/clarey/opera.png) opera | ![](assets/clarey/opera.png) opera |
+| B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
+| C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
+
+
+
+
+
+
+
+![](assets/clarey/.png)
 
 ![](assets/clarey/test.png)
 
