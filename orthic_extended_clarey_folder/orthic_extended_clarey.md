@@ -59,7 +59,9 @@ NOTE.-- All the specimens of shorthand have been taken from "The Idle thoughts o
 
 !(test.png)
 
+/assets/images/test.png
 
+!(/assets/images/test.png)
 
 The arrows show the directions in which the characters are written.
 
