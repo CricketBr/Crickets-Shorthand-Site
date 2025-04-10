@@ -1,3 +1,5 @@
+xx get the format from https://github.com/jeremy-w/orthic/blob/master/manual.md?plain=1
+
 Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
 Revised, Extended and Improved by E. Clarey ("The Age" staff).
@@ -6,8 +8,19 @@ Revised, Extended and Improved by E. Clarey ("The Age" staff).
 Rendered into Markdown by CricketB (Sandra Schoen) based on the version made available by the National Archives of Australia.
 https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323
 
-xx creative commons logo
-xxx get links properly
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This version of <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hugh L. Callendar's <em>A Manual of Orthographic Cursive Shorthand</em></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://jeremy-w.github.io/orthic" property="cc:attributionName" rel="cc:attributionURL">Jeremy W. Sherman</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ" rel="dct:source">https://books.google.com/&#8203;books/&#8203;about/&#8203;A_Manual_of_&#8203;Orthographic_Cursive_&#8203;Shortha.html&#8203;?id=kQ5SAAAAYAAJ</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://jeremywsherman.com/" rel="cc:morePermissions">https://jeremywsherman.com/</a>.
+
+<style>
+p img, li img, td img {
+  max-height: 3ex
+}
+img.tall {
+  max-height: 5ex;
+  vertical-align: middle;
+}
+</style>
+
+
 
 This version of Callendar and Clarey's Orthographic Cursive Shorthand, Revised, Extended and Improved, by Sandra Schoen, is licenced under  a Creative Commons Attribution-ShareAlike 4.0 International License.
 Based on a work at https://books.google.com/​books/​about/​A_Manual_of_​Orthographic_Cursive_​Shortha.html​?id=kQ5SAAAAYAAJ.
@@ -53,9 +66,11 @@ A letter is always represented by its alphabetical character, consequently a wor
 
 Do not attempt to write fast before the hand is familiar with the forms of the characters. At first they should be drawn carefully, so that correctness and neatness may be secured. Speed will come with practice, but if attempted too soon will probably lead to bad and slovenly writing.
 
-NOTE.-- All the specimens of shorthand have been taken from "The Idle thoughts of an Idle Fellow," by Jerome K. Jerome.
+NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts of an Idle Fellow](https://www.gutenberg.org/files/849/849-h/849-h.htm) by Jerome K. Jerome.
 
 # The Alphabet
+
+![]({{ assets }}/test.png)
 
 !(test.png)
 
@@ -65,7 +80,7 @@ NOTE.-- All the specimens of shorthand have been taken from "The Idle thoughts o
 
 The arrows show the directions in which the characters are written.
 
-Doubled letters are shown, not by rpeating the character, but byputtin a dot below. Thus c-odd.png odd, c-coo.png coo. Exception c-ee.png ee. Thus: c-peep.png peep; compare c-pup.png pup.
+Doubled letters are shown, not by rpeating the character, but by putting a dot below. Thus c-odd.png **odd**, c-coo.png coo. Exception c-ee.png ee. Thus: c-peep.png peep; compare c-pup.png pup.
 
 
 
