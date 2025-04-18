@@ -73,25 +73,44 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 | Letter | Example |
 | --- | --- |
-| A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png) absent , ![](assets/clarey/opera.png) opera | ![](assets/clarey/opera.png) opera |
+| A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png) absent , ![](assets/clarey/opera.png) opera |
 | B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
 | C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
-
-
-
-
-
-
-
-![](assets/clarey/.png)
-
-![](assets/clarey/test.png)
-
+| D ![](assets/clarey/D.png) | ![](assets/clarey/dirty.png) dirty, ![](assets/clarey/wind.png) wind |
+| E ![](assets/clarey/E.png) | ![](assets/clarey/enter.png) enter, ![](assets/clarey/line.png) line |
+| F ![](assets/clarey/F.png) | ![](assets/clarey/fasten.png) fasten, ![](assets/clarey/calf.png) calf |
+| G ![](assets/clarey/G.png) | ![](assets/clarey/gentle.png) gentle, ![](assets/clarey/cog.png) cog |
+| H ![](assets/clarey/H.png) | ![](assets/clarey/help.png) help, ![](assets/clarey/oh.png) oh |
+| I ![](assets/clarey/I.png) | ![](assets/clarey/insert.png) insert, ![](assets/clarey/anti.png) anti |
+| J ![](assets/clarey/J.png) | ![](assets/clarey/jest.png) jest, ![](assets/clarey/reject.png) reject |
+| K ![](assets/clarey/K.png) | ![](assets/clarey/kept.png) kept, ![](assets/clarey/kick.png) kick |
+| L ![](assets/clarey/L.png) | ![](assets/clarey/lender.png) lender, ![](assets/clarey/until.png) until |
+| M ![](assets/clarey/M.png) | ![](assets/clarey/melt.png) melt, ![](assets/clarey/melt.png) melt |
+| N ![](assets/clarey/N.png) | ![](assets/clarey/nine.png) nine, ![](assets/clarey/hasten.png) hasten |
+| O ![](assets/clarey/O.png) | ![](assets/clarey/often.png) often, ![](assets/clarey/canto.png) canto |
+| P ![](assets/clarey/P.png) | ![](assets/clarey/point.png) point, ![](assets/clarey/step.png) step |
+| Q ![](assets/clarey/Q.png) | ![](assets/clarey/query.png) query, ![](assets/clarey/equity.png) equity |
+| R ![](assets/clarey/R.png) | ![](assets/clarey/render.png) render, ![](assets/clarey/fir.png) fir |
+| S ![](assets/clarey/S.png) | ![](assets/clarey/simply.png) simply, ![](assets/clarey/tends.png) tends |
+| T ![](assets/clarey/T.png) | ![](assets/clarey/time.png) time, ![](assets/clarey/comet.png) comet |
+| U ![](assets/clarey/U.png) | ![](assets/clarey/under.png) under, ![](assets/clarey/gnu.png) gnu |
+| V ![](assets/clarey/V.png) | ![](assets/clarey/vine.png) vine, ![](assets/clarey/wave.png) wave |
+| W ![](assets/clarey/W.png) | ![](assets/clarey/wow.png) wow, ![](assets/clarey/award.png) award |
+| X ![](assets/clarey/X.png) | ![](assets/clarey/exist.png) exist, ![](assets/clarey/sex.png) sex |
+| Y ![](assets/clarey/Y.png) | ![](assets/clarey/yes.png) yes, ![](assets/clarey/haply.png) haply |
+| Z ![](assets/clarey/Z.png) | ![](assets/clarey/zebra.png) zebra, ![](assets/clarey/waltz.png) waltz |
 
 The arrows show the directions in which the characters are written.
 
-Doubled letters are shown, not by rpeating the character, but by putting a dot below. Thus c-odd.png **odd**, c-coo.png coo. Exception c-ee.png ee. Thus: c-peep.png peep; compare c-pup.png pup.
+[Doubled letters] are shown, not by repeating the character, but by putting a dot below. Thus
+![](assets/clarey/odd.png) odd, ![](assets/clarey/coo.png) coo
 
+Exception: ![](assets/clarey/ee.png) ee , thus ![](assets/clarey/peep.png) peep
+Compare ![](assets/clarey/pup.png) pup
+[P] and [S], when standing alone, are written straight down to distinguish them from Ee and E.\
+[J], [Qu] and [V] are written through the line.
+
+# General Rules
 
 
 
