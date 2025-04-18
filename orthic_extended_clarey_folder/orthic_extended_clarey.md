@@ -32,8 +32,8 @@ Permissions beyond the scope of this license may be available by emailing cricke
 
 
 <style>
-  .myletter {width: 500px;}
-  .myletter2 {transform: scale(25%);}
+  .myletter {transform: scale(25%);}
+  .myletter2 {transform: scale(50%);}
 </style>
 
 
@@ -95,9 +95,9 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 | Letter | Example |
 | --- | --- |
-| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" style="width:5px"/> absent , <img src="assets/clarey/opera.png" class ="myletter2" /> opera |
+| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" class ="myletter" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter2" /> opera |
 | A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" class ="myletter2" /> absent , <img src="assets/clarey/opera.png" style = "transform: scaleY1.5" /> opera |
-| A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png.png) absent.png, ![](assets/clarey/opera.png.png) opera.png |
+| A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png.png) absent.png, ![](assets/clarey/opera.png) opera.png |
 | B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
 | C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
 | D ![](assets/clarey/D.png) | ![](assets/clarey/dirty.png) dirty, ![](assets/clarey/wind.png) wind |
