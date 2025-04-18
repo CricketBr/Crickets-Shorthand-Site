@@ -59,19 +59,19 @@ Most of these, and some contributions from the community, are available on (orth
 ### Cursive, sometimes called Phonetic Cursive
 A Manual of Cursive Shorthand,\
 Hugh L Callendar, 1889.\
-https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up\
+https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up \
 This is included for historical reasons only. It was Callendar’s first shorthand publication. Much of the book is dedicated to a systematic condemnation of Pitman. Callendar was fluent in Pitman. He was also a Victorian gentleman, lawyer, and engineer. It's a fun read.
 
 ### The Manual
 A Manual of Orthographic Shorthand: The Cambridge System, \
 Hugh L Callendar, 1891.\
-https://orthic.shorthand.fun/manual\
+https://orthic.shorthand.fun/manual \
 “Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.”
 
 ### The Supplement
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], \
 Hugh L Callendar, 1982.\
-https://orthic.shorthand.fun/supplement\
+https://orthic.shorthand.fun/supplement \
 “It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.”
 …
 “The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the Manual as ‘Hints for the Reporting Style’ and to provide advanced writers of the system with additional matter for exercise and reading practice.”
@@ -100,7 +100,7 @@ This booklet is an update of the Manual, which merges (many) rules from the Supp
 Notes on the Reporting Style of Orthic Shorthand, given by W. Stevens in 'The Teaching of Orthic Shorthand' (1896) , \
 Reddit u/uwula, 2015 (2019 - 4 = 2015)\
 https://drive.google.com/file/d/14sBSBwjT76eqooWqHTABaRk_ar_MeOeF/view \
-https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/comments/ag2pq0/notes_on_the_reporting_style_of_orthic_shorthand/ \
+https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/comments/ag2pq0/notes_on_the_reporting_style_of_orthic_shorthand/ 
 
 “At the request of a couple of users here, I've put together some notes on W. Stevens's The Teaching of Orthic Shorthand.”
 …
