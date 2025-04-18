@@ -1,14 +1,15 @@
 ---
 layout: page
 title: "Orthographic Cursive Shorthand, Revised, Extended and Improved"
-subtitle: "The Cambridge System"
+subtitle: "Orthic, The Cambridge System"
 author: "E Clarey"
 toc: true
 toc_hmax: 6
 ---
 # Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
-Revised, Extended and Improved by E. Clarey ("The Age" staff).
+# Revised, Extended and Improved
+by E. Clarey ("The Age" staff).
 1911
 
 Rendered into Markdown by CricketB (Sandra Schoen) based on the version made available by the National Archives of Australia.
@@ -17,16 +18,25 @@ https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=34083
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a><br />This version of 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">E Clarey's <em>Orthographic Cursive Shorthand, Revised, Extended and Improved</em></span>
-by <a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">CricketB</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">E Clarey's <em>Orthographic Cursive Shorthand, Revised, Extended and Improved</em></span> </br>
+by <a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">CricketB</a> </br>
+is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" 
-href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323"                      rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
+href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323" rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
 
-
+<style>
+p img, li img, td img {
+  max-height: 3ex
+}
+img.tall {
+  max-height: 5ex;
+  vertical-align: middle;
+}
+</style>
 
 <style>
-.word {width = 500}
+img.word {width : 500px}
 </style>
 
 
