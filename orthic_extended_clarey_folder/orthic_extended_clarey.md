@@ -6,6 +6,12 @@ author: "E Clarey"
 toc: true
 toc_hmax: 6
 ---
+
+<style>
+img.word {width: 500px}
+</style>
+
+
 # Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
 # Revised, Extended and Improved
