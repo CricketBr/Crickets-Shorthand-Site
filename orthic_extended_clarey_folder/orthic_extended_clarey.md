@@ -26,9 +26,7 @@ href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
 
 
-<style>
-img.word {width: 500px}
-</style>
+
 
 
 # Advantages of the Orthographic Basis
