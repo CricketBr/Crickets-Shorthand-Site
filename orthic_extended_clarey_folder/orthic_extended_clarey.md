@@ -69,6 +69,7 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 | Letter | Example |
 | --- | --- |
+| A <img src="assets/clarey/A.png />  | ![](assets/clarey/absent.png) absent , ![](assets/clarey/opera.png) opera |
 | A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png) absent , ![](assets/clarey/opera.png) opera |
 | B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
 | C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
