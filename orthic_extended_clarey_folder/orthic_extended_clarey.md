@@ -25,18 +25,9 @@ Based on a work at <a xmlns:dct="http://purl.org/dc/terms/"
 href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323" rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
 
-<style>
-p img, li img, td img {
-  max-height: 3ex
-}
-img.tall {
-  max-height: 5ex;
-  vertical-align: middle;
-}
-</style>
 
 <style>
-img.word {width : 500px}
+img.word {width: 500px}
 </style>
 
 
