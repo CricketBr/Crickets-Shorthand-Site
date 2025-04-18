@@ -2,14 +2,13 @@
 layout: page
 title: "Orthographic Cursive Shorthand, Revised, Extended and Improved"
 subtitle: "Orthic, The Cambridge System"
-author: "E Clarey"
+author: "E Clarey, Hugh L Callendar"
 toc: true
 toc_hmax: 6
 ---
 
-<style>
-.specialletter {width: 500px}
-</style>
+
+
 
 
 # Orthographic Cursive Shorthand, Orthic, The Cambridge System
@@ -18,21 +17,34 @@ by Hugh L. Callendar, LL.D., F.R.S., &c.
 by E. Clarey ("The Age" staff).
 1911
 
-Rendered into Markdown by CricketB (Sandra Schoen) based on the version made available by the National Archives of Australia.
+Rendered into Markdown by CricketB based on the version made available by the National Archives of Australia.
 https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a><br />This version of 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">E Clarey's <em>Orthographic Cursive Shorthand, Revised, Extended and Improved</em></span> </br>
-by <a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">CricketB</a> </br>
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">E Clarey's <em>Orthographic Cursive Shorthand, Revised, Extended and Improved</em></span> <br />
+by <a xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL">CricketB</a> <br />
 is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />
 Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" 
 href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323" rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
 
 
+<style>
+.myletter {width: 500px}
+</style>
 
+
+<style>
+p img, li img, td img {
+  max-height: 3ex
+}
+img.tall {
+  max-height: 5ex;
+  vertical-align: middle;
+}
+</style>
 
 
 # Advantages of the Orthographic Basis
@@ -82,7 +94,8 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 | Letter | Example |
 | --- | --- |
-| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" width="20px"/> absent , <img src="assets/clarey/opera.png" class="specialletter"/> opera |
+| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" style="width:5px"/> absent , <img src="assets/clarey/opera.png"/> opera |
+| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" style="width:5px"/> absent , <img src="assets/clarey/opera.png" style = "transform: scaleY1.5" /> opera |
 | B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
 | C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
 | D ![](assets/clarey/D.png) | ![](assets/clarey/dirty.png) dirty, ![](assets/clarey/wind.png) wind |
