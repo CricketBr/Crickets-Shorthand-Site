@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Orthographic Consolidated"
+subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Extended"
+author: "CricketB, based on works by Hugh L Callendar, W Stevens, and E Clarey"
+toc: true
+toc_hmax: 6
+---
 # Orthic Consolidated
 
 Being an Improved and Expanded Consolidation of\
@@ -11,16 +19,17 @@ https://github.com/CricketBr/shorthand/blob/main/orthic%20consolidated \
 -- may revise this to be shorthand.fun
 
 copyright, 
+add in
 
 Revison date .....
 
 # Introduction
 
-This document will consolidate all the rules and advice into a single document, with links to the other documents for practice material.
+This document will consolidate all the rules and advice into a single document, with links to the other documents for practice material. It includes new plates written at a consistent size and spacing.
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
-From The Manual (as typed by Jeremy W. Sherman)
+From The Manual (as rendered by Jeremy W. Sherman)
 
 > The present system is an adaptation of the alphabet and principles of Cursive Shorthand to the common orthography.
 > 
@@ -36,27 +45,30 @@ From The Manual (as typed by Jeremy W. Sherman)
 > 
 > In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches the end of the joining rules he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen of the fully-written style, every word of which is spelt in full.
 
-I would argue about the two sizes. At advanced levels there are three horizontal sizes, and the option to use medium-size circles instead of large for some letters, to make reading faster. When training your hand, make the small circles tiny, and the large circles large. Make the wide letters medium, and the narrow letters very narrow. This advice will be repeated in The Alphabet. As for spelling? Again, it's only true at the Fully Written level if the student only has one way to spell the word. At the Abbreviated level, it depends how many of the optional abbreviations you use.
-
-The Fully Written level simply replaces each letter with a single-stroke equivalent, and provides “joins” to combine letters that otherwise do not work well together. You do not need to relearn how to spell or to guess at letters that were left out. Speedbuilding at this level is not advised. Excessive practice will train your hand and brain to write fully – even when it’s not necessary. Do the exercises as described, so you are 80% comfortable with the basics, then move to Abbreviated.
-
-From Clarey: Do not attempt to write fast before the hand is familiar with the forms of the characters. At first they should be drawn carefully, so that correctness and neatness may be secured. Speed will come with practice, but if attempted too soon will probably lead to bad and slovenly writing.
-
-The Abbreviated level simplifies spelling and adds optional (but highly recommended) rules for writing less. Orthic does not distinguish between shortened words, prefixes, and suffixes. They are all called abbreviations. 
-The author of The Teaching of Orthic Shorthand claims you can reach 60wpm after finishing the 9 week program (and doing a mere 15 minutes a day of homework). That is probably optimistic.
-
-The final level, Reporting, has more optional rules. Some of these were promoted to Abbreviated in later publications.
+I would argue about the two sizes. At advanced levels there are two vertical sizes and three horizontal sizes. Further details are below, under Size. As for spelling? That's not even true in longhand. Many of us have learned the spelling of multiple countries and corporations, mostly to remove the annoying red squiggles from spellcheck. Even if you standardize on one dictionary, it's only true for Fully Written. At higher levels it depends on how many of the optional abbreviations you use.
 
 The existing publications have a few deficiencies:
 - Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement, and a Teaching booklet (with a few more abbreviations), and then Clarey merged them (and added still more abbreviations).
 - Minimal guidance for studying.
 - Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
 
-This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books can be used, and will be more useful since they focus on just a few rules at a time.
+This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
 
-This collection of publications does one thing better than most other shorthand books. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it, then it's written well-enough.
+This collection of publications does one thing better than most other shorthand systems. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
 
 I encourage all writers to share their writing, and look at their colleagues' samples. Sources include (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
+
+# Preview of Levels
+
+The Fully Written level simply replaces each letter with a single-stroke equivalent, and provides “joins” to combine letters that otherwise do not work well together. You do not need to relearn how to spell or to guess at letters that were left out. Speedbuilding at this level is not advised. Excessive practice will train your hand and brain to write fully – even when it’s not necessary. Do the exercises as described, so you are 80% comfortable with the basics, then move to Abbreviated.
+
+From Clarey: Do not attempt to write fast before the hand is familiar with the forms of the characters. At first they should be drawn carefully, so that correctness and neatness may be secured. Speed will come with practice, but if attempted too soon will probably lead to bad and slovenly writing.
+
+The Abbreviated level simplifies spelling and adds optional (but highly recommended) rules for writing less. Orthic does not distinguish between shortened words, prefixes, and suffixes. They are all called abbreviations. The original Manual separates this level from Reporting, and suggests that Correspondence be done at the Abbreviated level. The Supplement moves many abbreviations from Reporting to Abbreviated. The Teaching of Orthic Shorthand removes the distinction, and says, "The Reporting Style of Orthic is in no way essentially different from the Corresponding Style. There is little new to learn, and nothing to unlearn. It is simply the same methods of abbreviation as given in the Teacher’s Manual, part 1, extended."
+
+The Teaching of Orthic Shorthand claims you can reach 60wpm after finishing the 9 week program (and doing a mere 15 minutes a day of homework). That is probably optimistic.
+
+
 
 # Speed Potential
 
