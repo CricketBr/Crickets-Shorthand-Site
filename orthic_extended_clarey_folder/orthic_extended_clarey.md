@@ -18,21 +18,9 @@ href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
 
 
-<style>
-p img, li img, td img {
-  max-height: 3ex
-}
-img.tall {
-  max-height: 5ex;
-  vertical-align: middle;
-}
-</style>
 
 
 
-This version of Callendar and Clarey's Orthographic Cursive Shorthand, Revised, Extended and Improved, by Sandra Schoen, is licenced under  a Creative Commons Attribution-ShareAlike 4.0 International License.
-Based on a work at https://books.google.com/​books/​about/​A_Manual_of_​Orthographic_Cursive_​Shortha.html​?id=kQ5SAAAAYAAJ.
-Permissions beyond the scope of this license may be available by contacting me through Reddit, u/CrBr .
 
 # Advantages of the Orthographic Basis
 
@@ -113,10 +101,12 @@ The arrows show the directions in which the characters are written.
 [Doubled letters] are shown, not by repeating the character, but by putting a dot below. Thus
 ![](assets/clarey/odd.png) odd, ![](assets/clarey/coo.png) coo
 
-Exception: ![](assets/clarey/ee.png) ee , thus ![](assets/clarey/peep.png) peep
+<ins>Exception</ins>, ![](assets/clarey/ee.png) <ins>ee</ins> , thus ![](assets/clarey/peep.png) peep
+
 Compare ![](assets/clarey/pup.png) pup
-[P] and [S], when standing alone, are written straight down to distinguish them from Ee and E.\
-[J], [Qu] and [V] are written through the line.
+
+<ins>P</ins> and <ins>S</ins>, when standing alone, are written straight down to distinguish them from Ee and E.\
+<ins>J</ins>, <ins>Qu</ins> and <ins>V</ins> are written through the line.
 
 # General Rules
 
