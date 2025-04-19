@@ -26,13 +26,6 @@ Based on a work at <a xmlns:dct="http://purl.org/dc/terms/"
 href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323" rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
 
-<style>
-  .myletter1 {transform: scale(25%);}
-  .myletter2 {transform: scale(50%);}
-  .myletter3 {transform: scale(100%); vertical-align: baseline }
-</style>
-
-
 # Advantages of the Orthographic Basis
 
 An Orthography, that is to say a definite standard of spelling, is the necessary groundwork of any practical system of writing. It is essential, both for the sake of rapid automatic writing and to secure ease and certainty in reading, that each word should always be spelt in the same way. In this way alone can it be written without conscious thought, and read without hesitation.
