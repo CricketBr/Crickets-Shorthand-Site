@@ -91,9 +91,9 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 | H <img src="assets/clarey/H.png" class ="myletter3" />  | <img src="assets/clarey/help.png" class ="myletter3" /> help ,   <img src="assets/clarey/oh.png" class ="myletter3" /> oh |
 | I <img src="assets/clarey/I.png" class ="myletter3" />  | <img src="assets/clarey/insert" class ="myletter3" /> insert ,   <img src="assets/clarey/anti" class ="myletter3" /> anti |
 | J <img src="assets/clarey/J.png" class ="myletter3" />  | <img src="assets/clarey/jest.png" class ="myletter3" /> jest ,   <img src="assets/clarey/reject.png" class ="myletter3" /> reject.png |
-| K <img src="assets/clarey/L.png" class ="myletter3" />  | <img src="assets/clarey/kept.png" class ="myletter3" /> kept ,   <img src="assets/clarey/kick.png" class ="myletter3" /> kick.png |
-| L <img src="assets/clarey/M.png" class ="myletter3" />  | <img src="assets/clarey/lender.png" class ="myletter3" /> lender ,   <img src="assets/clarey/until.png" class ="myletter3" /> until.png |
-| M <img src="assets/clarey/N.png" class ="myletter3" />  | <img src="assets/clarey/melt.png" class ="myletter3" /> melt ,   <img src="assets/clarey/stem.png" class ="myletter3" /> stem |
+| K <img src="assets/clarey/K.png" class ="myletter3" />  | <img src="assets/clarey/kept.png" class ="myletter3" /> kept ,   <img src="assets/clarey/kick.png" class ="myletter3" /> kick.png |
+| L <img src="assets/clarey/L.png" class ="myletter3" />  | <img src="assets/clarey/lender.png" class ="myletter3" /> lender ,   <img src="assets/clarey/until.png" class ="myletter3" /> until.png |
+| M <img src="assets/clarey/M.png" class ="myletter3" />  | <img src="assets/clarey/melt.png" class ="myletter3" /> melt ,   <img src="assets/clarey/stem.png" class ="myletter3" /> stem |
 | N <img src="assets/clarey/N.png" class ="myletter3" /> | <img src="assets/clarey/nine.png" class ="myletter3" /> nine | <img src="assets/clarey/hasten.png" class ="myletter3" /> hasten |
 | O ![](assets/clarey/O.png) | ![](assets/clarey/often.png) often, ![](assets/clarey/canto.png) canto |
 | P ![](assets/clarey/P.png) | ![](assets/clarey/point.png) point, ![](assets/clarey/step.png) step |
