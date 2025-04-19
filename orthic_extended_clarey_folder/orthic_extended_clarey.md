@@ -119,14 +119,66 @@ Compare
 
 # General Rules
 
-Orthographic Spelling -- All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks.
+**Orthographic Spelling.** -- All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks.
 
-The Two Sizes of Character must be carefully distinguished, just as 
+**The Two Sizes of Character** must be carefully distinguished, just as 
 <img src="assets/clarey/c-print-upper.png" class ="myletter3" /> C (uppercase print) and
 <img src="assets/clarey/c-print-lower.png" class ="myletter3" /> c (lowercase print) ,
 <img src="assets/clarey/l-cursive-upper.png" class ="myletter3" /> l (lowercase cursive) and
 <img src="assets/clarey/e-cursive-lower.png" class ="myletter3" /> e (lowercase cursive)
-are distinguished in longhand. The actual size of the 
+are distinguished in longhand. The actual size of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle amy be reudced to a dot. But it is best to make the small characters about one-twelfth of an inch [Ed: 2.1mm] long, and the large ones at least twice as big.
+
+**Diphthongs.** -- When two vowels come together forming  "diphthong" the angle between them is *slurred*, or rounded off, *into a continuous curve.*
+Thus:
+<img src="assets/clarey/ai.png" class ="myletter3" /> ai  <img src="assets/clarey/ai-angle.png" class ="myletter3" />,
+<img src="assets/clarey/oy.png" class ="myletter3" /> oy  <img src="assets/clarey/oy-angle.png" class ="myletter3" />,
+<img src="assets/clarey/ou.png" class ="myletter3" /> ou  <img src="assets/clarey/ou-angle.png" class ="myletter3" />,
+<img src="assets/clarey/eau.png" class ="myletter3" /> eau  <img src="assets/clarey/eau-angle.png" class ="myletter3" /> .
+
+But when the vowels are separately sounded either the characters are separated or the angle between them is marked, as in the words
+```
+re-enter,
+boa,
+chaos,
+co-operate,
+Leo,
+fiasco,
+fuel,
+poem,
+serious.
+```
+**The first letter of a word** generall begins or ends on the line, but *a*, *e*, and *o* may be *raised* when *preceeding downstrokes*.
+
+**A short connecting tick** be used *after* 
+```
+er,
+th,
+```
+&c., *when* they are *followed* by
+```
+G ,
+P and
+S
+```
+Thus
+```
+dirge
+faiths
+serpent 
+```
+
+**Dividing a Word.** A word may always be divided when the joining happens to be awkward or the outline descends too far below the ine. Thus:
+```
+law-suit
+abagpipes
+```
+The necessity for this, however, seldom arises.     test
+
+**Punctuation** is effected *in the usual way*, except the *hyphen*
+
+
+
+
 
 
 
