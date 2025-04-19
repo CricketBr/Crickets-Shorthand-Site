@@ -34,7 +34,7 @@ Permissions beyond the scope of this license may be available by emailing cricke
 <style>
   .myletter1 {transform: scale(25%);}
   .myletter2 {transform: scale(50%);}
-  .myletter3 {transform: scale(100%); vvertical-align:baseline }
+  .myletter3 {transform: scale(100%); vertical-align: baseline }
 </style>
 
 <img src="assets/clarey/absent.png" class ="myletter1" /> absent
@@ -44,6 +44,12 @@ Permissions beyond the scope of this license may be available by emailing cricke
 <img src="assets/clarey/absent.png" class ="myletter3" /> absent
 
 test
+
+
+
+<img src="assets/clarey/N" class ="myletter1" /> N
+<img src="assets/clarey/nine" class ="myletter1" /> nine
+<img src="assets/clarey/hasten" class ="myletter1" /> hasten
 
 
 <style>
