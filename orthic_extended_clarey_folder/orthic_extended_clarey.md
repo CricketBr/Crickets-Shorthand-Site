@@ -41,7 +41,7 @@ Permissions beyond the scope of this license may be available by emailing cricke
 <img src="assets/clarey/absent.png" class ="myletter2" /> absent
 
 
-
+test
 
 
 <style>
