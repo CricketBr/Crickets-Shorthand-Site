@@ -104,13 +104,13 @@ A <img src="assets/clarey/A.png" class ="myletter3" /> : <img src="assets/clarey
 The arrows show the directions in which the characters are written.
 
 **Doubled letters** are shown, not by repeating the character, but by putting a dot below. Thus
-<img src="assets/clarey/odd.png" class ="myletter3" /> odd ,
-<img src="assets/clarey/coo.png" class ="myletter3" /> coo
+<img src="assets/clarey/odd.png" class ="myletter3" /> odd &nbsp; ,
+<img src="assets/clarey/coo.png" class ="myletter3" /> coo &nbsp;
 
 **Exception,**
-<img src="assets/clarey/ee.png" class ="myletter3" /> ee 
+<img src="assets/clarey/ee.png" class ="myletter3" /> ee  &nbsp;
 Thus: 
-<img src="assets/clarey/peep.png" class ="myletter3" /> peep,
+<img src="assets/clarey/peep.png" class ="myletter3" /> peep &nbsp;,
 Compare 
 <img src="assets/clarey/pup.png" class ="myletter3" /> pup
 
@@ -123,16 +123,16 @@ Compare
 
 **The Two Sizes of Character** must be carefully distinguished, just as 
 <img src="assets/clarey/c-print-upper.png" class ="myletter3" /> C (uppercase print) and
-<img src="assets/clarey/c-print-lower.png" class ="myletter3" /> c (lowercase print) ,
+<img src="assets/clarey/c-print-lower.png" class ="myletter3" /> c (lowercase print)  &nbsp; ,
 <img src="assets/clarey/l-cursive-upper.png" class ="myletter3" /> l (lowercase cursive) and
 <img src="assets/clarey/e-cursive-lower.png" class ="myletter3" /> e (lowercase cursive)
 are distinguished in longhand. The actual size of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle amy be reudced to a dot. But it is best to make the small characters about one-twelfth of an inch [Ed: 2.1mm] long, and the large ones at least twice as big.
 
 **Diphthongs.** -- When two vowels come together forming  "diphthong" the angle between them is *slurred*, or rounded off, *into a continuous curve.*
 Thus:
-<img src="assets/clarey/ai.png" class ="myletter3" /> ai  <img src="assets/clarey/ai-angle.png" class ="myletter3" />,
-<img src="assets/clarey/oy.png" class ="myletter3" /> oy  <img src="assets/clarey/oy-angle.png" class ="myletter3" />,
-<img src="assets/clarey/ou.png" class ="myletter3" /> ou  <img src="assets/clarey/ou-angle.png" class ="myletter3" />,
+<img src="assets/clarey/ai.png" class ="myletter3" /> ai  <img src="assets/clarey/ai-angle.png" class ="myletter3" />  &nbsp; ,
+<img src="assets/clarey/oy.png" class ="myletter3" /> oy  <img src="assets/clarey/oy-angle.png" class ="myletter3" />  &nbsp; ,
+<img src="assets/clarey/ou.png" class ="myletter3" /> ou  <img src="assets/clarey/ou-angle.png" class ="myletter3" />  &nbsp; ,
 <img src="assets/clarey/eau.png" class ="myletter3" /> eau  <img src="assets/clarey/eau-angle.png" class ="myletter3" /> .
 
 But when the vowels are separately sounded either the characters are separated or the angle between them is marked, as in the words
@@ -172,7 +172,7 @@ serpent
 law-suit
 abagpipes
 ```
-The necessity for this, however, seldom arises.     test
+The necessity for this, however, seldom arises.
 
 **Punctuation** is effected *in the usual way*, except the *hyphen*
 
