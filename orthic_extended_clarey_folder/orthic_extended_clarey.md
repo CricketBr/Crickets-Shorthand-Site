@@ -78,7 +78,87 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 # The Alphabet
 
-A <img src="assets/clarey/A.png" class ="myletter3" /> : <img src="assets/clarey/absent.png" class ="myletter3" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter3" /> opera 
+```
+A
+absent
+opera
+B
+back
+bib
+C
+centre
+mimic
+D
+dirty
+wind
+E-arrow
+enter
+line
+G
+gentle
+cog
+H-arrow
+help
+oh
+I-arrow
+insert
+anti
+J
+jest
+reject
+K
+kept
+kick
+L-arrow
+lender
+until
+M
+melt
+stem
+N
+nine
+hasten
+O
+often
+canto
+P-arrow
+point
+step
+Qu-arrow
+qurery
+equity
+R-arrow
+render
+fir
+S-arrow
+simply
+tends
+T
+time
+comet
+U
+under
+gnu
+W-arrow-both
+wow
+award
+X
+exist
+sex
+Y
+yes
+haply
+Z-arrow
+zebra
+waltz
+```
+
+
+
+```
+table left in place in case it's useful, feel free to remove
+```
+
 
 | Letter | Example |
 | --- | --- |
@@ -112,8 +192,10 @@ A <img src="assets/clarey/A.png" class ="myletter3" /> : <img src="assets/clarey
 The arrows show the directions in which the characters are written.
 
 **Doubled letters** are shown, not by repeating the character, but by putting a dot below. Thus
-<img src="assets/clarey/odd.png" class ="myletter3" /> odd &nbsp; ,
-<img src="assets/clarey/coo.png" class ="myletter3" /> coo &nbsp;
+```
+odd
+coo
+```
 
 **Exception,**
 <img src="assets/clarey/ee.png" class ="myletter3" /> ee  &nbsp;
