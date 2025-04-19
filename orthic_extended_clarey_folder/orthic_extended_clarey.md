@@ -7,9 +7,6 @@ toc: true
 toc_hmax: 6
 ---
 
-<a href="test.html"> testlink</a>
-edittest
-
 # Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
 # Revised, Extended and Improved
@@ -28,7 +25,6 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" 
 href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323" rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
-
 
 <style>
   .myletter1 {transform: scale(25%);}
