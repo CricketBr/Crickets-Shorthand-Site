@@ -36,6 +36,17 @@ Permissions beyond the scope of this license may be available by emailing cricke
   .myletter2 {transform: scale(50%);}
 </style>
 
+<img src="assets/clarey/absent.png" class ="myletter1" /> absent
+<br />
+<img src="assets/clarey/absent.png" class ="myletter2" /> absent
+
+| Letter | Example |
+| --- | --- |
+| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" class ="myletter1" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter1" /> opera |
+| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" class ="myletter2" /> absent , <img src="assets/clarey/opera.png" style = "transform: scaleY(5.0)" /> opera |
+| A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png) absent.png, ![](assets/clarey/opera.png) opera.png |
+
+
 
 <style>
 p img, li img, td img {
