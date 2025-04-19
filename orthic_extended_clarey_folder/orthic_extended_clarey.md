@@ -47,9 +47,9 @@ test
 
 
 
-<img src="assets/clarey/N.png" class ="myletter1" /> N
-<img src="assets/clarey/nine.png" class ="myletter1" /> nine
-<img src="assets/clarey/hasten.png" class ="myletter1" /> hasten
+<img src="assets/clarey/N.png" class ="myletter3" /> N
+<img src="assets/clarey/nine.png" class ="myletter3" /> nine
+<img src="assets/clarey/hasten.png" class ="myletter3" /> hasten
 
 
 <style>
