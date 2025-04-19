@@ -7,10 +7,6 @@ toc: true
 toc_hmax: 6
 ---
 
-
-
-
-
 # Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
 # Revised, Extended and Improved
@@ -86,12 +82,14 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 | Letter | Example |
 | --- | --- |
 | A <img src="assets/clarey/A.png" class ="myletter3" />  | <img src="assets/clarey/absent.png" class ="myletter3" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter3" /> opera |
-| B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
-| C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
-| D ![](assets/clarey/D.png) | ![](assets/clarey/dirty.png) dirty, ![](assets/clarey/wind.png) wind |
-| E ![](assets/clarey/E.png) | ![](assets/clarey/enter.png) enter, ![](assets/clarey/line.png) line |
-| F ![](assets/clarey/F.png) | ![](assets/clarey/fasten.png) fasten, ![](assets/clarey/calf.png) calf |
-| G ![](assets/clarey/G.png) | ![](assets/clarey/gentle.png) gentle, ![](assets/clarey/cog.png) cog |
+| B <img src="assets/clarey/B.png" class ="myletter3" />  | <img src="assets/clarey/back.png" class ="myletter3" /> back ,       <img src="assets/clarey/bib.png" class ="myletter3" /> bib |
+| C <img src="assets/clarey/C.png" class ="myletter3" />  | <img src="assets/clarey/centre.png" class ="myletter3" /> centre ,   <img src="assets/clarey/mimic.png" class ="myletter3" /> mimic |
+| D <img src="assets/clarey/D.png" class ="myletter3" />  | <img src="assets/clarey/dirty.png" class ="myletter3" /> dirty ,   <img src="assets/clarey/wind.png" class ="myletter3" /> wind |
+| E <img src="assets/clarey/E.png" class ="myletter3" />  | <img src="assets/clarey/enter.png" class ="myletter3" /> enter ,   <img src="assets/clarey/line.png" class ="myletter3" /> line |
+| F <img src="assets/clarey/F.png" class ="myletter3" />  | <img src="assets/clarey/fasten.png" class ="myletter3" /> fasten ,   <img src="assets/clarey/calf.png" class ="myletter3" /> calf |
+| G <img src="assets/clarey/G.png" class ="myletter3" />  | <img src="assets/clarey/gentle.png" class ="myletter3" /> gentle ,   <img src="assets/clarey/cog.png" class ="myletter3" /> cog |
+
+
 | H ![](assets/clarey/H.png) | ![](assets/clarey/help.png) help, ![](assets/clarey/oh.png) oh |
 | I ![](assets/clarey/I.png) | ![](assets/clarey/insert.png) insert, ![](assets/clarey/anti.png) anti |
 | J ![](assets/clarey/J.png) | ![](assets/clarey/jest.png) jest, ![](assets/clarey/reject.png) reject |
