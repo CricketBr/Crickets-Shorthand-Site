@@ -37,9 +37,13 @@ the above needs work
 ```
 code samples
 ```
-<img src="assets/clarey/A.png" class ="myletter3" />
+<img src="assets/clarey/hasten.png" class ="myletter3" />
 
-![](assets/hasten.png)&nbsp;**hasten**;
+![](assets/clarey/hasten.png)&nbsp;**hasten**
+
+![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  
+
+nbsp not working
 
 ```
 end of code samples
