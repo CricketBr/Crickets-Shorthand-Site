@@ -34,6 +34,19 @@ Permissions beyond the scope of this license may be available by emailing cricke
 the above needs work
 ```
 
+```
+code samples
+```
+<img src="assets/clarey/A.png" class ="myletter3" />
+
+![](assets/hasten.png)&nbsp;**hasten**;
+
+```
+end of code samples
+```
+
+
+
 # Advantages of the Orthographic Basis
 
 An Orthography, that is to say a definite standard of spelling, is the necessary groundwork of any practical system of writing. It is essential, both for the sake of rapid automatic writing and to secure ease and certainty in reading, that each word should always be spelt in the same way. In this way alone can it be written without conscious thought, and read without hesitation.
