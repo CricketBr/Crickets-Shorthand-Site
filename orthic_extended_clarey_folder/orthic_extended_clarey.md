@@ -109,7 +109,7 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 **C** ![](assets/clarey/C.png)&nbsp;:
 ![](assets/clarey/centre.png)&nbsp;**centre**,
 ![](assets/clarey/mimic.png)&nbsp;**mimic**\
-**D**![](assets/clarey/D.png)&nbsp;**D**,
+**D**![](assets/clarey/D.png)&nbsp;:
 ![](assets/clarey/dirty.png)&nbsp;**dirty**,
 ![](assets/clarey/wind.png)&nbsp;**wind**\
 **E**![](assets/clarey/E-arrow.png)&nbsp;**E**,
