@@ -112,8 +112,6 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 **D**![](assets/clarey/D.png)&nbsp;:
 ![](assets/clarey/dirty.png)&nbsp;**dirty**,
 ![](assets/clarey/wind.png)&nbsp;**wind**\
-
-xxx
 **E**: ![](assets/clarey/E-arrow.png)&nbsp;:
 ![](assets/clarey/enter.png)&nbsp;**enter**,
 ![](assets/clarey/line.png)&nbsp;**line**\
@@ -174,7 +172,7 @@ xxx
 **Y**,![](assets/clarey/Y.png)&nbsp;:
 ![](assets/clarey/yes.png)&nbsp;**yes**,
 ![](assets/clarey/haply.png)&nbsp;**haply**\
-**Z**,![](assets/clarey/Z-arrow.png)&nbsp;L
+**Z**,![](assets/clarey/Z-arrow.png)&nbsp;:
 ![](assets/clarey/zebra.png)&nbsp;**zebra**,
 ![](assets/clarey/waltz.png)&nbsp;**waltz**
 
