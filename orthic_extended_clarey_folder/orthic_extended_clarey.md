@@ -74,7 +74,7 @@ A letter is always represented by its alphabetical character, consequently a wor
 
 Do not attempt to write fast before the hand is familiar with the forms of the characters. At first they should be drawn carefully, so that correctness and neatness may be secured. Speed will come with practice, but if attempted too soon will probably lead to bad and slovenly writing.
 
-NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts of an Idle Fellow](https://www.gutenberg.org/files/849/849-h/849-h.htm) by Jerome K. Jerome.
+NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts of an Idle Fellow](https://www.gutenberg.org/files/849/849-h/849-h.htm) by Jerome K. Jerome.
 
 # The Alphabet
 
@@ -88,15 +88,12 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 | E <img src="assets/clarey/E.png" class ="myletter3" />  | <img src="assets/clarey/enter.png" class ="myletter3" /> enter ,   <img src="assets/clarey/line.png" class ="myletter3" /> line |
 | F <img src="assets/clarey/F.png" class ="myletter3" />  | <img src="assets/clarey/fasten.png" class ="myletter3" /> fasten ,   <img src="assets/clarey/calf.png" class ="myletter3" /> calf |
 | G <img src="assets/clarey/G.png" class ="myletter3" />  | <img src="assets/clarey/gentle.png" class ="myletter3" /> gentle ,   <img src="assets/clarey/cog.png" class ="myletter3" /> cog |
-
-
-| H ![](assets/clarey/H.png) | ![](assets/clarey/help.png) help, ![](assets/clarey/oh.png) oh |
-| I ![](assets/clarey/I.png) | ![](assets/clarey/insert.png) insert, ![](assets/clarey/anti.png) anti |
-| J ![](assets/clarey/J.png) | ![](assets/clarey/jest.png) jest, ![](assets/clarey/reject.png) reject |
-| K ![](assets/clarey/K.png) | ![](assets/clarey/kept.png) kept, ![](assets/clarey/kick.png) kick |
-| L ![](assets/clarey/L.png) | ![](assets/clarey/lender.png) lender, ![](assets/clarey/until.png) until |
-| M ![](assets/clarey/M.png) | ![](assets/clarey/melt.png) melt, ![](assets/clarey/melt.png) melt |
-| N ![](assets/clarey/N.png) | ![](assets/clarey/nine.png) nine, ![](assets/clarey/hasten.png) hasten |
+| H <img src="assets/clarey/H.png" class ="myletter3" />  | <img src="assets/clarey/help.png" class ="myletter3" /> help ,   <img src="assets/clarey/oh.png" class ="myletter3" /> oh |
+| I <img src="assets/clarey/I.png" class ="myletter3" />  | <img src="assets/clarey/insert" class ="myletter3" /> insert ,   <img src="assets/clarey/anti" class ="myletter3" /> anti |
+| J <img src="assets/clarey/J.png" class ="myletter3" />  | <img src="assets/clarey/jest.png" class ="myletter3" /> jest ,   <img src="assets/clarey/reject.png" class ="myletter3" /> reject.png |
+| K <img src="assets/clarey/L.png" class ="myletter3" />  | <img src="assets/clarey/kept.png" class ="myletter3" /> kept ,   <img src="assets/clarey/kick.png" class ="myletter3" /> kick.png |
+| L <img src="assets/clarey/M.png" class ="myletter3" />  | <img src="assets/clarey/lender.png" class ="myletter3" /> lender ,   <img src="assets/clarey/until.png" class ="myletter3" /> until.png |
+| M <img src="assets/clarey/N.png" class ="myletter3" />  | <img src="assets/clarey/melt.png" class ="myletter3" /> melt ,   <img src="assets/clarey/stem.png" class ="myletter3" /> stem |
 | <img src="assets/clarey/N.png" class ="myletter3" /> N | <img src="assets/clarey/nine.png" class ="myletter3" /> nine | <img src="assets/clarey/hasten.png" class ="myletter3" /> hasten |
 | O ![](assets/clarey/O.png) | ![](assets/clarey/often.png) often, ![](assets/clarey/canto.png) canto |
 | P ![](assets/clarey/P.png) | ![](assets/clarey/point.png) point, ![](assets/clarey/step.png) step |
