@@ -103,26 +103,31 @@ A <img src="assets/clarey/A.png" class ="myletter3" /> : <img src="assets/clarey
 
 The arrows show the directions in which the characters are written.
 
-[Doubled letters] are shown, not by repeating the character, but by putting a dot below. Thus
+**Doubled letters** are shown, not by repeating the character, but by putting a dot below. Thus
 <img src="assets/clarey/odd.png" class ="myletter3" /> odd ,
 <img src="assets/clarey/coo.png" class ="myletter3" /> coo
 
-<ins>Exception</ins>, 
+**Exception,**
 <img src="assets/clarey/ee.png" class ="myletter3" /> ee 
 Thus: 
 <img src="assets/clarey/peep.png" class ="myletter3" /> peep,
 Compare 
 <img src="assets/clarey/pup.png" class ="myletter3" /> pup
 
-<ins>P</ins> and <ins>S</ins>, when standing alone, are written straight down to distinguish them from Ee and E.\
-<ins>J</ins>, <ins>Qu</ins> and <ins>V</ins> are written through the line.
+**P** and **S**, when standing alone, are written straight down to distinguish them from **Ee** and **E**.
+**J**, **Qu** and **V** are written through the line.
 
 # General Rules
 
 Orthographic Spelling -- All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks.
 
-The Two Sizes of Character must be carefully distinguished, just as [lowercase] ‘c’ and [uppercase] ‘C’, longhand lowercase E and longhand lowercase L, are distinguished in longhand.
-![](assets/clarey/zebra.png)
+The Two Sizes of Character must be carefully distinguished, just as 
+<img src="assets/clarey/c-print-upper.png" class ="myletter3" /> C (uppercase print) and
+<img src="assets/clarey/c-print-lower.png" class ="myletter3" /> c (lowercase print) ,
+<img src="assets/clarey/l-cursive-upper.png" class ="myletter3" /> l (lowercase cursive) and
+<img src="assets/clarey/e-cursive-lower.png" class ="myletter3" /> e (lowercase cursive)
+are distinguished in longhand. The actual size of the 
+
 
 
 
