@@ -74,32 +74,32 @@ A <img src="assets/clarey/A.png" class ="myletter3" /> : <img src="assets/clarey
 
 | Letter | Example |
 | --- | --- |
-| A <img src="assets/clarey/A.png" class ="myletter3" />  | <img src="assets/clarey/absent.png" class ="myletter3" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter3" /> opera |
-| B <img src="assets/clarey/B.png" class ="myletter3" />  | <img src="assets/clarey/back.png" class ="myletter3" /> back ,       <img src="assets/clarey/bib.png" class ="myletter3" /> bib |
-| C <img src="assets/clarey/C.png" class ="myletter3" />  | <img src="assets/clarey/centre.png" class ="myletter3" /> centre ,   <img src="assets/clarey/mimic.png" class ="myletter3" /> mimic |
-| D <img src="assets/clarey/D.png" class ="myletter3" />  | <img src="assets/clarey/dirty.png" class ="myletter3" /> dirty ,   <img src="assets/clarey/wind.png" class ="myletter3" /> wind |
-| E <img src="assets/clarey/E.png" class ="myletter3" />  | <img src="assets/clarey/enter.png" class ="myletter3" /> enter ,   <img src="assets/clarey/line.png" class ="myletter3" /> line |
-| F <img src="assets/clarey/F.png" class ="myletter3" />  | <img src="assets/clarey/fasten.png" class ="myletter3" /> fasten ,   <img src="assets/clarey/calf.png" class ="myletter3" /> calf |
-| G <img src="assets/clarey/G.png" class ="myletter3" />  | <img src="assets/clarey/gentle.png" class ="myletter3" /> gentle ,   <img src="assets/clarey/cog.png" class ="myletter3" /> cog |
-| H <img src="assets/clarey/H.png" class ="myletter3" />  | <img src="assets/clarey/help.png" class ="myletter3" /> help ,   <img src="assets/clarey/oh.png" class ="myletter3" /> oh |
-| I <img src="assets/clarey/I.png" class ="myletter3" />  | <img src="assets/clarey/insert" class ="myletter3" /> insert ,   <img src="assets/clarey/anti" class ="myletter3" /> anti |
-| J <img src="assets/clarey/J.png" class ="myletter3" />  | <img src="assets/clarey/jest.png" class ="myletter3" /> jest ,   <img src="assets/clarey/reject.png" class ="myletter3" /> reject.png |
-| K <img src="assets/clarey/K.png" class ="myletter3" />  | <img src="assets/clarey/kept.png" class ="myletter3" /> kept ,   <img src="assets/clarey/kick.png" class ="myletter3" /> kick.png |
-| L <img src="assets/clarey/L.png" class ="myletter3" />  | <img src="assets/clarey/lender.png" class ="myletter3" /> lender ,   <img src="assets/clarey/until.png" class ="myletter3" /> until.png |
-| M <img src="assets/clarey/M.png" class ="myletter3" />  | <img src="assets/clarey/melt.png" class ="myletter3" /> melt ,   <img src="assets/clarey/stem.png" class ="myletter3" /> stem |
-| N <img src="assets/clarey/N.png" class ="myletter3" /> | <img src="assets/clarey/nine.png" class ="myletter3" /> nine | <img src="assets/clarey/hasten.png" class ="myletter3" /> hasten |
-| O ![](assets/clarey/O.png) | ![](assets/clarey/often.png) often, ![](assets/clarey/canto.png) canto |
-| P ![](assets/clarey/P.png) | ![](assets/clarey/point.png) point, ![](assets/clarey/step.png) step |
-| Q ![](assets/clarey/Q.png) | ![](assets/clarey/query.png) query, ![](assets/clarey/equity.png) equity |
-| R ![](assets/clarey/R.png) | ![](assets/clarey/render.png) render, ![](assets/clarey/fir.png) fir |
-| S ![](assets/clarey/S.png) | ![](assets/clarey/simply.png) simply, ![](assets/clarey/tends.png) tends |
-| T ![](assets/clarey/T.png) | ![](assets/clarey/time.png) time, ![](assets/clarey/comet.png) comet |
-| U ![](assets/clarey/U.png) | ![](assets/clarey/under.png) under, ![](assets/clarey/gnu.png) gnu |
-| V ![](assets/clarey/V.png) | ![](assets/clarey/vine.png) vine, ![](assets/clarey/wave.png) wave |
-| W ![](assets/clarey/W.png) | ![](assets/clarey/wow.png) wow, ![](assets/clarey/award.png) award |
-| X ![](assets/clarey/X.png) | ![](assets/clarey/exist.png) exist, ![](assets/clarey/sex.png) sex |
-| Y ![](assets/clarey/Y.png) | ![](assets/clarey/yes.png) yes, ![](assets/clarey/haply.png) haply |
-| Z ![](assets/clarey/Z.png) | ![](assets/clarey/zebra.png) zebra, ![](assets/clarey/waltz.png) waltz |
+| A <img src="assets/clarey/A.png" class ="myletter3" />  | <img src="assets/clarey/absent.png" class ="myletter3" /> absent ,    <img src="assets/clarey/opera.png" class ="myletter3" /> opera |
+| B <img src="assets/clarey/B.png" class ="myletter3" />  | <img src="assets/clarey/back.png" class ="myletter3" /> back ,        <img src="assets/clarey/bib.png" class ="myletter3" /> bib |
+| C <img src="assets/clarey/C.png" class ="myletter3" />  | <img src="assets/clarey/centre.png" class ="myletter3" /> centre ,    <img src="assets/clarey/mimic.png" class ="myletter3" /> mimic |
+| D <img src="assets/clarey/D.png" class ="myletter3" />  | <img src="assets/clarey/dirty.png" class ="myletter3" /> dirty ,      <img src="assets/clarey/wind.png" class ="myletter3" /> wind |
+| E <img src="assets/clarey/E.png" class ="myletter3" />  | <img src="assets/clarey/enter.png" class ="myletter3" /> enter ,      <img src="assets/clarey/line.png" class ="myletter3" /> line |
+| F <img src="assets/clarey/F.png" class ="myletter3" />  | <img src="assets/clarey/fasten.png" class ="myletter3" /> fasten ,    <img src="assets/clarey/calf.png" class ="myletter3" /> calf |
+| G <img src="assets/clarey/G.png" class ="myletter3" />  | <img src="assets/clarey/gentle.png" class ="myletter3" /> gentle ,    <img src="assets/clarey/cog.png" class ="myletter3" /> cog |
+| H <img src="assets/clarey/H.png" class ="myletter3" />  | <img src="assets/clarey/help.png" class ="myletter3" /> help ,        <img src="assets/clarey/oh.png" class ="myletter3" /> oh |
+| I <img src="assets/clarey/I.png" class ="myletter3" />  | <img src="assets/clarey/insert" class ="myletter3" /> insert ,        <img src="assets/clarey/anti" class ="myletter3" /> anti |
+| J <img src="assets/clarey/J.png" class ="myletter3" />  | <img src="assets/clarey/jest.png" class ="myletter3" /> jest ,        <img src="assets/clarey/reject.png" class ="myletter3" /> reject.png |
+| K <img src="assets/clarey/K.png" class ="myletter3" />  | <img src="assets/clarey/kept.png" class ="myletter3" /> kept ,        <img src="assets/clarey/kick.png" class ="myletter3" /> kick.png |
+| L <img src="assets/clarey/L.png" class ="myletter3" />  | <img src="assets/clarey/lender.png" class ="myletter3" /> lender ,    <img src="assets/clarey/until.png" class ="myletter3" /> until.png |
+| M <img src="assets/clarey/M.png" class ="myletter3" />  | <img src="assets/clarey/melt.png" class ="myletter3" /> melt ,        <img src="assets/clarey/stem.png" class ="myletter3" /> stem |
+| N <img src="assets/clarey/N.png" class ="myletter3" /> | <img src="assets/clarey/nine.png" class ="myletter3" /> nine ,         <img src="assets/clarey/hasten.png" class ="myletter3" /> hasten |
+| O <img src="assets/clarey/O.png" class ="myletter3" /> | <img src="assets/clarey/often.png" class ="myletter3" /> often.png ,   <img src="assets/clarey/canto.png" class ="myletter3" /> canto.png |
+| P <img src="assets/clarey/P.png" class ="myletter3" /> | <img src="assets/clarey/point" class ="myletter3" /> point ,           <img src="assets/clarey/step.png" class ="myletter3" /> step.png |
+| Q <img src="assets/clarey/Q.png" class ="myletter3" /> | <img src="assets/clarey/query" class ="myletter3" /> query ,           <img src="assets/clarey/equity" class ="myletter3" /> equity |
+| R <img src="assets/clarey/R.png" class ="myletter3" /> | <img src="assets/clarey/render.png" class ="myletter3" /> render.png , <img src="assets/clarey/fir.png" class ="myletter3" /> fir.png |
+| S <img src="assets/clarey/S.png" class ="myletter3" /> | <img src="assets/clarey/simply.png" class ="myletter3" /> simply.png , <img src="assets/clarey/tends.png" class ="myletter3" /> tends |
+| T <img src="assets/clarey/T.png" class ="myletter3" /> | <img src="assets/clarey/time.png" class ="myletter3" /> time.png ,     <img src="assets/clarey/comet.png" class ="myletter3" /> comet |
+| U <img src="assets/clarey/U.png" class ="myletter3" /> | <img src="assets/clarey/under.png" class ="myletter3" /> under.png ,   <img src="assets/clarey/gnu.png" class ="myletter3" /> gnu.png |
+| V <img src="assets/clarey/V.png" class ="myletter3" /> | <img src="assets/clarey/vine.png" class ="myletter3" /> vine.png ,     <img src="assets/clarey/wave.png" class ="myletter3" /> wave.png |
+| W <img src="assets/clarey/W.png" class ="myletter3" /> | <img src="assets/clarey/wow.png" class ="myletter3" /> wow.png ,       <img src="assets/clarey/award.png" class ="myletter3" /> award.png |
+| X <img src="assets/clarey/X.png" class ="myletter3" /> | <img src="assets/clarey/exist.png" class ="myletter3" /> exist.png ,   <img src="assets/clarey/sex.png" class ="myletter3" /> sex.png |
+| Y <img src="assets/clarey/Y.png" class ="myletter3" /> | <img src="assets/clarey/yes.png" class ="myletter3" /> yes.png ,       <img src="assets/clarey/haply.png" class ="myletter3" /> haply.png |
+| Z <img src="assets/clarey/Z.png" class ="myletter3" /> | <img src="assets/clarey/zebra.png" class ="myletter3" /> zebra.png ,   <img src="assets/clarey/waltz.png" class ="myletter3" /> waltz.png |
 
 The arrows show the directions in which the characters are written.
 
