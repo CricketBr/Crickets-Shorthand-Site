@@ -34,7 +34,7 @@ Permissions beyond the scope of this license may be available by emailing cricke
 <style>
   .myletter1 {transform: scale(25%);}
   .myletter2 {transform: scale(50%);}
-  .myletter3 {transform: scale(100%);}
+  .myletter3 {transform: scale(100%); vvertical-align:baseline }
 </style>
 
 <img src="assets/clarey/absent.png" class ="myletter1" /> absent
