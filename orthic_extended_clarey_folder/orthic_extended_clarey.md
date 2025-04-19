@@ -36,7 +36,7 @@ the above needs work
 
 # Editor's Notes
 
-The blue lines are approximately at the baseline of the typing, and the top of an x, in the original manual, as an indication of relative size and positioning.
+Unfortunately it was not possible to preserve the line of writing. 
 
 
 ```
