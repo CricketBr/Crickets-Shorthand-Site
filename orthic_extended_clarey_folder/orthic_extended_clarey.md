@@ -7,6 +7,10 @@ toc: true
 toc_hmax: 6
 ---
 
+```
+blindly copied the above and did a bit of editing
+```
+
 # Orthographic Cursive Shorthand, Orthic, The Cambridge System
 by Hugh L. Callendar, LL.D., F.R.S., &c.
 # Revised, Extended and Improved
@@ -25,6 +29,10 @@ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/b
 Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" 
 href="https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323" rel="dct:source">https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323</a>.<br />
 Permissions beyond the scope of this license may be available by emailing cricketbeautiful@gmail.com
+
+```
+the above needs work
+```
 
 # Advantages of the Orthographic Basis
 
@@ -136,18 +144,21 @@ Thus:
 <img src="assets/clarey/eau.png" class ="myletter3" /> eau  <img src="assets/clarey/eau-angle.png" class ="myletter3" /> .
 
 But when the vowels are separately sounded either the characters are separated or the angle between them is marked, as in the words
-```
-re-enter,
-boa,
-chaos,
-co-operate,
-Leo,
-fiasco,
-fuel,
-poem,
-serious.
-```
-**The first letter of a word** generall begins or ends on the line, but *a*, *e*, and *o* may be *raised* when *preceeding downstrokes*.
+<img src="assets/clarey/re-enter.png" class = "myletter3" />&nbsp;re-enter ,
+<img src="assets/clarey/boa.png" class = "myletter3" />&nbsp;boa ,
+<img src="assets/clarey/chaos.png" class = "myletter3" />&nbsp;chaos ,
+<img src="assets/clarey/co-operate.png" class = "myletter3" />&nbsp;co-operate ,
+<img src="assets/clarey/Leo.png" class = "myletter3" />&nbsp;Leo ,
+<img src="assets/clarey/fiasco.png" class = "myletter3" />&nbsp;fiasco ,
+<img src="assets/clarey/fuel.png" class = "myletter3" />&nbsp;fuel ,
+<img src="assets/clarey/poem.png" class = "myletter3" />&nbsp;poem ,
+<img src="assets/clarey/serious.png" class = "myletter3" />&nbsp;serious .
+
+
+
+
+
+**The first letter of a word** generally begins or ends on the line, but *a*, *e*, and *o* may be *raised* when *preceeding downstrokes*.
 
 **A short connecting tick** be used *after* 
 ```
@@ -170,11 +181,88 @@ serpent
 **Dividing a Word.** A word may always be divided when the joining happens to be awkward or the outline descends too far below the ine. Thus:
 ```
 law-suit
-abagpipes
+bagpipes
 ```
 The necessity for this, however, seldom arises.
 
-**Punctuation** is effected *in the usual way*, except the *hyphen*
+**Punctuation** is effected *in the usual way*, except the *hyphen* 
+```
+hyphen and the dash .
+```
+The *full stop* may be *indicated by a space*.
+
+**Initial Capitals** are indicated thus
+```
+capital mark
+```
+Examples:
+```
+Jew, Wales, England, S.E., L.S.W.R 
+```
+# Compound Characters
+
+The following compounds, which are not strictly alphabetic, require noting:
+```
+Bl-rev-direction-arrow , Bl-circle
+black
+sensible
+bleak
+trebly
+Ch-dir1, Ch-dir2, Ch-dir3 :
+```
+The *first* is used in the *compounds* *Chr* and *Rch*, 
+```
+Christ
+arch;
+```
+The *second* in the *compound* *Lch*, 
+```
+filch ;
+```
+the *third* in *other cases*,
+```
+chat,
+such,
+scholar,
+scheme.
+```
+*Chl* may be written
+```
+Chl-1
+```
+or
+```
+Ch-2 ,
+chloric ,
+richly,
+speechless.
+```
+DV
+```
+DV :
+advert;
+```
+compare
+```
+avert
+```
+MB
+```
+MB :
+timber
+lumber
+lamb;
+```
+compare
+```
+temper
+lumper
+lamp .
+```
+
+
+
+
 
 
 
