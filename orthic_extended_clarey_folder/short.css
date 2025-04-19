@@ -1,4 +1,4 @@
-img .myletter1 {transform: scale(25%);}
-img .myletter2 {transform: scale(50%);}
-img .myletter3 {transform: scale(100%); vertical-align: baseline }
+img.myletter1 {transform: scale(25%);}
+img.myletter2 {transform: scale(50%);}
+img.myletter3 {transform: scale(100%); vertical-align: baseline }
 
