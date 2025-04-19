@@ -78,6 +78,7 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 # The Alphabet
 
+A <img src="assets/clarey/A.png" class ="myletter3" /> : <img src="assets/clarey/absent.png" class ="myletter3" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter3" /> opera 
 
 | Letter | Example |
 | --- | --- |
