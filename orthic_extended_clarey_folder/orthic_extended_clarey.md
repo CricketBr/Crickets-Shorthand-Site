@@ -37,31 +37,6 @@ Permissions beyond the scope of this license may be available by emailing cricke
   .myletter3 {transform: scale(100%); vertical-align: baseline }
 </style>
 
-<img src="assets/clarey/absent.png" class ="myletter1" /> absent
-<br />
-<img src="assets/clarey/absent.png" class ="myletter2" /> absent
-<br />
-<img src="assets/clarey/absent.png" class ="myletter3" /> absent
-
-test
-
-
-
-<img src="assets/clarey/N.png" class ="myletter3" /> N
-<img src="assets/clarey/nine.png" class ="myletter3" /> nine
-<img src="assets/clarey/hasten.png" class ="myletter3" /> hasten
-
-
-<style>
-p img, li img, td img {
-  max-height: 3ex
-}
-img.tall {
-  max-height: 5ex;
-  vertical-align: middle;
-}
-</style>
-
 
 # Advantages of the Orthographic Basis
 
@@ -110,8 +85,7 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 | Letter | Example |
 | --- | --- |
-| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" class ="myletter1" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter1" /> opera |
-| A <img src="assets/clarey/A.png"  />  | <img src="assets/clarey/absent.png" class ="myletter2" /> absent , <img src="assets/clarey/opera.png" style = "transform: scaleY(5.0)" /> opera |
+| A <img src="assets/clarey/A.png" class ="myletter3" />  | <img src="assets/clarey/absent.png" class ="myletter3" /> absent ,   <img src="assets/clarey/opera.png" class ="myletter3" /> opera |
 | A ![](assets/clarey/A.png) | ![](assets/clarey/absent.png) absent.png, ![](assets/clarey/opera.png) opera.png |
 | B ![](assets/clarey/B.png) | ![](assets/clarey/back.png) back, ![](assets/clarey/bib.png) bib |
 | C ![](assets/clarey/C.png) | ![](assets/clarey/centre.png) centre, ![](assets/clarey/mimic.png) mimic |
