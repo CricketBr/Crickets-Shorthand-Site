@@ -103,37 +103,40 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 **A** ![](assets/clarey/A.png)&nbsp;:
 ![](assets/clarey/absent.png)&nbsp;**absent**,
 ![](assets/clarey/opera.png)&nbsp;**opera** \
-**B** ![](assets/clarey/B.png)&nbsp;,
+**B** ![](assets/clarey/B.png)&nbsp;:
 ![](assets/clarey/back.png)&nbsp;**back**,
 ![](assets/clarey/bib.png)&nbsp;**bib**\
-**C**: ![](assets/clarey/C.png)&nbsp
+**C** ![](assets/clarey/C.png)&nbsp;:
 ![](assets/clarey/centre.png)&nbsp;**centre**,
 ![](assets/clarey/mimic.png)&nbsp;**mimic**\
-****![](assets/clarey/D.png)&nbsp;**D**,
+**D**![](assets/clarey/D.png)&nbsp;**D**,
 ![](assets/clarey/dirty.png)&nbsp;**dirty**,
 ![](assets/clarey/wind.png)&nbsp;**wind**\
-****![](assets/clarey/E-arrow.png)&nbsp;**E**,
+**E**![](assets/clarey/E-arrow.png)&nbsp;**E**,
 ![](assets/clarey/enter.png)&nbsp;**enter**,
 ![](assets/clarey/line.png)&nbsp;**line**\
-****![](assets/clarey/G.png)&nbsp;**G**,
+**F** ![](assets/clarey/F.png)&nbsp;:
+![](assets/clarey/fasten.png)&nbsp;**fasten**,
+![](assets/clarey/calf.png)&nbsp;**calf**\
+**G**![](assets/clarey/G.png)&nbsp;**G**,
 ![](assets/clarey/gentle.png)&nbsp;**gentle**,
 ![](assets/clarey/cog.png)&nbsp;**cog**
-****![](assets/clarey/H-arrow.png)&nbsp;**H**,
+**H**![](assets/clarey/H-arrow.png)&nbsp;**H**,
 ![](assets/clarey/help.png)&nbsp;**help**,
 ![](assets/clarey/oh.png)&nbsp;**oh**\
-****![](assets/clarey/I-arrow.png)&nbsp;**I**,
+**I**![](assets/clarey/I-arrow.png)&nbsp;**I**,
 ![](assets/clarey/insert.png)&nbsp;**insert**,
 ![](assets/clarey/anti.png)&nbsp;**anti**\
-****![](assets/clarey/J.png)&nbsp;**J**,
+**J**![](assets/clarey/J.png)&nbsp;**J**,
 ![](assets/clarey/jest.png)&nbsp;**jest**,
 ![](assets/clarey/reject.png)&nbsp;**reject**\
-****![](assets/clarey/K.png)&nbsp;**K**,
+**K**![](assets/clarey/K.png)&nbsp;**K**,
 ![](assets/clarey/kept.png)&nbsp;**kept**,
 ![](assets/clarey/kick.png)&nbsp;**kick**\
-****![](assets/clarey/L-arrow.png)&nbsp;**L**,
+**L**![](assets/clarey/L-arrow.png)&nbsp;**L**,
 ![](assets/clarey/lender.png)&nbsp;**lender**,
 ![](assets/clarey/until.png)&nbsp;**until**\
-****![](assets/clarey/M.png)&nbsp;**M**,
+**M**![](assets/clarey/M.png)&nbsp;**M**,
 ![](assets/clarey/melt.png)&nbsp;**melt**,
 ![](assets/clarey/stem.png)&nbsp;**stem**\
 ****![](assets/clarey/N.png)&nbsp;**N**,
