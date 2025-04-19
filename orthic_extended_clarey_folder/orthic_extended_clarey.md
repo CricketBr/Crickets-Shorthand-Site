@@ -120,7 +120,7 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 ![](assets/clarey/calf.png)&nbsp;**calf**\
 **G**![](assets/clarey/G.png)&nbsp;:
 ![](assets/clarey/gentle.png)&nbsp;**gentle**,
-![](assets/clarey/cog.png)&nbsp;**cog**
+![](assets/clarey/cog.png)&nbsp;**cog**\
 **H**![](assets/clarey/H-arrow.png)&nbsp;:
 ![](assets/clarey/help.png)&nbsp;**help**,
 ![](assets/clarey/oh.png)&nbsp;**oh**\
@@ -149,12 +149,12 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 ![](assets/clarey/point.png)&nbsp;**point**,
 ![](assets/clarey/step.png)&nbsp;**step**\
 **Qu**,![](assets/clarey/Qu-arrow.png)&nbsp;:
-![](assets/clarey/qurery.png)&nbsp;**qurery**,
+![](assets/clarey/qurery.png)&nbsp;**query**,
 ![](assets/clarey/equity.png)&nbsp;**equity**\
 **R**,![](assets/clarey/R-arrow.png)&nbsp;:
 ![](assets/clarey/render.png)&nbsp;**render**,
 ![](assets/clarey/fir.png)&nbsp;**fir**\
-**S-arrow**,![](assets/clarey/S-arrow.png)&nbsp;:
+**S**,![](assets/clarey/S-arrow.png)&nbsp;:
 ![](assets/clarey/simply.png)&nbsp;**simply**,
 ![](assets/clarey/tends.png)&nbsp;**tends**\
 **T**,![](assets/clarey/T.png)&nbsp;:
