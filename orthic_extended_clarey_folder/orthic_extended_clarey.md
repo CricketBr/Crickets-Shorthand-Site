@@ -126,6 +126,7 @@ NOTE.-- All the specimens of shorthand have been taken from [The Idle thoughts o
 | L ![](assets/clarey/L.png) | ![](assets/clarey/lender.png) lender, ![](assets/clarey/until.png) until |
 | M ![](assets/clarey/M.png) | ![](assets/clarey/melt.png) melt, ![](assets/clarey/melt.png) melt |
 | N ![](assets/clarey/N.png) | ![](assets/clarey/nine.png) nine, ![](assets/clarey/hasten.png) hasten |
+| <img src="assets/clarey/N.png" class ="myletter3" /> N | <img src="assets/clarey/nine.png" class ="myletter3" /> nine | <img src="assets/clarey/hasten.png" class ="myletter3" /> hasten |
 | O ![](assets/clarey/O.png) | ![](assets/clarey/often.png) often, ![](assets/clarey/canto.png) canto |
 | P ![](assets/clarey/P.png) | ![](assets/clarey/point.png) point, ![](assets/clarey/step.png) step |
 | Q ![](assets/clarey/Q.png) | ![](assets/clarey/query.png) query, ![](assets/clarey/equity.png) equity |
