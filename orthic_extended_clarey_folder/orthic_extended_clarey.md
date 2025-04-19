@@ -134,14 +134,14 @@ Compare
 <img src="assets/clarey/c-print-lower.png" class ="myletter3" /> c (lowercase print)  &nbsp; ,
 <img src="assets/clarey/l-cursive-upper.png" class ="myletter3" /> l (lowercase cursive) and
 <img src="assets/clarey/e-cursive-lower.png" class ="myletter3" /> e (lowercase cursive)
-are distinguished in longhand. The actual size of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle amy be reudced to a dot. But it is best to make the small characters about one-twelfth of an inch [Ed: 2.1mm] long, and the large ones at least twice as big.
+are distinguished in longhand. The actual size of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle amy be reudced to a dot. But it is best to make the small characters about one-twelfth of an inch (Ed: 2.1mm) long, and the large ones at least twice as big.
 
 **Diphthongs.** -- When two vowels come together forming  "diphthong" the angle between them is *slurred*, or rounded off, *into a continuous curve.*
 Thus:
-<img src="assets/clarey/ai.png" class ="myletter3" /> ai  <img src="assets/clarey/ai-angle.png" class ="myletter3" />  &nbsp; ,
-<img src="assets/clarey/oy.png" class ="myletter3" /> oy  <img src="assets/clarey/oy-angle.png" class ="myletter3" />  &nbsp; ,
-<img src="assets/clarey/ou.png" class ="myletter3" /> ou  <img src="assets/clarey/ou-angle.png" class ="myletter3" />  &nbsp; ,
-<img src="assets/clarey/eau.png" class ="myletter3" /> eau  <img src="assets/clarey/eau-angle.png" class ="myletter3" /> .
+<img src="assets/clarey/ai.png" class ="myletter3" /> ai <img src="assets/clarey/ai-angle.png" class ="myletter3" />  &nbsp;,
+<img src="assets/clarey/oy.png" class ="myletter3" /> oy <img src="assets/clarey/oy-angle.png" class ="myletter3" />  &nbsp;,
+<img src="assets/clarey/ou.png" class ="myletter3" /> ou <img src="assets/clarey/ou-angle.png" class ="myletter3" />  &nbsp;,
+<img src="assets/clarey/eau.png" class ="myletter3" /> eau <img src="assets/clarey/eau-angle.png" class ="myletter3" />&nbsp;.
 
 But when the vowels are separately sounded either the characters are separated or the angle between them is marked, as in the words
 <img src="assets/clarey/re-enter.png" class = "myletter3" />&nbsp;re-enter ,
