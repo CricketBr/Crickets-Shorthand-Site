@@ -276,22 +276,25 @@ Page 4
 The following compounds, which are not strictly alphabetic, require noting:\
 
 **Bl**
-![](assets/Bl-arrow.png)&nbsp;,
+![](assets/Bl-reverse-arrow.png)&nbsp;,
 ![](assets/Bl-loop.png)&nbsp;:
 ![](assets/black.png)&nbsp;**black**,
 ![](assets/sensible.png)&nbsp;**sensible**,
 ![](assets/bleak.png)&nbsp;**bleak**,
-![](assets/trebly.png)&nbsp;**trebly**,\
+![](assets/trebly.png)&nbsp;**trebly**,
 
 **Ch**
-![](assets/Ch-arrow-1.png)&nbsp;,
-![](assets/Ch-arrow-2.png)&nbsp;,
-![](assets/Ch-arrow-3.png)&nbsp;:\
+![](assets/Ch-1.png)&nbsp;,
+![](assets/Ch-2.png)&nbsp;,
+![](assets/Ch-3.png)&nbsp;:
+
 The *first* is used in the *compounds* **Chr** and **Rch**,
 ![](assets/Christ.png)&nbsp;**Christ**,
-![](assets/arch.png)&nbsp;**arch**.\
+![](assets/arch.png)&nbsp;**arch**.
+
 The *second* in the *compound* **Lch**,
-![](assets/filch.png)&nbsp;**filch**;\
+![](assets/filch.png)&nbsp;**filch**;
+
 the *third* in *other cases*,
 ![](assets/chat.png)&nbsp;**chat**,
 ![](assets/such.png)&nbsp;**such**,
