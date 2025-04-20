@@ -258,8 +258,8 @@ Examples:
 ![](assets/Jew.png)&nbsp;**Jew**,
 ![](assets/Wales.png)&nbsp;**Wales**,
 ![](assets/England.png)&nbsp;**England**,
-![](assets/S.E.png)&nbsp;**S.E**,
-![](assets/L.S.W.R.png)&nbsp;**L.S.W.R**.
+![](assets/S.E..png)&nbsp;**S.E**,
+![](assets/L.S.W.R..png)&nbsp;**L.S.W.R**.
 
 # Compound Characters
 
