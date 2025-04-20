@@ -253,7 +253,7 @@ The necessity for this, however, seldom arises.
 The *full stop* may be *indicated by a space*.
 
 **Initial Capitals** are indicated thus
-![](assets/capital-mark.png)&nbsp;**capital-mark**.
+![](assets/InitialCapitalsMark.png)&nbsp;**capital-mark**.
 Examples:
 ![](assets/Jew.png)&nbsp;**Jew**,
 ![](assets/Wales.png)&nbsp;**Wales**,
