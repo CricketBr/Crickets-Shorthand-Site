@@ -36,7 +36,10 @@ the above needs work
 
 # Editor's Notes
 
-The images are all to the same scale. Unfortunately it was not possible to preserve the line of writing, or to add guidelines to show where they would be. The scans were curved so much it would have to be done for each outline individually. To acheive at least some consistency, outlines without descenders are cropped so they sit properly on the writing line. Outlines that are entirely above the line have blank space below the outline, so they also sit properly on the writing line. Unfortunately it was not possible to do something similar for outlines with descenders.
+The images are all to the same scale. The blue lines are aligned to the typing, not to the shorthand. This was the easiest dimension to keep consistent throughout the book.
+
+![](assets/clarey/line-sample.png)&nbsp;
+
 
 ```
 that's my plan
