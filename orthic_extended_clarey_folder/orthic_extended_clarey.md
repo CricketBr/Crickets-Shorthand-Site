@@ -34,11 +34,12 @@ Permissions beyond the scope of this license may be available by emailing cricke
 the above needs work
 ```
 
-```
+
 # Editor's Notes
 
-The images are all to the same scale. The blue lines are aligned to the typing, *not to the shorthand*. This was the easiest dimension to keep consistent throughout the book.
+< The images are all to the same scale. The blue lines are aligned to the typing, *not to the shorthand*. This was the easiest dimension to keep consistent throughout the book. Note that the original shorthand is not always precicely on the baseline.
 
+```
 ![](assets/line-sample.png)&nbsp;
 ```
 
