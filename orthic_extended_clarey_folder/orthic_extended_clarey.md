@@ -231,7 +231,7 @@ But when the vowels are separately sounded either the characters are separated o
 
 **A short connecting tick** be used *after* 
 ![](assets/er.png)&nbsp;**er**,
-![](assets/th.png)&nbsp;**th**,
+![](assets/Th-1.png)&nbsp;**th**,
 &c., *when* they are *followed* by
 ![](assets/G.png)&nbsp;**G**,
 ![](assets/P.png)&nbsp;**P**,
