@@ -34,16 +34,14 @@ Permissions beyond the scope of this license may be available by emailing cricke
 the above needs work
 ```
 
+```
 # Editor's Notes
 
-The images are all to the same scale. The blue lines are aligned to the typing, not to the shorthand. This was the easiest dimension to keep consistent throughout the book.
+The images are all to the same scale. The blue lines are aligned to the typing, *not to the shorthand*. This was the easiest dimension to keep consistent throughout the book.
 
 ![](assets/clarey/line-sample.png)&nbsp;
-
-
 ```
-that's my plan
-```
+
 
 
 
@@ -54,7 +52,7 @@ code samples
 
 ![](assets/clarey/hasten.png)&nbsp;**hasten**
 
-![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  
+![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**  ![](assets/clarey/hasten.png)&nbsp;**hasten**   ![](assets/clarey/hasten.png)&nbsp;**hasten**   ![](assets/clarey/hasten.png)&nbsp;**hasten**  
 
 nbsp not working
 
