@@ -63,6 +63,8 @@ nbsp not working
 end of code samples
 ```
 
+---
+Back of Front Cover
 
 
 # Advantages of the Orthographic Basis
@@ -83,6 +85,8 @@ It is much more difficult to find sufficient stenographic material for a complet
 
 Phonetic spelling in itself is undoubtedly a useful educational subject and a valuable aid in teaching correct pronunciation. This argument is often advanced in favour of phonetic shorthand. But it has been shown that there is no necessary connection between the two; and it is manifestly unreasonable to saddle shorthand with unnecessary difficulties in order to teach at the same time a subject which many people have no need or desire to learn. In any case the work of both teacher and learner would be much simplified by keeping the two subjects separate.
 
+---
+Page 1
 # Introduction
 
 Orthographic Cursive Shorthand is an adaptation of shorthand to the common spelling.
@@ -107,6 +111,8 @@ Do not attempt to write fast before the hand is familiar with the forms of the c
 
 NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts of an Idle Fellow](https://www.gutenberg.org/files/849/849-h/849-h.htm) by Jerome K. Jerome.
 
+---
+Page 2
 # The Alphabet
 
 **A** ![](assets/A.png)&nbsp;:
@@ -198,6 +204,8 @@ The arrows show the directions in which the characters are written.
 **P** and **S**, when standing alone, are written straight down to distinguish them from **Ee** and **E**.
 **J**, **Qu** and **V** are written through the line.
 
+---
+Page 3
 # General Rules
 
 **Orthographic Spelling.** -- All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks.
@@ -261,6 +269,8 @@ Examples:
 ![](assets/S.E..png)&nbsp;**S.E**,
 ![](assets/L.S.W.R..png)&nbsp;**L.S.W.R**.
 
+---
+Page 4
 # Compound Characters
 
 The following compounds, which are not strictly alphabetic, require noting:\
@@ -380,9 +390,7 @@ compare
 ![](assets/worth.png)&nbsp;**worth**,
 ![](assets/faith.png)&nbsp;**faith**.
 
-```
-end page 4
-```
+
 
 
 
