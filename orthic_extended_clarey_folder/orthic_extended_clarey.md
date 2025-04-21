@@ -334,8 +334,8 @@ compare
 ![](assets/Ph-1.png)&nbsp;,
 ![](assets/Ph-2.png)&nbsp; :
 The *first* is used in the *compound* **Phr**, *before*
-![](assets/S.png)&nbsp;**S** and
-![](assets/EE.png)&nbsp;**EE**, and *final*. Thus:
+![](assets/E.png)&nbsp;**E** and
+![](assets/Ee.png)&nbsp;**EE**, and *final*. Thus:
 ![](assets/phrase.png)&nbsp;**phrase**,
 ![](assets/philter.png)&nbsp;**philter**,
 ![](assets/sulphur.png)&nbsp;**sulphur**,
