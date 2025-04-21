@@ -212,6 +212,7 @@ Page 2
 
 # The Alphabet -- format 3 -- table
 
+|letter|example|example|letter|example|example|
 | --- | --- | --- | --- | --- | --- |
 
 
