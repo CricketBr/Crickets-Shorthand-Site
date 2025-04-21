@@ -213,10 +213,6 @@ Page 2
 # The Alphabet -- format 3 -- table
 
 |letter|example|example|letter|example|example|
-
-
-
-
 | --- | --- | --- | --- | --- | --- |
 | A | absent | opera | B | back | bib |
 | ![](assets/A.png) | ![](assets/absent.png) | ![](assets/opera.png)  | ![](assets/B.png)  | ![](assets/back.png) | ![](assets/bib.png) |
