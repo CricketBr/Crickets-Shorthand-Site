@@ -113,7 +113,7 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 ---
 Page 2
-# The Alphabet
+# The Alphabet -- format 1
 
 **A** ![](assets/A.png)&nbsp;:
 ![](assets/absent.png)&nbsp;**absent**,
@@ -190,6 +190,85 @@ Page 2
 **Z**,![](assets/Z-arrow.png)&nbsp;:
 ![](assets/zebra.png)&nbsp;**zebra**,
 ![](assets/waltz.png)&nbsp;**waltz**
+
+# The Alphabet -- format 2
+
+**A, absent, opera**\
+![](assets/A.png) ![](assets/absent.png) ![](assets/opera.png)&nbsp;**opera** \
+**B, back, bib**\
+![](assets/B.png) ![](assets/back.png) ![](assets/bib.png)&nbsp;\
+**C** ![](assets/C.png)&nbsp;:
+![](assets/centre.png)&nbsp;**centre**,
+![](assets/mimic.png)&nbsp;**mimic**\
+**D**![](assets/D.png)&nbsp;:
+![](assets/dirty.png)&nbsp;**dirty**,
+![](assets/wind.png)&nbsp;**wind**\
+**E**: ![](assets/E-arrow.png)&nbsp;:
+![](assets/enter.png)&nbsp;**enter**,
+![](assets/line.png)&nbsp;**line**\
+**F** ![](assets/F.png)&nbsp;:
+![](assets/fasten.png)&nbsp;**fasten**,
+![](assets/calf.png)&nbsp;**calf**\
+**G**![](assets/G.png)&nbsp;:
+![](assets/gentle.png)&nbsp;**gentle**,
+![](assets/cog.png)&nbsp;**cog**\
+**H**![](assets/H-arrow.png)&nbsp;:
+![](assets/help.png)&nbsp;**help**,
+![](assets/oh.png)&nbsp;**oh**\
+**I**![](assets/I-arrow.png)&nbsp;:
+![](assets/insert.png)&nbsp;**insert**,
+![](assets/anti.png)&nbsp;**anti**\
+**J**![](assets/J.png)&nbsp;:
+![](assets/jest.png)&nbsp;**jest**,
+![](assets/reject.png)&nbsp;**reject**\
+**K**![](assets/K.png)&nbsp;:
+![](assets/kept.png)&nbsp;**kept**,
+![](assets/kick.png)&nbsp;**kick**\
+**L**![](assets/L-arrow.png)&nbsp;:
+![](assets/lender.png)&nbsp;**lender**,
+![](assets/until.png)&nbsp;**until**\
+**M**![](assets/M.png)&nbsp;:
+![](assets/melt.png)&nbsp;**melt**,
+![](assets/stem.png)&nbsp;**stem**\
+**N**![](assets/N.png)&nbsp;:
+![](assets/nine.png)&nbsp;**nine**,
+![](assets/hasten.png)&nbsp;**hasten**\
+**O**,![](assets/O.png)&nbsp;:
+![](assets/often.png)&nbsp;**often**,
+![](assets/canto.png)&nbsp;**canto**\
+**P**,![](assets/P-arrow.png)&nbsp;:
+![](assets/point.png)&nbsp;**point**,
+![](assets/step.png)&nbsp;**step**\
+**Qu**,![](assets/Qu-arrow.png)&nbsp;:
+![](assets/qurery.png)&nbsp;**query**,
+![](assets/equity.png)&nbsp;**equity**\
+**R**,![](assets/R-arrow.png)&nbsp;:
+![](assets/render.png)&nbsp;**render**,
+![](assets/fir.png)&nbsp;**fir**\
+**S**,![](assets/S-arrow.png)&nbsp;:
+![](assets/simply.png)&nbsp;**simply**,
+![](assets/tends.png)&nbsp;**tends**\
+**T**,![](assets/T.png)&nbsp;:
+![](assets/time.png)&nbsp;**time**,
+![](assets/comet.png)&nbsp;**comet**\
+**U**,![](assets/U.png)&nbsp;:
+![](assets/under.png)&nbsp;**under**,
+![](assets/gnu.png)&nbsp;**gnu**\
+**W**,![](assets/W-arrow-both.png)&nbsp;:
+![](assets/wow.png)&nbsp;**wow**,
+![](assets/award.png)&nbsp;**award**\
+**X**,![](assets/X.png)&nbsp;:
+![](assets/exist.png)&nbsp;**exist**,
+![](assets/sex.png)&nbsp;**sex**\
+**Y**,![](assets/Y.png)&nbsp;:
+![](assets/yes.png)&nbsp;**yes**,
+![](assets/haply.png)&nbsp;**haply**\
+**Z**,![](assets/Z-arrow.png)&nbsp;:
+![](assets/zebra.png)&nbsp;**zebra**,
+![](assets/waltz.png)&nbsp;**waltz**
+
+# Back to the text
+
 
 The arrows show the directions in which the characters are written.
 
