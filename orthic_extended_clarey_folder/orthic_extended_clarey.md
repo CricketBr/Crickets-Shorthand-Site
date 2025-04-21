@@ -161,7 +161,7 @@ Page 2
 ![](assets/kept.png)
 ![](assets/kick.png)\
 **L, lender, until**\
-![](assets/L-arrow.png
+![](assets/L-arrow.png)
 ![](assets/lender.png)
 ![](assets/until.png)\
 **M, melt, stem**\
