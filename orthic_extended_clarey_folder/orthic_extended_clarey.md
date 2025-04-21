@@ -301,12 +301,16 @@ Page 2
 
 # The Alphabet -- format table
 
-| Alphabet |
-|--- | --- | --- |--- | --- | --- |
-| A | absent | opera | B | back | bib |
-| ![](assets/A.png) | ![](assets/absent.png) | ![](assets/opera.png)  | ![](assets/B.png)  | ![](assets/back.png) | ![](assets/bib.png) |
-| C | center | mimic | D | dirty | wind |
-| ![](assets/C.png) | ![](assets/centre.png) | ![](assets/mimic.png) | ![](assets/D.png) | ![](assets/dirty.png) | ![](assets/wind.png) | 
+| Letter | Ex 1 | Ex 2 | 
+|--- | --- | --- |
+| A | absent | opera |
+| ![](assets/A.png) | ![](assets/absent.png) | ![](assets/opera.png)  
+| B | back | bib |
+| ![](assets/B.png)  | ![](assets/back.png) | ![](assets/bib.png) |
+| C | center | mimic |
+| ![](assets/C.png) | ![](assets/centre.png) | ![](assets/mimic.png) |
+| D | dirty | wind |
+| ![](assets/D.png) | ![](assets/dirty.png) | ![](assets/wind.png) | 
 
 # Back to the text - format inline
 
