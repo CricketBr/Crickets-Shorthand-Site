@@ -299,7 +299,7 @@ Page 2
 
 
 
-# The Alphabet -- format table
+# The Alphabet -- format table -- a lot of work and harder to edit
 
 |letter|example|example|letter|example|example|
 | --- | --- | --- | --- | --- | --- |
