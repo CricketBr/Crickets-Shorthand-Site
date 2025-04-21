@@ -193,14 +193,14 @@ Page 2
 
 # The Alphabet -- format 2 -- separate lines
 
-**A, absent, opera, B, back, bib**
+**A, absent, opera, B, back, bib**\
 ![](assets/A.png)
 ![](assets/absent.png)
 ![](assets/opera.png) 
 ![](assets/B.png)
 ![](assets/back.png)
 ![](assets/bib.png)\
-**C, center, mimic, D, dirty, wind**
+**C, center, mimic, D, dirty, wind**\
 ![](assets/C.png)
 ![](assets/centre.png)
 ![](assets/mimic.png)
