@@ -113,7 +113,7 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 ---
 Page 2
-# The Alphabet -- format 1
+# The Alphabet -- format 1 -- inline
 
 **A** ![](assets/A.png)&nbsp;:
 ![](assets/absent.png)&nbsp;**absent**,
@@ -191,7 +191,29 @@ Page 2
 ![](assets/zebra.png)&nbsp;**zebra**,
 ![](assets/waltz.png)&nbsp;**waltz**
 
-# The Alphabet -- format 2
+# The Alphabet -- format 2 -- separate lines
+
+**A, absent, opera**\
+![](assets/A.png)
+![](assets/absent.png)
+![](assets/opera.png) \
+**B, back, bib**\
+![](assets/B.png)
+![](assets/back.png)
+![](assets/bib.png)\
+**C, center, mimic**\
+![](assets/C.png)
+![](assets/centre.png)
+![](assets/mimic.png)\
+**D, dirty, wind**\
+![](assets/D.png)
+![](assets/dirty.png)
+![](assets/wind.png)\
+
+# The Alphabet -- format 3 -- table
+
+| --- | --- | --- | --- | --- | --- |
+
 
 **A, absent, opera**\
 ![](assets/A.png)
