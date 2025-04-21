@@ -301,7 +301,7 @@ Page 2
 
 # The Alphabet -- format table
 
-| header | header | header | header | header| header |
+| Alphabet |
 |--- | --- | --- |--- | --- | --- |
 | A | absent | opera | B | back | bib |
 | ![](assets/A.png) | ![](assets/absent.png) | ![](assets/opera.png)  | ![](assets/B.png)  | ![](assets/back.png) | ![](assets/bib.png) |
