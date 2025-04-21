@@ -335,7 +335,7 @@ compare
 ![](assets/Ph-2.png)&nbsp; :
 The *first* is used in the *compound* **Phr**, *before*
 ![](assets/E.png)&nbsp;**E** and
-![](assets/Ee.png)&nbsp;**EE**, and *final*. Thus:
+![](assets/Ee.png)&nbsp;**Ee**, and *final*. Thus:
 ![](assets/phrase.png)&nbsp;**phrase**,
 ![](assets/philter.png)&nbsp;**philter**,
 ![](assets/sulphur.png)&nbsp;**sulphur**,
@@ -356,7 +356,7 @@ The *second* in *other cases*, thus:
 ![](assets/depth.png)&nbsp;**depth**.
 
 **Rc**
-![](assets/Rc.png)&nbsp;**Rc**:
+![](assets/Rc.png)&nbsp;:
 ![](assets/force.png)&nbsp;**force**,
 ![](assets/tierce.png)&nbsp;**tierce**,
 ![](assets/mercy.png)&nbsp;**mercy**,
@@ -389,7 +389,7 @@ compare
 ![](assets/this.png)&nbsp;**this**,
 ![](assets/threw.png)&nbsp;**threw**;
 *final*
-![](assets/Th-final.png)&nbsp:
+![](assets/Th-final.png)&nbsp;:
 ![](assets/worth.png)&nbsp;**worth**,
 ![](assets/faith.png)&nbsp;**faith**.
 
