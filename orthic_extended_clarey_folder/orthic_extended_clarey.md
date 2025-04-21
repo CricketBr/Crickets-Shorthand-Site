@@ -113,7 +113,111 @@ NOTE -- All the specimens of shorthand have been taken from [The Idle thoughts o
 
 ---
 Page 2
-# The Alphabet -- format 1 -- inline
+
+# The Alphabet -- format separate lines
+
+**A, absent, opera**\
+![](assets/A.png)
+![](assets/absent.png)
+![](assets/opera.png)\
+**B, back, bib**\
+![](assets/B.png)
+![](assets/back.png)
+![](assets/bib.png)\
+**C, center, mimic**\
+![](assets/C.png)
+![](assets/centre.png)
+![](assets/mimic.png)\
+**D, dirty, wind**\
+![](assets/D.png)
+![](assets/dirty.png)
+![](assets/wind.png)\
+**E, enter, line**\
+![](assets/E-arrow.png)
+![](assets/enter.png)
+![](assets/line.png)\
+**F, fasten, calf**\
+![](assets/F.png)
+![](assets/fasten.png)
+![](assets/calf.png)&nbsp\
+**G, gentle, cog**\
+![](assets/G.png)
+![](assets/gentle.png)
+![](assets/cog.png)\
+**H, help, oh**\
+![](assets/H-arrow.png)
+![](assets/help.png)
+![](assets/oh.png)\
+**I, insert, anti**\
+![](assets/I-arrow.png)
+![](assets/insert.png)
+![](assets/anti.png)\
+**J, jest, reject**\
+![](assets/J.png)
+![](assets/jest.png)
+![](assets/reject.png)\
+**K, kept, kick**\
+![](assets/K.png)
+![](assets/kept.png),
+![](assets/kick.png)\
+**L, lender, until**\
+![](assets/L-arrow.png
+![](assets/lender.png)
+![](assets/until.png)\
+**M, melt, stem**\
+![](assets/M.png)
+![](assets/melt.png)
+![](assets/stem.png)\
+**N, nine, hasten**\
+![](assets/N.png)
+![](assets/nine.png)
+![](assets/hasten.png)\
+**O, often, canto**\
+![](assets/O.png)
+![](assets/often.png)
+![](assets/canto.png)\
+**P, point, step**\
+![](assets/P-arrow.png)
+![](assets/point.png)
+![](assets/step.png)\
+**Qu, query, entity**\
+![](assets/Qu-arrow.png)
+![](assets/qurery.png)
+![](assets/equity.png)\
+**R, render, fir**\
+![](assets/R-arrow.png)
+![](assets/render.png)
+![](assets/fir.png)\
+**S, simply, tends**\
+![](assets/S-arrow.png)
+![](assets/simply.png),
+![](assets/tends.png)\
+**T, time, comet**\
+![](assets/T.png)
+![](assets/time.png)
+![](assets/comet.png)\
+**U, under, gnu**\
+![](assets/U.png)
+![](assets/under.png)
+![](assets/gnu.png)\
+**W, wow, award**\
+![](assets/W-arrow-both.png)
+![](assets/wow.png)
+![](assets/award.png)\
+**X, exist, sex**\
+![](assets/X.png)
+![](assets/exist.png)
+![](assets/sex.png)\
+**Y, yes, haply**\
+![](assets/Y.png)
+![](assets/yes.png)
+![](assets/haply.png)\
+**Z, zebra, waltz**\
+![](assets/Z-arrow.png)
+![](assets/zebra.png)
+![](assets/waltz.png)\
+
+# The Alphabet -- format -- inline
 
 **A** ![](assets/A.png)&nbsp;:
 ![](assets/absent.png)&nbsp;**absent**,
@@ -191,24 +295,9 @@ Page 2
 ![](assets/zebra.png)&nbsp;**zebra**,
 ![](assets/waltz.png)&nbsp;**waltz**
 
-# The Alphabet -- format 2 -- separate lines
 
-**A, absent, opera, B, back, bib**\
-![](assets/A.png)
-![](assets/absent.png)
-![](assets/opera.png) 
-![](assets/B.png)
-![](assets/back.png)
-![](assets/bib.png)\
-**C, center, mimic, D, dirty, wind**\
-![](assets/C.png)
-![](assets/centre.png)
-![](assets/mimic.png)
-![](assets/D.png)
-![](assets/dirty.png)
-![](assets/wind.png)\
 
-# The Alphabet -- format 3 -- table
+# The Alphabet -- format table
 
 |letter|example|example|letter|example|example|
 | --- | --- | --- | --- | --- | --- |
