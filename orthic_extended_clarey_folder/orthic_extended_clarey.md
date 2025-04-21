@@ -207,7 +207,7 @@ Page 2
 ![](assets/mimic.png)\
 **D, dirty, wind**\
 ![](assets/D.png)
-![](assets/dirty.png
+![](assets/dirty.png)
 ![](assets/wind.png)\
 
 # Back to the text
