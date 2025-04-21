@@ -158,7 +158,7 @@ Page 2
 ![](assets/reject.png)\
 **K, kept, kick**\
 ![](assets/K.png)
-![](assets/kept.png),
+![](assets/kept.png)
 ![](assets/kick.png)\
 **L, lender, until**\
 ![](assets/L-arrow.png
@@ -190,7 +190,7 @@ Page 2
 ![](assets/fir.png)\
 **S, simply, tends**\
 ![](assets/S-arrow.png)
-![](assets/simply.png),
+![](assets/simply.png)
 ![](assets/tends.png)\
 **T, time, comet**\
 ![](assets/T.png)
