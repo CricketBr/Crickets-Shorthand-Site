@@ -194,12 +194,17 @@ Page 2
 # The Alphabet -- format 2
 
 **A, absent, opera**\
-![](assets/A.png) ![](assets/absent.png) ![](assets/opera.png)&nbsp;**opera** \
+![](assets/A.png)
+![](assets/absent.png)
+![](assets/opera.png) \
 **B, back, bib**\
-![](assets/B.png) ![](assets/back.png) ![](assets/bib.png)&nbsp;\
-**C** ![](assets/C.png)&nbsp;:
-![](assets/centre.png)&nbsp;**centre**,
-![](assets/mimic.png)&nbsp;**mimic**\
+![](assets/B.png)
+![](assets/back.png)
+![](assets/bib.png);\
+**C, center, mimic**
+![](assets/C.png)
+![](assets/centre.png)
+![](assets/mimic.png)\
 **D**![](assets/D.png)&nbsp;:
 ![](assets/dirty.png)&nbsp;**dirty**,
 ![](assets/wind.png)&nbsp;**wind**\
