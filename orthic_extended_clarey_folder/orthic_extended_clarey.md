@@ -200,7 +200,7 @@ Page 2
 **B, back, bib**\
 ![](assets/B.png)
 ![](assets/back.png)
-![](assets/bib.png);\
+![](assets/bib.png)\
 **C, center, mimic**
 ![](assets/C.png)
 ![](assets/centre.png)
