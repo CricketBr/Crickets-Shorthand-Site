@@ -301,15 +301,14 @@ Page 2
 
 # The Alphabet -- format table -- a lot of work and harder to edit
 
-|letter|example|example|letter|example|example|
-| --- | --- | --- | --- | --- | --- |
+| header | header | header | header | header| header |
+|--- | --- | --- |--- | --- | --- |
 | A | absent | opera | B | back | bib |
 | ![](assets/A.png) | ![](assets/absent.png) | ![](assets/opera.png)  | ![](assets/B.png)  | ![](assets/back.png) | ![](assets/bib.png) |
 | C | center | mimic | D | dirty | wind |
 | ![](assets/C.png) | ![](assets/centre.png) | ![](assets/mimic.png) | ![](assets/D.png) | ![](assets/dirty.png) | ![](assets/wind.png) | 
 
-# Back to the text
-
+# Back to the text - format inline
 
 The arrows show the directions in which the characters are written.
 
@@ -320,6 +319,32 @@ The arrows show the directions in which the characters are written.
 ![](assets/Ee.png)&nbsp;**ee** , thus
 ![](assets/peep.png)&nbsp;**peep** compare
 ![](assets/pup.png)&nbsp;**pup**
+
+**P** and **S**, when standing alone, are written straight down to distinguish them from **Ee** and **E**.
+**J**, **Qu** and **V** are written through the line.
+
+# Back to the text - format table
+
+The arrows show the directions in which the characters are written. **Doubled letters** are shown, not by repeating the character, but by putting a dot below. Exception is **Ee**. Compare **peep** and **pup**.
+
+| odd | coo | Ee | peep | pup |
+![](assets/odd.png) | ![](assets/coo.png) | ![](assets/Ee.png) | ![](assets/peep.png) | ![](assets/pup.png) |
+
+**P** and **S**, when standing alone, are written straight down to distinguish them from **Ee** and **E**.
+**J**, **Qu** and **V** are written through the line.
+
+# Back to the text - format separate lines
+
+The arrows show the directions in which the characters are written.
+
+**Doubled letters** are shown, not by repeating the character, but by putting a dot below. Exception is **Ee**. Compare **peep** and **pup**.
+**odd, coo, Ee, peep, pup**\
+![](assets/odd.png)
+![](assets/coo.png) 
+![](assets/Ee.png)
+![](assets/peep.png)
+![](assets/pup.png)
+\
 
 **P** and **S**, when standing alone, are written straight down to distinguish them from **Ee** and **E**.
 **J**, **Qu** and **V** are written through the line.
