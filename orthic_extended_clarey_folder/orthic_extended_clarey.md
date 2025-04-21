@@ -139,7 +139,7 @@ Page 2
 **F, fasten, calf**\
 ![](assets/F.png)
 ![](assets/fasten.png)
-![](assets/calf.png)&nbsp\
+![](assets/calf.png)\
 **G, gentle, cog**\
 ![](assets/G.png)
 ![](assets/gentle.png)
@@ -216,6 +216,7 @@ Page 2
 ![](assets/Z-arrow.png)
 ![](assets/zebra.png)
 ![](assets/waltz.png)\
+
 
 # The Alphabet -- format -- inline
 
