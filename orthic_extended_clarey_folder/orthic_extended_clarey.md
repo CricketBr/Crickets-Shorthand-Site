@@ -182,7 +182,7 @@ Page 2
 ![](assets/step.png)\
 **Qu, query, entity**\
 ![](assets/Qu-arrow.png)
-![](assets/qurery.png)
+![](assets/query.png)
 ![](assets/equity.png)\
 **R, render, fir**\
 ![](assets/R-arrow.png)
@@ -215,7 +215,8 @@ Page 2
 **Z, zebra, waltz**\
 ![](assets/Z-arrow.png)
 ![](assets/zebra.png)
-![](assets/waltz.png)\
+![](assets/waltz.png) \
+
 
 
 # The Alphabet -- format -- inline
@@ -269,7 +270,7 @@ Page 2
 ![](assets/point.png)&nbsp;**point**,
 ![](assets/step.png)&nbsp;**step**\
 **Qu**,![](assets/Qu-arrow.png)&nbsp;:
-![](assets/qurery.png)&nbsp;**query**,
+![](assets/query.png)&nbsp;**query**,
 ![](assets/equity.png)&nbsp;**equity**\
 **R**,![](assets/R-arrow.png)&nbsp;:
 ![](assets/render.png)&nbsp;**render**,
