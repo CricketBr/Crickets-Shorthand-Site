@@ -215,7 +215,7 @@ Page 2
 **Z, zebra, waltz**\
 ![](assets/Z-arrow.png)
 ![](assets/zebra.png)
-![](assets/waltz.png) \
+![](assets/waltz.png) 
 
 
 
