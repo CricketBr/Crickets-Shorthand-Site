@@ -299,7 +299,7 @@ Page 2
 
 
 
-# The Alphabet -- format table -- a lot of work and harder to edit
+# The Alphabet -- format table
 
 | header | header | header | header | header| header |
 |--- | --- | --- |--- | --- | --- |
@@ -328,6 +328,7 @@ The arrows show the directions in which the characters are written.
 The arrows show the directions in which the characters are written. **Doubled letters** are shown, not by repeating the character, but by putting a dot below. Exception is **Ee**. Compare **peep** and **pup**.
 
 | odd | coo | Ee | peep | pup |
+| --- | --- | --- |--- | --- |
 ![](assets/odd.png) | ![](assets/coo.png) | ![](assets/Ee.png) | ![](assets/peep.png) | ![](assets/pup.png) |
 
 **P** and **S**, when standing alone, are written straight down to distinguish them from **Ee** and **E**.
