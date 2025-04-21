@@ -214,16 +214,10 @@ Page 2
 
 |letter|example|example|letter|example|example|
 | --- | --- | --- | --- | --- | --- |
+| A | absent | opera | B | back | bib |
+| ![](assets/A.png) | ![](assets/absent.png) | ![](assets/opera.png)  | ![](assets/B.png)  | ![](assets/back.png) | ![](assets/bib.png) |
 
 
-**A, absent, opera**\
-![](assets/A.png)
-![](assets/absent.png)
-![](assets/opera.png) \
-**B, back, bib**\
-![](assets/B.png)
-![](assets/back.png)
-![](assets/bib.png)\
 **C, center, mimic**\
 ![](assets/C.png)
 ![](assets/centre.png)
