@@ -124,7 +124,7 @@ Page 2
 ![](assets/B.png)
 ![](assets/back.png)
 ![](assets/bib.png)\
-**C, center, mimic**\
+**C, centre, mimic**\
 ![](assets/C.png)
 ![](assets/centre.png)
 ![](assets/mimic.png)\
