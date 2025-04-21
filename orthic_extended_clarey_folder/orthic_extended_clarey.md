@@ -423,7 +423,7 @@ Examples:
 Page 4
 # Compound Characters
 
-The following compounds, which are not strictly alphabetic, require noting:\
+The following compounds, which are not strictly alphabetic, require noting:
 
 **Bl**
 ![](assets/Bl-reverse-arrow.png)&nbsp;,
