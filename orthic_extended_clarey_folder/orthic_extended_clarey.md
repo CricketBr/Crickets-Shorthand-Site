@@ -228,7 +228,7 @@ But when the vowels are separately sounded either the characters are separated o
 ![](assets/re-enter.png)&nbsp;**re-enter**,
 ![](assets/boa.png)&nbsp;**boa**,
 ![](assets/chaos.png)&nbsp;**chaos**,
-![](assets/co-opoerate.png)&nbsp;**co-opoerate**,
+![](assets/co-opoerate.png)&nbsp;**co-operate**,
 ![](assets/Leo.png)&nbsp;**Leo**,
 ![](assets/fiasco.png)&nbsp;**fiasco**,
 ![](assets/fuel.png)&nbsp;**fuel**,
