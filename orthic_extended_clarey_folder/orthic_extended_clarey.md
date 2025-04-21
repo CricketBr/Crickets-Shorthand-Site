@@ -197,7 +197,7 @@ The arrows show the directions in which the characters are written.
 ![](assets/odd.png)&nbsp;**odd**;
 ![](assets/coo.png)&nbsp;**coo**. \
 *Exception*, 
-![](assets/ee.png)&nbsp;**ee** , thus
+![](assets/Ee.png)&nbsp;**ee** , thus
 ![](assets/peep.png)&nbsp;**peep** compare
 ![](assets/pup.png)&nbsp;**pup**
 
