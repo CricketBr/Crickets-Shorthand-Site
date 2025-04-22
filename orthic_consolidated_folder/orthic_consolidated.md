@@ -55,7 +55,8 @@ It begins with the alphabet and common joins for the Fully Written level, then a
 
 
 
-as a reference book. Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Where the books did not agree on the level of a rule, I assigned the level based on complexity and frequency. I might make separate documents later: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents. 
+
+Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Where the books did not agree on the level of a rule, I assigned the level based on complexity and frequency. I might make separate documents later: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents. 
 
 New writers should do the book in multiple passes. First
 
@@ -102,9 +103,9 @@ The above isn't strictly true.
 
 See under Alphabet regarding sizes.
 
-Words can be written more than one way. Spelling varies with country, and whether the student is comfortable leaving out silent letters, and how they handle vowels. It becomes even less standard once the optional abbrevations are considered. Even so, if you stick to the Abbreviated level, others (including Future You) will be able to read it.
-
-
+Words can be written more than one way. Spelling varies with country, and whether the student is comfortable leaving out silent letters, and how they handle vowels. It becomes even less standard once the optional abbrevations are considered. Even so, if you stick to the 
+``` ?? abbreviated ```
+level, others (including Future You) will be able to read it.
 
 
 
@@ -149,9 +150,7 @@ cricket's shorthand tips
 
 # Publications and Source Material
 
-Most of these, and some contributions from the community, are available on (orthic.shorthand.fun) .
-
-Wording and examples are a mix of all sources and the author. If no reference is given, the rule is first written in the Manual.
+Most of these, and some contributions from the community, are available on (orthic.shorthand.fun). Wording and examples are a mix of all sources and the author. If no reference is given, the rule first appears in the Manual. (https://www.reddit.com/r/orthic/) has examples and discussion from the community.
 
 ### Cursive, sometimes called Phonetic Cursive
 A Manual of Cursive Shorthand,\
@@ -163,7 +162,7 @@ This is included for historical reasons only. It was Callendar’s first shortha
 A Manual of Orthographic Shorthand: The Cambridge System, \
 Hugh L Callendar, 1891.\
 https://orthic.shorthand.fun/manual \
-“Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.”
+> Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
 This book has three levels: Fully-written, Ordinary (simple rules and abbreviations), and Reporting (a collection of ideas).
 
 Jeremy W Sherman rendered it into Markdown, and added a few clarifications.
@@ -172,9 +171,9 @@ Jeremy W Sherman rendered it into Markdown, and added a few clarifications.
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], \
 Hugh L Callendar, 1982.\
 https://orthic.shorthand.fun/supplement \
-“It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.”
-…
-“The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the Manual as ‘Hints for the Reporting Style’ and to provide advanced writers of the system with additional matter for exercise and reading practice.”
+> It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.
+> …
+> The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the Manual as ‘Hints for the Reporting Style’ and to provide advanced writers of the system with additional matter for exercise and reading practice.
 This book moves many rules from Reporting to Ordinary, and adds abbreviations.
 
 ### Teaching (Parts 1 and 2)
@@ -182,9 +181,9 @@ The Teaching of Orthic Shorthand: A series of lessons for the use of teachers an
 W Stevens, 1896\
 https://orthic.shorthand.fun/teaching-pt1 \
 https://orthic.shorthand.fun/teaching-pt2 \
-“The following lessons have been drawn up for the use of teachers in the “Orthic” system of shorthand.”
+> The following lessons have been drawn up for the use of teachers in the “Orthic” system of shorthand.
 …
-“If teachers and students will only follow these hints, and the lessons, as they are laid down, not hurrying, immediate success will accrue to their efforts.”
+> If teachers and students will only follow these hints, and the lessons, as they are laid down, not hurrying, immediate success will accrue to their efforts.
 
 This book is to be used in conjunction with the Manual and the Supplement. Part 1 covers the Manual in 9 lessons, divided into Fully Written and Abbreviated. It adds a few rules, and moves others. Part 2 claims to be "the same methods of abbrviation, extended," but I believe it's better classified as the Reporting level.
 
@@ -194,6 +193,7 @@ Hugh L Callendar ; \
 Revised, Extended and Improved \
 E Clarey, 1911 \
 https://orthic.shorthand.fun/  under Resources\
+
 This booklet is an update of the Manual, which merges rules from the Manual, the Supplement (and Teaching??), and adds many more. I would classify the entire book as Reporting level. 
 
 ### Notes on the Reporting Style
@@ -202,17 +202,17 @@ Reddit u/uwula, 2015 (2019 - 4 = 2015)\
 https://drive.google.com/file/d/14sBSBwjT76eqooWqHTABaRk_ar_MeOeF/view \
 https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/comments/ag2pq0/notes_on_the_reporting_style_of_orthic_shorthand/ 
 
-“At the request of a couple of users here, I've put together some notes on W. Stevens's The Teaching of Orthic Shorthand.”
+> At the request of a couple of users here, I've put together some notes on W. Stevens's The Teaching of Orthic Shorthand.
 …
-“Stevens occasionally overdoes things. There is a great deal to admire here, but there are many rough edges as well, and you should expect to do some fine-tuning if you want to use Orthic in a reporting style. All rules should be taken as suggestions. I will recommend against a couple of them along the way, though you may of course disagree with me.”
+> Stevens occasionally overdoes things. There is a great deal to admire here, but there are many rough edges as well, and you should expect to do some fine-tuning if you want to use Orthic in a reporting style. All rules should be taken as suggestions. I will recommend against a couple of them along the way, though you may of course disagree with me.
 
 # Practice Schedule
 
-Teaching recommends only 15 minutes practice a day in addition to the lesson (which I assume is weekly).
+Teaching promises success in only 15 minutes practice a day in addition to the lesson (which I assume is weekly).
 
 [Swem](https://cricketb.wordpress.com/2020/02/12/systematic-speed-course-for-advanced-writers-swem/) recommends an hour a day, five days a week, with the first 15 minutes dedicated to a systematic review of the text, and the rest to one or perhaps two passages. He further recommends another two hour-long sessions a week, each divided into practicing new "phrases and expedients" from books, and "taking dictation from new material and reading it back."
 
-As with all physica/mental skills, regular short practice is more effective than a few long, widely-spaced sessions.
+As with all physical/mental skills, regular short practice is more effective than a few long, widely-spaced sessions.
 
 # The Alphabet
 
@@ -237,7 +237,9 @@ Doubled letters are shown, not by repeating the character, but by putting a dot 
 
 ## Orthographic Spelling
 
-All words, when written in full, are spelt according to the common orthography. 
+"All words, when written in full, are spelt according to the common orthography." 
+
+
 
 ## Diphthongs and Vowels
 
@@ -287,7 +289,7 @@ The Manual claims that there are only two sizes. This is incorrect. Most shapes 
 
 Teaching suggests that large letters be three times the size of small letters, but most examples show the size is only doubled. Use what works for you. Some prefer to write very precisely, others are satisfied by readable.
 
-Clarey(p3) says "The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big.
+> The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big. -- Clarey: General Rules
 
 ## A
 A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay.
