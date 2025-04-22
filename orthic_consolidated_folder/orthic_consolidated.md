@@ -29,12 +29,30 @@ Revison date .....
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
-In keeping with tradition, this book begins with a list of the deficiencies of previous books.
+In keeping with tradition, this book begins with a list of the deficiencies of previous books:
 - Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement and a Teaching booklet (with a few more abbreviations). Then Clarey merged them (and added still more abbreviations).
 - Minimal guidance for studying.
 - Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
 
 This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
+
+This collection of publications does one thing better than most other shorthand systems: It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
+
+For more examples and discussion, see (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
+
+# Recommended Order of Study
+
+- The alphabet.
+- General Rules and Observations.
+- How to Write and Join the Characters.
+
+At this point, you will be able to read and write at the Fully Written level -- but don't stop there.
+
+- Ordinary Style, also called Abbreviated and Correspondence. Most writers will stop here.
+- Reporting. This is high-speed territory, often customized heavily.
+
+
+
 
 This book attempts to be useful to both new and advanced learners, and is organized as follows:
 
@@ -113,9 +131,9 @@ level, others (including Future You) will be able to read it.
 
 
 
-This collection of publications does one thing better than most other shorthand systems. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
 
-I encourage all writers to share their writing, and look at their colleagues' samples. Sources include (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
+
+
 
 # Preview of Levels
  
@@ -150,7 +168,9 @@ cricket's shorthand tips
 
 # Publications and Source Material
 
-Most of these, and some contributions from the community, are available on (orthic.shorthand.fun). Wording and examples are a mix of all sources and the author. If no reference is given, the rule first appears in the Manual. (https://www.reddit.com/r/orthic/) has examples and discussion from the community.
+Most of these, and some contributions from the community, are available on (orthic.shorthand.fun). (https://www.reddit.com/r/orthic/) has examples and discussion from the community.
+
+Wording and examples are a mix of all sources and the author. If no reference is given, the rule first appears in the Manual. 
 
 ### Cursive, sometimes called Phonetic Cursive
 A Manual of Cursive Shorthand,\
@@ -185,7 +205,7 @@ https://orthic.shorthand.fun/teaching-pt2 \
 …
 > If teachers and students will only follow these hints, and the lessons, as they are laid down, not hurrying, immediate success will accrue to their efforts.
 
-This book is to be used in conjunction with the Manual and the Supplement. Part 1 covers the Manual in 9 lessons, divided into Fully Written and Abbreviated. It adds a few rules, and moves others. Part 2 claims to be "the same methods of abbrviation, extended," but I believe it's better classified as the Reporting level.
+This book is to be used in conjunction with the Manual and the Supplement. Part 1 covers the Manual in 9 lessons, divided into Fully Written and Abbreviated. It adds a few rules, and moves others. Part 2 claims to be "the same methods of abbreviation, extended," but I believe it's better classified as the Reporting level.
 
 ### Extended (Clarey)
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; \
@@ -194,7 +214,7 @@ Revised, Extended and Improved \
 E Clarey, 1911 \
 https://orthic.shorthand.fun/  under Resources\
 
-This booklet is an update of the Manual, which merges rules from the Manual, the Supplement (and Teaching??), and adds many more. I would classify the entire book as Reporting level. 
+This booklet is an update of the Manual, which merges rules from the Manual, the Supplement ```and Teaching??```, and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels. 
 
 ### Notes on the Reporting Style
 Notes on the Reporting Style of Orthic Shorthand, given by W. Stevens in 'The Teaching of Orthic Shorthand' (1896) , \
@@ -208,7 +228,7 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 
 # Practice Schedule
 
-Teaching promises success in only 15 minutes practice a day in addition to the lesson (which I assume is weekly).
+Teaching promises success in only 15 minutes practice a day in addition to the lesson (which I assume is weekly). That's probably optimistic.
 
 [Swem](https://cricketb.wordpress.com/2020/02/12/systematic-speed-course-for-advanced-writers-swem/) recommends an hour a day, five days a week, with the first 15 minutes dedicated to a systematic review of the text, and the rest to one or perhaps two passages. He further recommends another two hour-long sessions a week, each divided into practicing new "phrases and expedients" from books, and "taking dictation from new material and reading it back."
 
@@ -216,9 +236,10 @@ As with all physical/mental skills, regular short practice is more effective tha
 
 # The Alphabet
 
+```by shape -- section for vowels, joined vowels, and consonants```
 
+```Single big alphabet table alphabetical order with examples```
 
-```Single big alphabet table```
 
 Keep reading.
 
@@ -241,32 +262,18 @@ Doubled letters are shown, not by repeating the character, but by putting a dot 
 
 
 
-## Diphthongs and Vowels
-
-Vowels are all forward-motion strokes. Consonants are mostly vertical.
-
-When two or more vowels come together forming a ‘diphthong’,  the angle between them is slurred or rounded off into a continuous curve. (Similar applies more than two vowels.)
-```
-ai = ,  oy = ,  ou = ,  eau = 
-```
-When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words 
-```  re-enter, Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.
-```
-Do not overthink this. If in doubt, ask how 7 year old would write it. -- Cricket
-
 ## Dividing a Word
-
 A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words.  
 ```
 lawsuit,  Woolwich,  virgin, bagpipes
 ```
+
 ## Punctuation
 Punctuation is effected in the usual way, except the Hyphen , and the Dash . (They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A (“and”) and raised O (“though”). -- Jeremy)
 
 
 ## Initial Cappitals
-
-Initial capitals are marked thus using a long stroke falling from midline to baseline at 30 degrees from horizontal. 
+Initial capitals are marked using a long stroke falling from midline to baseline at 30 degrees from horizontal. 
 
 Compare the Manual
 ```
@@ -277,41 +284,58 @@ to Clarey
 egs -- line goes through the letters
 ```
 
-Keep reading.
+# How to Write and Join the Characters -- Fully Written Level
 
-# How to Write and Join the Characters
-
-This section will, with very little effort, make your writing much smoother. It is the last material for the Fully Written level.
+This section will, with medium effort, make your writing much smoother. It is the last material for the Fully Written level.
 
 ## Sizes
+The Manual claims that there are only two sizes. This is incorrect. Most shapes have only two sizes, but not all small shapes are the same size. Most shapes have two widths in the alphabet, but a tiny horizontal tick can be used to make joins easier, and many shapes have "very wide" version.
 
-The Manual claims that there are only two sizes. This is incorrect. Most shapes have only two sizes, but not all small shapes are the same size. Most shapes have two widths in the alphabet, but a tiny horizontal tick can be used to make joins easier, and many have "very wide" version.
-
-Teaching suggests that large letters be three times the size of small letters, but most examples show the size is only doubled. Use what works for you. Some prefer to write very precisely, others are satisfied by readable.
+Teaching suggests that large letters be three times the size of small letters, but all the examples show the size is only doubled. Use what works for you. Some prefer to write very precisely, others are satisfied by readable.
 
 > The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big. -- Clarey: General Rules
 
-## A
-A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay.
+## Vowels and Diphthongs
+
+When two or more vowels come together forming a ‘diphthong’ (two vowel sounds perceived by the untrained ear as a single vowel),  the angle between them is slurred or rounded off into a continuous curve.
+```
+ai = ,  oy = ,  ou = ,  eau = 
+```
+When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words 
+```  re-enter, Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.
+```
+
+Do not overthink this. If in doubt, ask how 7 year old would write it. -- Cricket
+
+Most vowel pairs can be written in either order. Choose the one that makes the sharpest angle. 
+
+ai is the exception, and must always be written in order. -- Teaching: Joinings-Vowels (Teaching is the only book to recommend this.)
+
+Note: ea is sometimes written eae, ```seas```
+
+``Examples -- Clarey has lots```
+
 Ay may be curved either way. The form under-ay is used whenever it joins more clearly or easily than the form over-ay, as after D T J Qu M N V  thus,  days,  quay; cp.  says,  hay. (So basically, use the smoothed y-a form after forward horizontal curves and after descenders. See also when to use the curved -ing, which is basically a double-size smoothed y-a. -- Jeremy)
 
+
+
+## A
+A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay. See Vowels and Diphthongs.
+
+## B
 B  is written like the letter lowercase cursive b, but with a more open loop and without the hook upwards at the end. It forms the compounds:
 
 bd   rob’d
-
 bj   object
-
-bl   able
-
+bl    able
 br   bray
-
 bs   absurd
-
 bt   subtract
-
 bv   subvent
 
+
 C  is written like the letter c, but it is not turned up at the end, unless followed by e.
+
 Ch  is written and joined exactly like the longhand letter o; thus,  chair,  Christ,  ache, cp.  ahead.
 Other compounds are:
 
