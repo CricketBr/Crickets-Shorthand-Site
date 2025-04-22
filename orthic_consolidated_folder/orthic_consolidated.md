@@ -27,13 +27,13 @@ Revison date .....
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
-In deciding what type of book to write, the author considered both an instructional manual (with information presented in an order most useful for learning Orthic for the first time), and a reference manual (most useful for advanced students needing to find an outline once given the standard orthography, and the standard orthography once given an outline). In the past, she has been taught, and successfuly used, the First Rule of Writing: Select one person as your primary audience.
+In deciding what type of book to write, the author considered both an instructional manual (with information presented in an order most useful for those new to the subject), and a reference manual (most useful for advanced students needing to find an outline once given the standard orthography, and the standard orthography once given an outline). In the past, she has been taught, and successfuly used, the First Rule of Writing: Select one person as your primary audience.
 
 In an act of most excellent hubris (in keeping with the style of the source documents), she has decided to ignore that most excellent advice. This manuscript is the result.
 
-That language was fun to write, but hard to read, so I'll stop.
+That language is fun to write but hard to read, so I'll stop.
 
-Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Some of the distinctions are arbitrary, especially the rules added by Clarey. Once the writing is complete, I might make separate documents: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents.
+Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Some of the distinctions are arbitrary, especially the rules added by Clarey. Once the writing is complete, I might make separate documents: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents. (Only the earliest source is shown for rules that are in all manuals.)
 
 Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
 
