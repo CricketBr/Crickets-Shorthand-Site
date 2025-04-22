@@ -23,11 +23,21 @@ add in
 
 Revison date .....
 
-# Introduction
-
-This document will consolidate all the rules and advice into a single document, with links to the other documents for practice material. It includes new plates written at a consistent size and spacing.
+# Introduction to Orthic Consolidated
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
+
+In deciding what type of book to write, the author considered both an instructional manual (with information presented in an order most useful for learning Orthic for the first time), and a reference manual (most useful for advanced students needing to find an outline once given the standard orthography, and the standard orthography once given an outline). In the past, she has been taught, and successfuly used, the First Rule of Writing: Select one person as your primary audience.
+
+In an act of most excellent hubris (in keeping with the style of the source documents), she has decided to ignore that most excellent advice. This manuscript is the result.
+
+That language was fun to write, but hard to read, so I'll stop.
+
+Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Some of the distinctions are arbitrary, especially the rules added by Clarey. Once the writing is complete, I might make separate documents: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents.
+
+Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
+
+```Figs: Orthic written by Callendar, Stevens, Clarey,  Pitman accent, Gregg accent, and my own.```
 
 From The Manual (as rendered by Jeremy W. Sherman)
 
@@ -72,16 +82,23 @@ The Teaching of Orthic Shorthand claims you can reach 60wpm after finishing the 
 
 # Speed Potential
 
-Looking just at stroke count (but not actually doing the work of counting), the Fully Written level is faster to Forkner, which is well-documented to exceed 100wpm. Orthic students have been reported to reach as high as 165 and 190wpm.
+Looking just at stroke count (but not actually doing the work of counting), the Fully Written level is faster than Forkner, which is well-documented to exceed 100wpm. Orthic students have been reported to reach as high as 165 and 190wpm.
 
 Newspaper articles with speed claims:\
 https://www.reddit.com/r/orthic/comments/ehqac5/a_note_on_shorthand_in_medical_work_fa_brooks_st/ \
 https://www.reddit.com/r/orthic/comments/ekpz4t/the_sydney_morning_herald_thu_23_dec_1909_190_wpm/ \
 https://www.reddit.com/r/orthic/comments/eknxwh/the_sydney_morning_herald_fri_23_dec_1904_165_wpm/
 
-For comparison, before computers, most educated adults could write cursive at 20-40 wpm. An introductory typing class, with 110 hours in class, required 20wpm to pass. Typical speeds are now 20-80wpm. Entry level office shorthand in the US required 60 or 80wpm; one person reports 120 to pass their program. Journalists in the UK needed 100wpm until fairly recently, and often considered shorthand their most difficult course. Current office shorthand requirement in other areas is 100-120. Toastmasters recommends 120 for formal speeches. Court reporting in California requires 200wpm for 10 minutes. https://www.courtreportersboard.ca.gov/applicants/skills_exam_faq.pdf
+For comparison, before computers, most educated adults could write cursive at 20-40wpm (words per minute). An introductory typing class, with 110 hours in class, required 20wpm to pass. Typical speeds are now 20-80wpm. Entry level office shorthand in the US required 60 or 80wpm; one person reports 120 to pass their 3-year program. Journalists in the UK needed 100wpm until fairly recently, and often considered shorthand their most difficult course. Current office shorthand requirement in other areas is 100-120. Toastmasters recommends 120 for formal speeches. Court reporting in California requires 200wpm for 10 minutes. https://www.courtreportersboard.ca.gov/applicants/skills_exam_faq.pdf
+
+Time to reach that speed varies widely. It's often reported in "courses," with no indication of the hours in or out of class. A very rough estimate is 100 hours for 100wpm. 
 
 Note: Unless you get very good at shorthand, it is not advisable to use it for lecture notes. You will spend more time thinking about the shorthand than about the lecture. Then, after class, you will have to read the  shorthand (assuming it's readable) to learn the material. Learn the material in class. Use a combination of Rozane's system for Consecutive Interpretation and Cornell Notes to record what you need to remember, and what you need to research.
+
+More advice on speedbuilding is here
+```
+cricket's shorthand tips
+```
 
 # Publications and Source Material
 
