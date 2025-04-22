@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Orthographic Consolidated"
-subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Extended"
+subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Revised Publications."
 author: "CricketB, based on works by Hugh L Callendar, W Stevens, and E Clarey"
 toc: true
 toc_hmax: 6
@@ -9,7 +9,7 @@ toc_hmax: 6
 # Orthic Consolidated
 
 Being an Improved and Expanded Consolidation of\
-the Manual, Supplement, Teaching, and Extended (aka Clarey) Books\
+the Manual, Supplement, Teaching, and Revised books\
 with Clarifications, Additions, Warnings, and Opinions of the Author
 
 By CricketB, Reddit u/CrBr
@@ -204,18 +204,21 @@ https://orthic.shorthand.fun/teaching-pt2 \
 > The following lessons have been drawn up for the use of teachers in the “Orthic” system of shorthand.
 …
 > If teachers and students will only follow these hints, and the lessons, as they are laid down, not hurrying, immediate success will accrue to their efforts.
+> ...
+> Lesson 9: Conclusion: The pupils should with their present knowledge be able to write in supplement style, at least 60 words per minute, and to read fluently the Third Book of the Psalms, and the Magazine, and to correspond rapidly with any member of the Cambridge Shorthand Society
 
 This book is to be used in conjunction with the Manual and the Supplement. Part 1 covers the Manual in 9 lessons, divided into Fully Written and Abbreviated. It adds a few rules, and moves others. Part 2 claims to be "the same methods of abbreviation, extended," but I believe it's better classified as the Reporting level.
 
-### Extended (Clarey)
+### Revised and Extended (Clarey)
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; \
 Hugh L Callendar ; \
 Revised, Extended and Improved \
 E Clarey, 1911 \
 https://orthic.shorthand.fun/  under Resources\
 
-This booklet is an update of the Manual, which merges rules from the Manual, the Supplement ```and Teaching??```, and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels. 
+This booklet is an update of the Manual, which merges rules from the Manual, the Supplement ```and Teaching??```, and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels. I have included a few things from here, when I believe they make sense, but otherwise recommend you use it as an advanced book.
 
+### might be duplicate info
 ### Notes on the Reporting Style
 Notes on the Reporting Style of Orthic Shorthand, given by W. Stevens in 'The Teaching of Orthic Shorthand' (1896) , \
 Reddit u/uwula, 2015 (2019 - 4 = 2015)\
@@ -228,13 +231,16 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 
 # Practice Schedule
 
-Teaching promises success in only 15 minutes practice a day in addition to the lesson (which I assume is weekly). That's probably optimistic.
+Teaching promises at least 60 words per minute in only 15 minutes practice a day in addition to the lesson (which I assume is weekly). That's probably optimistic.
+
+Do not start writing new material until you have finished the Fully Written instructions, including Rules for Joining.
 
 [Swem](https://cricketb.wordpress.com/2020/02/12/systematic-speed-course-for-advanced-writers-swem/) recommends an hour a day, five days a week, with the first 15 minutes dedicated to a systematic review of the text, and the rest to one or perhaps two passages. He further recommends another two hour-long sessions a week, each divided into practicing new "phrases and expedients" from books, and "taking dictation from new material and reading it back."
 
-As with all physical/mental skills, regular short practice is more effective than a few long, widely-spaced sessions.
+As with all mental/physical skills, frequent short practice is more effective than longer but less often sessions.
 
 # The Alphabet
+These charts show all the individual characters recommended by all the books.
 
 ```by shape -- section for vowels, joined vowels, and consonants```
 
@@ -284,9 +290,11 @@ to Clarey
 egs -- line goes through the letters
 ```
 
-# How to Write and Join the Characters -- Fully Written Level
+# How to Write and Join the Characters -- Fully Written and Ordinary Levels
 
 This section will, with medium effort, make your writing much smoother. It is the last material for the Fully Written level.
+
+It includes all the Joins and Slurs in the Manual, Supplement, and Teaching, and the most useful of the Compound Characters, Slurs, and Joins from Clarey. It also includes some rules from higher levels, for easy reference. Book reference is lowest level of writing, and the earliest book to show it at that level. If not stated, then the rule first appears in the Manual.
 
 ## Sizes
 The Manual claims that there are only two sizes. This is incorrect. Most shapes have only two sizes, but not all small shapes are the same size. Most shapes have two widths in the alphabet, but a tiny horizontal tick can be used to make joins easier, and many shapes have "very wide" version.
@@ -297,7 +305,8 @@ Teaching suggests that large letters be three times the size of small letters, b
 
 ## Vowels and Diphthongs
 
-When two or more vowels come together forming a ‘diphthong’ (two vowel sounds perceived by the untrained ear as a single vowel),  the angle between them is slurred or rounded off into a continuous curve.
+When two or more vowels come together and make a single sound (as perceived by the untrained ear),  the angle between them is slurred or rounded off into a continuous curve. (Callendar calls them diphthongs, but modern phoneticists define diphthongs as something different. I do not know what phoneticists of Callendar's era meant by the term.)
+
 ```
 ai = ,  oy = ,  ou = ,  eau = 
 ```
@@ -317,15 +326,23 @@ Note: ea is sometimes written eae, ```seas```
 
 Ay may be curved either way. The form under-ay is used whenever it joins more clearly or easily than the form over-ay, as after D T J Qu M N V  thus,  days,  quay; cp.  says,  hay. (So basically, use the smoothed y-a form after forward horizontal curves and after descenders. See also when to use the curved -ing, which is basically a double-size smoothed y-a. -- Jeremy)
 
+## Modes
+Modes are writing before part of the Ordinary Level, but are included here for easy reference.
 
 
 ## A
 A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay. See Vowels and Diphthongs.
+M-ordinary: A maybe omitted before M and M.
 
 ## B
 B  is written like the letter lowercase cursive b, but with a more open loop and without the hook upwards at the end. It forms the compounds:
 
 bd   rob’d
+S-ord: 
+be-prefix This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line.
+The word be is expressed by a dot above the line ; been and being by n  and straight ‑ing ; the former will not be found to clash with than.
+It should not be used for
+
 bj   object
 bl    able
 br   bray
@@ -411,15 +428,20 @@ lp   help
 lt   wilt
 lv   salve
 M  is like  n, but much longer and flatter.
-
 mp   imply
 mb   limb
 ms 
-N  is like the first hook of the letter n.
+Man:ord A or O before M may be dropped.
+
+###N  
+is like the first hook of the letter n.
 No angle need be made in the compounds:
+
 
 ng   singer
 nsp   inspect
+M-ordinary: A maybe omitted before M and M.
+
 Other compounds are:
 
 nc   since
@@ -433,13 +455,18 @@ nt   sent
 nk   sink
 nqu   inquest
 nv   invent
-O  is made about three times as long as  a.
+
+### O
+is made about three times as long as  a.
 Oa is distinguished from o by writing the  a above; thus,  oar, cp.  or;  oak.
 Other compounds are:
 
 oi   toil
 ou   out
 oy   boys
+
+M-ordinary: A maybe omitted before M and M.
+
 P  is a long downstroke, like the upper half of the stroke of the letter lowercase p in cursive longhand. It is made about three times as long as  s.
 In joining  s before and after  p, the s-tick is sloped backwards; thus
 
@@ -481,8 +508,13 @@ sp   sphere
 squ   square
 st   still
 sw   answer
+
 T  is like the hook at the end of the letter t.
 Th  is written like the letter d. [Jeremy: That’s a looped-through version of the d Callendar often writes at the end of a word, as seen for example in “end” . That word also shows the funky e Callendar uses to explain how to write the compound rce.]
+
+th at the start of common words can be replaced by writing the word above the line. they, they, this, them, though, that
+exception: the character A written above the line stands for the word and.
+
 At the end of a word, the circle of the h need not be completed; thus,
 
  with
@@ -561,15 +593,321 @@ Z
 
  puzzle
 
-
-
 # End of Fully Written
 
-Your are now ready 
+Your are now ready to read and practice material at the Fully Written level. https://orthic.shorthand.fun/reading First. You can also safely write new material.
+I do not, however, recommend you begin building speed. Work at this level only until you are 80% confident, then move on, before your hand becomes too set in its ways.
+
+# Ordinary Style
+The original Ordinary style, recommended for use "used in correspondence and in ordinary writing," consists of four rules 13?? endings, the General Method of Abbreviation (and a warning not to over-use it), several phrases, and a list of common abbreviations.
+
+## Omit A and O before M and N
+The vowels **a** and **o** are omitted before m and n, except initially and in rare words; thus,  c(a)n or c(o)n,  al(o)ne,  w(o)m(a)n. An omission of this kind can always be corrected, if desired, by writing the omitted character above; thus,  b(an)d,  b(o)nd.
+
+This sounds scary, but works well. If there is no vowel written, then the vowel is either **a**, **o**, or a minor vowel (if the writer trained in another system that leaves out minor vowels).
+
+Note: **Can*** has a separate abbreviation, listed below.
+
+## Drop the Dots
+We rarely need to know that a letter is doubled in order to read the word. If a word does not make sense with an **e**, try an **i**. Again, this sounds scary, but works very well in practice. Gregg leaves out most minor vowels, and uses the same symbol for short-e, long-e, short-i.
+
+## Let -Y stand unaltered
+In adding inflections to words ending in y, the y is not changed to i or ie; thus,  applyd,  trys,  easyst,  happyr.
+
+## Write Common Prefixes Above the Line
+
+## Supra-Lineal Writing (aka Writing Above the Line)
+The Manual uses this only for TH at the Ordinary level. The Supplement suggests broader use. Using this for prefixes is a special case of writing with Modes, where letters replaced by a slight gap, and indicated by writing the remainder of the word at a different level. Further details on that are in the secton on Modes.
+
+### Eve
+ever
+every, evening, evnet , evident, evil
+Exception: Even is written e’en , to distinguish it from than or then.
+
+
+Be
+This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line.
+
+The word be is expressed by a dot above the line ; been and being by n  and straight ‑ing ; the former will not be found to clash with than.
+
+Note: This is used only for words with be as a prefix, not 
+
+Per-, pro-, pre-
+These prefixes, being Latin, will not clash with any of the above English prefixes, and may be expressed in the same way with great saving of time and space. [E.g.  person,  present,  promise.]
+
+Pre- and pro- are distinguished from per, if necessary, by retaining the vowels e and o. The cases, however, in which it is necessary to make the distinction are very rare.
+
+When any of these prefixes occur in the middle of a word after another prefix, as in the words unbelief, compromise, etc., they are expressed by Mode (1), that is to say by writing the terminal portion of the word close above and to the right of the initial prefix. [E.g.  comprehend.] In the prefixes super, supra, hyper, the per is similarly expressed.
+
+The allied prefix pri may be expressed in the same way as pre in some common words. [E.g.,  private.]
+
+Para, peri
+These Greek prefixes may also be expressed by supra-linear writing for the same reason. Peri is distinguished by retaining the i; it may be regarded as a special case of per.
+
+Examples of these prefixes will be found in the list of ‘Examples of Abbreviations.’
 
 
 
-# Modes
+Replace TH- with Writing Higher
+
+This is an early use of *modes* or position writing.
+
+Initial Th is omitted in all common words. The omission is shown by writing the rest of the word above the line; thus,  the,  they,  this,  them,  tho’,  that.
+
+Exception: The character a  written above the line stands for the word and.
+
+
+
+## Abbreviate common endings
+Some common terminations are abbreviated as shown in the following list:
+
+Ed. The e may generally be omitted; thus,
+
+ us’d
+
+ kiss’d
+
+ stirr’d
+
+Ful  fl
+
+ useful
+
+ beautyfully
+
+Hood  hd
+
+ manhood
+Ing  ing
+
+ using
+
+ saying
+
+ seeming
+
+This form is used only for the inflection -ing and not in such words as  king; cp.  sing,  singing.
+It is better to curve the stroke, thus , after d, m, n, t, v, and vowels [here including y as in “scrying”].
+Ight  t, below
+
+ night
+ light
+Ion  un, dotted if necessary
+
+ action
+Ity  y, above
+
+ ab(il)ities
+ pec(uliar)ity
+Less  ls
+
+ thankless
+ fearlessness
+Ly  y below
+
+ nearly
+ easily
+ dailies
+Ment  mt
+
+ comment
+ arrangement
+Ness  ns [J: Don’t use this. Write ness as detached ess instead per the general method of abbreviation. See ‘ness’ in the Supplement. Then per that method use ns for ations.]
+
+ happyness
+ thoughtfulness
+Ough  o’
+
+ ought
+ brought
+Ther  hr
+
+ others
+Ward  ard
+
+ towards
+[J: Note that each links to itself, to aid in teaching fellow writers.]
+
+The General Method
+The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus,
+
+ dif(feren)t
+
+ dif(feren)ce
+
+ ack(nowledge)
+
+ esp(eciall)y
+
+ cir(cumstan)ce
+
+ extr(aordinar)y
+
+ rep(resentati)ve
+
+In many cases the termination may be joined, as in the last three examples.
+
+## Phrases
+Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [of common words in the next section]: ex. gr.
+
+ able to do
+ as it is
+ I am not
+ I have had
+ I shall be very
+ to be
+ ought to have been
+ with a view to
+
+ 
+# Abbreviations for Common Words
+The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand. [J: Note that each links to itself, to aid in teaching fellow writers.]
+
+ab(ou)t 
+
+al(way)s 
+
+(a)m 
+
+I’m 
+
+am(oun)t 
+
+an (or a) 
+
+and 
+
+a(n)y 
+
+ar(e) 
+
+wer(e) 
+
+b(e) 
+
+b(ee)n 
+
+bec(ause) 
+
+betw(een) 
+
+b(u)t 
+
+ca(n) 
+
+ca(n)-b(e) 
+
+ch(il)d 
+
+c(oul)d 
+
+d(o) 
+
+d(oe)s 
+
+d(ow)n 
+
+ever (raised r) 
+
+f(or) 
+
+f(or)m 
+
+f(rien)d 
+
+g(oo)d 
+
+gr(ea)t 
+
+ha(ve) 
+
+h(a)d 
+
+m(a)de 
+
+m(igh)t 
+
+mo(re) 
+
+m(o)st 
+
+n(o)t 
+
+c(a)n’t 
+
+n(oth)ing 
+
+o(f) 
+
+o(f-th)e 
+
+(o)n 
+
+(o)nly 
+
+(o)ne 
+
+(o)nce 
+
+pe(r)h(aps) 
+
+r(igh)t 
+
+rou(nd) 
+
+se(l)f 
+
+s(el)v(e)s 
+
+sha(ll) 
+
+she 
+
+sh(oul)d 
+
+thems(el)ves 
+
+theref(ore) 
+
+thing 
+
+thro’out 
+
+t(o) 
+
+int(o) 
+
+u(nder) 
+
+w(ee)k 
+
+w(oul)d 
+
+wh(ich) 
+
+(wi)th 
+
+y(ou) 
+
+y(ou)rs 
+
+## Modes, Including Prefix
+
+
+
+
+
+
+## End of Ordinary Style
+
+You are now ready to read the material written in the Ordinary Style. https://orthic.shorthand.fun/reading . You are also ready to start building speed. I strongly suggest you start with existing well-written material, and follow Swem's guidelines for regular review of the rules.
+
+
+If you create your own material, let it sit for at least a day, then read it carefully and rewrite it before building speed with it. If you write something wrong at this stage, it will be hard to retrain your hand correctly. The Reddit Orthic and Shorthand Communities, and Discord's International Shorthand Society, have Quote of the Day (QOTD) and Quote of the Week (QOTW) which often have comments and corrections.
+
+## Application to Foreign Languages
+
+The Manual suggests a few changes for several languages, but mostly relies on translitteration to the standard English alphabet.
 
 
 
