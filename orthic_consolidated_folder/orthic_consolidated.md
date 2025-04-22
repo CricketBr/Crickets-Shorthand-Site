@@ -27,7 +27,7 @@ Revison date .....
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
-The existing publications have a few deficiencies:
+In keeping with tradition, this book begins with a list of the deficiencies of previous books.
 - Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement and a Teaching booklet (with a few more abbreviations). Then Clarey merged them (and added still more abbreviations).
 - Minimal guidance for studying.
 - Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
@@ -38,9 +38,12 @@ This book attempts to be useful to both new and advanced learners, and is organi
 
 - Alphabet. One to one conversion of letters to symbols. After this you will be able to write, but many joins will be awkward. Keep reading.
 - Joins. When you finish this section, you will be at the Fully Written level. Speedbuilding at this level is not advised. Excessive practice will train your hand and brain to write fully – even when it’s not necessary. Do the exercises as described, so you are 80% comfortable with the basics, then move on.
+- Basic. This adds a few rules and abbreviations that are definitely worth learning, comparable to the Supplement's Ordinary
+
+- 
 - All the Rules. This lists all the rules in alphabetical order.
 
-- Basic. This adds a few rules and abbreviations that are definitely worth learning, comparable to the Manual's Ordinary
+- Basic
 - Intermediate. This level adds more rules and abbreviations.
 - Reporting. 
 - 
@@ -205,15 +208,49 @@ Teaching recommends only 15 minutes a day in addition to the lesson (which I ass
 
 # The Alphabet
 
-# Sizes
+## Sizes
 
 The Manual claims that there are only two sizes. This is incorrect. Most shapes have only two sizes, but not all small shapes are the same size. Most shapes have two widths in the alphabet, but a tiny horizontal tick can be used to make joins easier, and many have "very wide" version.
 
-```???``` suggests that large letters be three times the size of small letters, but most examples show the size is only doubled. Use what works for you.
+Teaching suggests that large letters be three times the size of small letters, but most examples show the size is only doubled. Use what works for you. Some prefer to write very precisely, others are satisfied by readable.
 
 Clarey(p3) says "The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big.
 
-```Single big table```
+```Single big alphabet table```
+
+Don't stop reading yet.
+
+# General Rules and Observations
+
+Vowels are all forward-motion strokes. Consonants are mostly vertical.
+
+## Doubled Letters
+
+Doubled letters are shown, not by repeating the character, but by putting a dot below. Exception: ee.
+``` odd, too, ee, sleep, peep, pup
+
+## Orthographic Spelling
+
+All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks. All the more common and important joinings are fully explained and illustrated in ‘How to Write and Join the Characters’. -- The Manual
+
+## Diphthongs
+
+
+
+dividing
+punctuation
+capitals
+
+diphthongs
+
+Keep reading.
+
+# How to Write and Join the Characters
+
+Do not add unnecessary angles between characters. Learn to write and recognize groups of letters.
+
+
+
 
 
 
