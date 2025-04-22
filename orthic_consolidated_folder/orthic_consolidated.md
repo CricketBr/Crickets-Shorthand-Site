@@ -80,7 +80,7 @@ Reading and copying the samples in the source documents will help "lock in" the 
 
 ```Figs: Orthic written by Callendar, Stevens, Clarey,  Pitman accent, Gregg accent, and my own.```
 
-From The Manual (as rendered by Jeremy W. Sherman)
+From The Manual
 
 > The present system is an adaptation of the alphabet and principles of Cursive Shorthand to the common orthography.
 > 
@@ -151,6 +151,8 @@ cricket's shorthand tips
 
 Most of these, and some contributions from the community, are available on (orthic.shorthand.fun) .
 
+Wording and examples are a mix of all sources and the author. If no reference is given, the rule is first written in the Manual.
+
 ### Cursive, sometimes called Phonetic Cursive
 A Manual of Cursive Shorthand,\
 Hugh L Callendar, 1889.\
@@ -163,6 +165,8 @@ Hugh L Callendar, 1891.\
 https://orthic.shorthand.fun/manual \
 “Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.”
 This book has three levels: Fully-written, Ordinary (simple rules and abbreviations), and Reporting (a collection of ideas).
+
+Jeremy W Sherman rendered it into Markdown, and added a few clarifications.
 
 ### The Supplement
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], \
@@ -204,11 +208,78 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 
 # Practice Schedule
 
-Teaching recommends only 15 minutes a day in addition to the lesson (which I assume is weekly). A full hour would be better, but, like all mental/physical skills, a daily short session is better than a single long one.
+Teaching recommends only 15 minutes practice a day in addition to the lesson (which I assume is weekly).
 
 [Swem](https://cricketb.wordpress.com/2020/02/12/systematic-speed-course-for-advanced-writers-swem/) recommends an hour a day, five days a week, with the first 15 minutes dedicated to a systematic review of the text, and the rest to one or perhaps two passages. He further recommends another two hour-long sessions a week, each divided into practicing new "phrases and expedients" from books, and "taking dictation from new material and reading it back."
 
+As with all physica/mental skills, regular short practice is more effective than a few long, widely-spaced sessions.
+
 # The Alphabet
+
+
+
+```Single big alphabet table```
+
+Keep reading.
+
+# General Rules and Observations
+
+## Write Smoothly
+
+The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks. All the more common and important joinings are fully explained and illustrated in ‘How to Write and Join the Characters’. -- The Manual
+
+Learn to write and recognize groups of letters. The goal is to think of letter groups and entire words or even phrases as single units. "OP" looks like the number 7. "PH" looks like the number 6. When doing math, we write 7 and 6 in a single motion. It should be the same with shorthand. -- Cricket
+
+## Doubled Letters
+
+Doubled letters are shown, not by repeating the character, but by putting a dot below. Exception: ee.
+``` odd, too, ee, sleep, peep, pup  ```
+
+## Orthographic Spelling
+
+All words, when written in full, are spelt according to the common orthography. 
+
+## Diphthongs and Vowels
+
+Vowels are all forward-motion strokes. Consonants are mostly vertical.
+
+When two or more vowels come together forming a ‘diphthong’,  the angle between them is slurred or rounded off into a continuous curve. (Similar applies more than two vowels.)
+```
+ai = ,  oy = ,  ou = ,  eau = 
+```
+When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words 
+```  re-enter, Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.
+```
+Do not overthink this. If in doubt, ask how 7 year old would write it. -- Cricket
+
+## Dividing a Word
+
+A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words.  
+```
+lawsuit,  Woolwich,  virgin, bagpipes
+```
+## Punctuation
+Punctuation is effected in the usual way, except the Hyphen , and the Dash . (They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A (“and”) and raised O (“though”). -- Jeremy)
+
+
+## Initial Cappitals
+
+Initial capitals are marked thus using a long stroke falling from midline to baseline at 30 degrees from horizontal. 
+
+Compare the Manual
+```
+Jack,  Clay,  S.E.,  L.S.W.R.
+```
+to Clarey
+```
+egs -- line goes through the letters
+```
+
+Keep reading.
+
+# How to Write and Join the Characters
+
+This section will, with very little effort, make your writing much smoother. It is the last material for the Fully Written level.
 
 ## Sizes
 
@@ -218,54 +289,261 @@ Teaching suggests that large letters be three times the size of small letters, b
 
 Clarey(p3) says "The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big.
 
-```Single big alphabet table```
+## A
+A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay.
+Ay may be curved either way. The form under-ay is used whenever it joins more clearly or easily than the form over-ay, as after D T J Qu M N V  thus,  days,  quay; cp.  says,  hay. (So basically, use the smoothed y-a form after forward horizontal curves and after descenders. See also when to use the curved -ing, which is basically a double-size smoothed y-a. -- Jeremy)
 
-Keep reading.
+B  is written like the letter lowercase cursive b, but with a more open loop and without the hook upwards at the end. It forms the compounds:
 
-# General Rules and Observations
+bd   rob’d
 
-## Doubled Letters
+bj   object
 
-Doubled letters are shown, not by repeating the character, but by putting a dot below. Exception: ee.
-``` odd, too, ee, sleep, peep, pup  ```
+bl   able
 
-## Orthographic Spelling
+br   bray
 
-All words, when written in full, are spelt according to the common orthography. The characters are to be joined together smoothly, without lifting the pen, or making any unnecessary angles or breaks. All the more common and important joinings are fully explained and illustrated in ‘How to Write and Join the Characters’. -- The Manual
+bs   absurd
 
-## Diphthongs
+bt   subtract
 
-Vowels are all forward-motion strokes. Consonants are mostly vertical.
+bv   subvent
+
+C  is written like the letter c, but it is not turned up at the end, unless followed by e.
+Ch  is written and joined exactly like the longhand letter o; thus,  chair,  Christ,  ache, cp.  ahead.
+Other compounds are:
+
+ck   suckle
+
+cl   close
+
+cr   crutch
+
+ct   act
+
+D  and  t have similar characters, but that for d is made much flatter, and about three times as long. It forms the compounds:
+
+dge   judge
+
+dj 
+
+dle   fiddle
+
+dr   dread
+
+dv 
+
+dw   dwell
+
+(The Supplement published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given. -- Jeremy)
+
+E  is a short upstroke; it must not be confused with  s, which is written downwards.
+Ea ea, both over and under may be curved either way like ay. The form under-ea is used except after MNPSYB. An angle must always be made after over-ea before td or s; thus  seat,  seas,  eat,  real,  pearl,  years. [Yes, this means the default form for ea is a smoothed a-e, so it’s usually backwards. You only use the smoothed e-a form after the consonants – including y and excepting c – in “subcompany”.]
+The diphthongs ee , ei , ie  are all written upwards much more steeply than u.  steep, cp.  stupid. eu , ew   new.
+F 
+F is joined without an angle after vowels; thus, with i rounded out to flow straight into f if (not stiff i, awkward corner, f).
+It is joined to following characters like the longhand letter s; thus,
+
+ft   soft
+fd   puff’d
+fl   rifle
+fr   afraid
+fs   skiffs
+G  is like the left-hand half of a capital G. It forms the compounds:
+
+gh   high
+gl   glory
+gr   agree
+gn   sign
+H  is a large circle or backward loop beginning at the bottom. It is distinguished from ch  by the way it is joined; thus,  hat,  chat,  what,  which
+
+I  is a short upstroke, like e, but dotted.
+ia  may be curved either way like ea; thus, social, optician; chief.
+J  is like the letter j, but is not dotted.
+
+K  is like g, but is turned the other way. It is joined in the same way as f.
+
+L  is a small circle or loop like  r, but is turned the opposite way, clockwise. [Jeremy: L leaps clockwise and hangs below, R runs in reverse and stands above.]
+When standing by itself as an initial,  L is distinguished from  R by prefixing a short hair-stroke showing the way it is turned.
+In other cases the distinction is obvious; cp.
+
+	black		bread
+	clay		crow
+	addle		dry
+	flow		fro
+	glad		grade
+	play		pray
+	little		litre
+	slay		Israël
+	held		herd
+	world		already
+Other compounds are:
+
+lf   half
+lk   walk
+lp   help
+lt   wilt
+lv   salve
+M  is like  n, but much longer and flatter.
+
+mp   imply
+mb   limb
+ms 
+N  is like the first hook of the letter n.
+No angle need be made in the compounds:
+
+ng   singer
+nsp   inspect
+Other compounds are:
+
+nc   since
+nch   inches
+nd   India
+nf   infer
+nj   injury
+nl   unless
+ns   sense
+nt   sent
+nk   sink
+nqu   inquest
+nv   invent
+O  is made about three times as long as  a.
+Oa is distinguished from o by writing the  a above; thus,  oar, cp.  or;  oak.
+Other compounds are:
+
+oi   toil
+ou   out
+oy   boys
+P  is a long downstroke, like the upper half of the stroke of the letter lowercase p in cursive longhand. It is made about three times as long as  s.
+In joining  s before and after  p, the s-tick is sloped backwards; thus
+
+sp   spear
+ps   cusps
+Other compounds are:
+
+ph   phrase  phlegm
+pl   place
+pr   present
+pt   depth
+phth 
+Qu  is like the lower loop of the letter lowercase f in cursive longhand; it is turned the opposite way to  j.  esquire.
+
+R  is a small circle like  L, but is always turned the opposite way, like the loop of the longhand letter lowercase e in cursive longhand. For examples, see L.
+The compound  rce is written like the initial lowercase e in cursive longhand form of the longhand letter e; thus,  fierce. (I’ve never seen this style of cursive e used outside Callendar’s own writing. It is like the uppercase cursive E made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the e. The result is basically the counter-clockwise Orthic r sitting atop a half-height Orthic c with a rise at the end for the e. -- Jeremy)
+Other compounds are:
+
+rd 
+rt 
+rf 
+rk   work
+rn   learn
+rp 
+rs 
+rv 
+S  is a short downstroke like the tick at the beginning or end of a capital S.
+When standing alone, as an initial, it is written straight down, thus a short, vertical stroke, to distinguish it clearly from the short, forward-slanted stroke e; cp.  S.E.
+In the compound Sh  the h circle is made smaller for neatness; sh as in sha, where she a leaves from the middle of the s - "touch and reverse" -  is distinguished from sr as in sra, where the a leaves from the bottom of the s - "spin around and continue" - by the way it is joined; thus; cp.
+ shed-  Tisri-  shred-  school
+Other compounds are:
+
+sc   scent
+sk 
+sl   slew
+sm 
+sn 
+sp   sphere
+squ   square
+st   still
+sw   answer
+T  is like the hook at the end of the letter t.
+Th  is written like the letter d. [Jeremy: That’s a looped-through version of the d Callendar often writes at the end of a word, as seen for example in “end” . That word also shows the funky e Callendar uses to explain how to write the compound rce.]
+At the end of a word, the circle of the h need not be completed; thus,
+
+ with
+
+ both
+
+Other compounds are:
+
+tch   sketch
+tle   turtle
+tr   truth
+tw   two
+U  is a long up-stroke on a flat slope, making an angle of about  30° with the line.
+U  is distinguished from ee  by being written much less steeply; cp.  seen,  sun.
+Dipththongs
+
+ua   guard
+ui   suit
+V  is distinguished from  ste by its size; cp.
+
+ minster
+
+ Minver
+
+ stew
+
+ view
+
+W  is an upward hook, which may be turned either way.
+The first [clockwise] form is always used at the beginning of a word, except before r. Thus
+
+ way
+
+ woe
+
+ wet
+
+cp.  write
+
+wr  is distinguished from  th by its size.
+wh  is made by enlarging the w hook so as to look like the h- circle; cp.  who,  ha.
+ws ; at the end of a word the addition of the s tick to the w hook forms a loop; thus
+
+ sews
+
+ cows
+
+ laws
+
+Other compounds are:
+
+wk   hawk
+wl   owls
+wn   dawn
+X 
+No angle need be made in:
+
+xh   exhort
+xp   expense
+xt   extent
+Y 
+
+ yacht
+
+ yet
+
+ yore
+
+ yule
+
+Z 
+
+ daze
+
+ Fitz
+
+ puzzle
 
 
-When two vowels come together forming a ‘diphthong’, the angle between them is slurred or rounded off into a continuous curve; thus,  .
-```
-ai = ,  oy = ,  ou = ,  eau = 
-```
-When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words  re-enter, 
-```Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.```
+
+# End of Fully Written
+
+Your are now ready 
 
 
 
-
-
-
-dividing
-punctuation
-capitals
-
-diphthongs
-
-Keep reading.
-
-# How to Write and Join the Characters
-
-Do not add unnecessary angles between characters. Learn to write and recognize groups of letters.
-
-
-
-
-
+# Modes
 
 
 
