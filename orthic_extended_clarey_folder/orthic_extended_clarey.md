@@ -37,7 +37,7 @@ the above needs work
 
 # Editor's Notes
 
-> The images are all to the same scale. The blue lines are aligned to the typing, *not to the shorthand*. This was the easiest dimension to keep consistent throughout the book. Note that the original shorthand is not always precicely on the baseline.
+> The images are all to the same scale. The blue lines are aligned to the typing, *not to the shorthand*, and not . This was the easiest dimension to keep consistent throughout the book. Note that the original shorthand is *not* always precicely on the baseline due to the curve of the original scans.
 >
 > For the Next Editor: There are exactly two heights of images. One shows just the baseline and one guideline above that. Cropping was done by eye, approximately half-way between typed lines. The tall one shows those lines, and also the preceding baseline and the following guideline.
 
