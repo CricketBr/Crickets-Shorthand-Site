@@ -18,10 +18,12 @@ Original document maintained at
 https://github.com/CricketBr/shorthand/blob/main/orthic%20consolidated \
 -- may revise this to be shorthand.fun
 
+```
 copyright, 
 add in
 
 Revison date .....
+```
 
 # Introduction to Orthic Consolidated
 
@@ -218,11 +220,9 @@ Clarey(p3) says "The actual size of the characters may be varied according to ci
 
 ```Single big alphabet table```
 
-Don't stop reading yet.
+Keep reading.
 
 # General Rules and Observations
-
-Vowels are all forward-motion strokes. Consonants are mostly vertical.
 
 ## Doubled Letters
 
@@ -235,8 +235,11 @@ All words, when written in full, are spelt according to the common orthography. 
 
 ## Diphthongs
 
-When two vowels come together forming a ‘diphthong’, the angle between them is slurred or rounded off into a continuous curve; thus,  ai = ,  oy = ,  ou = ,  eau = .
+Vowels are all forward-motion strokes. Consonants are mostly vertical.
 
+
+When two vowels come together forming a ‘diphthong’, the angle between them is slurred or rounded off into a continuous curve; thus,  ai = ,  oy = ,  ou = ,  eau = .
+``` ```
 When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words  re-enter,  Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.
 
 -- the Manual
