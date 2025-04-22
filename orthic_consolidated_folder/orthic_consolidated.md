@@ -27,13 +27,33 @@ Revison date .....
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
+The existing publications have a few deficiencies:
+- Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement, and a Teaching booklet (with a few more abbreviations), and then Clarey merged them (and added still more abbreviations).
+- Minimal guidance for studying.
+- Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
+
+This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
+
+This book is organized as a reference book. Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Where the books did not agree on the level of a rule, I assigned the level based on complexity and frequency. I might make separate documents later: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents. 
+
+New writers should do the book in multiple passes. First
+
+...
+alphabet
+joins
+basic rules
+advanced
+
+
+
+
 In deciding what type of book to write, the author considered both an instructional manual (with information presented in an order most useful for those new to the subject), and a reference manual (most useful for advanced students needing to find an outline once given the standard orthography, and the standard orthography once given an outline). In the past, she has been taught, and successfuly used, the First Rule of Writing: Select one person as your primary audience.
 
 In an act of most excellent hubris (in keeping with the style of the source documents), she has decided to ignore that most excellent advice. This manuscript is the result.
 
 That language is fun to write but hard to read, so I'll stop.
 
-Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Some of the distinctions are arbitrary, especially the rules added by Clarey. Once the writing is complete, I might make separate documents: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents. (Only the earliest source is shown for rules that are in all manuals.)
+
 
 Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
 
@@ -49,20 +69,27 @@ From The Manual (as rendered by Jeremy W. Sherman)
 > 
 > ...
 > 
-> The writing requires no great niceties of penmanship. No distinction is made, as in other systems, between thin strokes and thick. Only two sizes of character are employed, instead of three or four. The vowel characters are connecting strokes joined in their natural order together with the consonants. The great majority of the signs are written on the ordinary slope of longhand, and the forms and distinctions between the characters are such as are already familiar to every one who has learnt to write in the ordinary style. (Cricket: True only at the Fully Written level. More details below.)
+> The writing requires no great niceties of penmanship. No distinction is made, as in other systems, between thin strokes and thick. Only two sizes of character are employed, instead of three or four. 
+>
+> The vowel characters are connecting strokes joined in their natural order together with the consonants. The great majority of the signs are written on the ordinary slope of longhand, and the forms and distinctions between the characters are such as are already familiar to every one who has learnt to write in the ordinary style.
 > 
-> The system is strictly alphabetic. A letter is always represented by its alphabetic character. There are no alternative hooks and loops, or halving and doubling principles, to puzzle and distract the student. A word can be written in one way only. (Cricket: True only at the Fully Written level. More details below.) The rules are consequently very few, definite, and easy to apply.
+> The system is strictly alphabetic. A letter is always represented by its alphabetic character. There are no alternative hooks and loops, or halving and doubling principles, to puzzle and distract the student. A word can be written in one way only. *(Cricket: True only at the Fully Written level. More details below.)* The rules are consequently very few, definite, and easy to apply. *(Cricket: This does not apply to Clarey's book.)*
 > 
 > In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches the end of the joining rules he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen of the fully-written style, every word of which is spelt in full.
 
-I would argue about the two sizes. At advanced levels there are two vertical sizes and three horizontal sizes. Further details are below, under Size. As for spelling? That's not even true in longhand. Many of us have learned the spelling of multiple countries and corporations, mostly to remove the annoying red squiggles from spellcheck. Even if you standardize on one dictionary, it's only true for Fully Written. At higher levels it depends on how many of the optional abbreviations you use.
+The above isn't strictly true.
 
-The existing publications have a few deficiencies:
-- Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement, and a Teaching booklet (with a few more abbreviations), and then Clarey merged them (and added still more abbreviations).
-- Minimal guidance for studying.
-- Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
+All shapes have two heights. Most have only one or two widths, but some have a third "widest" width at the Abbreviated level.
 
-This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
+Words can be written more than one way. Spelling varies with country, and whether the student is comfortable leaving out silent letters, and how they handle vowels. It becomes even less standard once the optional abbrevations are considered. Even so, if you stick to the Abbreviated level, others (including Future You) will be able to read it.
+
+
+
+
+
+
+
+
 
 This collection of publications does one thing better than most other shorthand systems. It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
 
