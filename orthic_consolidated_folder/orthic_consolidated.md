@@ -227,7 +227,7 @@ Keep reading.
 ## Doubled Letters
 
 Doubled letters are shown, not by repeating the character, but by putting a dot below. Exception: ee.
-``` odd, too, ee, sleep, peep, pup```
+``` odd, too, ee, sleep, peep, pup  ```
 
 ## Orthographic Spelling
 
@@ -238,11 +238,13 @@ All words, when written in full, are spelt according to the common orthography. 
 Vowels are all forward-motion strokes. Consonants are mostly vertical.
 
 
-When two vowels come together forming a ‘diphthong’, the angle between them is slurred or rounded off into a continuous curve; thus,  ai = ,  oy = ,  ou = ,  eau = .
-``` ```
-When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words  re-enter,  Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.
+When two vowels come together forming a ‘diphthong’, the angle between them is slurred or rounded off into a continuous curve; thus,  .
+```
+ai = ,  oy = ,  ou = ,  eau = 
+```
+When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words  re-enter, 
+```Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.```
 
--- the Manual
 
 
 
