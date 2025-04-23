@@ -639,332 +639,229 @@ Use one of the online dictation sites to take dictation on the passage you worke
 ``` links ```
 
 
-## End Lesson Three and Fully Written
+## End Lesson Three and Fully Written Style
 
 Aim for 80% comfort at this stage. It's ok to look up what you don't know. Confidently writing something incorrectly is more of a problem.
 
 You can now write new material. I do not, however, recommend building speed past 30 or 40 just yet, and definitely not building speed on anything with words not presented in the text. Work at this level until you are 80% confident, regardless of speed, then move on, before hand becomes fixed at Fully Written.
 
-## Lesson Four: Basic Abbreviation
+# Lesson Four: Basic Abbreviation
+
+## Leave out a and o before m and n
+Always leave out a and o before m and n; where there are double a’s or o’s leave out one, thus  command,  son, but  soon.
+
+## No need to dot the i
+There is no need to dot the i in simple words,  it.
+
+## Initial Th is omitted
+Initial Th is omitted, and the rest of the word written above the line, thus  = the. Why? Because were the Th written, the succeeding letter would come as placed, above the line. E.g. , delete the Th, . What is left and where , hence the rule. Th in any other part of the word is written, except in the compound word “although”, which is written . The only case of a word written above the line and not presupposing initial Th is the word “and” signified by  a, written above the line.
+
+## Inflections with y retain the y
+In adding inflections y retain the y, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
+
+## Common terminations
+Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
+
+All terminations, from all books (except Revised, which has not yet been processed), are in the
+``` dictionary ``` sorted in order
+
+-ed
+leave out the e; as used = us’d .
+
+-ful
+leave out the u;  useful, ; this last example, beautiful, shows one reason for retaining the y in the inflected word, “beautyfull”.
+
+-hood / –head
+hd only; .
+
+-ight
+t !](/assets/teaching/pt1/fig4-15.png) [below the line. But surely this is an arbitrary rule? No. Follow the writing in light, sight, bright, frighten, etc., ; now erase the ‘igh’, ; what is left and where? Why ; hence the rule. It is better to show the vowel after l and r, so as to show which consonat it is by the way it is turned, as .
+
+-ion
+this termination is shown by  = ion; .
+
+-ation
+is a common ending, and it is wise to shorten it as much as possible, therefore use detached n  to represent this termination, as .
+
+-ity / -ly
+-ity = y above the last letter
+
+-ly = y below last letter
+
+Why? because the would be there if the whole word was written; thus , erase ‘it’ and ‘l’, and we get .
+
+-less
+ ls, as in longhand.
+
+-ness
+es, .
+
+-ment
+mt .
+
+-ough
+this ending, as is well known, has many ways of being pronounced, but for the sake of simplicity and uniformity we take the common “tho” as equivalent for “though”. Hence o  = ough; so we get  as representing ought, thought.
+
+-ther
+slur the t  into the h  circle and put the r inside, thus ,  other.
+
+-ward
+leave out the w, as a seaman say for’ard for forward, .
+
+## Conclusion - General abbreviation rule
+Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this further rule:
+
+In abbreviating words it is usual to follow the longhand method of writing the first syllable, or distinctive feature of the word, and add the ending, detached or joined as may be the most convenient for future reading.
 
 
 
 
+Lesson 5: Common abbreviations
+Introduction
+Now teach the abbreviations given on page 18 of the Manual. These are common words. Show that the abbreviation here used is in accord with the generally accepted longhand abbreviation.
 
+Ever
+Draw attention to  = ever : this appears an arbitrary; it is not; students will see the logic at the next lesson.
 
+ou for ound or ount
+Show the importance of  ou standing for ound or ount. Emphasize this by such words as
 
+ pound,
+ sound,
+ count; hence
+ counter,
+ county,
+ country.
+Common words
+Add the following common words:
 
+ aso = also,
+ ea = each,
+ ay = any.
+ is because, therefore  = cause.
+ being child,  = children.
+ = from, show clearly that  being for,  is form, not from.
+ = great,
+ = much (ch curled inside),
+ = that (th left out and t written above the line),
+ = already,
+ = acing = according,
+ = after,
+ = bth = both,
+ el = else,
+ e’en = even,
+ = except,
+ lp = help,
+ kn = know,
+ lile = little,
+ ler = letter,
+ pt = part,
+ s = sir,
+ rk = work,
+ = word,
+ = both would and world.
+Conclusion
+Point out that words similar to those given above can be treated in the same way as such like much; party , etc.
 
-# Ordinary Style
-The original Ordinary style, recommended for use "used in correspondence and in ordinary writing," consists of four rules 13?? endings, the General Method of Abbreviation (and a warning not to over-use it), several phrases, and a list of common abbreviations.
+Lesson 6: Introduction to modes, first mode
+Lesson prerequisites
+This lesson should not be attempted until the preceding ones are thoroughly known and the students can write fairly quickly in the style abbreviated up to this point; and, further, can read the second Book of the Psalms which is written in this abbreviated form.
 
-## Omit A and O before M and N
-The vowels **a** and **o** are omitted before m and n, except initially and in rare words; thus,  c(a)n or c(o)n,  al(o)ne,  w(o)m(a)n. An omission of this kind can always be corrected, if desired, by writing the omitted character above; thus,  b(an)d,  b(o)nd.
+Lesson overview
+This being accomplished, the teacher can take the pupils on to supra and sub linear writing as detailed in this lesson.
 
-This sounds scary, but works well. If there is no vowel written, then the vowel is either **a**, **o**, or a minor vowel (if the writer trained in another system that leaves out minor vowels).
+The modes
+There are three modes of writing a word, either
 
-Note: **Can*** has a separate abbreviation, listed below.
+above,
+on, or
+below the line.
+Th, vowel V vowel (Eve)
+We have explained one example of writing above the line, in the case of initial Th, see Lesson 4. It is however possible to use this method in other cases without running any risk of clashing, while it is clear that the use of mode writing is a great saving in time.
 
-## Drop the Dots
-We rarely need to know that a letter is doubled in order to read the word. If a word does not make sense with an **e**, try an **i**. Again, this sounds scary, but works very well in practice. Gregg leaves out most minor vowels, and uses the same symbol for short-e, long-e, short-i.
+Th
+Use mode 1 only when initial, except in the case of the word although 
 
-## Let -Y stand unaltered
-In adding inflections to words ending in y, the y is not changed to i or ie; thus,  applyd,  trys,  easyst,  happyr.
+Eve (vowel V vowel)
+It is clear that the shorthand characters eve  must throw everything following the final e above the line, and it is also evident that such words cannot clash with that peculiarity of the English language Th, except in the words even and then, which has been provided for above.
 
-## Write Common Prefixes Above the Line
+Therefore apply the rule Mode 1, and wherever vowel v vowel come, in any part of a word, leave them out, and write the rest of the word above the line, just where it would have come had the whole word been written. E.g.  =  given,  loved. N.B. It is better to write the vowel after l and r for reasons similar to those given in Lesson 4, to show the direction in which the consonants are turned.  = evident,  = conceived,  = ever. See paragraph 2, Lesson 4.
 
-## Supra-Lineal Writing (aka Writing Above the Line)
-The Manual uses this only for TH at the Ordinary level. The Supplement suggests broader use. Using this for prefixes is a special case of writing with Modes, where letters replaced by a slight gap, and indicated by writing the remainder of the word at a different level. Further details on that are in the secton on Modes.
-
-### Eve
-ever
-every, evening, evnet , evident, evil
-Exception: Even is written e’en , to distinguish it from than or then.
-
+But how about a word ending in ave, ove, etc. only? What is Euclid’s definition of the end of straight lines? A point, is it not? Shorthand e  is a straight line; the end of that straight line  is a point; therefore write the point. Thus  give,  love,  rove.
 
 Be
-This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line.
+As there is a very close relation between V and B, and as words with the prefix “be” belong to a special English class, we may without fear use Mode 1 to indicate the prefix “Be”. This abbreviation is only to be used when “be” is a distinct prefix, as  = behold; it would be incorrect to write  for bead, this would be Be-ad, not bead. By the same reasoning as the dot indicating vowel-v-vowel so the verb “be” may be shown by a dot; thus ; the only liberty taken in using this prefix “be” is in the common words been, better, best, and by which are written , respectively.
 
-The word be is expressed by a dot above the line ; been and being by n  and straight ‑ing ; the former will not be found to clash with than.
+ = bring, compare crooked ing  for thing.
 
-Note: This is used only for words with be as a prefix, not 
+Per pre pri pro and peri para
+As stated, supra linear writing is very useful for rapidity, and if other prefixes can be found that cannot possibly clash with the rules laid down, they may with advantage be safely indicated by this mode. Such are found in words derived from the Latin and Greek languages. We thus get the prefixes per, pre, pri, and pro from the Latin, and peri and para from the Greek; all of which may be expressed by Mode 1.
 
-Per-, pro-, pre-
-These prefixes, being Latin, will not clash with any of the above English prefixes, and may be expressed in the same way with great saving of time and space. [E.g.  person,  present,  promise.]
+Lesson conclusion
+See that the pupils thoroughly appreciate the supra-linear writing; the gain in time; no clashing possible. Thoroughly understand th, be, per, pre, pri, pro, peri, para are indicated only when initial, prefixes, or quasi-prefixes. Vowel ve can be indicated in any position in the word.
 
-Pre- and pro- are distinguished from per, if necessary, by retaining the vowels e and o. The cases, however, in which it is necessary to make the distinction are very rare.
+Lesson 7: Second and third modes
+Introduction
+Today we take the second and third modes of contraction, that is, on the line, and below the line.
 
-When any of these prefixes occur in the middle of a word after another prefix, as in the words unbelief, compromise, etc., they are expressed by Mode (1), that is to say by writing the terminal portion of the word close above and to the right of the initial prefix. [E.g.  comprehend.] In the prefixes super, supra, hyper, the per is similarly expressed.
+On the line
+The common primitive con or com may be expressed by a dot on the line, or by leaving it out altogether, and writing the rest of the word quite close to the preceeding word, as , , or  = I commend.
 
-The allied prefix pri may be expressed in the same way as pre in some common words. [E.g.,  private.]
+For other abbreviations by this mode, it is only necessary to use the accepted longhand style, and to follow the rule laid down in the Manual of writing the important part of the word, and the termination, e.g.  = different,  difference,  ultimo,  interest, and so on.
 
-Para, peri
-These Greek prefixes may also be expressed by supra-linear writing for the same reason. Peri is distinguished by retaining the i; it may be regarded as a special case of per.
+In words having the combination dj leave out the d, in tch leave out the t.
 
-Examples of these prefixes will be found in the list of ‘Examples of Abbreviations.’
+Below the line
+Sub linear writing is writing below the line. We have already had an example of this, with the reason, in  = ight. From this we can easily draw another rule - in the combination dge, age, gn, or gram it is clear that equally as in the case of “ight”, the g, as part of the termination or syllable, throws the rest of the word below the line, e.g.  = for gn = foreign,  age,  magnify, etc.
 
+The only other cases of sub-linear writing up to this point are the words ‘take’ and ‘sake’ and their inflections, which are written !](/assets/teaching/pt1/fig7-12.png), etc. The *k* throws [below the line, but in no other case is the k so treated.
 
+Lesson 8: Slurs
+Slurs mb dv
+We have now to study the “slurs” commonly used. Notice the combination  mb, if we can get an outline that will embrace both these, preserving the character of the outline - the greater you know will always include the less, this axiom is the basis for the common slurs - time will be saved. We thus get a character like this  = , and this outline does stand for mb, as  = member. This character has too its analogue below the line; look at , one outline  will embrace both.
 
-Replace TH- with Writing Higher
+So we get these aids to writing  for the combination mb,  for dv.
 
-This is an early use of *modes* or position writing.
+Slurs mm/mn, dd, dt, and td
+Again, mm or mn often come together when by the rule the vowel is left out, as in the word man, , now one large curve will embrace both .
 
-Initial Th is omitted in all common words. The omission is shown by writing the rest of the word above the line; thus,  the,  they,  this,  them,  tho’,  that.
+Similarly dd, dt, or td may be represented by a large .
 
-Exception: The character a  written above the line stands for the word and.
+T slur rule for count, country, duty
+We have seen that as  = count, therefore  = county, we therefore extract a rule t may be slurred in such words as duty, bounty, etc.
 
+L slurred with T in wealth, health
+L may be slurred with the t in such words as wealth, health, etc., and the softly sounding vowel in terminations such as “al”, final , “er” in upper , etc.
 
+Lesson 9: Conclusion
+Where the student is now
+The pupils should with their present knowledge be able to write in supplement style, at least 60 words per minute, and to read fluently the Third Book of the Psalms, and the Magazine, and to correspond rapidly with any member of the Cambridge Shorthand Society.
 
-## Abbreviate common endings
-Some common terminations are abbreviated as shown in the following list:
+What to do in this lesson
+The only thing to be done on this concluding lesson is to draw the students attention to the list of recognized contractions as issued by the Society, to assist them in phrasing and to consider a few general terminations.
 
-Ed. The e may generally be omitted; thus,
+Two rules for speed and perfection
+The two following rules should suffice to enable any student to acquire such perfection and speed that he is then able to study the suggestions given elsewhere for reporting.
 
- us’d
+First rule
+The first rule applies to phrasing, and it is, “words that are closely connected in sense may generally be joined together, and sometimes slurred.
 
- kiss’d
+Examples:  = I should have been,  = with a view to,  = able to do so,  = as soon as, etc.
 
- stirr’d
+Second rule
+The last rule is an important one and should be thoughtfully remembered. “Never try to contract if it is easier to write in full or if it produces hesitation.”
 
-Ful  fl
+Common terminations and how to deal with them
+Common terminations such as ent, ency, ence, graph, ism, ship, mise can be easily written shortly by using only the last letter or two, as t, cy, ce, ph, m, p, se.
 
- useful
+Use The Teacher with Manual and Supplement
+The “Teacher” should be used in conjunction with the Manual and Supplement; these books will fill in detail the hints here given.
 
- beautyfully
+How to use The Teacher for teaching
+Teachers of Orthic will use their discretion as to the dovetailing of these lessons according to the class and progress of their students; make them read equally with their writing; don’t let them worry about trifles, for there should be no conscious thought, for this produces hesitation and loss in time.
 
-Hood  hd
-
- manhood
-Ing  ing
-
- using
-
- saying
-
- seeming
-
-This form is used only for the inflection -ing and not in such words as  king; cp.  sing,  singing.
-It is better to curve the stroke, thus , after d, m, n, t, v, and vowels [here including y as in “scrying”].
-Ight  t, below
-
- night
- light
-Ion  un, dotted if necessary
-
- action
-Ity  y, above
-
- ab(il)ities
- pec(uliar)ity
-Less  ls
-
- thankless
- fearlessness
-Ly  y below
-
- nearly
- easily
- dailies
-Ment  mt
-
- comment
- arrangement
-Ness  ns [J: Don’t use this. Write ness as detached ess instead per the general method of abbreviation. See ‘ness’ in the Supplement. Then per that method use ns for ations.]
-
- happyness
- thoughtfulness
-Ough  o’
-
- ought
- brought
-Ther  hr
-
- others
-Ward  ard
-
- towards
-[J: Note that each links to itself, to aid in teaching fellow writers.]
-
-The General Method
-The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus,
-
- dif(feren)t
-
- dif(feren)ce
-
- ack(nowledge)
-
- esp(eciall)y
-
- cir(cumstan)ce
-
- extr(aordinar)y
-
- rep(resentati)ve
-
-In many cases the termination may be joined, as in the last three examples.
-
-## Phrases
-Words may often be joined together provided that they are closely connected in sense. This applies especially to common words, auxiliaries, and particles, such as those contained in the list [of common words in the next section]: ex. gr.
-
- able to do
- as it is
- I am not
- I have had
- I shall be very
- to be
- ought to have been
- with a view to
-
- 
-# Abbreviations for Common Words
-The following is a list of the abbreviations for common words used in the corresponding style. Many of them are such as are commonly used in longhand. [J: Note that each links to itself, to aid in teaching fellow writers.]
-
-ab(ou)t 
-
-al(way)s 
-
-(a)m 
-
-I’m 
-
-am(oun)t 
-
-an (or a) 
-
-and 
-
-a(n)y 
-
-ar(e) 
-
-wer(e) 
-
-b(e) 
-
-b(ee)n 
-
-bec(ause) 
-
-betw(een) 
-
-b(u)t 
-
-ca(n) 
-
-ca(n)-b(e) 
-
-ch(il)d 
-
-c(oul)d 
-
-d(o) 
-
-d(oe)s 
-
-d(ow)n 
-
-ever (raised r) 
-
-f(or) 
-
-f(or)m 
-
-f(rien)d 
-
-g(oo)d 
-
-gr(ea)t 
-
-ha(ve) 
-
-h(a)d 
-
-m(a)de 
-
-m(igh)t 
-
-mo(re) 
-
-m(o)st 
-
-n(o)t 
-
-c(a)n’t 
-
-n(oth)ing 
-
-o(f) 
-
-o(f-th)e 
-
-(o)n 
-
-(o)nly 
-
-(o)ne 
-
-(o)nce 
-
-pe(r)h(aps) 
-
-r(igh)t 
-
-rou(nd) 
-
-se(l)f 
-
-s(el)v(e)s 
-
-sha(ll) 
-
-she 
-
-sh(oul)d 
-
-thems(el)ves 
-
-theref(ore) 
-
-thing 
-
-thro’out 
-
-t(o) 
-
-int(o) 
-
-u(nder) 
-
-w(ee)k 
-
-w(oul)d 
-
-wh(ich) 
-
-(wi)th 
-
-y(ou) 
-
-y(ou)rs 
-
-## Modes, Including Prefix
-
-
-
-
-
-
-## End of Ordinary Style
-
-You are now ready to read the material written in the Ordinary Style. https://orthic.shorthand.fun/reading . You are also ready to start building speed. I strongly suggest you start with existing well-written material, and follow Swem's guidelines for regular review of the rules.
-
-
-If you create your own material, let it sit for at least a day, then read it carefully and rewrite it before building speed with it. If you write something wrong at this stage, it will be hard to retrain your hand correctly. The Reddit Orthic and Shorthand Communities, and Discord's International Shorthand Society, have Quote of the Day (QOTD) and Quote of the Week (QOTW) which often have comments and corrections.
-
-## Application to Foreign Languages
-
-The Manual suggests a few changes for several languages, but mostly relies on translitteration to the standard English alphabet.
+The importance of dictation
+Begin to dictate not later than at Lesson 3, and make your dictation applicable to your lesson. In transcribing make a judicious use of the context.
 
 
 
