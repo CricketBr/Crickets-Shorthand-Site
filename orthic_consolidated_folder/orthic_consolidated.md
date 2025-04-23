@@ -34,18 +34,20 @@ In keeping with tradition, this book begins with a list of the deficiencies of p
 - Minimal guidance for studying and goals.
 - Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
 
-This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
+This book addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
 
-This collection of publications does one thing better than most other shorthand systems: It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
+This collection of publications does one thing better than most other shorthand systems: It shows the writing of more than one person. Callendar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
 
 For more examples and discussion, and possible study partners, see (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
+```link discord?```
 
 Sources:
+``` links ```
 - The Manual, A Manual of Orthographic Shorthand, Hugh L Callendar, 1891.
 - The Supplement, Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], Hugh L Callendar, 1892.
 - Teaching, The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand, W Stevens, 1896.
 - Revised, Orthographic Cursive Shorthand (Orthic) Revised, Extended and Improved, E Clarey, 1911.
-Links and descriptions of each book are below.
+Descriptions of each book are later.
 
 This document is structured the same as Teaching but with the material from the other books incorporated and labeled with the source. You may want to stick with the Manual and Supplement. Some of the suggestions in Revised take more time to learn and remember than they save in writing. The wording varies. Sometimes I listed the source. Other times I did not.
 
