@@ -49,7 +49,11 @@ Sources:
 - Revised, Orthographic Cursive Shorthand (Orthic) Revised, Extended and Improved, E Clarey, 1911.
 Descriptions of each book are later.
 
-This document is structured the same as Teaching but with the material from the other books incorporated and labeled with the source. You may want to stick with the Manual and Supplement. Some of the suggestions in Revised take more time to learn and remember than they save in writing. The wording varies. Sometimes I listed the source. Other times I did not.
+This document is structured the same as Teaching but with the material from the other books incorporated and labeled with the source. You may want to stick with the Manual and Supplement. Some of the suggestions in Revised take more time to learn and remember than they save in writing.
+
+I have been inconsistent with crediting the wording for the rules. Sometimes I listed the source. Other times I did not.
+
+I have expanded on the homework suggested in Teaching, to give more guidance for exercises and speed.
 
 # From the Introduction to the Manual
 
@@ -598,7 +602,11 @@ I know you're going to skip the table and move right to the reading. That's ok. 
 
 ## Reading and Practice
 
-Pick one of the following and read it. If you cannot read a word, break it into the component letters, try again, then read the rest of the sentence. Then try the word again, bearing in mind you may have misread a letter. Then check the key. There is no need to struggle with an unknown word at this stage. (Eventually this will be an important skill, but for now quantity is more important than quality.)
+Read the following, spread over several days. 
+
+With Jeremy's addition of Cask of Amontillado, there is enough material that you do not need to read the Psalms. (Stevens was a product of his era. Reading the Psalms did double duty as both shorthand practice and religious duty, and everyone had a copy of the key.)
+
+If you cannot read a word, break it into the component letters, try again, then read the rest of the sentence. Then try the word again, bearing in mind you may have misread a letter. Then check the key. There is no need to struggle with an unknown word at this stage. (Eventually this will be an important skill, but for now quantity is more important than quality.)
 
 Repeat this a few times before writing. It is ok if you remember bits instead of reading them at this stage. You will learn them carefully when you copy them.
 
@@ -626,7 +634,7 @@ Copy the fourth column from the text, so that the last column is accurate. Your 
 
 Some teachers say to copy the third column to the fourth, but I think at this stage it is better to reread the accurate version.
 
-Aim for fluid writing at this stage, but do not worry about speed.
+Aim for fluid writing at this stage. Go just fast enough to keep the pen moving, or a bit faster, but don't push for high speeds.
 
 ### Four Row Method
 
@@ -634,36 +642,54 @@ As above, but begin by writing and leaving 3 or more blank lines between each ne
 
 ## Dictation Practice
 
-Use one of the online dictation sites to take dictation on the passage you worked on. Start at 20wpm, try that a few times, then move up to 25, then 30. You can also start by converting typed copy to shorthand. You don't really need a voice at this stage. Carefully check your writing after each attempt. You will feel some of the common words "lock in" as single thoughts instead of a collection of letters. It feels like cheating, but it's the end goal, much like memorizing multiplication tables vs drawing and counting grids of dots.
+I think dictation practice will do more harm than good at this point, but Teaching recommends it (without speed recommendation) and many students will want to try it. The shorthand systems that recommend early dictation teach the final version of words immediately, and have dictation keyed to the text.
 
-``` links ```
+Do NOT speedbuild new material just yet. Speedbuilding will rapidly lock in the outlines, and it will be hard to unlearn wrong outlines. This also applies to Fully Written outlines that should be replaced with shorter versions. Be sure to check your writing after each take, and drill any problem areas.
 
+Taking dictation before seeing the shorthand is fun, but doesn't help much at this stage. Use material you're already familiar with. 
+
+You don't really need a voice at these speeds. Working from the typed version is fine. If you want to use one of the  dication websites, start with 20wpm. Aim for 90% accuracy before moving up to 25wpm. Be sure to check your work and drill any problem words after each take. 
+```links dictation sites```
+
+You will feel some of the common words "lock in" as single units instead of a collection of letters. It feels like cheating, but it's the end goal, much like memorizing multiplication tables vs drawing and counting grids of dots.
+
+It is not necessary to go past 30 or 40wpm at this stage. For your final take, slow down so you can do it perfectly, just fast enough to keep your pen moving. Your body will remember the final take, and accuracy is more important than speed.
+
+``` links add word count ```
 
 ## End Lesson Three and Fully Written Style
 
-Aim for 80% comfort at this stage. It's ok to look up what you don't know. Confidently writing something incorrectly is more of a problem.
+Aim for 80% comfort and 100% accuracy at this stage. It's ok to look up what you don't know. Confidently writing something incorrectly is more of a problem. It's ok if your forms aren't exactly the shape in the text, but they need to be accurate.
 
-You can now write new material. I do not, however, recommend building speed past 30 or 40 just yet, and definitely not building speed on anything with words not presented in the text. Work at this level until you are 80% confident, regardless of speed, then move on, before hand becomes fixed at Fully Written.
+You can now carefully write new material.
 
 # Lesson Four: Basic Abbreviation
 
 ## Leave out a and o before m and n
 Always leave out a and o before m and n; where there are double a’s or o’s leave out one, thus  command,  son, but  soon.
 
+This is somewhat opposite Gregg, where you leave out vowels that can be reduced to short-e or short-i. -- Cricket
+
 ## No need to dot the i
-There is no need to dot the i in simple words,  it.
+There is no need to dot the i in simple words,  it. 
+
+There is no need to dot the i in many words -- Cricket.
 
 ## Initial Th is omitted
 Initial Th is omitted, and the rest of the word written above the line, thus  = the. Why? Because were the Th written, the succeeding letter would come as placed, above the line. E.g. , delete the Th, . What is left and where , hence the rule. Th in any other part of the word is written, except in the compound word “although”, which is written . The only case of a word written above the line and not presupposing initial Th is the word “and” signified by  a, written above the line.
 
-## Inflections with y retain the y
+
+
+## Inflections with y retain the y ; Y remains unchanged
 In adding inflections y retain the y, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
+
+Only use this rule if it works for you. If it annoys you, then don't. It may depend on your previous experience with other shorthands, or if the standard rule of replacing Y with IES annoys you.
 
 ## Common terminations
 Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
 
 All terminations, from all books (except Revised, which has not yet been processed), are in the
-``` dictionary ``` sorted in order
+``` dictionary ``` sorted in order for easy reference.
 
 -ed
 leave out the e; as used = us’d .
@@ -708,15 +734,32 @@ slur the t  into the h  circle and put the r inside, thus ,  other.
 -ward
 leave out the w, as a seaman say for’ard for forward, .
 
-## Conclusion - General abbreviation rule
-Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this further rule:
+``` merge from manual and supplement and revised ```
 
-In abbreviating words it is usual to follow the longhand method of writing the first syllable, or distinctive feature of the word, and add the ending, detached or joined as may be the most convenient for future reading.
+## General Abbreviation Rule
+
+> In abbreviating words it is usual to follow the longhand method of writing the first syllable, or distinctive feature of the word, and add the ending, detached or joined as may be the most convenient for future reading. -- Stevens
+
+All three authors from the era say something similar. I, writing in 2025, do not, and do not remember it even from my youth, when top executives hired stenographers but most staff wrote longhand and gave their work to the typing pool, who used manual or electric typewriters to make it presentable. Perhaps it was more commonly accepted before typewriters, when everyone had to read and write longhand.
+
+## Homework
+
+## Vocabulary
+
+Add the words and terminations to your vocabulary list, and continue to review and write the list using spaced repetition. This will be part of the homework for all future lessons.
+
+### Writing Option 1 - Update a Fully Written Passage
+
+Choose a Fully Written passage and prepare it for the Four Column method, but replace the words with the shorter versions where you can. 
+
+
+## End Lesson Four
 
 
 
 
-Lesson 5: Common abbreviations
+## Lesson Five: Common abbreviations and Ordinary Style
+
 Introduction
 Now teach the abbreviations given on page 18 of the Manual. These are common words. Show that the abbreviation here used is in accord with the generally accepted longhand abbreviation.
 
@@ -763,7 +806,24 @@ Add the following common words:
 Conclusion
 Point out that words similar to those given above can be treated in the same way as such like much; party , etc.
 
-Lesson 6: Introduction to modes, first mode
+``` merge sources
+maybe move revised forms to Reporting
+```
+This ends the Ordinary Style, as classified by Teaching.
+
+## Homework
+
+As before, add the new words and part-words to your vocabulary list, and work on the entire list using spaced repetition.
+
+Read 
+
+Choose another passage, edit it to include the new material, and write it using the Four Column method. Speedbuild as before if you wish, in moderation. It is better to continue with the theory than spend too much time writing Fully Written material.
+
+
+
+
+# Lesson 6: Introduction to modes, first mode
+
 Lesson prerequisites
 This lesson should not be attempted until the preceding ones are thoroughly known and the students can write fairly quickly in the style abbreviated up to this point; and, further, can read the second Book of the Psalms which is written in this abbreviated form.
 
