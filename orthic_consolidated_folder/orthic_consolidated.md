@@ -302,6 +302,8 @@ Write the words you have encountered so far down the left of the paper. In the n
 ## Paper-Saving
 This method makes it easier to think you can read a word even if you can't. Say each word out loud to prevent that.
 Write the words you have encountered so far down the left of one sheet of paper, and the outlines in the second column. Make sure these are correctly written. Hold a second sheet over the shorthand column, so you can see the longhand. Write each word in shorthand, going down the column. Mark problem words. Fold that column under and repeat. 
+## Rows
+Same as above, but write across rows instead of down columns.
 ## Spaced Repetition
 With either of the above methods, if you get a word correct two days in a row, promote it to the next list. Review that list every 2 days. Again, if you get a word correct twice at this level, move it up to the next list (reviewed half as often as the previous list). If you get a word wrong, bring it all the way back to the daily review list.
 
@@ -588,53 +590,62 @@ Z
 
 Make a table such as below (but larger) and fill it in. Repeat this exercise each day, until you reach 80% accuracy. You will learn the rest as you practice reading and writing sentences. When you start writing new material and suspect there is a better way to join letters, check the table. Also check the Revised suggestions, if you haven't included them in the table.
 
-I know you're going to skip the table and move right to the reading. That's ok. You can do it later, but I do suggest you do it at least twice before starting the next chapter.
+I know you're going to skip the table and move right to the reading. That's ok. You can do it later, but I suggest you do it at least three times before starting the next chapter.
+
+``` table ```
 
 ## Reading and Practice
 
-Pick one of the following and read it. I suggest the Introduction to the Supplement for your first time through the lessons. If you cannot read a word, break it into the component letters, try again, then read the rest of the sentence. Then try the word again, bearing in mind you may have misread a letter. Then check the key. There is no need to struggle with an unknown word at this stage. (Eventually this will be an important skill, but for now quantity is more important than quality.)
+Pick one of the following and read it. If you cannot read a word, break it into the component letters, try again, then read the rest of the sentence. Then try the word again, bearing in mind you may have misread a letter. Then check the key. There is no need to struggle with an unknown word at this stage. (Eventually this will be an important skill, but for now quantity is more important than quality.)
 
 Repeat this a few times before writing. It is ok if you remember bits instead of reading them at this stage. You will learn them carefully when you copy them.
 
-``` images and keys -- include images for downloading ```
-
+```
+images and keys -- include images for downloading 
+maybe do my introduction, in keeping with tradition
+```
 ## Writing Practice 
 
 Mark up the shorthand plate with any words you still struggle with.
 
+### Four Column Method
+
+This method combines reading and writing practice. If you are using a standard letter or A4 notebook, divide each page in half down the middle, so you can see all four columns at once. If you are using another type of paper, find a way to see four columns at once, each approximately 3in (7cm) wide.
+
+Copy from the text to the first column. Read a few words out loud, then write them. Think about each letter as you write it -- this time. The writing must be accurate!
+
+Copy from the first column to the second, using the same system, but try to think of common words as single units instead of collections of letters. For now, a common word is any word that appears more than a few times in the sample. Again, accuracy is more important than speed.
+
+Copy from the second column to the third, using the same system. Try to write fluidly.
+
+By now, there will be some mistakes in the copy -- like in a game of telephone. Compare this one to the text carefully.
+
+Copy the fourth column from the text, so that the last column is accurate. Your brain and body will remember the last time more than the middle times.
+
+Some teachers say to copy the third column to the fourth, but I think at this stage it is better to reread the accurate version.
+
+Aim for fluid writing at this stage, but do not worry about speed.
+
+### Four Row Method
+
+As above, but begin by writing and leaving 3 or more blank lines between each new line. Then copy from each line to the row below. This method is more common than the column method, but I find it less useful.
+
+## Dictation Practice
+
+Use one of the online dictation sites to take dictation on the passage you worked on. Start at 20wpm, try that a few times, then move up to 25, then 30. You can also start by converting typed copy to shorthand. You don't really need a voice at this stage. Carefully check your writing after each attempt. You will feel some of the common words "lock in" as single thoughts instead of a collection of letters. It feels like cheating, but it's the end goal, much like memorizing multiplication tables vs drawing and counting grids of dots.
+
+``` links ```
 
 
+## End Lesson Three and Fully Written
+
+Aim for 80% comfort at this stage. It's ok to look up what you don't know. Confidently writing something incorrectly is more of a problem.
+
+You can now write new material. I do not, however, recommend building speed past 30 or 40 just yet, and definitely not building speed on anything with words not presented in the text. Work at this level until you are 80% confident, regardless of speed, then move on, before hand becomes fixed at Fully Written.
+
+## Lesson Four: Basic Abbreviation
 
 
-
-
-
-
-
-
-
-``` table ```
-
-### Day Two: 
-
-
-
-
-``` each selection, include plates of the text and link to the key```
-
-
-
-
-On the next day, pick one and work on it using the Paper-Saving method you used for the alphabet.
-
-
-# End of Lesson 3 and of Fully Written
-
-You are now ready to read and practice material at the Fully Written level. You can also safely write new material.
-I do not, however, recommend you begin building speed. Work at this level only until you are 80% confident, then move on, before your hand becomes too set in its ways.
-
-https://orthic.shorthand.fun/reading
-``` link to all FW specimens, and to psalms ```
 
 
 
