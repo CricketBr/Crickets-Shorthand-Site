@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Orthographic Consolidated"
-subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Revised Publications."
-author: "CricketB, based on works by Hugh L Callendar, W Stevens, and E Clarey"
+title: "Orthic Consolidated"
+subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Revised Publications for Orthographic Cursive, aka the Cambridge System."
+author: "CricketB, drawing from works by Hugh L Callendar, W Stevens, and E Clarey"
 toc: true
 toc_hmax: 6
 ---
@@ -30,123 +30,40 @@ Revison date .....
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
 In keeping with tradition, this book begins with a list of the deficiencies of previous books:
-- Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement and a Teaching booklet (with a few more abbreviations). Then Clarey merged them (and added still more abbreviations).
-- Minimal guidance for studying.
+- Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement and a Teaching booklet (with a few more abbreviations). Then Clarey wrote Revised, Extended and Improved.
+- Minimal guidance for studying and goals.
 - Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
 
 This guide addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
 
 This collection of publications does one thing better than most other shorthand systems: It shows the writing of more than one person. Callandar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
 
-For more examples and discussion, see (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
+For more examples and discussion, and possible study partners, see (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
 
-# Recommended Order of Study
+Sources:
+- The Manual, A Manual of Orthographic Shorthand, Hugh L Callendar, 1891.
+- The Supplement, Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], Hugh L Callendar, 1892.
+- Teaching, The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand, W Stevens, 1896.
+- Revised, Orthographic Cursive Shorthand (Orthic) Revised, Extended and Improved, E Clarey, 1911.
+Links and descriptions of each book are below.
 
-- The alphabet.
-- General Rules and Observations.
-- How to Write and Join the Characters.
+This document is structured the same as Teaching but with the material from the other books incorporated and labeled with the source. You may want to stick with the Manual and Supplement. Some of the suggestions in Revised take more time to learn and remember than they save in writing. The wording varies. Sometimes I listed the source. Other times I did not.
 
-At this point, you will be able to read and write at the Fully Written level -- but don't stop there.
-
-- Ordinary Style, also called Abbreviated and Correspondence. Most writers will stop here.
-- Reporting. This is high-speed territory, often customized heavily.
-
-
-
-
-This book attempts to be useful to both new and advanced learners, and is organized as follows:
-
-- Alphabet. One to one conversion of letters to symbols. After this you will be able to write, but many joins will be awkward. Keep reading.
-- Joins. When you finish this section, you will be at the Fully Written level. Speedbuilding at this level is not advised. Excessive practice will train your hand and brain to write fully – even when it’s not necessary. Do the exercises as described, so you are 80% comfortable with the basics, then move on.
-- Basic. This adds a few rules and abbreviations that are definitely worth learning, comparable to the Supplement's Ordinary
-
-- 
-- All the Rules. This lists all the rules in alphabetical order.
-
-- Basic
-- Intermediate. This level adds more rules and abbreviations.
-- Reporting. 
-- 
-
-
-It begins with the alphabet and common joins for the Fully Written level, then adds basic rules for the Ordinary Style (also called Correspondence).
-
-
-
-
-Rules are presented in alphabetical order. Each rule is marked with learning level and source. New writers should stick to the Fully Written level (FW). Intermediate writers can add Abbreviated (Ab). Advanced can add Reporting (R). Where the books did not agree on the level of a rule, I assigned the level based on complexity and frequency. I might make separate documents later: FW only, FW and Ab, and All levels. That would, however, require that all updates be applied to multiple documents. 
-
-New writers should do the book in multiple passes. First
-
-...
-alphabet
-joins
-basic rules
-advanced
-
-
-
-
-In deciding what type of book to write, the author considered both an instructional manual (with information presented in an order most useful for those new to the subject), and a reference manual (most useful for advanced students needing to find an outline once given the standard orthography, and the standard orthography once given an outline). In the past, she has been taught, and successfuly used, the First Rule of Writing: Select one person as your primary audience.
-
-In an act of most excellent hubris (in keeping with the style of the source documents), she has decided to ignore that most excellent advice. This manuscript is the result.
-
-That language is fun to write but hard to read, so I'll stop.
-
-
-
-Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
-
-```Figs: Orthic written by Callendar, Stevens, Clarey,  Pitman accent, Gregg accent, and my own.```
-
-From The Manual
+# From the Introduction to the Manual
 
 > The present system is an adaptation of the alphabet and principles of Cursive Shorthand to the common orthography.
-> 
-> Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
-> 
-> I have every reason to believe that the present adaptation of (Phonetic) Cursive to the common spelling will be found much more simple and easy to learn than any of the phonetic systems at present in vogue. There is very little to learn beyond an alphabet of 26 characters, and the method of joining them. In fact many students have succeeded in reading and writing the present system with nothing but the bare alphabet to guide them.
-> 
 > ...
-> 
+> I have every reason to believe that the present adaptation of (Phonetic) Cursive to the common spelling will be found much more simple and easy to learn than any of the phonetic systems at present in vogue. There is very little to learn beyond an alphabet of 26 characters, and the method of joining them. In fact many students have succeeded in reading and writing the present system with nothing but the bare alphabet to guide them.
+> ...
 > The writing requires no great niceties of penmanship. No distinction is made, as in other systems, between thin strokes and thick. Only two sizes of character are employed, instead of three or four. 
 >
 > The vowel characters are connecting strokes joined in their natural order together with the consonants. The great majority of the signs are written on the ordinary slope of longhand, and the forms and distinctions between the characters are such as are already familiar to every one who has learnt to write in the ordinary style.
 > 
-> The system is strictly alphabetic. A letter is always represented by its alphabetic character. There are no alternative hooks and loops, or halving and doubling principles, to puzzle and distract the student. A word can be written in one way only. *(Cricket: True only at the Fully Written level. More details below.)* The rules are consequently very few, definite, and easy to apply. *(Cricket: This does not apply to Clarey's book.)*
-> 
-> In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches the end of the joining rules he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen of the fully-written style, every word of which is spelt in full.
+> The system is strictly alphabetic. A letter is always represented by its alphabetic character. There are no alternative hooks and loops, or halving and doubling principles, to puzzle and distract the student. A word can be written in one way only. *(Cricket: True only at the Fully Written level, if everyone is from the same country.)* The rules are consequently very few, definite, and easy to apply. > 
 
-The above isn't strictly true.
+That's a bit optimistic, but good enough to start with. -- Cricket
 
-See under Alphabet regarding sizes.
-
-Words can be written more than one way. Spelling varies with country, and whether the student is comfortable leaving out silent letters, and how they handle vowels. It becomes even less standard once the optional abbrevations are considered. Even so, if you stick to the 
-``` ?? abbreviated ```
-level, others (including Future You) will be able to read it.
-
-
-
-
-
-
-
-
-
-
-
-# Preview of Levels
- 
-
-From Clarey: Do not attempt to write fast before the hand is familiar with the forms of the characters. At first they should be drawn carefully, so that correctness and neatness may be secured. Speed will come with practice, but if attempted too soon will probably lead to bad and slovenly writing.
-
-The Abbreviated level simplifies spelling and adds optional (but highly recommended) rules for writing less. Orthic does not distinguish between shortened words, prefixes, and suffixes. They are all called abbreviations. The original Manual separates this level from Reporting, and suggests that Correspondence be done at the Abbreviated level. The Supplement moves many abbreviations from Reporting to Abbreviated. The Teaching of Orthic Shorthand removes the distinction, and says, "The Reporting Style of Orthic is in no way essentially different from the Corresponding Style. There is little new to learn, and nothing to unlearn. It is simply the same methods of abbreviation as given in the Teacher’s Manual, part 1, extended."
-
-The Teaching of Orthic Shorthand claims you can reach 60wpm after finishing the 9 week program (and doing a mere 15 minutes a day of homework). That is probably optimistic.
-
-
-
-# Speed Potential
+# Speed Potential and Tips
 
 Looking just at stroke count (but not actually doing the work of counting), the Fully Written level is faster than Forkner, which is well-documented to exceed 100wpm. Orthic students have been reported to reach as high as 165 and 190wpm.
 
@@ -155,16 +72,32 @@ https://www.reddit.com/r/orthic/comments/ehqac5/a_note_on_shorthand_in_medical_w
 https://www.reddit.com/r/orthic/comments/ekpz4t/the_sydney_morning_herald_thu_23_dec_1909_190_wpm/ \
 https://www.reddit.com/r/orthic/comments/eknxwh/the_sydney_morning_herald_fri_23_dec_1904_165_wpm/
 
-For comparison, before computers, most educated adults could write cursive at 20-40wpm (words per minute). An introductory typing class, with 110 hours in class, required 20wpm to pass. Typical speeds are now 20-80wpm. Entry level office shorthand in the US required 60 or 80wpm; one person reports 120 to pass their 3-year program. Journalists in the UK needed 100wpm until fairly recently, and often considered shorthand their most difficult course. Current office shorthand requirement in other areas is 100-120. Toastmasters recommends 120 for formal speeches. Court reporting in California requires 200wpm for 10 minutes. https://www.courtreportersboard.ca.gov/applicants/skills_exam_faq.pdf
+For comparison, before computers, most educated adults could write cursive at 20-40wpm (words per minute). An introductory typing class, with 110 hours in class, required 20wpm to pass. Typical current-day speeds are 20-80wpm. Entry level office shorthand in the US required 60 or 80wpm; one person reports 120 to pass their 3-year program. Journalists in the UK needed 100wpm until fairly recently, and often considered shorthand their most difficult course. Current office shorthand requirement in other areas is 100-120. Toastmasters recommends 120 for formal speeches. Court reporting in California requires 200wpm for 10 minutes. https://www.courtreportersboard.ca.gov/applicants/skills_exam_faq.pdf
 
-Time to reach that speed varies widely. It's often reported in "courses," with no indication of the hours in or out of class. A very rough estimate is 100 hours for 100wpm. 
+Time to reach that speed varies widely. It's often reported in "courses," with no indication of the hours in or out of class, lessons per week, weeks per term, or terms per course. A very rough estimate is 100 hours for 100wpm. Be prepared for a plateau around 60wpm, and maybe a few more on the way to 100. That's just how our brains and bodies learn. Keep at it, and eventually the plateau will end.
 
-Note: Unless you get very good at shorthand, it is not advisable to use it for lecture notes. You will spend more time thinking about the shorthand than about the lecture. Then, after class, you will have to read the  shorthand (assuming it's readable) to learn the material. Learn the material in class. Use a combination of Rozane's system for Consecutive Interpretation and Cornell Notes to record what you need to remember, and what you need to research.
+Note: Unless you get very good at shorthand, it is not advisable to use it for lecture notes. You will spend more time thinking about the shorthand than about the lecture. Then, after class, you will have to read the  shorthand (assuming it's readable) to learn the material. Learn the material in class. Use a combination of Rozane's system for Consecutive Interpretation and Cornell Notes to record what you need to remember, and what you need to research. Practice your shorthand in lectures when the instructor keeps talking about a point you already understand.
 
-More advice on speedbuilding is here
+Alternate between slow enough to be accurate, slow enough that you can keep up but don't have time to think, and so fast you can't quite keep up. Do this for long passages, and when you are drilling individual words, phrases, and sentence parts.
+
+More advice on speedbuilding, and links to text-to-speech sites that are slow enough for early dictation, is here
 ```
 cricket's shorthand tips
 ```
+
+# Levels
+There Orthic has 4 main levels:
+- Fully written. The alphabet and special joins for letters that do not work well together. This level is significantly faster than longhand, but you can do better with very little effort.
+- Ordinary. Simplified spelling. Abbreviations for a few common prefixes and suffixes, including raising the word to indicate some positions. (Writing by mode / supra-lineal writing.)
+- Abbreviated, aka Correspondence. Teaching Part 1, 9 lessons. Recommended for correspondence between members of the Cambridge Shorthand Society.
+- Reporting. Advanced tips.
+
+The Manual combines Ordinary and Abbreviated. The Supplement moves some rules from Reporting to Abbreviated or even Ordinary. Teaching Part 1 covers the first three levels in nine lessons, and claims s you can reach 60wpm after finishing the 9 week program (and doing a mere fifteen minutes a day of homework). That is probably optimistic.
+
+Teaching, Part 2 begins by stating:
+> The “Reporting Style” of Orthic is in no way essentially different from the “Corresponding Style.” There is little new to learn, and nothing to unlearn. It is simply the same methods of abbreviation as given in the Teacher’s Manual, part 1, extended.
+
+Revised adds optional rules at all levels. In writing this guide, I chose to merge these rules with the main text, clearly marked with the source. This keeps all the rules in an easily-searchable form, hopefully without adding too much confusion for those who wish to ignore those found only in Revised.
 
 # Publications and Source Material
 
@@ -174,9 +107,9 @@ Wording and examples are a mix of all sources and the author. If no reference is
 
 ### Cursive, sometimes called Phonetic Cursive
 A Manual of Cursive Shorthand,\
-Hugh L Callendar, 1889.\
+Hugh L Callendar, 1891.\
 https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up \
-This is included for historical reasons only. It was Callendar’s first shorthand publication. Much of the book is dedicated to a systematic condemnation of Pitman. Callendar was fluent in Pitman. He was also a Victorian gentleman, lawyer, and engineer. It's a fun read.
+This is included for historical reasons only. It was Callendar’s first shorthand publication. It includes a systematic condemnation of Pitman. Callendar was fluent in Pitman. He was also a Victorian gentleman, lawyer, and engineer. It's a fun read.
 
 ### The Manual
 A Manual of Orthographic Shorthand: The Cambridge System, \
@@ -189,12 +122,12 @@ Jeremy W Sherman rendered it into Markdown, and added a few clarifications.
 
 ### The Supplement
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], \
-Hugh L Callendar, 1982.\
+Hugh L Callendar, 1892.\
 https://orthic.shorthand.fun/supplement \
 > It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.
 > …
 > The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the Manual as ‘Hints for the Reporting Style’ and to provide advanced writers of the system with additional matter for exercise and reading practice.
-This book moves many rules from Reporting to Ordinary, and adds abbreviations.
+This book moves many rules from Reporting to Ordinary, and adds more abbreviations.
 
 ### Teaching (Parts 1 and 2)
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system), \
@@ -207,16 +140,16 @@ https://orthic.shorthand.fun/teaching-pt2 \
 > ...
 > Lesson 9: Conclusion: The pupils should with their present knowledge be able to write in supplement style, at least 60 words per minute, and to read fluently the Third Book of the Psalms, and the Magazine, and to correspond rapidly with any member of the Cambridge Shorthand Society
 
-This book is to be used in conjunction with the Manual and the Supplement. Part 1 covers the Manual in 9 lessons, divided into Fully Written and Abbreviated. It adds a few rules, and moves others. Part 2 claims to be "the same methods of abbreviation, extended," but I believe it's better classified as the Reporting level.
+This book is to be used in conjunction with the Manual and the Supplement. Part 1 covers the Manual in 9 lessons, divided into Fully Written and Abbreviated. It adds a few rules, and moves others. Part 2 is the Reporting level, which it claims "is simply the same methods of abbreviation as given in the Teacher’s Manual, part 1, extended." I believe, however, that it should be a separate level.
 
-### Revised and Extended (Clarey)
+### Revised, Extended and Improved (Clarey)
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; \
 Hugh L Callendar ; \
 Revised, Extended and Improved \
 E Clarey, 1911 \
 https://orthic.shorthand.fun/  under Resources\
 
-This booklet is an update of the Manual, which merges rules from the Manual, the Supplement ```and Teaching??```, and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels. I have included a few things from here, when I believe they make sense, but otherwise recommend you use it as an advanced book.
+This book is an update of the Manual, which merges rules from the Manual, the Supplement ```and Teaching??```, and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels.
 
 ### might be duplicate info
 ### Notes on the Reporting Style
@@ -231,25 +164,40 @@ https://web.archive.org/web/20230611082516/https://old.reddit.com/r/shorthand/co
 
 # Practice Schedule
 
-Teaching promises at least 60 words per minute in only 15 minutes practice a day in addition to the lesson (which I assume is weekly). That's probably optimistic.
+Teaching promises at least 60 words per minute in only fifteen minutes practice a day in addition to the lesson (which I assume is weekly). That's probably optimistic.
 
-Do not start writing new material until you have finished the Fully Written instructions, including Rules for Joining.
-
-[Swem](https://cricketb.wordpress.com/2020/02/12/systematic-speed-course-for-advanced-writers-swem/) recommends an hour a day, five days a week, with the first 15 minutes dedicated to a systematic review of the text, and the rest to one or perhaps two passages. He further recommends another two hour-long sessions a week, each divided into practicing new "phrases and expedients" from books, and "taking dictation from new material and reading it back."
+[Swem](https://cricketb.wordpress.com/2020/02/12/systematic-speed-course-for-advanced-writers-swem/) recommends an hour a day, five days a week, with the first fifteen minutes dedicated to a systematic review of the text, and the rest to one or perhaps two passages. He further recommends another two hour-long sessions a week, each divided into practicing new "phrases and expedients" from books, and "taking dictation from new material and reading it back."
 
 As with all mental/physical skills, frequent short practice is more effective than longer but less often sessions.
 
-# The Alphabet
-These charts show all the individual characters recommended by all the books.
+# Lesson 1: Introduction to the alphabet
+> Impress upon the pupils the necessity of becoming again “Babes in Learning”. They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet.
 
-```by shape -- section for vowels, joined vowels, and consonants```
+Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
 
-```Single big alphabet table alphabetical order with examples```
+```Figs: Orthic written by Callendar, Stevens, Clarey,  Pitman accent, Gregg accent, and my own.```
+```	alphabet in 2 lines , all writers ```
+
+Several authors suggest the teacher compare the shorthand letters to parts of cursive or print letters to aid memory. I think that creates more confusion than it solves, but you might find it helpful.
+
+## Orthographic Spelling
+
+"All words, when written in full, are spelt according to the common orthography." 
+
+## Two Sizes of Characters
+The Manual claims that there are only two sizes. This is incorrect. Most shapes have only two sizes, but not all small shapes are the same size. Most shapes have two widths in the alphabet, but a tiny horizontal tick can be used to make joins easier, and many shapes have "very wide" version.
+
+Teaching suggests that large letters be three times the size of small letters, but all the examples of actual text show the size is only doubled. Use what works for you. Some prefer to write very precisely, others are satisfied by readable. Aim for more precise than is necessary, especially before you learn the system, but do not aim for perfection.
+
+> The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big. -- Revised: General Rules
 
 
-Keep reading.
+``` paper ```
+Links to paper at various sizes. Clarey, 6mm, 7mm, 8mm -- US narrow, college and wide (exact or metrified?), give measurements and conversion, divide line in 3. Experiment with different sizes of writing. Too small will often lead to tension and slower writing. I write larger now than I did 30 years ago, mostly due to muscle changes from less writing and more computering.
 
-# General Rules and Observations
+
+```image -- alphabet between 2 lines```
+```alphabet big chart with examples ```
 
 ## Write Smoothly
 
@@ -257,26 +205,26 @@ The characters are to be joined together smoothly, without lifting the pen, or m
 
 Learn to write and recognize groups of letters. The goal is to think of letter groups and entire words or even phrases as single units. "OP" looks like the number 7. "PH" looks like the number 6. When doing math, we write 7 and 6 in a single motion. It should be the same with shorthand. -- Cricket
 
+## Circles
+H is a large circle. In the base form, it starts at the bottom and starts by going up to the right, so it sits on top of the line and joins smoothly with letters on either side.
+
+L always goes clockwise. R always goes counter-clockwise. When writing L or R without neighbouring strokes to show direction, add a tiny entry stroke.
+
+Other shorthand systems (notably Gregg) base direction on the surrounding strokes. This can get confusing when switching systems. 
+
 ## Doubled Letters
+To double a letter, write it once an put a dot under it to indicate the doubling. Even better, only write it once and trust that you'll be able to read it. Spell like a child.
 
-Doubled letters are shown, not by repeating the character, but by putting a dot below. Exception: ee.
-``` odd, too, ee, sleep, peep, pup  ```
-
-## Orthographic Spelling
-
-"All words, when written in full, are spelt according to the common orthography." 
-
-
+The exception to this is **ee** which is written as a double-length **e** with the dot for the ***i** added in the middle (**ie**) or top (**ei**). (Advanced: Omit the dot for most words.) 
+```pup  pep  peep odd, too, ee, sleep, peep, pup```
 
 ## Dividing a Word
 A word may always be divided if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words.  
 ```
 lawsuit,  Woolwich,  virgin, bagpipes
 ```
-
 ## Punctuation
 Punctuation is effected in the usual way, except the Hyphen , and the Dash . (They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A (“and”) and raised O (“though”). -- Jeremy)
-
 
 ## Initial Cappitals
 Initial capitals are marked using a long stroke falling from midline to baseline at 30 degrees from horizontal. 
@@ -284,75 +232,124 @@ Initial capitals are marked using a long stroke falling from midline to baseline
 Compare the Manual
 ```
 Jack,  Clay,  S.E.,  L.S.W.R.
-```
+
 to Clarey
 ```
 egs -- line goes through the letters
+ 
+## Homework
+sample -- alphabet between 2 lines, all sources including mine
+- Write the alphabet and sample words between two lines. Writing creates more nerve connections than reading aloud. If possible without turning too many heads, say the letters out loud. For now, use the relative sizes as marked. You will soon learn when you can be less precise.
+- Fill out the following chart, which groups similar shapes together. Look for patterns between letters, their print and longhand forms, and your lips and tongue as you say them. The angles do not have to be exact, but they do need to be consistent.
+``` chart for patterns include angles```
+- Repeat the alphabet chart and sample words until you are comfortable with them, but not necessarily fluent.
+
+## End Lesson 1
+
+It is tempting to start writing new material at this stage, but it is not (yet) worth your time to do so. Wait until the end of Lesson 3.
+
+# Lesson 2: Joinings Vowels
+
+All vowels, and only vowels, are straight, right moving strokes.
+``` vowels, include y```
+Where vowels combine into a single sound (as perceived by the untrained ear), the angle between them is rounded.
+``` all the vowel joins, as angled and curved```
+
+Where they are pronounced separately, or if you wish to make the spelling clear, keep the angle, add a small jog, lift the pen and write one above the other, or write only one and go back to add the other later.
+
+Note: Callendar refers to all vowel groups that are sounded as single vowels (to the untrained ear) as diphthongs. Modern phoneticists and singers use a different definition. They also divide many vowels that most of us think of as single vowels into component parts. What most of us hear as **I** or **eye** is actually two sounds: ah and ee.)
+
+```
+all methods for
+chaos, re-enter, Oolite (umlaut), create, Leo, fiasco, serious, fuel, poem -- from manual
+```
+oa and ao are written by either adding a short jog between them, or by omitting the A, then going back and adding it above the O. It is the writer's choice. (Leaving out one of the vowels is even faster. Do that when possible.)
+``` chaos, , /// from clarey?  both methods```
+``` oar -- both methods, and leaving out the A ```
+
+Many joined vowels can be exchanged to make joining to surrounding letters easier, and less likely to degrade at speed. Y can be replaced with an upstroke if that makes a better angle.
+
+```
+ae, ea , and examples of words
+ai, ia  -- nope, ai always in the correct order
+au, ua
+ay, ya
+eau
+all the above with o
+ye, obey -- teaching
+
+check all books, be sure not to overgeneralize
+
+go through the long list of joins in each book, since not all the vowel-to-vowel joins are in the vowel section
 ```
 
-# How to Write and Join the Characters -- Fully Written and Ordinary Levels
+In general, if the preceding letter ends going up, the vowel should begin by going down, and vice versa. If the preceding letter ends horizontal, the vowel should begin by going up or down. The same rules apply to the letter following the vowels. There is a third form for **ea** for use between downstrokes. Choose the version that is clearest to write. 
 
-This section will, with medium effort, make your writing much smoother. It is the last material for the Fully Written level.
+``` seat, seas, eat, real, pearl, years** manual: joining```
 
-It includes all the Joins and Slurs in the Manual, Supplement, and Teaching, and the most useful of the Compound Characters, Slurs, and Joins from Clarey. It also includes some rules from higher levels, for easy reference. Book reference is lowest level of writing, and the earliest book to show it at that level. If not stated, then the rule first appears in the Manual.
 
-## Sizes
-The Manual claims that there are only two sizes. This is incorrect. Most shapes have only two sizes, but not all small shapes are the same size. Most shapes have two widths in the alphabet, but a tiny horizontal tick can be used to make joins easier, and many shapes have "very wide" version.
 
-Teaching suggests that large letters be three times the size of small letters, but all the examples show the size is only doubled. Use what works for you. Some prefer to write very precisely, others are satisfied by readable.
 
-> The actual size of the characters may be varied according to circumstances, such as the Goodness fo the light and the writing materials. The minuteness of any kind of writing is limited by the size of the mallest characters. In Orthic the small size maybe made as small as desired, and the small circle may be reduced to a dot But it is best ot make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big. -- Clarey: General Rules
 
-## Vowels and Diphthongs
 
-When two or more vowels come together and make a single sound (as perceived by the untrained ear),  the angle between them is slurred or rounded off into a continuous curve. (Callendar calls them diphthongs, but modern phoneticists define diphthongs as something different. I do not know what phoneticists of Callendar's era meant by the term.)
 
+## Homework
+Vocabulary practice, two methods.
+
+As stated earlier, the end goal is to think of each word as a single unit, not individual letters. That's not necessary at this stage. Aim for accuracy and comfort, not speed.
+## Accordian Fold
+Write the words you have encountered so far down the left of the paper. In the next column, write the outlines. Be very sure to write them correctly. Now hide the first column by folding it underneath and, in the next column, write each word in longhand. Unfold, check your work, and mark any that you struggle with. Now hide the first shorthand column and write the shorthand, check, and mark. Continue hiding and alternating until the page is full. When the page is full, repeat the process with any words you struggled with more than half the time, or in the last two repetitions. Continue until you are confident with all the words.
+## Paper-Saving
+This method makes it easier to think you can read a word even if you can't. Say each word out loud to prevent that.
+Write the words you have encountered so far down the left of one sheet of paper, and the outlines in the second column. Make sure these are correctly written. Hold a second sheet over the shorthand column, so you can see the longhand. Write each word in shorthand, going down the column. Mark problem words. Fold that column under and repeat. 
+## Spaced Repetition
+With either of the above methods, if you get a word correct two days in a row, promote it to the next list. Review that list every 2 days. Again, if you get a word correct twice at this level, move it up to the next list (reviewed half as often as the previous list). If you get a word wrong, bring it all the way back to the daily review list.
+
+https://en.wikipedia.org/wiki/Spaced_repetition
+https://en.wikipedia.org/wiki/Leitner_system
+
+Programs such as Anki keep records for you. You will learn better if you actually write the outlines than just imagine them and check your imagination against the answer.
+https://orthic.shorthand.fun/anki-deck-available
+
+## End Lesson 2
+
+The next lesson is long, and will cover all remaining joins.
+
+# Lesson 3: Joining Consonants
+
+Be warned: This section is long, but necessary. Rules are from the Manual:Joining unless specified. You may want to focus on the rules from the Manual, Supplement, and Teaching at first, and leave Revised for your second time through. The first three are sufficient for correspondence. The fourth has some good ideas, but also some rules that most people rarely need.
+
+```table of contents to the start of each letter ```
+
+``` 
+"see notes below" and put the comparisons there
+or "compare to ..." in each one
 ```
-ai = ,  oy = ,  ou = ,  eau = 
-```
-When, however, the vowels are separately sounded, either the characters are separated, or the angle between them is marked, as in the words 
-```  re-enter, Oölite,  Deä,  create,  Leo,  fiasco,  serious,  fuel,  poem.
-```
-
-Do not overthink this. If in doubt, ask how 7 year old would write it. -- Cricket
-
-Most vowel pairs can be written in either order. Choose the one that makes the sharpest angle. 
-
-ai is the exception, and must always be written in order. -- Teaching: Joinings-Vowels (Teaching is the only book to recommend this.)
-
-Note: ea is sometimes written eae, ```seas```
-
-``Examples -- Clarey has lots```
-
-Ay may be curved either way. The form under-ay is used whenever it joins more clearly or easily than the form over-ay, as after D T J Qu M N V  thus,  days,  quay; cp.  says,  hay. (So basically, use the smoothed y-a form after forward horizontal curves and after descenders. See also when to use the curved -ing, which is basically a double-size smoothed y-a. -- Jeremy)
-
-## Modes
-Modes are writing before part of the Ordinary Level, but are included here for easy reference.
 
 
 ## A
-A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay. See Vowels and Diphthongs.
-M-ordinary: A maybe omitted before M and M.
+A  is a short horizontal connecting stroke. It forms the diphthongs  ai,  au,  ay.
+Ay may be curved either way. The form under-ay is used whenever it joins more clearly or easily than the form over-ay, as after D T J Qu M N V  thus,  days,  quay; cp.  says,  hay. (So basically, use the smoothed y-a form after forward horizontal curves and after descenders. See also when to use the curved -ing, which is basically a double-size smoothed y-a. - Jeremy)
 
-## B
+
+
 B  is written like the letter lowercase cursive b, but with a more open loop and without the hook upwards at the end. It forms the compounds:
 
 bd   rob’d
-S-ord: 
-be-prefix This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line.
-The word be is expressed by a dot above the line ; been and being by n  and straight ‑ing ; the former will not be found to clash with than.
-It should not be used for
 
 bj   object
-bl    able
+
+bl   able
+
 br   bray
+
 bs   absurd
+
 bt   subtract
+
 bv   subvent
 
-
 C  is written like the letter c, but it is not turned up at the end, unless followed by e.
-
 Ch  is written and joined exactly like the longhand letter o; thus,  chair,  Christ,  ache, cp.  ahead.
 Other compounds are:
 
@@ -378,7 +375,7 @@ dv
 
 dw   dwell
 
-(The Supplement published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given. -- Jeremy)
+[Jeremy: The Supplement published a year later suggests in ordinary style always omitting the D from the prefix ADJ-, which is probably why no example is given.]
 
 E  is a short upstroke; it must not be confused with  s, which is written downwards.
 Ea ea, both over and under may be curved either way like ay. The form under-ea is used except after MNPSYB. An angle must always be made after over-ea before td or s; thus  seat,  seas,  eat,  real,  pearl,  years. [Yes, this means the default form for ea is a smoothed a-e, so it’s usually backwards. You only use the smoothed e-a form after the consonants – including y and excepting c – in “subcompany”.]
@@ -427,21 +424,22 @@ lk   walk
 lp   help
 lt   wilt
 lv   salve
+
+supplement: bl , br
+pl, pr, fl, fr, ml, mr
+
+
+
 M  is like  n, but much longer and flatter.
+
 mp   imply
 mb   limb
 ms 
-Man:ord A or O before M may be dropped.
-
-###N  
-is like the first hook of the letter n.
+N  is like the first hook of the letter n.
 No angle need be made in the compounds:
-
 
 ng   singer
 nsp   inspect
-M-ordinary: A maybe omitted before M and M.
-
 Other compounds are:
 
 nc   since
@@ -455,18 +453,13 @@ nt   sent
 nk   sink
 nqu   inquest
 nv   invent
-
-### O
-is made about three times as long as  a.
+O  is made about three times as long as  a.
 Oa is distinguished from o by writing the  a above; thus,  oar, cp.  or;  oak.
 Other compounds are:
 
 oi   toil
 ou   out
 oy   boys
-
-M-ordinary: A maybe omitted before M and M.
-
 P  is a long downstroke, like the upper half of the stroke of the letter lowercase p in cursive longhand. It is made about three times as long as  s.
 In joining  s before and after  p, the s-tick is sloped backwards; thus
 
@@ -482,7 +475,7 @@ phth
 Qu  is like the lower loop of the letter lowercase f in cursive longhand; it is turned the opposite way to  j.  esquire.
 
 R  is a small circle like  L, but is always turned the opposite way, like the loop of the longhand letter lowercase e in cursive longhand. For examples, see L.
-The compound  rce is written like the initial lowercase e in cursive longhand form of the longhand letter e; thus,  fierce. (I’ve never seen this style of cursive e used outside Callendar’s own writing. It is like the uppercase cursive E made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the e. The result is basically the counter-clockwise Orthic r sitting atop a half-height Orthic c with a rise at the end for the e. -- Jeremy)
+The compound  rce is written like the initial lowercase e in cursive longhand form of the longhand letter e; thus,  fierce. [Jeremy: I’ve never seen this style of cursive e used outside Callendar’s own writing. It is like the uppercase cursive E made like a mirrored, round 3, only it is written the height of a lowercase letter, and has an added leading hairstroke crossing above the midline to make the top circle of the e. The result is basically the counter-clockwise Orthic r sitting atop a half-height Orthic c with a rise at the end for the e.]
 Other compounds are:
 
 rd 
@@ -508,13 +501,8 @@ sp   sphere
 squ   square
 st   still
 sw   answer
-
 T  is like the hook at the end of the letter t.
 Th  is written like the letter d. [Jeremy: That’s a looped-through version of the d Callendar often writes at the end of a word, as seen for example in “end” . That word also shows the funky e Callendar uses to explain how to write the compound rce.]
-
-th at the start of common words can be replaced by writing the word above the line. they, they, this, them, though, that
-exception: the character A written above the line stands for the word and.
-
 At the end of a word, the circle of the h need not be completed; thus,
 
  with
@@ -593,10 +581,66 @@ Z
 
  puzzle
 
-# End of Fully Written
 
-Your are now ready to read and practice material at the Fully Written level. https://orthic.shorthand.fun/reading First. You can also safely write new material.
+## Homework
+
+### Make a Table of the Joins
+
+Make a table such as below (but larger) and fill it in. Repeat this exercise each day, until you reach 80% accuracy. You will learn the rest as you practice reading and writing sentences. When you start writing new material and suspect there is a better way to join letters, check the table. Also check the Revised suggestions, if you haven't included them in the table.
+
+I know you're going to skip the table and move right to the reading. That's ok. You can do it later, but I do suggest you do it at least twice before starting the next chapter.
+
+## Reading and Practice
+
+Pick one of the following and read it. I suggest the Introduction to the Supplement for your first time through the lessons. If you cannot read a word, break it into the component letters, try again, then read the rest of the sentence. Then try the word again, bearing in mind you may have misread a letter. Then check the key. There is no need to struggle with an unknown word at this stage. (Eventually this will be an important skill, but for now quantity is more important than quality.)
+
+Repeat this a few times before writing. It is ok if you remember bits instead of reading them at this stage. You will learn them carefully when you copy them.
+
+``` images and keys -- include images for downloading ```
+
+## Writing Practice 
+
+Mark up the shorthand plate with any words you still struggle with.
+
+
+
+
+
+
+
+
+
+
+
+
+``` table ```
+
+### Day Two: 
+
+
+
+
+``` each selection, include plates of the text and link to the key```
+
+
+
+
+On the next day, pick one and work on it using the Paper-Saving method you used for the alphabet.
+
+
+# End of Lesson 3 and of Fully Written
+
+You are now ready to read and practice material at the Fully Written level. You can also safely write new material.
 I do not, however, recommend you begin building speed. Work at this level only until you are 80% confident, then move on, before your hand becomes too set in its ways.
+
+https://orthic.shorthand.fun/reading
+``` link to all FW specimens, and to psalms ```
+
+
+
+
+
+
 
 # Ordinary Style
 The original Ordinary style, recommended for use "used in correspondence and in ordinary writing," consists of four rules 13?? endings, the General Method of Abbreviation (and a warning not to over-use it), several phrases, and a list of common abbreviations.
