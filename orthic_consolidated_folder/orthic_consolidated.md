@@ -25,6 +25,8 @@ add in
 Revison date .....
 ```
 
+``` copy plates of long texts from Clarey to Readings page? ```
+
 # Introduction to Orthic Consolidated
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
@@ -120,16 +122,16 @@ This is included for historical reasons only. It was Callendar’s first shortha
 ### The Manual
 A Manual of Orthographic Shorthand: The Cambridge System, \
 Hugh L Callendar, 1891.\
-https://orthic.shorthand.fun/manual \
+https://orthic.shorthand.fun/manual , Rendered into Markdown and annotated by Jeremy W Sherman
 > Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
 This book has three levels: Fully-written, Ordinary (simple rules and abbreviations), and Reporting (a collection of ideas).
 
-Jeremy W Sherman rendered it into Markdown, and added a few clarifications.
+
 
 ### The Supplement
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], \
 Hugh L Callendar, 1892.\
-https://orthic.shorthand.fun/supplement \
+https://orthic.shorthand.fun/supplement , Rendered into Markdown and annotated by Jeremy W Sherman
 > It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.
 > …
 > The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the Manual as ‘Hints for the Reporting Style’ and to provide advanced writers of the system with additional matter for exercise and reading practice.
@@ -138,6 +140,7 @@ This book moves many rules from Reporting to Ordinary, and adds more abbreviatio
 ### Teaching (Parts 1 and 2)
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system), \
 W Stevens, 1896\
+Rendered into Markup by Jacob Moena
 https://orthic.shorthand.fun/teaching-pt1 \
 https://orthic.shorthand.fun/teaching-pt2 \
 > The following lessons have been drawn up for the use of teachers in the “Orthic” system of shorthand.
@@ -177,7 +180,7 @@ Teaching promises at least 60 words per minute in only fifteen minutes practice 
 As with all mental/physical skills, frequent short practice is more effective than longer but less often sessions.
 
 # Lesson 1: Introduction to the alphabet
-> Impress upon the pupils the necessity of becoming again “Babes in Learning”. They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet.
+> Impress upon the pupils the necessity of becoming again “Babes in Learning”. They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet. -- Teaching
 
 Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
 
@@ -244,15 +247,30 @@ to Clarey
 egs -- line goes through the letters
  
 ## Homework
-sample -- alphabet between 2 lines, all sources including mine
-- Write the alphabet and sample words between two lines. Writing creates more nerve connections than reading aloud. If possible without turning too many heads, say the letters out loud. For now, use the relative sizes as marked. You will soon learn when you can be less precise.
-- Fill out the following chart, which groups similar shapes together. Look for patterns between letters, their print and longhand forms, and your lips and tongue as you say them. The angles do not have to be exact, but they do need to be consistent.
+
+### Alphabet in Alphabetical Order
+```sample -- alphabet between 2 lines, all sources including mine```
+- Write the alphabet and sample words between two lines. Writing creates more nerve connections than reading aloud. If possible without turning too many heads, say the letters out loud. For now, use the relative sizes as marked. You will soon learn when you can be less precise. Repeat the alphabet and sample words each day until you are fluent with them.
+
+### Alphabet grouped by Shape
+- Fill out the following chart, which groups similar shapes together. Look for patterns between letters, their print and longhand forms, and your lips and tongue as you say them. The angles do not have to be exact, but they do need to be consistent. Repeat the chart as for the alphabet.
+- 
 ``` chart for patterns include angles```
-- Repeat the alphabet chart and sample words until you are comfortable with them, but not necessarily fluent.
+
+## Personal Reference Binder
+
+Begin a small binder of reference material, which you will add to as you learn. The first entries will be the alphabet chart and alphabet by shape. Make sections for:
+- theory, prefixes and terminations, grouped by lesson
+- abbreviations and very common words
+- normal vocabulary
+- 
+?? Udate this book after each lesson. When a page is filled, rewrite it spread over two or more pages. Sort the contents of each page alphabetically, or in any order that makes sense to you. The order does not have to be perfect. The top part of each page will be sorted. The lower part will be added to in the order of presentation. You will find you need shorter explanations and fewer examples of rules you have practiced more. When you are confident, you can drop well-known words from the vocabualary section, and only add unusual words to it. You will also rely more on the ``` dictionary ``` which has all the vocabulary, prefixes??? , and terminations from the Manual, Supplement, and Teaching. (Reporting is waiting for a volunteer.) 
 
 ## End Lesson 1
 
 It is tempting to start writing new material at this stage, but it is not (yet) worth your time to do so. Wait until the end of Lesson 3.
+
+Move on to Lesson 2 when you are 80% comfortable with the alphabet.
 
 # Lesson 2: Joinings Vowels
 
@@ -319,13 +337,16 @@ https://en.wikipedia.org/wiki/Leitner_system
 Programs such as Anki keep records for you. You will learn better if you actually write the outlines than just imagine them and check your imagination against the answer.
 https://orthic.shorthand.fun/anki-deck-available
 
+## Update Personal Reference Binder
+Do this after each lesson, even if not reminded.
+
 ## End Lesson 2
 
-The next lesson is long, and will cover all remaining joins.
+The next lesson is long, and will cover all remaining joins. At the end of it, you will be able to write new material at the Fully Written level.
 
 # Lesson 3: Joining Consonants
 
-Be warned: This section is long, but necessary. Rules are from the Manual:Joining unless specified. You may want to focus on the rules from the Manual, Supplement, and Teaching at first, and leave Revised for your second time through. The first three are sufficient for correspondence. The fourth has some good ideas, but also some rules that most people rarely need.
+Be warned: This section is long, but necessary. Rules are from the Manual:Joining unless specified. You may want to focus on the rules from the Manual, Supplement, and Teaching at first, and leave Revised for your second time through. The first three are sufficient for correspondence. The fourth has some good ideas, but also some rules that most people rarely use.
 
 ```table of contents to the start of each letter ```
 
@@ -600,11 +621,15 @@ I know you're going to skip the table and move right to the reading. That's ok. 
 
 ``` table ```
 
-## Reading and Practice
+## Update Personal Reference Binder
+Add the table of joins.
 
-Read the following, spread over several days. 
 
-With Jeremy's addition of Cask of Amontillado, there is enough material that you do not need to read the Psalms. (Stevens was a product of his era. Reading the Psalms did double duty as both shorthand practice and religious duty, and everyone had a copy of the key.)
+## Reading Practice
+
+Read the examples of the Fully Written Style, from https://orthic.shorthand.fun/reading , spread over several days. 
+
+With Jeremy's addition of Cask of Amontillado, there is enough material that you do not need to read the Psalms. (Stevens was a product of his era. Reading the Psalms did double duty as both shorthand practice and religious duty, and everyone had a copy of the key. Unfortunately the language used is so archaic compared to ours that it's difficult to read even when typed.)
 
 If you cannot read a word, break it into the component letters, try again, then read the rest of the sentence. Then try the word again, bearing in mind you may have misread a letter. Then check the key. There is no need to struggle with an unknown word at this stage. (Eventually this will be an important skill, but for now quantity is more important than quality.)
 
@@ -642,20 +667,23 @@ As above, but begin by writing and leaving 3 or more blank lines between each ne
 
 ## Dictation Practice
 
-I think dictation practice will do more harm than good at this point, but Teaching recommends it (without speed recommendation) and many students will want to try it. The shorthand systems that recommend early dictation teach the final version of words immediately, and have dictation keyed to the text.
+Dictation at this stage is to reinforce the rules you already know, not to increase vocabulary or to build speed. 20 or 30wpm is fast enough.
 
-Do NOT speedbuild new material just yet. Speedbuilding will rapidly lock in the outlines, and it will be hard to unlearn wrong outlines. This also applies to Fully Written outlines that should be replaced with shorter versions. Be sure to check your writing after each take, and drill any problem areas.
+You will feel some of the short common words "lock in" as single units instead of a collection of letters. It feels like cheating, but it's the end goal, much like memorizing multiplication tables vs drawing and counting grids of dots. At this stage, thouch, it can be a problem.
 
-Taking dictation before seeing the shorthand is fun, but doesn't help much at this stage. Use material you're already familiar with. 
+Speedbuilding will rapidly lock in whatever you write. If you lock in mistakes, it will be difficult to unlearn them. If you lock in Fully Written outlines, it will be difficult to replace them with faster versions. Even when working from textbook plates, be sure to proof read your own work very carefully.
 
-You don't really need a voice at these speeds. Working from the typed version is fine. If you want to use one of the  dication websites, start with 20wpm. Aim for 90% accuracy before moving up to 25wpm. Be sure to check your work and drill any problem words after each take. 
+You don't really need a voice at these speeds. Working from the typed version is fine. Find the average word count on a few lines of practice material and look at total time. That will be accurate enough for this stage.
+
+If you want to use one of the dication websites, start with 20wpm. Aim for 90% accuracy before moving up to 25wpm. Be sure to check your work and drill any problem words after each take. 
+
 ```links dictation sites```
 
-You will feel some of the common words "lock in" as single units instead of a collection of letters. It feels like cheating, but it's the end goal, much like memorizing multiplication tables vs drawing and counting grids of dots.
+Your final take should be slow enough to be almost perfect, but fast enough to keep your pen moving. Your body will remember the final take, and accuracy is more important than speed.
 
-It is not necessary to go past 30 or 40wpm at this stage. For your final take, slow down so you can do it perfectly, just fast enough to keep your pen moving. Your body will remember the final take, and accuracy is more important than speed.
+``` word counts for samples? ```
 
-``` links add word count ```
+
 
 ## End Lesson Three and Fully Written Style
 
@@ -742,26 +770,52 @@ leave out the w, as a seaman say for’ard for forward, .
 
 All three authors from the era say something similar. I, writing in 2025, do not, and do not remember it even from my youth, when top executives hired stenographers but most staff wrote longhand and gave their work to the typing pool, who used manual or electric typewriters to make it presentable. Perhaps it was more commonly accepted before typewriters, when everyone had to read and write longhand.
 
+If you are not comfortable with this rule, then do not use it. If you do need to use it later, add the words to your Personal Reference binder.
+
+Note: When away from your desk, you will not have your binder handy. Circle new words, or old words you are unsure of, and add the longhand when the speaker pauses. If the word appears in another meeting, repeat the process, so you do not have to flip through the notebook searching for the first use. It will be no further back than the start of the meeting. You can copy them to the back of the notebook, but this takes time away from dictation. You may find yourself using a different outline for the same word. Use what works in the moment, and repeat the process. At your desk later, think about the word. Add your preferred version to your reference book and the spaced repetition list.
+
+If using another shorthand system that has a complete dictionary, look up the word and decide whether you like that version more. If you prefer the dictionary version, you do not need to add it to your reference list, but it might still be wise to add it to spaced repetition.
+
+
 ## Homework
 
-## Vocabulary
+### Update Personal Reference Binder 
+Add sections for:
+- rules sorted alphabetically (to use when taking dictation)
+- rules sorted by Orthic spelling (to use when reading dictation)  (needed? It is for Gregg)
+
+As with the vocabulary list, rewrite these sections as needed to fix the order and create more space on the page for new entries.
+
+``` link Notation in dictionary
+add something for advanced blends, maybe brackets?
+```
+
+### Vocabulary
 
 Add the words and terminations to your vocabulary list, and continue to review and write the list using spaced repetition. This will be part of the homework for all future lessons.
 
-### Writing Option 1 - Update a Fully Written Passage
+### Reading and Writing
 
-Choose a Fully Written passage and prepare it for the Four Column method, but replace the words with the shorter versions where you can. 
+Unfortuantely, there's no material written at this intermediate level.
 
+Choose a Fully Written passage and practice it with the Four Column method, but replace words with the shorter versions where you can. Speedbuild a bit if desired.
+
+Move on to the next lesson when you like. Unlike Stevens's students, you don't have to wait until Tuesday night to go to the next lesson.
+
+Update your reference binder.
+
+Add a section 
 
 ## End Lesson Four
 
+No comments.
 
-
-
-## Lesson Five: Common abbreviations and Ordinary Style
+# Lesson Five: Common abbreviations and Ordinary Style
 
 Introduction
 Now teach the abbreviations given on page 18 of the Manual. These are common words. Show that the abbreviation here used is in accord with the generally accepted longhand abbreviation.
+
+``` get these ```
 
 Ever
 Draw attention to  = ever : this appears an arbitrary; it is not; students will see the logic at the next lesson.
@@ -809,28 +863,18 @@ Point out that words similar to those given above can be treated in the same way
 ``` merge sources
 maybe move revised forms to Reporting
 ```
-This ends the Ordinary Style, as classified by Teaching.
 
 ## Homework
 
-As before, add the new words and part-words to your vocabulary list, and work on the entire list using spaced repetition.
-
-Read 
-
-Choose another passage, edit it to include the new material, and write it using the Four Column method. Speedbuild as before if you wish, in moderation. It is better to continue with the theory than spend too much time writing Fully Written material.
-
-
-
+Vocabulary as before. Teaching recommends reading the second set of Psalms.
 
 # Lesson 6: Introduction to modes, first mode
 
-Lesson prerequisites
-This lesson should not be attempted until the preceding ones are thoroughly known and the students can write fairly quickly in the style abbreviated up to this point; and, further, can read the second Book of the Psalms which is written in this abbreviated form.
+## Lesson prerequisites
+> This lesson should not be attempted until the preceding ones are thoroughly known and the students can write fairly quickly in the style abbreviated up to this point; and, further, can read the second Book of the Psalms which is written in this abbreviated form. -- Teaching
 
-Lesson overview
-This being accomplished, the teacher can take the pupils on to supra and sub linear writing as detailed in this lesson.
 
-The modes
+## The modes
 There are three modes of writing a word, either
 
 above,
@@ -857,12 +901,18 @@ As there is a very close relation between V and B, and as words with the prefix 
 Per pre pri pro and peri para
 As stated, supra linear writing is very useful for rapidity, and if other prefixes can be found that cannot possibly clash with the rules laid down, they may with advantage be safely indicated by this mode. Such are found in words derived from the Latin and Greek languages. We thus get the prefixes per, pre, pri, and pro from the Latin, and peri and para from the Greek; all of which may be expressed by Mode 1.
 
-Lesson conclusion
-See that the pupils thoroughly appreciate the supra-linear writing; the gain in time; no clashing possible. Thoroughly understand th, be, per, pre, pri, pro, peri, para are indicated only when initial, prefixes, or quasi-prefixes. Vowel ve can be indicated in any position in the word.
+## Lesson conclusion
+See that the pupils thoroughly appreciate the supra-linear writing; the gain in time; no clashing possible. Thoroughly understand th, be, per, pre, pri, pro, peri, para are indicated only when initial, prefixes, or quasi-prefixes. Vowel ve can be indicated in any position in the word. -- Teaching
 
-Lesson 7: Second and third modes
-Introduction
-Today we take the second and third modes of contraction, that is, on the line, and below the line.
+## Homework and End of Lesson Six
+
+As before. There is no material written at this level.
+
+
+
+
+## Lesson Seven: Second and third modes
+
 
 On the line
 The common primitive con or com may be expressed by a dot on the line, or by leaving it out altogether, and writing the rest of the word quite close to the preceeding word, as , , or  = I commend.
@@ -876,7 +926,19 @@ Sub linear writing is writing below the line. We have already had an example of 
 
 The only other cases of sub-linear writing up to this point are the words ‘take’ and ‘sake’ and their inflections, which are written !](/assets/teaching/pt1/fig7-12.png), etc. The *k* throws [below the line, but in no other case is the k so treated.
 
-Lesson 8: Slurs
+
+## Homework and End of Lesson Seven
+
+You are now replacing many words in the Fully Written level with faster versions, and see the wisdom in not spending too much time reinforcing the lower level.
+
+As before, there is no material written at this level.
+
+# Lesson Eight: Slurs
+
+Almost done!
+
+> By the end of this lesson: The pupils should with their present knowledge be able to write in supplement style (aka abbreviated or correspondence) , at least 60 words per minute, and to read fluently the Third Book of the Psalms, and the Magazine, and to correspond rapidly with any member of the Cambridge Shorthand Society. -- Teaching
+
 Slurs mb dv
 We have now to study the “slurs” commonly used. Notice the combination  mb, if we can get an outline that will embrace both these, preserving the character of the outline - the greater you know will always include the less, this axiom is the basis for the common slurs - time will be saved. We thus get a character like this  = , and this outline does stand for mb, as  = member. This character has too its analogue below the line; look at , one outline  will embrace both.
 
@@ -893,9 +955,16 @@ We have seen that as  = count, therefore  = county, we therefore extract a rule 
 L slurred with T in wealth, health
 L may be slurred with the t in such words as wealth, health, etc., and the softly sounding vowel in terminations such as “al”, final , “er” in upper , etc.
 
-Lesson 9: Conclusion
-Where the student is now
-The pupils should with their present knowledge be able to write in supplement style, at least 60 words per minute, and to read fluently the Third Book of the Psalms, and the Magazine, and to correspond rapidly with any member of the Cambridge Shorthand Society.
+
+# Lesson Nine: Conclusion
+
+> Where the student is now
+The pupils should with their present knowledge be able to write in supplement style, at least 60 words per minute, and to read fluently the Third Book of the Psalms, and the Magazine, and to correspond rapidly with any member of the Cambridge Shorthand Society. -- Teaching
+
+That's optimistic. You will probably be able to take new material using known words at 30wpm, and work known passages up to or 60wpm with 95% accuracy or higher following Swem's advice.
+
+
+
 
 What to do in this lesson
 The only thing to be done on this concluding lesson is to draw the students attention to the list of recognized contractions as issued by the Society, to assist them in phrasing and to consider a few general terminations.
@@ -914,6 +983,10 @@ The last rule is an important one and should be thoughtfully remembered. “Neve
 Common terminations and how to deal with them
 Common terminations such as ent, ency, ence, graph, ism, ship, mise can be easily written shortly by using only the last letter or two, as t, cy, ce, ph, m, p, se.
 
+## End of Lesson Nine
+
+# Other NOtes from Teaching
+
 Use The Teacher with Manual and Supplement
 The “Teacher” should be used in conjunction with the Manual and Supplement; these books will fill in detail the hints here given.
 
@@ -922,6 +995,16 @@ Teachers of Orthic will use their discretion as to the dovetailing of these less
 
 The importance of dictation
 Begin to dictate not later than at Lesson 3, and make your dictation applicable to your lesson. In transcribing make a judicious use of the context.
+
+# Next Steps
+
+Use Swem's ```link``` to increase vocabulary and build speed. For the theory review portion of each session, first re-read the Manual and Supplement sections of this book, then read Teaching - Part 2. 
+
+Use dictation material from modern systems, which provide a thorough review of common English patterns.
+
+Use dictation material from work, or your journal, or other places you want to use shorthand.
+
+
 
 
 
