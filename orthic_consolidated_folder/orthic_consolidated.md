@@ -963,6 +963,8 @@ The pupils should with their present knowledge be able to write in supplement st
 
 That's optimistic. You will probably be able to take new material using known words at 30wpm, and work known passages up to or 60wpm with 95% accuracy or higher following Swem's advice.
 
+You can also read 
+``` link aesop's fables in Abbreviated form ```
 
 
 
@@ -985,6 +987,8 @@ Common terminations such as ent, ency, ence, graph, ism, ship, mise can be easil
 
 ## End of Lesson Nine
 
+
+
 # Other NOtes from Teaching
 
 Use The Teacher with Manual and Supplement
@@ -998,7 +1002,14 @@ Begin to dictate not later than at Lesson 3, and make your dictation applicable 
 
 # Next Steps
 
-Use Swem's ```link``` to increase vocabulary and build speed. For the theory review portion of each session, first re-read the Manual and Supplement sections of this book, then read Teaching - Part 2. 
+Quickly read the Manual's section on other languages, for the general idea and any languages you want to write in Orthic.
+``` link```
+
+Use Swem's ```link``` to increase vocabulary and build speed. For the theory review portion of each session, first re-read the Manual and Supplement sections of this book, then read Teaching - Part 2 for the Reporting level. Or maybe do the Reporting level first.
+
+I'm not sure whether to recommend following this with the Revised (Clarey) book or not. It appears to review the older theory, and adds more rules at each level. There are several more joins, including some that very rarely appear in English, and some that make sense. It has more sample words. It is sorted strangely. There are several sections title Terminations.
+
+It's probably worth reading and writing most of the passages. They are unlikely to include the more obscure joins that Clarey adds.
 
 Use dictation material from modern systems, which provide a thorough review of common English patterns.
 
