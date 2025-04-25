@@ -204,6 +204,17 @@ Teaching suggests that large letters be three times the size of small letters, b
 ``` paper ```
 Links to paper at various sizes. Clarey, 6mm, 7mm, 8mm -- US narrow, college and wide (exact or metrified?), give measurements and conversion, divide line in 3. Experiment with different sizes of writing. Too small will often lead to tension and slower writing. I write larger now than I did 30 years ago, mostly due to muscle changes from less writing and more computering.
 
+| Spacing | Single in | Single mm  | x3 |
+| --- | ---- | --- | ---- |
+| spacing in inches	 | decimal inches	 | mm	 | 1/3 in mm
+| Seyes, 2mm x 3	 | 0.24	 | 6.00	2.00
+| Clarey, 3/12	 | .25	 | 6.35	 | 2.12
+| US narrow, 8/32	 | 0.25	 | 6.35	 | 2.12
+| US college, 9/32	 | 0.28	 | 7.14	 | 2.38
+| Gregg, 1/3	 | 0.33	 | 8.47	 | 2.82
+| US wide, 11/32	 | 0.34	 | 8.73	 | 2.91
+| Pitman, 1/2	 | 0.50	 | 12.70	 | 4.23
+
 
 ```image -- alphabet between 2 lines```
 ```alphabet big chart with examples ```
