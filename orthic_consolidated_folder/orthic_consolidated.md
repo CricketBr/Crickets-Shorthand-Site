@@ -206,7 +206,7 @@ Links to paper at various sizes. Clarey, 6mm, 7mm, 8mm -- US narrow, college and
 
 | Spacing in Inches	 | In	 | mm	 | 1/3 in mm |
 | --- | ---- | --- | ---- |
-| Seyes, 2mm x 3	 | 0.24	 | 6.00	2.00 |
+| Seyes, 2mm x 3	 | 0.24	 | 6.00	 | 2.00 |
 | Clarey, 3/12	 | .25	 | 6.35	 | 2.12 |
 | US narrow, 8/32	 | 0.25	 | 6.35	 | 2.12 |
 | US college, 9/32	 | 0.28	 | 7.14	 | 2.38 |
@@ -214,6 +214,9 @@ Links to paper at various sizes. Clarey, 6mm, 7mm, 8mm -- US narrow, college and
 | US wide, 11/32	 | 0.34	 | 8.73	 | 2.91 |
 | Pitman, 1/2	 | 0.50	 | 12.70	 | 4.23 |
 
+Data from https://en.wikipedia.org/wiki/Ruled_paper
+Gregg: Lamb, https://babel.hathitrust.org/cgi/pt?id=mdp.39015062337244&view=1up&seq=136
+Pitman: 
 
 ```image -- alphabet between 2 lines```
 ```alphabet big chart with examples ```
