@@ -46,7 +46,7 @@ For more examples and discussion, and possible study partners, see (orthic.short
 ```link discord?```
 
 Sources:
-``` links ```
+Full descriptions and links are below.
 - The Manual, A Manual of Orthographic Shorthand, Hugh L Callendar, 1891.
 - The Supplement, Supplement to the Manual of Orthic Shorthand \[Orthographic Cursive\], Hugh L Callendar, 1892.
 - Teaching, The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand, W Stevens, 1896.
@@ -119,16 +119,15 @@ Most of these, and some contributions from the community, are available on (orth
 
 Wording and examples are a mix of all sources and the author. If no reference is given, the rule first appears in the Manual. 
 
-### Cursive, sometimes called Phonetic Cursive
-A Manual of Cursive Shorthand,\
+### A Manual of \[Phonetic\] Cursive Shorthand
 Hugh L Callendar, 1889.\
-https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up \
+(https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up) \
 This is included for historical reasons only. It was Callendar’s first shorthand publication. It includes a systematic condemnation of Pitman. Callendar was fluent in Pitman. He was also a Victorian gentleman, lawyer, and engineer. It's a fun read.
 
 ### The Manual
 A Manual of Orthographic Shorthand: The Cambridge System, \
 Hugh L Callendar, 1891.\
-https://orthic.shorthand.fun/manual , Rendered into Markdown and annotated by Jeremy W Sherman
+(https://orthic.shorthand.fun/manual) , Rendered into Markdown and annotated by Jeremy W Sherman
 > Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
 This book has three levels: Fully-written, Ordinary (simple rules and abbreviations), and Reporting (a collection of ideas).
 
@@ -137,7 +136,7 @@ This book has three levels: Fully-written, Ordinary (simple rules and abbreviati
 ### The Supplement
 Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], \
 Hugh L Callendar, 1892.\
-https://orthic.shorthand.fun/supplement , Rendered into Markdown and annotated by Jeremy W Sherman
+(https://orthic.shorthand.fun/supplement) , Rendered into Markdown and annotated by Jeremy W Sherman
 > It is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been greeted on all sides has more than fulfilled the author’s expectations, and repaid him for the years which he has spent in the endeavour to devise a system of shorthand sufficiently simple for general use.
 > …
 > The object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given in the Manual as ‘Hints for the Reporting Style’ and to provide advanced writers of the system with additional matter for exercise and reading practice.
@@ -147,8 +146,8 @@ This book moves many rules from Reporting to Ordinary, and adds more abbreviatio
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system), \
 W Stevens, 1896\
 Rendered into Markup by Jacob Moena
-https://orthic.shorthand.fun/teaching-pt1 \
-https://orthic.shorthand.fun/teaching-pt2 \
+(https://orthic.shorthand.fun/teaching-pt1) \
+(https://orthic.shorthand.fun/teaching-pt2) \
 > The following lessons have been drawn up for the use of teachers in the “Orthic” system of shorthand.
 …
 > If teachers and students will only follow these hints, and the lessons, as they are laid down, not hurrying, immediate success will accrue to their efforts.
@@ -162,9 +161,9 @@ Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; \
 Hugh L Callendar ; \
 Revised, Extended and Improved \
 E Clarey, 1911 \
-https://orthic.shorthand.fun/  under Resources\
+(https://orthic.shorthand.fun/)  under Resources\
 
-This book is an update of the Manual, which merges rules from the Manual, the Supplement ```and Teaching??```, and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels.
+Clarey's book is an update of the Manual, which merges rules from all the other books and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels.
 
 ### might be duplicate info
 ### Notes on the Reporting Style
