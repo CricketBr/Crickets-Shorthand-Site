@@ -215,8 +215,8 @@ Links to paper at various sizes. Clarey, 6mm, 7mm, 8mm -- US narrow, college and
 | US wide, 11/32	 | 0.34	 | 8.73	 | 2.91 |
 | Pitman, 1/2	 | 0.50	 | 12.70	 | 4.23 |
 
-Data from https://en.wikipedia.org/wiki/Ruled_paper
-Gregg: Lamb, https://babel.hathitrust.org/cgi/pt?id=mdp.39015062337244&view=1up&seq=136
+Data from https://en.wikipedia.org/wiki/Ruled_paper \
+Gregg: Lamb, https://babel.hathitrust.org/cgi/pt?id=mdp.39015062337244&view=1up&seq=136 \
 Pitman: https://www.long-live-pitmans-shorthand.org.uk/downloads.htm#print-your-own-shorthand-notepad measures at 1/3" and the owner (Berryl Pratt) is a well-known expert. Many of us remember 1/2in, but I can't find a reference.
 
 ```image -- alphabet between 2 lines```
