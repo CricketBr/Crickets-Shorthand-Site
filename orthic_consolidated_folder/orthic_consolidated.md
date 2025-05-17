@@ -1,4 +1,4 @@
-{:toc}
+```
 ---
 layout: page
 title: "Orthic Consolidated"
@@ -7,6 +7,7 @@ author: "CricketB, drawing from works by Hugh L Callendar, W Stevens, and E Clar
 toc: true
 toc_hmax: 6
 ---
+```
 # Orthic Consolidated --- DRAFT
 
 Being an Improved and Expanded Consolidation of\
