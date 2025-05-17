@@ -1,3 +1,4 @@
+{:toc}
 ---
 layout: page
 title: "Orthic Consolidated"
