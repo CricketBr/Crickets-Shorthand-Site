@@ -63,8 +63,10 @@ I have expanded on the homework suggested in Teaching, to give more guidance for
 >
 > Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by *sound* are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
 > 
-> I have every reason to believe that the present adaptation of (Phonetic) Cursive to the common spelling will be found much more simple and easy to learn than any of the phonetic systems at present in vogue. There is very little to learn beyond an alphabet of 26 characters, and the method of joining them. In fact many students have succeeded in reading and writing the present system with nothing but the bare alphabet to guide them.
+> I have every reason to believe that the present adaptation of [Phonetic] Cursive to the common spelling will be found much more simple and easy to learn than any of the phonetic systems at present in vogue. There is very little to learn beyond an alphabet of 26 characters, and the method of joining them. In fact many students have succeeded in reading and writing the present system with nothing but the bare alphabet to guide them.
+> 
 > [...]
+> 
 > The writing requires no great niceties of penmanship. No distinction is made, as in other systems, between thin strokes and thick. Only two sizes of character are employed, instead of three or four. 
 >
 > The vowel characters are connecting strokes joined in their natural order together with the consonants. The great majority of the signs are written on the ordinary slope of longhand, and the forms and distinctions between the characters are such as are already familiar to every one who has learnt to write in the ordinary style.
