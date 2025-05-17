@@ -46,7 +46,7 @@ For more examples and discussion, and possible study partners, see (orthic.short
 Sources:
 ``` links ```
 - The Manual, A Manual of Orthographic Shorthand, Hugh L Callendar, 1891.
-- The Supplement, Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], Hugh L Callendar, 1892.
+- The Supplement, Supplement to the Manual of Orthic Shorthand [Orthographic Cursive], Hugh L Callendar, 1889.
 - Teaching, The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand, W Stevens, 1896.
 - Revised, Orthographic Cursive Shorthand (Orthic) Revised, Extended and Improved, E Clarey, 1911.
 Descriptions of each book are later.
@@ -115,7 +115,7 @@ Wording and examples are a mix of all sources and the author. If no reference is
 
 ### Cursive, sometimes called Phonetic Cursive
 A Manual of Cursive Shorthand,\
-Hugh L Callendar, 1891.\
+Hugh L Callendar, 1889.\
 https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala/page/n5/mode/2up \
 This is included for historical reasons only. It was Callendar’s first shorthand publication. It includes a systematic condemnation of Pitman. Callendar was fluent in Pitman. He was also a Victorian gentleman, lawyer, and engineer. It's a fun read.
 
