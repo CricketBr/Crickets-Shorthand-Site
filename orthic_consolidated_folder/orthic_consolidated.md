@@ -4,10 +4,13 @@ layout: page
 title: "Orthic Consolidated"
 subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Revised Publications for Orthographic Cursive, aka the Cambridge System."
 author: "CricketB, drawing from works by Hugh L Callendar, W Stevens, and E Clarey"
-toc: true
-toc_hmax: 6
 ---
 ```
+
+- TOC
+{:toc}
+
+
 # Orthic Consolidated --- DRAFT
 
 Being an Improved and Expanded Consolidation of\
