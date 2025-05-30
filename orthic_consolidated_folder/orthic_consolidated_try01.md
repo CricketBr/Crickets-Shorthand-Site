@@ -2,7 +2,7 @@
 ---
 layout: page
 title: "Orthic Consolidated"
-subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, Teaching, and Revised Publications for Orthographic Cursive, aka the Cambridge System."
+subtitle: "Being an Improved and Expanded Consolidation of the Manual, Supplement, and Teaching Books for Orthographic Cursive, aka the Cambridge System."
 author: "CricketB, drawing from works by Hugh L Callendar, W Stevens, and E Clarey"
 toc: true
 toc_hmax: 6
@@ -11,8 +11,9 @@ toc_hmax: 6
 # Orthic Consolidated --- DRAFT
 
 Being an Improved and Expanded Consolidation of\
-the Manual, Supplement, Teaching, and Revised books\
-with Clarifications, Additions, Warnings, and Opinions of the Author
+the Manual, Supplement, and Teaching Books\
+with Clarifications, Additions, Warnings, and Opinions of the Author\
+Culminating in a Teaching Program Suitable for All Students of the Art.
 
 By CricketB, Reddit u/CrBr
 
@@ -23,27 +24,26 @@ https://github.com/CricketBr/shorthand/blob/main/orthic%20consolidated \
 ```
 copyright, 
 add in
-
 Revison date .....
 ```
 
-``` copy plates of long texts from Clarey to Readings page? ```
-
 # Introduction to Orthic Consolidated
 
-Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
+Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster. It begins as an orthographic system (replace each letter with a simpler shape), then adds rules for simpler spelling and abbreviations. Multiple levels can be used in the same sentence without confusoin.
 
 In keeping with tradition, this book begins with a list of the deficiencies of previous books:
 - Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement and a Teaching booklet (with a few more abbreviations). Then Clarey wrote Revised, Extended and Improved.
 - Minimal guidance for studying and goals.
 - Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
 
-This book addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
+This book addresses the first problem. [Cricket’s Shorthand Tips](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw/edit?usp=sharing) addresses the second. The third, however, requires more work than any are willing to do. 
 
 This collection of publications does one thing better than most other shorthand systems: It shows the writing of more than one person. Callendar, while a bit messy, follows the standard rules. Stevens is similar in form,  begins neatly, then his hand tires by the end of the longer works. He does things that, while not important enough to be rules, make similar outlines a bit more distinct, for easier reading. Clarey's writing is very loopy. Seeing this variety encourages students to experiment for themselves rather than trying to duplicate shapes exactly. If you can read it a year from now, then it's written well-enough.
 
-For more examples and discussion, and possible study partners, see (orthic.shorthand.fun), https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society.
-```link discord?```
+For more discussion and possible study partners, see (orthic.shorthand.fun) resources, https://www.reddit.com/r/orthic/ , https://www.reddit.com/r/shorthand/ , and the Discord International Shorthand Society. Searching the groups often have QOTD and QOTW (Quote of the Day/Week) will produce multiple samples.
+```link discord?  resources```
+
+Once you've practiced Orthic's rules, the dictation exercises from other shorthand books may be more useful than random text since they focus on just a few rules at a time. Texts similar to what you will be writing will be more useful than texts from other fields.
 
 Sources:
 Full descriptions and links are below.
@@ -100,7 +100,7 @@ cricket's shorthand tips
 ```
 
 # Levels
-There Orthic has 4 main levels:
+Orthic has 4 main levels:
 - Fully written. The alphabet and special joins for letters that do not work well together. This level is significantly faster than longhand, but you can do better with very little effort.
 - Ordinary. Simplified spelling. Abbreviations for a few common prefixes and suffixes, including raising the word to indicate some positions. (Writing by mode / supra-lineal writing.)
 - Abbreviated, aka Correspondence. Teaching Part 1, 9 lessons. Recommended for correspondence between members of the Cambridge Shorthand Society.
@@ -163,7 +163,7 @@ Revised, Extended and Improved \
 E Clarey, 1911 \
 (https://orthic.shorthand.fun/)  under Resources\
 
-Clarey's book is an update of the Manual, which merges rules from all the other books and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels.
+Clarey's book is an update of the Manual, which merges rules from all the other books and adds many more. I would classify the entire book as Reporting level, with an integrated review of simpler levels. Unfortunately for us, Clarey introduces some rules which are incompatible with the original system. Of note: SH uses the large H. CH has more options for start and direction. Therefore, Clarey's book has not been included in this book.
 
 ### might be duplicate info
 ### Notes on the Reporting Style
@@ -188,6 +188,8 @@ As with all mental/physical skills, frequent short practice is more effective th
 > Impress upon the pupils the necessity of becoming again “Babes in Learning”. They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet. -- Teaching
 
 Reading and copying the samples in the source documents will help "lock in" the rules. Each writer has a different feel to their letters. You should develop a style that works with your hand, and your sense of aesthetics.
+
+To learn or copy a new word, start by spelling it, then say the word, then write it. This three-step process will help lock in the shapes of each letter and the outline of the entire word. Once you know the word well, you can write it without the other steps. Saying it out loud recruits multiple senses in throat, mouth and ear, which aids memory. 
 
 ```Figs: Orthic written by Callendar, Stevens, Clarey,  Pitman accent, Gregg accent, and my own.```
 ```	alphabet in 2 lines , all writers ```
