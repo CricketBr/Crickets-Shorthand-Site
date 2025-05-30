@@ -12,7 +12,7 @@ author: "CricketB, drawing from works by Hugh L Callendar, W Stevens, and E Clar
 # Orthic Consolidated --- DRAFT
 
 Being an Improved and Expanded Consolidation of\
-the Manual, Supplement, Teaching, and Revised books\
+the Manual, Supplement, and Teaching Books\
 with Clarifications, Additions, Warnings, and Opinions of the Author
 drawing from works by Hugh L Callendar, W Stevens, and E Clarey
 
@@ -38,9 +38,9 @@ Orthic shorthand is a good first shorthand for most students. It is quick to lea
 In keeping with tradition, this book begins with a list of the deficiencies of previous books:
 - Rules are spread out over too many publications. Instead of printing a revised Manual, they printed a Supplement and a Teaching booklet (with a few more abbreviations). Then Clarey wrote Revised, Extended and Improved.
 - Minimal guidance for studying and goals.
-- Insufficient and incomplete material at each chapter. Some rules may not appear in the passages chosen.
+- Insufficient and incomplete practice material at each chapter. Some rules may not appear in the passages chosen.
 
-Callendar wrote the Manual in 1891, then, instead of updating it, he issued the Supplement in 1982. This booklet moved some rules from advanced to intermediate, and changed a few. Stevens wrote The Teaching of Orthic Shorthand in 1896, and, again, instead for writing complete book, he told the readers to refer to the other two publications. It follows the previous books pattern of having distinct levels or styles, in this case Fully Written, Abbreviated, and Supplement. Finally, in 1911, Clarey wrote Orthic Shorthand: Revised, Extended and Improved. That book brought together all the rules, but removed the distinct levels. (All are available on https://orthic.shorthand.fun/ , and fully referenced below.
+Callendar wrote the Manual in 1891, then, instead of updating it, he issued the Supplement in 1982. This booklet moved some rules from advanced to intermediate, and changed a few. Stevens wrote The Teaching of Orthic Shorthand in 1896, and, again, instead for writing complete book, he told the readers to refer to the previous publications. It follows the previous books pattern of having distinct levels or styles, in this case Fully Written, Abbreviated, and Supplement. Finally, in 1911, Clarey wrote Orthic Shorthand: Revised, Extended and Improved. That book brought together all the rules, changed a few, and removed the distinct levels. (All books available on https://orthic.shorthand.fun/ , and fully referenced below.
 
 The purpose of this document is to bring all the rules together, and redefine levels, so that modern students can learn it and correspond more easily. It is not designed to be a course of study. For that, I recommend you follow Teaching, and then use Revised as a review and expansion.
 
