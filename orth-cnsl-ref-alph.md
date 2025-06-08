@@ -39,11 +39,9 @@ add in
 Revison date .....
 ```
 
+# Introduction to Orthic Consolidated – Reference Alphabet
 
-
-# Introduction to Orthic Consolidated – Reference
-
-Sometimes (more often than I'd like), I want to look up a rule. Searching three separate books, which often disagree about which style level a rule applies to, is annoying and frustrating. (One could argue, correctly, that if I'd spent enough time on each rule, I would not need this reference.) It gets even worse when you add Revised to the mix.
+Sometimes (more often than I'd like), I want to look up a rule. Searching four separate books, which often disagree about which style level a rule applies to and sometimes have an entirely different rule, is annoying and frustrating. (One could argue, correctly, that if I'd spent enough time on each rule, I would not need this reference.)
 
 This book intends to solve that problem. It combines all the rules (except those that only exist in the reporting style) from the Manual, Supplement, Teaching Parts 1 and 2, and Revised. It includes references to the sources for easy confirmation of the rules. (I lied. I included some rules that I like that are only in the reporting style.)
 
@@ -76,51 +74,6 @@ Most images indicate the source of the rule they demonstrate.\
 - **C** : Consolidated (This document.)\
 
 An X above a word means it shows what not to do. Often the reasoning behind a rule makes more sense when you see the alternatives.
-
-## Planned Books in the Orthic Consolidated Series
-
-* **Reference - Alphabet.** A quick-ish review of the theory in all books, combined for easy reference, not including Reporting Style, for concepts best explained with a picture.
-* **Reference - Abbreviations.** A list of all abbreviations and word parts, that can be sufficiently explained by typed letters, using notation similar that used in the Dictionary, courtesy of Jeremy H Sherman. Does not include abbreviations only included in the reporting style.
-* **The Hobbit Learns Orthic.** A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written to Supplement/Correspondence Style. It won't cover all the rules, but will cover many. The order of presentation will be "as needed." 
-* **The Orthic Hobbit.** A crowd-sourced version of The Hobbit, written in whatever styles the contributors prefer. (Contributions welcome!)
-
-``` links to these books, or at least to the Orthic Consolidated Site    ```
-
-# Sources
-
-**Phonetic Cursive**\
-A Manual of Phonetic Cursive Shorthand\
-Hugh L Callendar, 1889.\
-<https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala>\
-This is the precursor to Orthographic Cursive, and is included for historical reasons only. The introduction discusses "other, inferior systems" and is a fun read.
-
-**The Manual**\
-A Manual of Orthographic Shorthand: The Cambridge System,  
-Hugh L Callendar, 1891\. 
-<https://orthic.shorthand.fun/manual>\
-Rendered into Markdown and annotated by Jeremy W Sherman.
-
-**The Supplement**\
-Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
-Hugh L Callendar, 1892.\
-<https://orthic.shorthand.fun/supplement>\
-Rendered into Markdown and annotated by Jeremy W Sherman.
-
-**Teaching (Parts 1 and 2)**\
-The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
-W Stevens, 1896\
-<https://orthic.shorthand.fun/teaching-pt1> , <https://orthic.shorthand.fun/teaching-pt2>
-
-**Revised, Extended and Improved**\
-Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; Revised, Extended and Improved\
-Hugh L Callendar ; E Clarey, 1911\
-<https://orthic.shorthand.fun/>  under Resources  
-Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
-
-**Dictionary**\
-<https://orthic.shorthand.fun/dictionary>\
-Clipped, assembled and programmed by Jeremy W. Sherman\
-Includes a notation that will encode Orthic text into ASCII.   Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
 
 
 # The Alphabet
