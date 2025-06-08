@@ -3,7 +3,7 @@
 Rev 2025-06-08
 
 Canonical copy and licensing instructions at 
-(https://cricketbr.github.io/Crickets-Shorthand-Site)
+[https://cricketbr.github.io/Crickets-Shorthand-Site](https://cricketbr.github.io/Crickets-Shorthand-Site)
 
 # Table of Contents
 * toc
@@ -20,6 +20,27 @@ Most modern shorthand students do not have the luxury of a teacher, or even a go
 A good book will introduce the material in an order that allows for the most natural language as early as possible, have plenty of well-written shorthand to read and copy at all stages, give speed suggestions, and clearly state when enough rules have been taught that it is safe for you to write your own material.
 
 This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do.
+
+# What to Expect
+
+- Lots of advice and reassurance.
+- Accurate means readable, not perfect.
+- Begin by reading as much as you can.  
+Stay at this stage until 90% comfortable with reading or you run out of material.
+- Copy well-written shorthand (or your own).
+Stay at this stage until your first attempt at copying a new exercise is 95% accurate.
+- Make a Personal Reference Binder.
+- Very Slow Dictation.  
+Stay at this stage until your first attempt is about as neat as your second.
+- Dictation with Full Preparation.  
+Stay at this stage until you can copy the material once, then take dictation at 40-60wpm with 95% accuracy.
+- Dictation with Reduced Preparation.  
+Stay at this stage until you can prepare the new bits, then take dictation at 40-60wpm with 95% accuracy.
+- Dictation with No Preparation.  
+Stay at this stage until you can take dictation at 60wpm with 95% accuracy.
+- Graduate and begin Swem's Systematic Speed Course, modified for slower speeds.
+
+
 
 # References
 
@@ -80,6 +101,8 @@ Your hand will be unstable at first.  (Leslie)
 Vary the speed. Slow helps precision. Speed helps fluency and reduces hesitation. You need both. Write each exercise a few times at different speeds and see what happens.
 
 Our brains and bodies remember the first and final repeats more than the middle ones. They should be as fast as possible without losing readability.
+
+Stay at this stage until your first attempt at copying a new exercise is 95% accurate.
 
 ## Column Method for Difficult Words {#column-method-for-difficult-words}
 
@@ -308,7 +331,7 @@ In the same vein, some are easier than others. Use these to practice going even 
 
 The total repetitions for easy and hard exercises will be about the same. The only difference is your final speed and accuracy. (That may change when you graduate from this course and move to Swem’s.)
 
-# First Few Dictations
+# Very Slow Dictation
 
 Your goal at this stage is to become comfortable taking dictation and for your hand to start to stabilize with the new shapes. That’s it. No speed. Have a good copy of the shorthand in front of you.
 
