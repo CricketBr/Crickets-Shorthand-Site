@@ -1,6 +1,6 @@
-Finally! All in one place (when I finish), with URLs that make sense.
+Finally! All in one place (eventually), with URLs that make sense.
 
-You can reach me at cricket@onebit.ca, Discord International Shorthand Society @cricket, Reddit u/CrBr, or DM me through GitHub.
+You can reach me at cricket@onebit.ca, Discord International Shorthand Society @cricket, Reddit u/CrBr, or DM me through GitHub. Comments and corrections are more than welcome.
 
 Cricket's Shorthand Tips
 : A collection of tips I've accumulated over the years.
@@ -20,7 +20,17 @@ Orthic Consolidated Reference Abbreviations
 Orthic Consolidated Vocabulary
 : A list of all the words from all four sources, again only partially including Reporting level. This will help people look up examples of the rules.
 
+The Hobbit Learns Orthic
+: A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written to Supplement/Correspondence Style. The order of presentation will be "as needed." In theory that will cover most of the useful rules at a reasonable pace.
+
+The Orthic Hobbit
+: A crowd-sourced version of The Hobbit, written in whatever styles the contributors prefer. (Contributions welcome!)
+
 
 Unless otherwise stated, all my work is licenced under ...
 ``` probably creative commons share alike ```
+
+You are welcome to copy and share the files. All the files include a revision date and a link to this source, so readers can check for updates themselves.
+
+
 
