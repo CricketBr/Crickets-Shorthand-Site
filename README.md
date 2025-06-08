@@ -17,7 +17,7 @@ You can reach me at cricket@onebit.ca, Discord International Shorthand Society @
 : A consolidation of the letter and joining rules for all four original books, with images, and source of rules clearly marked for reference. This is useful when the books don't agree. Reporting level only partially included. If a rule introduces a new shape, it goes here. Students should start with the Manual. You won't need the information here for some time.
 
 Orthic Consolidated Reference Abbreviations -- Not started
-: A list of all the abbreviations and word parts from the four original books. Images aren't required. Includes searchable standard and Orthic spelling. If someone who knows the alphabet and joining rules, and can create an outline given the Orthic spelling, it goes here. Reporting level only partially included.
+: A list of all the abbreviations and word parts from the four original books. Uses notation based on Jeremy W Sherman's notation in the Orthic Dictionary. Includes searchable standard and Orthic spelling. Images aren't required. Reporting level only partially included.
 
 Orthic Consolidated Vocabulary -- Not started
 : A list of all the words from all four sources, again only partially including Reporting level. This will help people look up examples of the rules.
