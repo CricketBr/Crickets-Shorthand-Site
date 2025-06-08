@@ -124,7 +124,7 @@ Includes a notation that will encode Orthic text into ASCII.   Contains all the 
 
 
 # The Alphabet
-![Alphabet](<alphabet_images/alphabet_entire.png>)
+![Alphabet](<alphabet_images/alphabet-entire.png>)
 
 
 ![Alphabet A-L](<alphabet_images/alphabet column a-l.png>)
