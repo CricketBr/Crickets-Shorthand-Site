@@ -1,12 +1,20 @@
-# Cricket’s Shorthand Learning Tips
+# Cricket’s Shorthand Tips
 
-Rev 2025-05-30
+Rev 2025-06-08
 
-[https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu\_Sjv29id98xBRUQH7nsmrw](https://docs.google.com/document/d/1zUC87XQtrLZB-0UZuWFSu_Sjv29id98xBRUQH7nsmrw)
+Canonical copy at 
+https://cricketbr.github.io/Crickets-Shorthand-Site
+
+# Table of Contents
+
+* toc
+{:toc}
 
 # Introduction
 
 Since I seem to give the same advice often, here it is in one convenient place. Some of it is from personal experience. Some is from too many hours spent reading books and websites about teaching shorthand. (While it may make the hours spent actually studying more efficient, it does not effectively replace them.)
+
+[Cricket's Shorthand Course](cr-shorthand-course.md) was written some years after this. It will, hopefully, work with any shorthand book. It gives advice on when to start copying, and then when to start dictation, and how to build speed. You may find that more useful.
 
 This page is long, convoluted, frequently-edited, and only suitable for people who learn the way I do. Some of the advice is contradictory. Follow some of it some days, and the rest of it other days. A bit of variety is good. Some ways will work better on new material, some on old, some on tired days, some on alert days.
 
@@ -18,12 +26,12 @@ Much of this is links to Reddit, where I’m u/CrBr.
 
 All of the advice to beginners, and how to practice, applies to all shorthand systems.
 
-Beryl Pratt's site [https://www.long-live-pitmans-shorthand.org.uk/](https://www.long-live-pitmans-shorthand.org.uk/)  
-[**https://www.long-live-pitmans-shorthand.org.uk/how-to-practise.htm**](https://www.long-live-pitmans-shorthand.org.uk/how-to-practise.htm)  
-Another description by Beryl of facility drills and making your own dictation recordings.  
-[https://www.reddit.com/r/shorthand/comments/1kh69y7/advice\_for\_speedbuilding/](https://www.reddit.com/r/shorthand/comments/1kh69y7/advice_for_speedbuilding/)
+* Beryl Pratt's site [https://www.long-live-pitmans-shorthand.org.uk/](https://www.long-live-pitmans-shorthand.org.uk/)  
 
-[https://www.stenophile.com/shorthands](https://www.stenophile.com/shorthands) Every shorthand book Stenophile can find is on here.
+* [https://www.long-live-pitmans-shorthand.org.uk/how-to-practise.htm](https://www.long-live-pitmans-shorthand.org.uk/how-to-practise.htm)  
+* Another description by Beryl of facility drills and making your own dictation recordings.  
+[https://www.reddit.com/r/shorthand/comments/1kh69y7/advice\_for\_speedbuilding/](https://www.reddit.com/r/shorthand/comments/1kh69y7/advice_for_speedbuilding/)
+* [https://www.stenophile.com/shorthands](https://www.stenophile.com/shorthands) Every shorthand book Stenophile can find is on here. Impressive is putting it mildly.
 
 # Wait Until You Finish The Book Before Writing New Words
 

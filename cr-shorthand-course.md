@@ -1,64 +1,17 @@
 # Cricket’s Shorthand Course
 
-Rev \#xxx
+Rev 2025-06-08
+
+Canonical copy at 
+https://cricketbr.github.io/Crickets-Shorthand-Site
+
+# Table of Contents
+* toc
+{:toc}
+
+You may find [Cricket's Shorthand Tips](cr-shorthand-tips.md) more useful, depending on your stage of learning.
 
 This course will (hopefully) work with any shorthand system, and any book. Options are given to accommodate different types of systems and quality of books.
-
-[Copyright](#copyright)
-
-[Introduction](#introduction)
-
-[References](#references)
-
-[Begin by Reading](#begin-by-reading)
-
-[Diary](#diary)
-
-[New Vocabulary in the Text](#new-vocabulary-in-the-text)
-
-[Copying Shorthand](#copying-shorthand)
-
-[A Note on Repetition](#a-note-on-repetition)
-
-[A Note on New Material](#a-note-on-new-material)
-
-[Find the Size Your Hand Prefers](#find-the-size-your-hand-prefers)
-
-[A Note On Perfection](#a-note-on-perfection)
-
-[Typical Copying Session](#typical-copying-session)
-
-[Four Column Method for Copying](#four-column-method-for-copying)
-
-[Column Method for Difficult Words](#column-method-for-difficult-words)
-
-[Working With Word Lists](#working-with-word-lists)
-
-[Personal Reference Binder](#personal-reference-binder)
-
-[Taking Dictation](#taking-dictation)
-
-[Relax](#relax)
-
-[Duration vs Speed](#duration-vs-speed)
-
-[Text to Speech Programs](#text-to-speech-programs)
-
-[Practicing Problem Areas](#practicing-problem-areas)
-
-[Ruts and Plateaus](#ruts-and-plateaus)
-
-[First Few Dictations](#first-few-dictations)
-
-[Dictation with Full Preparation](#dictation-with-full-preparation)
-
-[Dictation with Reduced Preparation](#dictation-with-reduced-preparation)
-
-[Dictation with No Preparation, aka Cold Dictation](#dictation-with-no-preparation,-aka-cold-dictation)
-
-[Motion Picture Study by Klein](#motion-picture-study-by-klein)
-
-[Swem’s Systematic Speed Course for Advanced Writers](#swem’s-systematic-speed-course-for-advanced-writers)
 
 # Copyright {#copyright}
 
