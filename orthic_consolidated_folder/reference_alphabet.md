@@ -79,8 +79,8 @@ An X above a word means it shows what not to do. Often the reasoning behind a ru
 
 ## Planned Books in the Orthic Consolidated Series
 
-* **Reference -- Alphabet.** A quick-ish review of the theory in all books, combined for easy reference, not including Reporting Style, for concepts best explained with a picture.
-* **Reference -- Abbreviations.** A list of all abbreviations and word parts, that can be sufficiently explained by typed letters, using notation similar that used in the Dictionary, courtesy of Jeremy H Sherman. Does not include abbreviations only included in the reporting style.
+* **Reference - Alphabet.** A quick-ish review of the theory in all books, combined for easy reference, not including Reporting Style, for concepts best explained with a picture.
+* **Reference - Abbreviations.** A list of all abbreviations and word parts, that can be sufficiently explained by typed letters, using notation similar that used in the Dictionary, courtesy of Jeremy H Sherman. Does not include abbreviations only included in the reporting style.
 * **The Hobbit Learns Orthic.** A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written to Supplement/Correspondence Style. It won't cover all the rules, but will cover many. The order of presentation will be "as needed." 
 * **The Orthic Hobbit.** A crowd-sourced version of The Hobbit, written in whatever styles the contributors prefer. (Contributions welcome!)
 
@@ -124,6 +124,9 @@ Includes a notation that will encode Orthic text into ASCII.   Contains all the 
 
 
 # The Alphabet
+![alt text](<alphabet entire.png>)
+
+
 ![Alphabet A-L](<alphabet images/alphabet column a-l.png>)
 ![Alphabet M-X](<alphabet images/alphabet column m-x.png>)
 ![Alphabet Y-Z](<alphabet images/alphabet column y-z.png>)
