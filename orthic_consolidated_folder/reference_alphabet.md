@@ -124,12 +124,12 @@ Includes a notation that will encode Orthic text into ASCII.   Contains all the 
 
 
 # The Alphabet
-![alt text](<alphabet entire.png>)
+![Alphabet](<alphabet_images/alphabet_entire.png>)
 
 
-![Alphabet A-L](<alphabet images/alphabet column a-l.png>)
-![Alphabet M-X](<alphabet images/alphabet column m-x.png>)
-![Alphabet Y-Z](<alphabet images/alphabet column y-z.png>)
+![Alphabet A-L](<alphabet_images/alphabet column a-l.png>)
+![Alphabet M-X](<alphabet_images/alphabet column m-x.png>)
+![Alphabet Y-Z](<alphabet_images/alphabet column y-z.png>)
 
 # General Rules
 
