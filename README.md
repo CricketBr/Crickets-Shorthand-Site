@@ -1,5 +1,7 @@
 Finally! All in one place (eventually), with URLs that make sense.
 
+Still a work in progress. Plans will probably change.
+
 You can reach me at cricket@onebit.ca, Discord International Shorthand Society @cricket, Reddit u/CrBr, or DM me through GitHub. Comments and corrections are more than welcome.
 
 Cricket's Shorthand Tips
