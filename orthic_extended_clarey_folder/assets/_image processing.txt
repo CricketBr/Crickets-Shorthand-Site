@@ -1,7 +1,0 @@
-colours / desaturate / monomixer
-red, green -> 0.5
-blue -> 5.0
-
-ctrl-R to rotate
-
-export -- compression level 0
