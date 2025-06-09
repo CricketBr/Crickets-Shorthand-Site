@@ -3,10 +3,6 @@
 By Charles Lee Swem, Offical Reproter, Supreme Court, State of New York  
 Appendix to Gregg Speed Building
 
-testing
-
-t2
-
 [Image of Original Text](systematic-speed-course-for-advanced-writers-swem.pdf)
 
 
