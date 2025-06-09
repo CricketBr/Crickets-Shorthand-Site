@@ -2,7 +2,7 @@
 
 Rev 2025-06-08
 
-Canonical copy and licensing instructions at 
+Canonical copy and license at 
 (https://cricketbr.github.io/Crickets-Shorthand-Site)
 
 # Table of Contents
