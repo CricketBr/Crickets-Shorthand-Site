@@ -68,6 +68,28 @@ It is organized into the following parts:
 ![alphabet, manual](assets/manual-bits/_alphabet-m003.png)
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
+# Notation
+
+Use the joining rules below unless otherwise specified.
+
+Letters in brackets are compound letters or slurs.
+
+* ^ indicates the following letters are raised.
+* . indicates a small gap to indicate omitted letters, as in Mode 2.
+* _ indicates the following letters are lowered.
+* \* indicates a dot on the line (or a tiny bit above)
+* : indicates a sharp join between vowels. Otherwise all vowels have rounded joins.
+* I indicates dotted i. E is used if the dot is optional.
+* Dot for doubled letters is not included.
+* () indicates a compound letter.
+* vowels are listed in order written.
+
+Where there is more than one way to write a letter or compound, I added numbers. Often the number chosen reflects the shape of the compound, as a mnemonic. This was not always possible.
+
+**ing**  
+(ing1) = straight, (ing2) = curved, chosen because 1 is straight and 2 is curved. (Cricket)
+
+
 # General Rules and Simple Abbreviations
 
 ### Doubling a Letter
@@ -93,6 +115,8 @@ Just do what looks right to you. If you read something that doesn't make sense, 
 ### Modes or Positions
 
 Each letter that can be replaced by a mode is listed under Joining Consonants. Their use for shortening words beyond simple letter replacement is under Word Parts. 
+
+Note that modes are relative to the preceding character. See "thoughtfulness" in Word Parts.
 
 * First Position, Raised: B, P, V
 * Second Position, Normal (gap): all others
@@ -307,6 +331,13 @@ get images from all writers -- some interesting variations
 
 ## H, Other Joins
 
+HR
+![ther, manual](assets/manual-bits/ther-m016.png)
+ther, others, ard, toward  
+R goes inside H.
+
+THR, THER: T can be omitted.
+
 See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
 
 See SH and TH for those joins. Sometimes H is smaller or not completed.
@@ -348,7 +379,7 @@ In adding inflections to CH they may be joined either above or below. (Revised, 
 
 WH
 
-* Whose, when, chose, chin (Revised, p5, Compound Characters
+* Whose, when, chose, chin (Revised, p5, Compound Characters)
 
 ## I
 
@@ -362,7 +393,14 @@ INC: Make sure you do not go down as I changes to C. The first part of the C ret
 
 IN: Make sure that you do a full N. The first part of the C does not retrace any part of the N.
 
-xxx image ??
+ING: 
+![ing, manual](assets/manual-bits/ing-m016.png)
+Manual: using, saying, seeming, king, sing, singing.  
+```us(ing1), say(ing2), seem(ing2), king, sing, sing(ing2)```
+
+This form is used only for the inflection "ing" and not in other words. It is better to curve the stroke after D,M,N,T,V and vowels. (Manual)
+
+I vote we use it in sing and king. It's already used in thing and bring. (Cricket)
 
 ## J
 
@@ -430,12 +468,11 @@ Note that omitting A and O before M and N means that MN can mean man or mon.
 ![n, manual](assets/manual-bits/n-m009.png)
 ng, singer, nsp, inspect, nc, since, nch, inches, nd, India, nf, infer, nj, injury, nl, unless, ns, sense, nt, sent, nk, sink, nqu, inquest, nv, invent
 
-
-
-
 Omit A and O before M and N. See General Rules.
 
-ING: Only use the *ING* blend for verbs and *thing* compounds. That blend is described under Word Parts. I'm happy to use the ing form for other purposes, but am in the minority. (Cricket)
+ING: See I. Only use the *ING* blend for verbs and *thing* compounds. That blend is described under Word Parts. I'm happy to use the ing form for other purposes, but am in the minority. (Cricket)
+
+
 
 NSP: Omit S.
 
@@ -590,15 +627,13 @@ with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 the, they, this, them, tho', that
 
 ![ther, manual](assets/manual-bits/ther-m016.png)
-her, others, ard, toward
+ther, others, ard, toward
 
 TH-final: Don't close the H.
 
-TCH: Omit T. (It's silent.)
+R goes inside H.
 
-R goes inside T.
-
-THER: H with R inside. Omit the T.
+THER: H with R inside. Omit the T. (Same as HR.)
 
 Initial TH is omitted in all common words. The omission is shown by writing the rest of the word above the line, Mode 1. 
 
@@ -671,13 +706,11 @@ The angular form is used after *S*, thus ![][image163] *sw*, formed of ![][image
 ![x, manual](assets/manual-bits/x-m012.png)
 Manual: xh, xp, xt, extent, exhort, expense
 
-No angle need be made after several letters. (Manual)
+There is no need to make an angle in the combinations *Exh*, *Exch*. (Manual)
 
-You can often omit the S, or merge the S with the following letter. (Cricket)
+EX: As there is no English word beginning with *X* that is not preceded by *E*, this character may be used to represent *Ex*. (Manual)
 
-T: 
-
-xxx 
+*X* is made up, as in longhand, of *C* and *S*. You can often omit the S, or merge the S with the following letter. (Cricket)
 
 ## Y
 ![y, manual](assets/manual-bits/y-m012-y.png)
@@ -693,20 +726,6 @@ Let Y stand unaltered. In adding inflections to words ending in y, the y is not 
 Manual: daze, Fitz, puzzle
 
 
-# Notation
-
-Use the joining rules above unless otherwise specified.
-
-Letters in brackets are compound letters or slurs.
-
-* ^ indicates the following letters are raised.
-* . indicates a small gap to indicate omitted letters, as in Mode 2.
-* _ indicates the following letters are lowered.
-* \* indicates a dot on the line (or a tiny bit above)
-* : indicates a sharp join between vowels. Otherwise all vowels have rounded joins.
-* I indicates dotted i. E is used if the dot is optional.
-* Dot for doubled letters is not included.
-* () indicates a compound letter.
 
 
 # Word Parts
@@ -715,6 +734,7 @@ Prefixes, suffixes, and common letter groups. Description is under the strongest
 
 If an image is required to make sense of the description, it is considered a letter join. If it can be easily typed on the keyboard, it is here.
 
+See Notation above.
 
 **D** See ED.
 
@@ -737,27 +757,48 @@ xxx is it detactched here because of rule, or ease of writing?
 Manual: night, light, ```n_t, le_t```
 
 
+**ING** Described under Consonant Joins because it is a compound, not stringing other letters together.
 
-**ING**
-![ing, manual](assets/manual-bits/ing-m016.png)
-Manual: using, saying, seeming, king, sing, singing, ```us(ing1)
+**ION** ```un```     
+![ion, manual](assets/manual-bits/ion-m016.png)
+Manual: action, ```actn```  
+Dotted if necessary.
 
-Notation: (ING1) straight, (ING2) curved
+**ITY** ```^y```
+![lty, manual](assets/manual-bits/lty-m016.png)
+Manual: abilities, peculiarity, ```ab^ys, pec^y```  
+Note "abilities" -- y stands unaltered.
 
+**LESS** ```LS```
+![less, manual](assets/manual-bits/less-m016.png)
+Manual: thankless, fearlessness, ```^ankls, fear.lsns```
 
+**LY** ```_y```
+![ly, manual](assets/manual-bits/ly-m016.png)
+Manual: nearly, easily, dailies, ```near_y, easy_y, day_ys```
+Note vowels in order for smoothest writing, y stands unaltered twice in dailies.
+Note: The y seems to be under the word, not just below it.
 
+xxx do we need even more notation for Y under a word?
 
-![alt text](assets/manual-bits/ion-m016.png)
+**NESS** ```ns```
+![ns, manual](assets/manual-bits/ness-m016.png)
+Manual: happiness, thoughtfulness, ```hapyns, ^otfl.ns```
 
-![alt text](assets/manual-bits/less-m016.png)
+Deprecated in 
+xxx suplement ?? used for ??nations??
 
-**NG** See ING.
+Note in thoughtfulness that ns is not marked as raised. It is in position 2, and positions are relative.
 
-![alt text](assets/manual-bits/lty-m016.png)
-![alt text](assets/manual-bits/ly-m016.png)
+**NG** See ING in Joining.
 
-![alt text](assets/manual-bits/ness-m016.png)
-![alt text](assets/manual-bits/ough-m016.png)
+**OUGH** ```o```
+![ough, manual](assets/manual-bits/ough-m016.png)
+Manual: ought, brought, ```ot, brot```
+
+**THER** See THER in Joining.
+
+**TION*** See ION
 
 
 
@@ -771,31 +812,36 @@ Using the same notation as above.
 ![a, manual](assets/manual-bits/a-above-and-m015.png)
 Manual: and, ```a```
 
+![initial th, manual](assets/manual-bits/th-raised-m015.png)
+Manual: the, they, this, them, tho', that  
+```^e, ^ey, ^is, ^em, ^o, at```
 
+![ther, manual](assets/manual-bits/ther-m016.png)
+ther, others, ard, toward
 
-![alt text](assets/manual-bits/th-raised-m015.png)
-![alt text](assets/manual-bits/th-raised-m015.png)
-
-![alt text](assets/manual-bits/ther-m016.png)
-
-![alt text](<assets/manual-bits/ward-with-ther-m016 copy.png>)
-
-
-
-
-
-
-
-
-
-
-
+![common abbreviations, manual](assets/manual-bits/_common-abbrev-m018.png)
+Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours  
+```
+ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, 
+D, DS, DN, ^R, F, FM, FD, GD, GRT, HA, HD, MDE, MT, MO, MST, 
+NT, CNT, N(ING2), O, OE, N, N(LY), NE, NCE, PH (?? PRH), RT, ROU, 
+SEF, SVS, SHA, SH, SHD, ^EMSVES, ^ERF, ^(ING2), ^ROUT, T, INT, U, 
+WK, WD, WH, TH, Y, YRS 
+```
 
 
 
+xxxx find this image
 
 
 
+
+
+
+
+
+
+# PREVIOUS METHOD
 
 
 
@@ -876,10 +922,7 @@ Similarly *dd*, *dt*, or *td* may be represented by a large ![][image222].
 
 ## E {#e-2}
 
-* [**Ed.**](https://orthic.shorthand.fun/manual#ed-ending) The *e* may generally be omitted; thus,  
-  * ![][image223] **us'd**  
-  * **![][image224]** **kiss'd**  
-  * **![][image225]** **stirr'd**
+
 
 s:
 
@@ -911,18 +954,10 @@ T:
 
 ## F {#f-1}
 
-* [**Ful**](https://orthic.shorthand.fun/manual#ful-ending) ![][image235] **fl**  
-  * **![][image236]** **useful**  
-    * **![][image237]** **beautyfully**
 
 ## G {#g-1}
 
-Manual: The omission of G K J or QU is shown by writing the termination below, called (14) mode II (Hint: Back of mouth are lowered. Cricket)
 
-* sn \= sign,  
-* st \= sight,  
-* wa. \= wage,  
-* was \= wages
 
 S: \-graph \-\> .ph
 
@@ -938,50 +973,18 @@ T: Sub linear writing is writing *below* the line. We have already had an exampl
 
 ## H {#h}
 
-* [**Hood**](https://orthic.shorthand.fun/manual#hood-ending) **![][image242] hd**  
-  * **![][image243] manhood**
-
-**??:** \-hood / –head
-
-*hd* only; ![][image244].
-![alt text](assets/manual-bits/hood-m016.png)
 
 
 ## I {#i-2}
 
-![alt text](assets/manual-bits/ight-m016.png)
-
-![alt text](assets/manual-bits/ing-m016.png)
-
-![alt text](assets/manual-bits/ion-m016.png)
 
 
 
-Xxx
 
-* [**Ing**](https://orthic.shorthand.fun/manual#ing-ending) ![][image245] **ing**  
-  * **![][image246]** **using**  
-  * **![][image247]** **saying**  
-  * **![][image248]** **seeming**  
-  * This form is used only for the inflection *\-ing* and not in such words as ![][image249] **king**; cp. ![][image250] **sing**, ![][image251] **singing.**  
-  * It is better to curve the stroke, thus ![][image252], after *d,* *m,* *n,* *t,* *v,* and vowels \[here including *y* as in "scrying"\].  
-* [**Ight**](https://orthic.shorthand.fun/manual#ight-ending) ![][image253] **t**, below  
-  * ![][image254] **night**  
-  * **![][image255]** **light**  
-* [**Ion**](https://orthic.shorthand.fun/manual#ion-ending) **![][image256] un, dotted if necessary**  
-  * **![][image257] action**  
-*   
-* [**Ity**](https://orthic.shorthand.fun/manual#ity-ending) ![][image258] **y**, above  
-  * ![][image259] **ab(il)ities**  
-  * **![][image260]** **pec(uliar)ity**
-
-\-ation
+??? \-ation
 
 is a common ending, and it is wise to shorten it as much as possible, therefore use detached *n* ![][image261] to represent this termination, as ![][image262].
 
-\-ity / \-ly
-
-***\-ity*** **\= *y* *above* the last letter**
 
 S: \-ism  .m
 
@@ -991,11 +994,6 @@ S: \-ism  .m
 
 ## L {#l-1}
 
-![alt text](assets/manual-bits/less-m016.png)
-
-![alt text](assets/manual-bits/ly-m016.png)
-
-
 
 T; **L slurred with T in wealth, health**
 
@@ -1003,14 +1001,6 @@ T; **L slurred with T in wealth, health**
 
 Source?
 
-[**Less**](https://orthic.shorthand.fun/manual#less-ending) ![][image265] **ls**
-
-* **![][image266]** **thankless**  
-  * **![][image267]** **fearlessness**  
-* [**Ly**](https://orthic.shorthand.fun/manual#ly-ending) ![][image268] **y** below  
-  * ![][image269] **nearly**  
-  * **![][image270]** **easily**  
-  * **![][image271]** **dailies**
 
 xxx
 
@@ -1020,15 +1010,6 @@ pl, pr, fl, fr, ml, mr
 
 ## M {#m-1}
 
-* [**Ment**](https://orthic.shorthand.fun/manual#ment-ending) ![][image272] **mt**  
-  * **![][image273]** **comment**  
-  * **![][image274]** **arrangement**  
-* 
-
-![alt text](assets/manual-bits/ment-m016.png)
-
-
-![alt text](assets/manual-bits/ness-m016.png)
 
 ## NESS
 
@@ -1042,16 +1023,10 @@ T: **\-ness**
 
 ## O {#o-2}
 
-![alt text](assets/manual-bits/ough-m016.png)
 
+T: ou for ound or ount
 
-* [**Ough**](https://orthic.shorthand.fun/manual#ough-ending) ![][image277] **o'**  
-  * **![][image278]** **ought**  
-  * **![][image279]** **brought**
-
-**T: ou for ound or ount**
-
-**Show the importance of ![][image280] *ou* standing for *ound* or *ount*. Emphasize this by such words as**
+Show the importance of ![][image280] *ou* standing for *ound* or *ount*. Emphasize this by such words as
 
 ou for ound or ount
 
@@ -1102,9 +1077,13 @@ These Greek prefixes may also be expressed by supra-linear writing for the same 
 
 ## T {#t-1}
 
+S:
+
 Tch
 
 The *t* may always be omitted in this combination. \[Jeremy: As far as I can tell, not a single example of this rule appears in this book\!\]
+
+?? manual says omit 
 
 Trans
 
@@ -1114,7 +1093,7 @@ Written *trs,* as in longhand. \[E.g. ![][image293] *transact.*\]
 
 ## V {#v-1}
 
-**s:**
+s:
 
 * ***every*** **![][image294]**  
 * ***evening*** **![][image295]**  
@@ -1129,6 +1108,8 @@ Written *trs,* as in longhand. \[E.g. ![][image293] *transact.*\]
 Ness
 
 **This termination should be written *‑ess* detached, by the general rule, and not *ns* as given in the *Manual.* \[E.g. ![][image300] *goodness.*\] Detached *n* and *ns* can then be used, as in longhand, for the expression of the common terminations *‑ation* and *‑ations.***
+
+
 
 Ve, ‑ive
 
@@ -1146,15 +1127,12 @@ But how about a word ending in *ave*, *ove*, etc. only? What is Euclid's definit
 
 ## W {#w-1}
 
-* [**Ward**](https://orthic.shorthand.fun/manual#ward-ending) ![][image317] **ard**  
-  * **![][image318]** **towards**  
-  * 
 
 S: \-wise  .se
 
 ## X {#x-1}
 
-* *X* is made up, as in longhand, of *C* and *S*, ![][image232], and there is no English word beginning with *X* that is not preceded by *E*, this character may be used to represent *Ex*. There is no need to make an angle in the combinations *Exh*, *Exch*, as ![][image233].
+
 
 ## Y {#y-2}
 
@@ -1167,10 +1145,7 @@ NOTATION:
 ING1 = STRAIGHT LINE
 ING2 = CURVED
 
-Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours
 
-Orthic Spelling: ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, D, DS, DN, ^R, F, FM, FD, GD, GRT, HA, HD, MDE, MT, MO, MST, NT, CNT, N(ING2), O, OE, N, N(LY), NE, NCE, PH (?? PRH), RT, ROU, SEF, SVS, SHA, SH, SHD, ^EMSVES, ^ERF, ^(ING2), ^ROUT, T, INT, U, WK, WD, WH, TH, Y, YRS 
-![common abbreviations, manual](assets/manual-bits/common-abbrev-m018.png)
 
 
 # General Method of Abbreviation and  Abbreviations for Common Words {#general-method-of-abbreviation-and-abbreviations-for-common-words}
@@ -1185,4 +1160,43 @@ The general method of abbreviating long words is to write only the first syllabl
 
 
 
-IN vs IC
+
+
+# CONSIDER DOING
+
+Find examples of the modes from manual
+MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
+
+The omission of B P or V is indicated by (12) mode I, that is by writing the termination above; thus
+
+whichr = whichever,
+gn = given.
+(13) The omission of G K J or QU is shown by writing the termination below, called (14) mode III; thus
+
+sn = sign,
+st = sight,
+tn = taken,
+wa. = wage,
+was = wages
+(15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
+
+dif-ce = difference,
+a-plish = accomplish.
+(17) Some common words and prefixes, especially b and con or com, may (18) also be expressed by modes, but this method must be applied with caution; –
+
+(19) un-n = uncommon,
+i-c. = i-c(o)nceive,
+isha. = ishabe (i shall be),
+chasn = (whi)ch has b(ee)n,
+(20) yd = bey(on)d,
+f = before,
+ter = better,
+nlnt = benevolent,
+fry = for every.
+
+
+xxxx
+
+gen abber
+
+gen phrases
