@@ -4,19 +4,28 @@
 
 
 # Notes to Self
+
 - The first part, how to write and join, will be sorted by longhand, with a few cross-references when several letters should be combined to clarify the differences.
 - If it's not obvious where the full description should be, choose the earlier one.
 - Assume readers have read the Manual. This is a review. Readers can see the arrows on the images.
 - Abbreviation and Vocab sections assume reader knows Joins. Jeremy's notation is enough for them to make the image on their own. (Will need to add to the notation.)
+
+-- using my own? combined letters/slurs/joins are in brackets, not codes
 - Abbreviation and Vocab can sort either way (Orthic or English).
 - The two ways of spelling are Orthic and orthographic. If I find a better word for the 2nd I can search/replace easily enough.
 - xxx is note to self. Searching for them will be one of the final steps before publicataion.
 - xxx add notation to the alphabet?
 - xxx ??? Do I need to list the source along with the word in the text, for joins? Probably not. It's in the image.
+- images -- file name is topic, book, page
 
+
+canonical copy, revs
 
 
 explain codes for source : M, S, R, T, T2, E
+
+# remember they have already read the Manual !!!
+
 
 
 
@@ -41,11 +50,13 @@ Revison date .....
 
 # Introduction to Orthic Consolidated – Reference Alphabet
 
-Sometimes (more often than I'd like), I want to look up a rule. Searching four separate books, which often disagree about which style level a rule applies to and sometimes have an entirely different rule, is annoying and frustrating. (One could argue, correctly, that if I'd spent enough time on each rule, I would not need this reference.)
+[Introduction to Orthic Consolidated Series](orth-cnsl-intro.md)
+
+Sometimes (more often than I'd like), I want to look up a rule. Searching four separate books, which often disagree about which style level a rule applies to and sometimes have an entirely different rule, is annoying and frustrating. (One could argue, correctly, that if I'd spent enough time learning at the start, I would not need this reference.)
 
 This book intends to solve that problem. It combines all the rules (except those that only exist in the reporting style) from the Manual, Supplement, Teaching Parts 1 and 2, and Revised. It includes references to the sources for easy confirmation of the rules. (I lied. I included some rules that I like that are only in the reporting style.)
 
-It is *not* intended as a first introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong.)
+It is *not* intended as a first introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.)
 
 It is organized into the following parts: 
 
@@ -58,182 +69,160 @@ It is organized into the following parts:
   
 *If not stated, the rule comes from The Manual.* The wording of each rule is a combination of the original sources and my own understanding. I have made very little effort to clarify who said what, except where. Note that I often write in Victorian English. It's hard to avoid "catching" it in a project like this.
 
-## Images
-
-Most of the images are of my own writing, at a standard scale, except where a clip from the original document would be more useful. My penmanship is based on that in the Manual, Supplement and Teaching. (Callendar and Stevens). (My proportions are closer to 1:2 than 1:3, but the overall feel is similar.) Revised (Clarey) has a noticeably different feel, which is worth exploring. Images taken from other documents have a frame. 
-``` will they really have a frame? ```
-
-``` give in to the temptation and include all the combinations   ```
-
-Most images indicate the source of the rule they demonstrate.\
-- **M** : Manual\
-- **S** : Supplement\
-- **T** : Teaching Part One\
-- **T2** : Teaching Part Two\
-- **R** : Revised\
-- **C** : Consolidated (This document.)\
-
-An X above a word means it shows what not to do. Often the reasoning behind a rule makes more sense when you see the alternatives.
-
-
 # The Alphabet
-![Alphabet](<alphabet_images/alphabet entire.png>)
+![alphabet, manual](assets/manual-bits/alphabet-m003.png)
+Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
 
-![Alphabet A-L](<alphabet_images/alphabet column a-l.png>)
-![Alphabet M-X](<alphabet_images/alphabet column m-x.png>)
-![Alphabet Y-Z](<alphabet_images/alphabet column y-z.png>)
 
 # General Rules
 
-The rules for **position on the line** are a mess. I'm going to say "do what looks good to you." If you read something that doesn't make sense, remember some writers will write higher or lower than you do.
+### Position on the Line
+The rules for this are a mess.
 
-**Details** In the Manual, Calendar claims the first letter sits on the line, then on the same page (Two Sizes of Character) starts *epitaph* above the line, with P sitting on the line. In St John II, *it* and *in* start on the line and go upwards. T is a downstroke, so the rule isn't first downstroke. Stevens has his own version. On the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. Revised says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceeding downstrokes." (Revised, General Rules, p3)
+In the Manual, Calendar claims the first letter sits on the line, then on the same page (Two Sizes of Character) starts *epitaph* above the line, with P sitting on the line. In St John II, *it* and *in* start on the line and go upwards. T is a downstroke, so the rule isn't first downstroke. Stevens has his own version. On the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. Revised says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceeding downstrokes." (Revised, General Rules, p3)
 
-**Modes (positions)** are explained under Joining Consonants. Their use for shortening words beyond simple letter replacement is under Word Parts. 
+Just do what looks right to you. If you read something that doesn't make sense, remember some writers will write higher or lower than you do.
 
-To **double** a letter, write it once and put a dot under it to indicate the doubling. Even better, write it once, leave out the dot, and trust that you'll be able to read it. Spell like a child. There are three exceptions. EE is a double-length E. EI is the same, with a dot at the end to show the I. IE is the same, with a dot in the middle. It is usually safe to omit the dot. Be careful with the angle so it does not look like U.
+### Modes or Positions
 
-![EE vs U](<ee vs u.png>)
-> sleep, sup, reed, reid, peep, pup, steep, stupid, rein, run : from Manual, Teaching1 and Revised
+Each letter that can be replaced by a mode is listed under Joining Consonants. Their use for shortening words beyond simple letter replacement is under Word Parts. 
 
-Size and Proportions. Most books say use 1:3, but then use less in the Two Sizes image, and somewhere between 1:2 and 1:3 in actual writing. It's rarely a problem except for debates between students.
+* First Position, Raised: B, P, V
+* Second Position, Normal (gap): all others
+* Third Position: Lowered: G, J, K, L, QU
+
+```B, G, J, K, L, P, QU and V can be omitted using modes. ```
+### Doubling a Letter
+
+![double letters, manual](assets/manual-bits/doubled-ltrs-m003.png)
+Manual: odd, too, ee, sleep, sup
+
+
+```teaching
+revised
+```
+
+### Two Sizes of Letters
+Most books say use 1:3, but then use less in the Two Sizes image, and somewhere between 1:2 and 1:3 in actual writing. It's rarely a problem except for debates between students.
+
+![two sizes, manual](assets/manual-bits/two-sizes-m005.png)
+Manual: st, ste, en, ens, inst, nt, er, ers, abs, against, epitaph
 
 > The actual **size** of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle may be reduced to a dot. But it is best to make the small characters about one-twelfth of an inch \[2.1mm\] long, and the large ones twice as big." (Revised, p3, General Rules)
+
+
+
+### Connecting Stroke
 
 A short connecting tick maybe used after ER, TH, etc, and when they are followed by G, P and S. (Revised, p3, General Rules) Note: This rule is only in Revised. Clarey may need this more than the other writers due to his different style of writing.
 
 ![Tick between letters](<alphabet images/tick between letters.png>) 
 > dirge, faiths, serpents : Revised
 
-A word may always be **divided** if it happens to be convenient. The necessity for this, however, very seldom arises except in the case of compound words.  
-![divided words](<alphabet images/divided words.png>)
-> lawsuit, Woolwich, virgin : Manual\
-> bagpipes : Revised
+### Dividing Words
 
-**Punctuation** is effected in the usual way, except the Hyphen, and the Dash. (They are the normal hyphen and dash, except a vertical stroke intersects each in the middle, like a plus sign. This distinguishes them from raised A ("and") and raised O ("though"). \-- Jeremy)
-```
-* image
+![divided words, manual](assets/manual-bits/divide-line-m005.png)
+Manual: lawsuit, Woolwich, virgin
 
-```
+```> bagpipes : Revised```
 
-**Initial capitals** are marked using a long angled stroke. Details vary.
+### Punctuation
+![punctuation, manual](assets/manual-bits/_punct-m005.png)
+Manual: hyphen, dash
 
-```* Manual (Callendar)  
-* Teaching1 (Stevens)  
-* Revised (Clarey)  
-* Type the words …
-```
-# Joining Vowels {#joining-vowels}
+### Initial Capitals 
 
-Some concepts are under the prominent letter, instead of the first in the group.
+Indicated in a few ways.
+![capitals, manual](assets/manual-bits/capitals-m005.png)
+Manual: Jack, Clay, S.E., L.S.W.R. (London and South West Rail Company)
 
-All vowels, and only vowels, are straight, right-moving strokes. Where vowels combine into a single sound (as perceived by the untrained ear), the angle between them is rounded. I will call them dipthongs, as all four sources do, even though that is not the modern meaning of the word.
+See S to distinguish intial S from initial P.
 
-Many joined vowels can change the order to make joining to surrounding letters easier, and less likely to degrade at speed. Details are with each letter in the alphabet.
+### Omit A and O before M and N
+![omit a,o, manual](assets/manual-bits/a-o-omit-correct-m015.png)
+Manual: band, bond
 
-Where vowels are pronounced separately, or if you wish to make the spelling clear, keep the angle, add a small jog (not advised), lift the pen and write one above the other, or write only one and go back to add the other later.
+![omit a,o, correction, manual](assets/manual-bits/a-o-omit-m015.png)
+Manual: can, con, alone, woman;  
+CN, ALNE, WMN
 
-![Vowels sounded individually: ](<vowels separate bw.png>)
+An omission of this kind can always be corrected by writing the omitted character above.
 
-Oölite, Deä, create, Leo, fiasco, serious, re-enter, fuel, poem
-
-P3, rows beginning oolite and chaos
-
-Revised (Clarey) has a much more vertical style, with several diphthongs ending going straight up.
-
-* AI, AU, Revised (Clarey)  
-* AU caught, Manual (Callendar)
-
-## A {#a}
-
-* Lots of images – all the A diphthongs  
-* Get the "before/after" lists from /downloads  
-* Remember social, optician – egs of ia 
-
-A is a short horizontal connecting stroke.
-
-AE and EA can be written in either way, depending on surrounding characters. The form AE (under-AE) is used except after M, T, P, S, Y, B. An angle must always be made after the form EA (over-AE) before T, D, orS. Sometimes the end is raised a bit to make this happen, as in seas and seat.
-
-The Supplement shows what might happen if you do not follow this rule. In the image, the words with an X over are likely to degrade to the following outline, and are therefore not recommended. Use the other form of AE.
-
-AI and IA follow the rules for AE and EA, adding the dot for I if necessary.
-
-Teaching1 suggests only using AI-under for AI, thus spelling it according to the common orthography. This rule is not in the Manual. The Dictionary (Manual and Supplement only) does not have any examples to the contrary. Optician uses the AI form. Social uses the IA form.. 
-
-AO and OA can be written in a few different ways.
-
-* Write the first, break the line, then write the second above the first. This method is recommended if the vowels are sounded separately.  
-* Write the O, finish the word, then go back and add A above the O, as if crossing a T. If necessary to avoid confusion, put the A towards one end or the other of the O. This method is recommended if the vowels combine to make a single sound.  
-* Write one, then do a short jog, then write the second. (Not recommended.)
-
-AY and YA can be written either way, depending on surrounding characters. The first form (YA, or under-AY) is used whenever it joins more clearly or easily than the other form (AY, or over-AY), as after D, T, J, Q, M, N, U.
-
-## E {#e}
-
-* Lots of images
-
-E is a short upward stroke. See above for the angle.
-
-EA and AE can be written either way. See AE for which one to use.
-
-EE is the exception to dotting to double. It is a long straight upward line. Like E, it is not as steep as P/S, but steeper than U. EI and IE are the same line, with a dot added at the end (EI) or middle (IE).
-
-## I {#i}
-
-* Lots of images
-
-I is the same stroke as E, but with a dot at the end (or somewhere close). Be brave\! Leave off the dot unless there is likely to be confusion. Trust your reader.
-
-IA follows the same rules as EA, but AI must be written in the correct order. (Why?)
-
-IE is described under EI.
-
-IO, IU and IY are boring.
-
-## O {#o}
-
-* Lots of images
-
-O is a long horizontal line.
-
-OA is described under AO.
-
-OE, OI, OU, OY are boring.
-
-## U {#u}
-
-U is long and goes up shallowly – about 30deg. EE is much steeper.
-
-All the U blends are boring.
-
-* Lots of images
-
-## Y {#y}
-
-* Lots of images
-
-An upstroke vowel following or preceding y is written with an angle. (Supplement.)
-
-# Joining Consonants {#joining-consonants}
+# Joining Vowels with Vowels, Diphthongs
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
-\`\`\`table of contents to the start of each letter \`\`\`
+Orthic uses an older definition of the word *diphthong*.
 
-## A {#a-1}
+![diphthongs intro, manual](assets/manual-bits/_diphth-m004.png)
+Manual: ai, oy, ou, eau
 
-A  is a short horizontal connecting stroke. See Joining Vowels for more details.
+## Vowels Sounded Individually
 
-Omit A and O before M and N. An omission of this kind can always be corrected, if desired, by writing the omitted character above.
+Check both orders of vowels to see all example words.
 
-* Manual: band, bond
+![alt text](assets/manual-bits/_vow-sep-m004.png)
+Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
 
-## B {#b}
+## A
 
-B is written like the letter lowercase cursive b, but with a more open loop and without the hook upwards at the end.
+Manual: ai, au, ay, days, quay, says, hay
+![a diphthongs, manual](assets/manual-bits/a-diphth-m006.png)
 
-* rob'd, object, able, bray, absurd, subtract, bray, subvent
+
+
+xxx Teaching1 suggests only using AI-under for AI, thus spelling it according to the common orthography. This rule is not in the Manual. The Dictionary (Manual and Supplement only) does not have any examples to the contrary. Optician uses the AI form. Social uses the IA form.. 
+
+
+
+
+## E
+
+![e diphthongs, manual](assets/manual-bits/e-diphth-m007.png)
+Manual: ee, ei, ie, steep, stupid, eu, ew, new
+
+![e vs u, manual](assets/manual-bits/e-vs-u-m012.png)
+Manual: seen, sun
+
+![ea diphthongs, manual](assets/manual-bits/ea-diphth-m007.png)
+Manual: ea, seat, seas, reat, real, pearl, years
+
+## I
+
+![i diphthongs, manual](assets/manual-bits/i-diphth-m008.png)
+Manual: social, optician, chief
+
+## O
+![o diphthongs, manual](assets/manual-bits/o-diphth-m010.png)
+Manual: oar, or, oak, oi, toil, ou, out, oy, boys
+
+## U
+![u diphthongs, manual](assets/manual-bits/u-diphth-m012.png)
+Manual: ua, guard, suit
+
+## Y
+
+No examples.
+
+# Joining Consonants
+
+Some concepts are under the prominent letter, instead of the first letter.
+
+## A
+
+Omit A and O before M and N. See General Rules.
+
+A on the line is *a*. A raised is *and*.
+![and raised, manual](assets/manual-bits/a-above-and-m015.png)
+
+## B
+
+Manual: bd, rob'd, bj, object, bl, able, br, bray, bs, absurd, bt, subtract, bv, subvent
+![b, manual](assets/manual-bits/b-m006.png)
+
+
+
 
 Be: This prefix is peculiar to a special class of English words, and may also be expressed by writing above the line. Note that been and being are chosen to not conflict with than and thing. (Supplement, and Teaching1 Lesson 6\)
 
@@ -243,15 +232,13 @@ BL can be shown by reversing the direction of the B loop, and optionally writing
 
 * Revised: BL, BL, black, sensible, bleak, trebly
 
-## C {#c}
-
-C  is written like the letter c, but it is not turned up at the end.
-
-* Manual: suckle, close, act
+## C
+Manual: ck, suckle, cl, close, cr, crutch, ct
+![c, manual](assets/manual-bits/c-m007.png)
 
 CH is a circle the same size as H. H, CH and WH are described under H.
 
-## D {#d}
+## D
 
 D and  T have similar characters, but D is much flatter and longer.
 
@@ -261,11 +248,16 @@ DEN series. The proportions below are not listed as a rule, but they are used co
 
 DV is slurred into one large compound character, deep and double-width. (Manual Reporting, Slurring; Supplement; Revised p4 Compound Characters)
 
-* Manual: judge, fiddle, dread, dwell, student (Specimen of Fully-Written Style)  
+Manual: dge, judge, dj, dle, fiddle, dr, dread, dv, dw, dwell
+![d, manual](assets/manual-bits/d-m007.png)
+
+Manual: student
+![d student, manual](assets/manual-bits/d-m014.png)
+
 * Supplement: no examples  
 * Revised: advert, avert
 
-## E {#e-1}
+## E
 
 E is a short upstroke; it must not be confused with  s, which is written downwards.
 
@@ -273,32 +265,47 @@ See also Joining Vowels
 
 See V for EV
 
-## F  {#f}
+## F
 
 F is joined without an angle after vowels; thus, with i rounded out to flow straight into f if (not stiff i, awkward corner, f). It is joined to the following characters like the longhand letter s.
 
+Manual: if, ft, soft, fd, puff'd, fl, fr, rifle, afraid, fs, skiffs
+![f, manual](assets/manual-bits/f-m008.png)
+
+
+
 S joined to the finish of F or K is better turned up rather than down. (Teaching1)
 
-* If correct, if wrong, soft, puff'd, rifle, afraid, skiffs (Manual)  
+
 * ks-correct, ks-not-recommended (Teaching1)
 
-## G {#g}
+## G
 
-G  is like the left-hand half of a capital G. It forms several compounds.
+Manual: gh, high, gl, glory, gr, agree, gn, sign
+![alt text](assets/manual-bits/g-m008.png)
 
-* High, glory, agree, sign
+## H, CH, and WH
 
-## H, CH, and WH {#h,-ch,-and-wh}
+H, CH, and WH are all large circles, and described here. All books agree that H begins at the bottom and is written ccw -- most of the time.
 
-H is a large circle, the size of a lowercase print letter. In the base form, it starts at the bottom and starts by going up to the right, so it sits on top of the line and joins smoothly with letters on either side.
+It looks similar to CH and WH. The shape is changed in PH, SH and TH.
 
-H, CH, and WH are all large circles, and described here. All books agree that H begins at the bottom and is written ccw.
+Manual (H): cha, hat, chat, what, which
+![h, manual](assets/manual-bits/h-m008.png)
 
-Also see PH, SH and TH.
+Manual: ch, chair, Christ, ache, ahead
+![ch, manual](assets/manual-bits/ch-m006.png)
+![ch, manual](assets/manual-bits/ch-m007.png)
 
-All the examples are written in a single image to assist with comparison.
+Manual (W): who, ha (have)
+![wh, manual](assets/manual-bits/h-m012.png)
 
-* Hat, chat, who, what, which (Manual)  
+
+
+
+
+
+
 * Hat, chat, who, what, which (Revised)  
 * Hat, chat, who, what, which – fully and without H (Cricket / Consolidated)
 
@@ -370,7 +377,7 @@ See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
 
 See SH and TH for those joins. Sometimes H is smaller or not completed.
 
-## I {#i-1}
+## I
 
 I  is a short upstroke, like e, but dotted. See Joining Vowels for more details.
 
@@ -378,7 +385,7 @@ I is often started below the line in short words such as IN. This is not in any 
 
 * Social, optician, chief (Manual)
 
-## J {#j}
+## J
 
 J  is like the letter j, but is not dotted.
 
@@ -399,7 +406,11 @@ KS: S joined to the finish of F or K is better turned up rather than down. (Teac
 * Taken (Manual)  
 * Looks, works, walks, like, beak, duke (Revised)
 
-## L  {#l}
+## L
+
+![alt text](assets/manual-bits/l-008.png)
+
+![alt text](assets/manual-bits/l-m009.png)
 
 L and R are tiny circles, less than half the size of H. L always goes clockwise. R always goes counter-clockwise – above horizontal lines. When writing L or R without neighbouring strokes to show direction, add a tiny entry stroke.
 
@@ -425,9 +436,13 @@ When to go around L, R, and when to bounce
 * Clarey alphabet help around, waltz bounce, zebra bounce
 
 ```
-## M {#m}
+## M
 
-Omit A and O before M and N. See A. (Manual)
+![alt text](assets/manual-bits/m-m009.png)
+
+Omit A and O before M and N. See General Rules.
+
+
 
 MB can be written as a tall M. (Supplement, Revised p7 Other Slurs)
 
@@ -441,7 +456,12 @@ Note that omitting A and O before M and N means that MN can mean man or mon.
 * Revised: MB, timber, lumber, lamb, temper, lumper, lamp – fix the order  
   Kembs, climbs, numbs
 
-## N {#n}
+## N
+
+![alt text](assets/manual-bits/n-m009.png)
+
+Omit A and O before M and N. See General Rules.
+
 
 Omit A and O before M and N. See A.
 
@@ -460,7 +480,9 @@ NSP has the S omitted. (Revised) (no example)
   (Note that Revised uses a large H in SH.) inherit, inhale, enrich, enroll, inward, enwrap  
 * Fix the order to match the list above
 
-## O {#o-1}
+## O
+
+Omit A and O before M and N. See General Rules.
 
 See Joining Vowels for more details.
 
@@ -471,7 +493,13 @@ OYS: Turn the S up, as for FS and KS (Revised)
 * Manual: oar, or, oak, toil, out, boys  
 * Revised: cloys, employs, coat, cot
 
-## P {#p}
+
+
+
+## P
+
+![alt text](assets/manual-bits/p-m010.png)
+
 
 PH: H might be turned in the other direction, depending on the following letters. (Manual, Revised p8 How to Write and Join)
 
@@ -523,7 +551,11 @@ T: **S before and after P**
   
 
 
-## Q {#q}
+## Q
+
+![alt text](assets/manual-bits/q-m010.png)
+
+
 
 Manual: The omission of G K J or QU is shown by writing the termination below, called (14) mode II (Hint: Back of mouth are lowered. Cricket)
 
@@ -533,7 +565,9 @@ I recommend leaving the U out for common English words, and switching to longhan
 
 * **Qu** ![][image23] is like the lower loop of the letter ![lowercase f in cursive longhand][image24]; it is turned the opposite way to ![][image25] **j**. ![][image26] **esquire**.
 
-## R  {#r}
+## R
+
+![alt text](assets/manual-bits/r-m010.png)
 
  is a small circle like  L, but is always turned the opposite way, like the loop of the longhand letter lowercase e in cursive longhand. See L for examples and comments on size.
 
@@ -556,7 +590,15 @@ rd rt rf rk   work rn   learn rp  rs rv
   * rs ![][image41]  
   * rv ![][image42]
 
-## S  {#s}
+## S
+
+![alt text](assets/manual-bits/s-m011.png)
+
+![alt text](assets/manual-bits/s-cap-m011.png)
+
+
+
+
 
  is a short downstroke like the tick at the beginning or end of a capital S.
 
@@ -617,7 +659,14 @@ The angular form is used after *S*, thus ![][image75] *sw*, formed of ![][image7
 
 The only other cases of sub-linear writing up to this point are the words ‘take' and ‘sake' and their inflections, which are written ![\`t\_\*\`, \`t\_Y\`, \`s\_\*\`][image78], etc. The *k* throwing *below* the line, but in no other case is the *k* so treated.
 
-## T {#t}
+## T
+
+![alt text](assets/manual-bits/t-m011.png)
+
+![alt text](assets/manual-bits/th-raised-m015.png)
+
+![alt text](assets/manual-bits/ther-m016.png)
+
 
   is like the hook at the end of the letter t.
 
@@ -677,7 +726,10 @@ T slur rule for count, country, duty
 
 We have seen that as ![][image112] \= *count*, therefore ![][image113] \= *county*, we therefore extract a rule *t* may be slurred in such words as *duty*, *bounty*, etc.
 
-## U {#u-1}
+## U
+
+
+see E, vowel joinings, for E vs U
 
   is a long up-stroke on a flat slope, making an angle of about  30° with the line.
 
@@ -689,7 +741,7 @@ U  is distinguished from ee  by being written much less steeply; cp.  seen,  sun
     * ua ![][image120] ![][image121] guard  
     * ui ![][image122] ![][image123] suit
 
-## V {#v}
+## V
 
   is distinguished from  ste by its size; cp.
 
@@ -712,7 +764,12 @@ Manual: The omission of B P or V is indicated by (12) mode I, that is by writing
 
 \++++
 
-## W   {#w}
+## W 
+
+![alt text](assets/manual-bits/w1-m012.png)
+![alt text](assets/manual-bits/w2-m12.png)
+
+
 
 is an upward hook, which may be turned either way.
 
@@ -760,7 +817,11 @@ Another way to remember *W* is to point out that whether initial or final, *it i
 
 The angular form is used after *S*, thus ![][image163] *sw*, formed of ![][image164] *s* and ![][image165] *w*. To add *S* to final *W*, elongate the loop, thus ![][image166] *cow*, ![][image167] *cows*.
 
-## X  {#x}
+## X
+
+![alt text](assets/manual-bits/x-m012.png)
+
+
 
 No angle need be made in:
 
@@ -775,7 +836,11 @@ T:
 
 * 
 
-## Y  {#y-1}
+## Y
+
+![alt text](assets/manual-bits/y-m012-y.png)
+![alt text](assets/manual-bits/y-unaltered-015.png)
+
 
  Yacht  yet  yore  yule ![][image175]
 
@@ -788,7 +853,7 @@ Let \-Y stand unaltered
 
 In adding inflections to words ending in **y,** the **y** is not changed to **i** or **ie**; thus, ![][image180] **applyd**, ![][image181] **trys**, ![][image182] **easyst**, ![][image183] **happyr**.
 
-## Z ![][image184] {#z}
+## Z
 
 * ![][image185] **daze**  
 * **![][image186]** **Fitz**  
@@ -797,6 +862,16 @@ In adding inflections to words ending in **y,** the **y** is not changed to **i*
 Daze  Fitz  puzzle
 
 # Word Parts {#word-parts}
+
+![alt text](assets/manual-bits/ed-m016.png)
+
+
+
+
+
+
+
+
 
 * [**Ed.**](https://orthic.shorthand.fun/manual#ed-ending) The *e* may generally be omitted; thus,  manual  
   * ![][image188] **us'd**  
@@ -951,8 +1026,18 @@ T: Sub linear writing is writing *below* the line. We have already had an exampl
 **??:** \-hood / –head
 
 *hd* only; ![][image244].
+![alt text](assets/manual-bits/hood-m016.png)
+
 
 ## I {#i-2}
+
+![alt text](assets/manual-bits/ight-m016.png)
+
+![alt text](assets/manual-bits/ing-m016.png)
+
+![alt text](assets/manual-bits/ion-m016.png)
+
+
 
 Xxx
 
@@ -988,6 +1073,12 @@ S: \-ism  .m
 
 ## L {#l-1}
 
+![alt text](assets/manual-bits/less-m016.png)
+
+![alt text](assets/manual-bits/ly-m016.png)
+
+
+
 T; **L slurred with T in wealth, health**
 
 *L* may be slurred with the *t* in such words as *wealth*, *health*, etc., and the softly sounding vowel in terminations such as "al", *final* ![][image263], "er" in *upper* ![][image264], etc.
@@ -1016,6 +1107,12 @@ pl, pr, fl, fr, ml, mr
   * **![][image274]** **arrangement**  
 * 
 
+![alt text](assets/manual-bits/ment-m016.png)
+
+
+![alt text](assets/manual-bits/ness-m016.png)
+
+
 S: Ness
 
 This termination should be written *‑ess* detached, by the general rule, and not *ns* as given in the *Manual.* \[E.g. ![][image275] *goodness.*\] Detached *n* and *ns* can then be used, as in longhand, for the expression of the common terminations *‑ation* and *‑ations.*
@@ -1025,6 +1122,9 @@ T: **\-ness**
 *es*, ![][image276].
 
 ## O {#o-2}
+
+![alt text](assets/manual-bits/ough-m016.png)
+
 
 * [**Ough**](https://orthic.shorthand.fun/manual#ough-ending) ![][image277] **o'**  
   * **![][image278]** **ought**  
@@ -1141,331 +1241,25 @@ S: \-wise  .se
 
 ## Z {#z-1}
 
+
+# Common Abbreviations
+
+NOTATION:
+ING1 = STRAIGHT LINE
+ING2 = CURVED
+
+Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours
+
+Orthic Spelling: ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, D, DS, DN, ^R, F, FM, FD, GD, GRT, HA, HD, MDE, MT, MO, MST, NT, CNT, N(ING2), O, OE, N, N(LY), NE, NCE, PH (?? PRH), RT, ROU, SEF, SVS, SHA, SH, SHD, ^EMSVES, ^ERF, ^(ING2), ^ROUT, T, INT, U, WK, WD, WH, TH, Y, YRS 
+![common abbreviations, manual](assets/manual-bits/common-abbrev-m018.png)
+
+
 # General Method of Abbreviation and  Abbreviations for Common Words {#general-method-of-abbreviation-and-abbreviations-for-common-words}
 
 The general method of abbreviating long words is to write only the first syllable, and, if necessary, to indicate the termination by writing the last letter or two, separated by a small interval from the first part; thus,
 
-* ![][image319] **dif(feren)t**  
-* **![][image320]** **dif(feren)ce**  
-* **![][image321]** **ack(nowledge)**  
-* **![][image322]** **esp(eciall)y**  
-* **![][image323]** **cir(cumstan)ce**  
-* **![][image324]** **extr(aordinar)y**  
-* **![][image325]** **rep(resentati)ve**
 
-* [**ab(ou)t**](https://orthic.shorthand.fun/manual#about-brief) ![][image326]  
-* [**al(way)s**](https://orthic.shorthand.fun/manual#always-brief) ![][image327]  
-* [**(a)m**](https://orthic.shorthand.fun/manual#am-brief) ![][image328]  
-* [**I'm**](https://orthic.shorthand.fun/manual#i-m-brief) ![][image329]  
-* [**am(oun)t**](https://orthic.shorthand.fun/manual#amount-brief) ![][image330]  
-* [**an (or a)**](https://orthic.shorthand.fun/manual#an-brief) ![][image331]  
-* [**and**](https://orthic.shorthand.fun/manual#and-brief) ![][image332]  
-* [**a(n)y**](https://orthic.shorthand.fun/manual#any-brief) ![][image333]  
-* [**ar(e)**](https://orthic.shorthand.fun/manual#are-brief) ![][image334]  
-* [**wer(e)**](https://orthic.shorthand.fun/manual#were-brief) ![][image335]  
-* [**b(e)**](https://orthic.shorthand.fun/manual#be-brief) ![][image336]  
-* [**b(ee)n**](https://orthic.shorthand.fun/manual#been-brief) ![][image337]  
-* [**bec(ause)**](https://orthic.shorthand.fun/manual#because-brief) ![][image338]  
-* [**betw(een)**](https://orthic.shorthand.fun/manual#between-brief) ![][image339]  
-* [**b(u)t**](https://orthic.shorthand.fun/manual#but-brief) ![][image340]  
-* [**ca(n)**](https://orthic.shorthand.fun/manual#can-brief) ![][image341]  
-* [**ca(n)-b(e)**](https://orthic.shorthand.fun/manual#can-be-brief) ![][image342]  
-* [**ch(il)d**](https://orthic.shorthand.fun/manual#child-brief) ![][image343]  
-* [**c(oul)d**](https://orthic.shorthand.fun/manual#could-brief) ![][image344]  
-* [**d(o)**](https://orthic.shorthand.fun/manual#do-brief) ![][image345]  
-* [**d(oe)s**](https://orthic.shorthand.fun/manual#does-brief) ![][image346]  
-* [**d(ow)n**](https://orthic.shorthand.fun/manual#down-brief) ![][image347]  
-* [**ever (raised *r*)**](https://orthic.shorthand.fun/manual#ever-brief) ![][image348]  
-* [**f(or)**](https://orthic.shorthand.fun/manual#for-brief) ![][image349]  
-* [**f(or)m**](https://orthic.shorthand.fun/manual#form-brief) ![][image350]  
-* [**f(rien)d**](https://orthic.shorthand.fun/manual#friend-brief) ![][image351]  
-* [**g(oo)d**](https://orthic.shorthand.fun/manual#good-brief) ![][image352]  
-* [**gr(ea)t**](https://orthic.shorthand.fun/manual#great-brief) ![][image353]  
-* [**ha(ve)**](https://orthic.shorthand.fun/manual#have-brief) ![][image354]  
-* [**h(a)d**](https://orthic.shorthand.fun/manual#had-brief) ![][image355]  
-* [**m(a)de**](https://orthic.shorthand.fun/manual#made-brief) ![][image356]  
-* [**m(igh)t**](https://orthic.shorthand.fun/manual#might-brief) ![][image357]  
-* [**mo(re)**](https://orthic.shorthand.fun/manual#more-brief) ![][image358]  
-* [**m(o)st**](https://orthic.shorthand.fun/manual#most-brief) ![][image359]  
-* [**n(o)t**](https://orthic.shorthand.fun/manual#not-brief) ![][image360]  
-* [**c(a)n't**](https://orthic.shorthand.fun/manual#can-t-brief) ![][image361]  
-* [**n(oth)ing**](https://orthic.shorthand.fun/manual#nothing-brief) ![][image362]  
-* [**o(f)**](https://orthic.shorthand.fun/manual#of-brief) ![][image363]  
-* [**o(f-th)e**](https://orthic.shorthand.fun/manual#of-the-brief) ![][image364]  
-* [**(o)n**](https://orthic.shorthand.fun/manual#on-brief) ![][image365]  
-* [**(o)nly**](https://orthic.shorthand.fun/manual#only-brief) ![][image366]  
-* [**(o)ne**](https://orthic.shorthand.fun/manual#one-brief) ![][image367]  
-* [**(o)nce**](https://orthic.shorthand.fun/manual#once-brief) ![][image368]  
-* [**pe(r)h(aps)**](https://orthic.shorthand.fun/manual#perhaps-brief) ![][image369]  
-* [**r(igh)t**](https://orthic.shorthand.fun/manual#right-brief) ![][image370]  
-* [**rou(nd)**](https://orthic.shorthand.fun/manual#round-brief) ![][image371]  
-* [**se(l)f**](https://orthic.shorthand.fun/manual#self-brief) ![][image372]  
-* [**s(el)v(e)s**](https://orthic.shorthand.fun/manual#selves-brief) ![][image373]  
-* [**sha(ll)**](https://orthic.shorthand.fun/manual#shall-brief) ![][image374]  
-* [**she**](https://orthic.shorthand.fun/manual#she-brief) ![][image375]  
-* [**sh(oul)d**](https://orthic.shorthand.fun/manual#should-brief) ![][image376]  
-* [**thems(el)ves**](https://orthic.shorthand.fun/manual#themselves-brief) ![][image377]  
-* [**theref(ore)**](https://orthic.shorthand.fun/manual#therefore-brief) ![][image378]  
-* [**thing**](https://orthic.shorthand.fun/manual#thing-brief) ![][image379]  
-* [**thro'out**](https://orthic.shorthand.fun/manual#thro-out-brief) ![][image380]  
-* [**t(o)**](https://orthic.shorthand.fun/manual#to-brief) ![][image381]  
-* [**int(o)**](https://orthic.shorthand.fun/manual#into-brief) ![][image382]  
-* [**u(nder)**](https://orthic.shorthand.fun/manual#under-brief) ![][image383]  
-* [**w(ee)k**](https://orthic.shorthand.fun/manual#week-brief) ![][image384]  
-* [**w(oul)d**](https://orthic.shorthand.fun/manual#would-brief) ![][image385]  
-* [**wh(ich)**](https://orthic.shorthand.fun/manual#which-brief) ![][image386]  
-* [**(wi)th**](https://orthic.shorthand.fun/manual#with-brief) ![][image387]  
-* [**y(ou)**](https://orthic.shorthand.fun/manual#you-brief) ![][image388]  
-* [**y(ou)rs**](https://orthic.shorthand.fun/manual#yours-brief) ![][image389]
+![alt text](assets/manual-bits/gen-abbr-m017.png)
 
-Supplement common words
 
-* [able](https://orthic.shorthand.fun/supplement#able-brief) ![][image390]  
-* [ably](https://orthic.shorthand.fun/supplement#ably-brief) ![][image391]  
-* [above](https://orthic.shorthand.fun/supplement#above-brief) ![][image392]  
-* [according](https://orthic.shorthand.fun/supplement#according-brief) ![][image393]  
-* [acqu](https://orthic.shorthand.fun/supplement#acqu-brief) ![][image394]  
-* [adj](https://orthic.shorthand.fun/supplement#adj-brief) ![][image395]  
-* [advantage](https://orthic.shorthand.fun/supplement#advantage-brief) ![][image396]  
-* [after](https://orthic.shorthand.fun/supplement#after-brief) ![][image397]  
-* [afternoon](https://orthic.shorthand.fun/supplement#afternoon-brief) ![][image398]  
-* [afraid](https://orthic.shorthand.fun/supplement#afraid-brief) ![][image399]  
-* [ages](https://orthic.shorthand.fun/supplement#ages-brief) ![][image400]  
-* [agent](https://orthic.shorthand.fun/supplement#agent-brief) ![][image401]  
-* [also](https://orthic.shorthand.fun/supplement#also-brief) ![][image402]  
-* [already](https://orthic.shorthand.fun/supplement#already-brief) ![][image403]  
-* [announce](https://orthic.shorthand.fun/supplement#announce-brief) ![][image404]  
-* [approp(ria)te](https://orthic.shorthand.fun/supplement#appropriate-brief) ![][image405]  
-* [apparent](https://orthic.shorthand.fun/supplement#apparent-brief) ![][image406]  
-* [arrange](https://orthic.shorthand.fun/supplement#arrange-brief) ![][image407]  
-* [arrive](https://orthic.shorthand.fun/supplement#arrive-brief) ![][image408]  
-* [\-ation](https://orthic.shorthand.fun/supplement#ation-brief) ![][image409]  
-* [\-ational](https://orthic.shorthand.fun/supplement#ational-brief) ![][image410]  
-* [baptist](https://orthic.shorthand.fun/supplement#baptist-brief) ![][image411]  
-* [be](https://orthic.shorthand.fun/supplement#be-brief) ![][image412]  
-* [being](https://orthic.shorthand.fun/supplement#being-brief) ![][image413]  
-* [been](https://orthic.shorthand.fun/supplement#been-brief) ![][image414]  
-* [before](https://orthic.shorthand.fun/supplement#before-brief) ![][image415]  
-* [believed](https://orthic.shorthand.fun/supplement#believed-brief) ![][image416]  
-* [better](https://orthic.shorthand.fun/supplement#better-brief) ![][image417]  
-* [best](https://orthic.shorthand.fun/supplement#best-brief) ![][image418]  
-* [bishop (bp)](https://orthic.shorthand.fun/supplement#bishop-brief) ![][image419]  
-* [body (bdy)](https://orthic.shorthand.fun/supplement#body-brief) ![][image420]  
-* [both (bth)](https://orthic.shorthand.fun/supplement#both-brief) ![][image421]  
-* [by (or thy)](https://orthic.shorthand.fun/supplement#by-brief) ![][image422]  
-* [caught](https://orthic.shorthand.fun/supplement#caught-brief) ![][image423]  
-* [changes](https://orthic.shorthand.fun/supplement#changes-brief) ![][image424]  
-* [ch(ur)ch](https://orthic.shorthand.fun/supplement#church-brief) ![][image425]  
-* [circum-](https://orthic.shorthand.fun/supplement#circum-brief) ![][image426]  
-* [circumstance](https://orthic.shorthand.fun/supplement#circumstance-brief) ![][image427]  
-* [com-, con- (dot)](https://orthic.shorthand.fun/supplement#com-brief) ![][image428]  
-* [come](https://orthic.shorthand.fun/supplement#come-brief) ![][image429]  
-* [came](https://orthic.shorthand.fun/supplement#came-brief) ![][image430]  
-* [command](https://orthic.shorthand.fun/supplement#command-brief) ![][image431]  
-* [comment](https://orthic.shorthand.fun/supplement#comment-brief) ![][image432]  
-* [common](https://orthic.shorthand.fun/supplement#common-brief) ![][image433]  
-* [compound](https://orthic.shorthand.fun/supplement#compound-brief) ![][image434]  
-* [comprehend](https://orthic.shorthand.fun/supplement#comprehend-brief) ![][image435]  
-* [concerning](https://orthic.shorthand.fun/supplement#concerning-brief) ![][image436]  
-* [conserve](https://orthic.shorthand.fun/supplement#conserve-brief) ![][image437]  
-* [consideration](https://orthic.shorthand.fun/supplement#consideration-brief) ![][image438]  
-* [counter-](https://orthic.shorthand.fun/supplement#counter-brief) ![][image439]  
-* [country](https://orthic.shorthand.fun/supplement#country-brief) ![][image440]  
-* [course (crs)](https://orthic.shorthand.fun/supplement#course-brief) ![][image441]  
-* [court (crt)](https://orthic.shorthand.fun/supplement#court-brief) ![][image442]  
-* [dear (dr)](https://orthic.shorthand.fun/supplement#dear-brief) ![][image443]  
-* [different, \-ce](https://orthic.shorthand.fun/supplement#different-brief) ![][image444]  
-* [difficult](https://orthic.shorthand.fun/supplement#difficult-brief) ![][image445]  
-* [each (ea)](https://orthic.shorthand.fun/supplement#each-brief) ![][image446]  
-* [editor](https://orthic.shorthand.fun/supplement#editor-brief) ![][image447]  
-* [else](https://orthic.shorthand.fun/supplement#else-brief) ![][image448]  
-* [endeavour](https://orthic.shorthand.fun/supplement#endeavour-brief) ![][image449]  
-* [even (e'en)](https://orthic.shorthand.fun/supplement#even-brief) ![][image450]  
-* [evening](https://orthic.shorthand.fun/supplement#evening-brief) ![][image451]  
-* [event](https://orthic.shorthand.fun/supplement#event-brief) ![][image452]  
-* [every](https://orthic.shorthand.fun/supplement#every-brief) ![][image453]  
-* [evident](https://orthic.shorthand.fun/supplement#evident-brief) ![][image454]  
-* [evil](https://orthic.shorthand.fun/supplement#evil-brief) ![][image455]  
-* [executor](https://orthic.shorthand.fun/supplement#executor-brief) ![][image456]  
-* [except (ex)](https://orthic.shorthand.fun/supplement#except-brief) ![][image457]  
-* [exercise (exe)](https://orthic.shorthand.fun/supplement#exercise-brief) ![][image458]  
-* [extraordinary](https://orthic.shorthand.fun/supplement#extraordinary-brief) ![][image459]  
-* [favour](https://orthic.shorthand.fun/supplement#favour-brief) ![][image460]  
-* [\-fection](https://orthic.shorthand.fun/supplement#fection-brief) ![][image461]  
-* [\-fication](https://orthic.shorthand.fun/supplement#fication-brief) ![][image462]  
-* [foreign](https://orthic.shorthand.fun/supplement#foreign-brief) ![][image463]  
-* [forgive](https://orthic.shorthand.fun/supplement#forgive-brief) ![][image464]  
-* [forth](https://orthic.shorthand.fun/supplement#forth-brief) ![][image465]  
-* [forward](https://orthic.shorthand.fun/supplement#forward-brief) ![][image466]  
-* [found](https://orthic.shorthand.fun/supplement#found-brief) ![][image467]  
-* [from](https://orthic.shorthand.fun/supplement#from-brief) ![][image468]  
-* [\-ge (dot below)](https://orthic.shorthand.fun/supplement#ge-brief) ![][image469]  
-* [general](https://orthic.shorthand.fun/supplement#general-brief) ![][image470]  
-* [gives](https://orthic.shorthand.fun/supplement#gives-brief) ![][image471]  
-* [given](https://orthic.shorthand.fun/supplement#given-brief) ![][image472]  
-* [\-gn (*n* below)](https://orthic.shorthand.fun/supplement#gn-brief) ![][image473]  
-* [\-gram (*m* below)](https://orthic.shorthand.fun/supplement#gram-brief) ![][image474]  
-* [half](https://orthic.shorthand.fun/supplement#half-brief)   
-* [hand](https://orthic.shorthand.fun/supplement#hand-brief) ![][image475]  
-* [head](https://orthic.shorthand.fun/supplement#head-brief) ![][image476]  
-* [help (lp)](https://orthic.shorthand.fun/supplement#help-brief) ![][image477]  
-* [him](https://orthic.shorthand.fun/supplement#him-brief)   
-* [his](https://orthic.shorthand.fun/supplement#his-brief) ![][image478]  
-* [important, \-ce](https://orthic.shorthand.fun/supplement#important-brief) ![][image479]  
-* [inch](https://orthic.shorthand.fun/supplement#inch-brief) ![][image480]  
-* [ind(ivi)dual](https://orthic.shorthand.fun/supplement#individual-brief)   
-* [interest](https://orthic.shorthand.fun/supplement#interest-brief)   
-* [\-ism](https://orthic.shorthand.fun/supplement#ism-brief)   
-* [ive](https://orthic.shorthand.fun/supplement#ive-brief)   
-* [judge](https://orthic.shorthand.fun/supplement#judge-brief) ![][image481]  
-* [just](https://orthic.shorthand.fun/supplement#just-brief)   
-* [justice](https://orthic.shorthand.fun/supplement#justice-brief) ![][image482]  
-* [king](https://orthic.shorthand.fun/supplement#king-brief)   
-* [kingdom](https://orthic.shorthand.fun/supplement#kingdom-brief) ![][image483]  
-* [know](https://orthic.shorthand.fun/supplement#know-brief)   
-* [known](https://orthic.shorthand.fun/supplement#known-brief) ![][image484]  
-* [knowledge](https://orthic.shorthand.fun/supplement#knowledge-brief) ![][image485]  
-* [lady](https://orthic.shorthand.fun/supplement#lady-brief) ![][image486]  
-* [language](https://orthic.shorthand.fun/supplement#language-brief) ![][image487]  
-* [large](https://orthic.shorthand.fun/supplement#large-brief) ![][image488]  
-* [largest](https://orthic.shorthand.fun/supplement#largest-brief)   
-* [letter](https://orthic.shorthand.fun/supplement#letter-brief)   
-* [little](https://orthic.shorthand.fun/supplement#little-brief) ![][image489]  
-* [lord](https://orthic.shorthand.fun/supplement#lord-brief)   
-* [make](https://orthic.shorthand.fun/supplement#make-brief)   
-* [makes (see *ks* blend in](https://orthic.shorthand.fun/supplement#makes-brief) [section Slurring of ‘Notes on Reporting'](https://orthic.shorthand.fun/supplement#slurring))   
-* [magnify](https://orthic.shorthand.fun/supplement#magnify-brief)   
-* [mb](https://orthic.shorthand.fun/supplement#mb-brief)   
-* [mp](https://orthic.shorthand.fun/supplement#mp-brief)   
-* [member](https://orthic.shorthand.fun/supplement#member-brief)   
-* [mis-](https://orthic.shorthand.fun/supplement#mis-brief)   
-* [mistake](https://orthic.shorthand.fun/supplement#mistake-brief)   
-* [much](https://orthic.shorthand.fun/supplement#much-brief)   
-* [much-more](https://orthic.shorthand.fun/supplement#much-more-brief)   
-* [month](https://orthic.shorthand.fun/supplement#month-brief)   
-* [must](https://orthic.shorthand.fun/supplement#must-brief)   
-* [morning](https://orthic.shorthand.fun/supplement#morning-brief)   
-* [mortgage](https://orthic.shorthand.fun/supplement#mortgage-brief)   
-* [nation](https://orthic.shorthand.fun/supplement#nation-brief)   
-* [nearest](https://orthic.shorthand.fun/supplement#nearest-brief) ![][image490]  
-* [necessary](https://orthic.shorthand.fun/supplement#necessary-brief)   
-* [neighbour](https://orthic.shorthand.fun/supplement#neighbour-brief)   
-* [\-ness](https://orthic.shorthand.fun/supplement#ness-brief)   
-* [goodness](https://orthic.shorthand.fun/supplement#goodness-brief)   
-* [nevertheless](https://orthic.shorthand.fun/supplement#nevertheless-brief)   
-* [next (nst)](https://orthic.shorthand.fun/supplement#next-brief)   
-* [notwithstanding](https://orthic.shorthand.fun/supplement#notwithstanding-brief)   
-* [number](https://orthic.shorthand.fun/supplement#number-brief)   
-* [obedient](https://orthic.shorthand.fun/supplement#obedient-brief)   
-* [opportunity](https://orthic.shorthand.fun/supplement#opportunity-brief)   
-* [over (o'er)](https://orthic.shorthand.fun/supplement#over-brief)   
-* [page](https://orthic.shorthand.fun/supplement#page-brief)   
-* [pages](https://orthic.shorthand.fun/supplement#pages-brief)   
-* [paper](https://orthic.shorthand.fun/supplement#paper-brief)   
-* [part](https://orthic.shorthand.fun/supplement#part-brief)   
-* [party](https://orthic.shorthand.fun/supplement#party-brief)   
-* [particular](https://orthic.shorthand.fun/supplement#particular-brief)   
-* [peculiar](https://orthic.shorthand.fun/supplement#peculiar-brief)   
-* [people](https://orthic.shorthand.fun/supplement#people-brief)   
-* [perceives](https://orthic.shorthand.fun/supplement#perceives-brief)   
-* [person](https://orthic.shorthand.fun/supplement#person-brief)   
-* [philo-](https://orthic.shorthand.fun/supplement#philo-brief)   
-* [philosophy](https://orthic.shorthand.fun/supplement#philosophy-brief)   
-* [plaintiff](https://orthic.shorthand.fun/supplement#plaintiff-brief)   
-* [point (pnt)](https://orthic.shorthand.fun/supplement#point-brief)   
-* [practice or practical](https://orthic.shorthand.fun/supplement#practice-brief)   
-* [preconceived](https://orthic.shorthand.fun/supplement#preconceived-brief)   
-* [present](https://orthic.shorthand.fun/supplement#present-brief)   
-* [private](https://orthic.shorthand.fun/supplement#private-brief)   
-* [promise](https://orthic.shorthand.fun/supplement#promise-brief)   
-* [property](https://orthic.shorthand.fun/supplement#property-brief) ![][image491]  
-* [public or publish](https://orthic.shorthand.fun/supplement#public-brief)   
-* [quite](https://orthic.shorthand.fun/supplement#quite-brief)   
-* [religion](https://orthic.shorthand.fun/supplement#religion-brief)   
-* [report](https://orthic.shorthand.fun/supplement#report-brief)   
-* [resp(ective)ly](https://orthic.shorthand.fun/supplement#respectively-brief)   
-* [satisfy](https://orthic.shorthand.fun/supplement#satisfy-brief) ![][image492]  
-* [satisfactory](https://orthic.shorthand.fun/supplement#satisfactory-brief)   
-* [saviour](https://orthic.shorthand.fun/supplement#saviour-brief)   
-* [scarcely](https://orthic.shorthand.fun/supplement#scarcely-brief)   
-* [school](https://orthic.shorthand.fun/supplement#school-brief)   
-* [scribe](https://orthic.shorthand.fun/supplement#scribe-brief)   
-* [script](https://orthic.shorthand.fun/supplement#script-brief)   
-* [selves or serves](https://orthic.shorthand.fun/supplement#selves-brief) ![][image493]  
-* [servant](https://orthic.shorthand.fun/supplement#servant-brief)   
-* [sev(eral)](https://orthic.shorthand.fun/supplement#several-brief)   
-* [sir](https://orthic.shorthand.fun/supplement#sir-brief) ![][image494]  
-* [sirs](https://orthic.shorthand.fun/supplement#sirs-brief)   
-* [\-ship](https://orthic.shorthand.fun/supplement#ship-brief) ![][image495]  
-* [worship](https://orthic.shorthand.fun/supplement#worship-brief) ![][image496]  
-* [short](https://orthic.shorthand.fun/supplement#short-brief)   
-* [shorthand](https://orthic.shorthand.fun/supplement#shorthand-brief) ![][image497]  
-* [sign](https://orthic.shorthand.fun/supplement#sign-brief)   
-* [signify](https://orthic.shorthand.fun/supplement#signify-brief) ![][image498]  
-* [solicitor](https://orthic.shorthand.fun/supplement#solicitor-brief) ![][image499]  
-* [some](https://orthic.shorthand.fun/supplement#some-brief) ![][image500]  
-* [sometimes](https://orthic.shorthand.fun/supplement#sometimes-brief) ![][image501]  
-* [s(ou)rce](https://orthic.shorthand.fun/supplement#source-brief) ![][image502]  
-* [special or spirit](https://orthic.shorthand.fun/supplement#special-brief) ![][image503]  
-* [state](https://orthic.shorthand.fun/supplement#state-brief) ![][image504]  
-* [strength or strong](https://orthic.shorthand.fun/supplement#strength-brief) ![][image505]  
-* [such](https://orthic.shorthand.fun/supplement#such-brief) ![][image506]  
-* [such-as](https://orthic.shorthand.fun/supplement#such-as-brief) ![][image507]  
-* [super or supra](https://orthic.shorthand.fun/supplement#super-brief) ![][image508]  
-* [superior](https://orthic.shorthand.fun/supplement#superior-brief) ![][image509]  
-* [take](https://orthic.shorthand.fun/supplement#take-brief) ![][image510]  
-* [taken](https://orthic.shorthand.fun/supplement#taken-brief) ![][image511]  
-* [transact](https://orthic.shorthand.fun/supplement#transact-brief) ![][image512]  
-* [tr(ust)ee](https://orthic.shorthand.fun/supplement#trustee-brief) ![][image513]  
-* [very](https://orthic.shorthand.fun/supplement#very-brief) ![][image514]  
-* [verify](https://orthic.shorthand.fun/supplement#verify-brief) ![][image515]  
-* [\-wise](https://orthic.shorthand.fun/supplement#wise-brief) ![][image516]  
-* [otherwise](https://orthic.shorthand.fun/supplement#otherwise-brief) ![][image517]  
-* [wis(d)om](https://orthic.shorthand.fun/supplement#wisdom-brief) ![][image518]  
-* [word](https://orthic.shorthand.fun/supplement#word-brief) ![][image519]  
-* [work](https://orthic.shorthand.fun/supplement#work-brief) ![][image520]  
-* [world (wd)](https://orthic.shorthand.fun/supplement#world-brief) ![][image521]  
-* [young](https://orthic.shorthand.fun/supplement#young-brief) ![][image522]
-
-# Teaching common words {#teaching-common-words}
-
-Common words
-
-Add the following common words:
-
-* ![][image523] *aso* \= *also*,  
-* ![][image524] *ea* \= *each*,  
-* ![][image525] *ay* \= *any*.  
-* ![][image526] is *because*, therefore ![][image527] \= *cause*.  
-* ![][image528] being *child*, ![][image529] \= *children*.  
-* ![][image530] \= *from*, show clearly that ![][image531] being *for*, ![][image532] is *form*, not *from*.  
-* ![][image533] \= *great*,  
-* ![][image534] \= *much* (*ch* curled inside),  
-* ![][image535] \= *that* (*th* left out and *t* written above the line),  
-* ![][image536] \= *already*,  
-* ![][image537] \= *acing* \= *according*,  
-* ![][image538] \= *after*,  
-* ![][image539] \= *bth* \= *both*,  
-* ![][image540] *el* \= *else*,  
-* ![][image541] *e'en* \= *even*,  
-* ![][image542] \= *except*,  
-* ![][image543] *lp* \= *help*,  
-* ![][image544] *kn* \= *know*,  
-* ![][image545] *lile* \= *little*,  
-* ![][image546] *ler* \= *letter*,  
-* ![][image547] *pt* \= *part*,  
-* ![][image548] *s* \= *sir*,  
-* ![][image549] *rk* \= *work*,  
-* ![][image550] \= *word*,  
-* ![][image551] \= both *would* and *world*.
-
-# Phrases {#phrases}
-
-* ![][image552] **able to do**  
-* **![][image553]** **as it is**  
-* **![][image554]** **I am not**  
-* **![][image555]** **I have had**  
-* **![][image556]** **I shall be very**  
-* **![][image557]** **to be**  
-* **![][image558]** **ought to have been**  
-* **![][image559]** **with a view to**
+![alt text](assets/manual-bits/gen-phrases-m017.png)

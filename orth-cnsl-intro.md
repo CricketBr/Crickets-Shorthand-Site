@@ -15,7 +15,13 @@ This book addresses the first deficiency, hopefully without creating too much mo
 
 
 
-The Orthic Ho
+The Orthic Consolidated Project consists of:
+
+- Introduction
+- Reference
+
+
+
 
 
 # Sources
