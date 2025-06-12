@@ -1,68 +1,80 @@
 # Orthic Consolidated – Reference DRAFT
 
-## Being Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings, and Opinions of the Author, and Others who Might Comment
+## Being Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
 
-
-# Notes to Self
-
-- The first part, how to write and join, will be sorted by longhand, with a few cross-references when several letters should be combined to clarify the differences.
-- If it's not obvious where the full description should be, choose the earlier one.
-- Assume readers have read the Manual. This is a review. Readers can see the arrows on the images.
-- Abbreviation and Vocab sections assume reader knows Joins. Jeremy's notation is enough for them to make the image on their own. (Will need to add to the notation.)
-
--- using my own? combined letters/slurs/joins are in brackets, not codes
-- Abbreviation and Vocab can sort either way (Orthic or English).
-- The two ways of spelling are Orthic and orthographic. If I find a better word for the 2nd I can search/replace easily enough.
-- xxx is note to self. Searching for them will be one of the final steps before publicataion.
-- xxx add notation to the alphabet?
-- xxx ??? Do I need to list the source along with the word in the text, for joins? Probably not. It's in the image.
-- images -- file name is topic, book, page
-
-- where a rule is not contradicted by later books, only the oldest is quoted, unless later books have better explanations or examples.
-
-
-xxx canonical copy, revs
-
-
-
-# remember they have already read the Manual !!!
-
-
-
-
-
-testing - dashes -- how they show --- funny stuff
 
 By CricketB, Reddit u/CrBr
 
-Original document maintained at 
+xxx copyright, license
+xxx canonical copy, revs
+xxx
 
-Xxx Maybe https://github.com/CricketBr/shorthand/blob/main/orthic%20consolidated
+# remember they have already read the Manual !!!
 
-xxx copyright, GNU???
-add in
-Revison date .....
+# Introduction to Orthic Consolidated 
 
-# Introduction to Orthic Consolidated – Reference Alphabet
+Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
-[Introduction to Orthic Consolidated Series](orth-cnsl-intro.md)
+In keeping with tradition, I'll begin with deficiencies of previous books: 
+* The rules are spread out over too many publications.
+* The rules in the different books are sometimes inconsistent.
 
-Sometimes (more often than I'd like), I want to look up a rule. Searching four separate books, which often disagree about which style level a rule applies to and sometimes have an entirely different rule, is annoying and frustrating. (One could argue, correctly, that if I'd spent enough time learning at the start, I would not need this reference.)
+Callendar wrote the Manual in 1891, then, instead of updating it, he published the Supplement in 1982. This booklet moved some rules from advanced to intermediate, and even changed a few. Stevens wrote The Teaching of Orthic Shorthand in 1896, and, again, instead of writing a complete book, he told the readers to refer to the previous two publications. He also moved rules between levels, added some, and, I suspect, changed a few. Finally, in 1911, Clarey wrote Orthic Shorthand: Revised, Extended and Improved. That book brought together all the rules, changed a few, and removed the distinct levels.
 
-This book intends to solve that problem. It combines all the rules (except those that only exist in the reporting style) from the Manual, Supplement, Teaching Parts 1 and 2, and Revised. It includes references to the sources for easy confirmation of the rules. (I lied. I included some rules that I like that are only in the reporting style.)
+This book combines all the rules from all the earlier books, except some that are only in the Reporting Style. It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.)
 
-It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.)
+Hopefully it creates more clarity than confusion.
 
 It is organized into the following parts: 
 
+* Sources.
 * Alphabet. Not really necessary by the time you're here.
 * Non-Alphabet Rules. Rules that don't apply to a specific letter.
 * Joining Characters
   * Vowel-Vowel
   * Consonants and Vowels
+* Word Parts
+* Lists of Abbreviated Words
 
-  
+# Sources
+
+**Phonetic Cursive**\
+A Manual of Phonetic Cursive Shorthand\
+Hugh L Callendar, 1889.\
+<https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala>\
+This is the precursor to Orthographic Cursive, and is included for historical reasons only. The introduction discusses "other, inferior systems" and is a fun read.
+
+**The Manual**\
+A Manual of Orthographic Shorthand: The Cambridge System,  
+Hugh L Callendar, 1891\. 
+<https://orthic.shorthand.fun/manual>\
+Rendered into Markdown and annotated by Jeremy W Sherman.
+
+**The Supplement**\
+Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
+Hugh L Callendar, 1892.\
+<https://orthic.shorthand.fun/supplement>\
+Rendered into Markdown and annotated by Jeremy W Sherman.
+
+**Teaching (Parts 1 and 2)**\
+The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
+W Stevens, 1896\
+<https://orthic.shorthand.fun/teaching-pt1> , <https://orthic.shorthand.fun/teaching-pt2>
+
+**Revised, Extended and Improved**\
+Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; Revised, Extended and Improved\
+Hugh L Callendar ; E Clarey, 1911\
+<https://orthic.shorthand.fun/>  under Resources  
+Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
+
+**Dictionary**\
+<https://orthic.shorthand.fun/dictionary>\
+Clipped, assembled and programmed by Jeremy W. Sherman\
+Includes a notation that will encode Orthic text into ASCII.   Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
+
 *If not stated, the rule comes from The Manual.* The wording of each rule is a combination of the original sources and my own understanding. I have made very little effort to clarify who said what, but much effort to show where the concept was introduced. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's.
+
+
 
 # The Alphabet
 ![alphabet, manual](assets/manual-bits/_alphabet-m003.png)
@@ -819,7 +831,7 @@ Manual: the, they, this, them, tho', that
 ![ther, manual](assets/manual-bits/ther-m016.png)
 ther, others, ard, toward
 
-![common abbreviations, manual](assets/manual-bits/_common-abbrev-m018.png)
+![common abbreviations, manual](assets/manual-bits/_z-common-abbrev-m018.png)
 Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours  
 ```
 ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, 
@@ -830,8 +842,6 @@ WK, WD, WH, TH, Y, YRS
 ```
 
 
-
-xxxx find this image
 
 
 
@@ -1200,3 +1210,21 @@ xxxx
 gen abber
 
 gen phrases
+
+
+# Notes to Self
+
+- The first part, how to write and join, will be sorted by longhand, with a few cross-references when several letters should be combined to clarify the differences.
+- If it's not obvious where the full description should be, choose the earlier one.
+- Assume readers have read the Manual. This is a review. Readers can see the arrows on the images.
+- Abbreviation and Vocab sections assume reader knows Joins. Jeremy's notation is enough for them to make the image on their own. (Will need to add to the notation.)
+
+-- using my own? combined letters/slurs/joins are in brackets, not codes
+- Abbreviation and Vocab can sort either way (Orthic or English).
+- The two ways of spelling are Orthic and orthographic. If I find a better word for the 2nd I can search/replace easily enough.
+- xxx is note to self. Searching for them will be one of the final steps before publicataion.
+- xxx add notation to the alphabet?
+- xxx ??? Do I need to list the source along with the word in the text, for joins? Probably not. It's in the image.
+- images -- file name is topic, book, page
+
+- where a rule is not contradicted by later books, only the oldest is quoted, unless later books have better explanations or examples.
