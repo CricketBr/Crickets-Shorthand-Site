@@ -12,7 +12,7 @@ A collection of tips I've accumulated over the years. Replaced by Cricket's Shor
 
 A series of steps for learning shorthand, especially if you don't have a teacher to guide you.
 
-**[Orthic Consolidated Reference  -- In Progress](orth-cnsl-ref-.md)** 
+**[Orthic Consolidated Reference  -- In Progress](orth-cnsl-ref.md)** 
 
 An attempt to organize the all the Orthic rules into a single document for reference. The four Orthic books were written by three different authors on two continents. Instead of issuing a revised manual, books 2 and 3 (Supplement and Teaching) only show changes to the system. They move rules around, add some, and change other. The 4th (Revised) is the complete system but has some significant differences.
 
@@ -29,7 +29,6 @@ A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written t
 A crowd-sourced version of The Hobbit, written in whatever styles the contributors prefer. (Contributions welcome!)
 
 **Licencing**
-
 
 Unless otherwise stated, all my work is licenced under ...
 ``` probably creative commons share alike ```
