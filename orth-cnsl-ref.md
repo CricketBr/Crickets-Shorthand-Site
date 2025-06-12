@@ -1,6 +1,6 @@
 # Orthic Consolidated – Reference DRAFT
 
-## Being Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+## Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
 
 
 By CricketB, Reddit u/CrBr
@@ -29,9 +29,11 @@ It is organized into the following parts:
 
 * Sources.
 * Alphabet. Not really necessary by the time you're here.
+* Notation.
+* General Rules and Abbreviating Principles.
 * Non-Alphabet Rules. Rules that don't apply to a specific letter.
 * Joining Characters
-  * Vowel-Vowel
+  * Vowels Sounded Individually and Diphthongs
   * Consonants and Vowels
 * Word Parts
 * Lists of Abbreviated Words
@@ -77,7 +79,7 @@ Includes a notation that will encode Orthic text into ASCII.   Contains all the 
 
 
 # The Alphabet
-![alphabet, manual](assets/manual-bits/_alphabet-m003.png)
+![alphabet, manual](assets/manual-bits/1alphabet-m003.png)
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
 # Notation
@@ -102,17 +104,17 @@ Where there is more than one way to write a letter or compound, I added numbers.
 (ing1) = straight, (ing2) = curved, chosen because 1 is straight and 2 is curved. (Cricket)
 
 
-# General Rules and Simple Abbreviations
+# General Rules and Abbreviating Principles
 
 ### Doubling a Letter
 
-![double letters, manual](assets/manual-bits/_doubled-ltrs-m003.png)
+![double letters, manual](assets/manual-bits/1doubled-ltrs-m003.png)
 Manual: odd, too, ee, sleep, sup
 
 ### Two Sizes of Letters
 Most books say use 1:3, but then use less in the Two Sizes image, and somewhere between 1:2 and 1:3 in actual writing. It's rarely a problem except for debates between students.
 
-![two sizes, manual](assets/manual-bits/_two-sizes-m005.png)
+![two sizes, manual](assets/manual-bits/1two-sizes-m005.png)
 Manual: st, ste, en, ens, inst, nt, er, ers, abs, against, epitaph
 
 > The actual **size** of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle may be reduced to a dot. But it is best to make the small characters about one-twelfth of an inch \[2.1mm\] long, and the large ones twice as big." (Revised, p3, General Rules)
@@ -151,13 +153,13 @@ xxx A short connecting tick maybe used after ER, TH, etc, and when they are foll
 
 ### Dividing Words
 
-![divided words, manual](assets/manual-bits/_divide-line-m005.png)
+![divided words, manual](assets/manual-bits/1divide-line-m005.png)
 Manual: lawsuit, Woolwich, virgin
 
 You can divide a word to keep it on the line. Beware that this might be confused with writing by mode.
 
 ### Punctuation
-![punctuation, manual](assets/manual-bits/_punct-m005.png)
+![punctuation, manual](assets/manual-bits/1punct-m005.png)
 Manual: hyphen, dash
 
 So they are not confused with raised A (and) and raised O (though).
@@ -168,7 +170,7 @@ Does this also apply to brackets, so they aren't confused with G and K?
 ### Initial Capitals 
 
 Indicated in a few ways.
-![capitals, manual](assets/manual-bits/capitals-m005.png)
+![capitals, manual](assets/manual-bits/1capitals-m005.png)
 Manual: Jack, Clay, S.E., L.S.W.R. (London and South West Rail Company)
 
 See S to distinguish intial S from initial P.
@@ -182,20 +184,20 @@ Manual: band, bond
 
 An omission of this kind can always be corrected by writing the omitted character above.
 
-# Diphthongs and Joining Vowels with Vowels
+# Vowels Sounded Individually and Diphthongs
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
 Orthic uses an older definition of the word *diphthong*.
 
-![diphthongs intro, manual](assets/manual-bits/_diphth-m004.png)
+![diphthongs intro, manual](assets/manual-bits/1diphth-m004.png)
 Manual: ai, oy, ou, eau
 
 ## Vowels Sounded Individually
 
 Check both orders of vowels to see all example words.
 
-![vowels indiv, manual](assets/manual-bits/_vow-sep-m004.png)
+![vowels indiv, manual](assets/manual-bits/1vow-sep-m004.png)
 Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
 
 ## A
@@ -624,10 +626,10 @@ T: **S before and after P**
 The angular form is used after *S*, thus ![][image75] *sw*, formed of ![][image76] *s* and ![][image77] *w*.
 
 ..
-
+```
 The only other cases of sub-linear writing up to this point are the words ‘take' and ‘sake' and their inflections, which are written ![\`t\_\*\`, \`t\_Y\`, \`s\_\*\`][image78], etc. The *k* throwing *below* the line, but in no other case is the *k* so treated.
 
-
+```
 
 
 ## T
@@ -831,7 +833,7 @@ Manual: the, they, this, them, tho', that
 ![ther, manual](assets/manual-bits/ther-m016.png)
 ther, others, ard, toward
 
-![common abbreviations, manual](assets/manual-bits/_z-common-abbrev-m018.png)
+![common abbreviations, manual](assets/manual-bits/9common-abbrev-m018.png)
 Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours  
 ```
 ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, 
