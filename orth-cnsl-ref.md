@@ -124,7 +124,7 @@ The rules for this are a mess.
 
 Just do what looks right to you. If you read something that doesn't make sense, remember some writers will write higher or lower than you do.
 
-**Details:** In the Manual, Calendar claims the first letter sits on the line, then on the same page (Two Sizes of Character) starts *epitaph* above the line, with P sitting on the line. In St John II, *it* and *in* start on the line and go upwards. T is a downstroke, so the rule isn't first downstroke. Stevens has his own version. On the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. Revised says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceeding downstrokes." (Revised, General Rules, p3)
+**Details:** In the Manual, Callendar claims the first letter sits on the line, then on the same page (Two Sizes of Character) starts *epitaph* above the line, with P sitting on the line. In St John II, *it* and *in* start on the line and go upwards. T is a downstroke, so the rule isn't first downstroke. Stevens has his own version. On the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. Revised says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceeding downstrokes." (Revised, General Rules, p3)
 
 ### Modes or Positions
 
@@ -188,10 +188,6 @@ An omission of this kind can always be corrected by writing the omitted characte
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
-Orthic uses an older definition of the word *diphthong*.
-
-![diphthongs intro, manual](assets/manual-bits/1diphth-m004.png)
-Manual: ai, oy, ou, eau
 
 ## Vowels Sounded Individually
 
@@ -199,6 +195,21 @@ Check both orders of vowels to see all example words.
 
 ![vowels indiv, manual](assets/manual-bits/1vow-sep-m004.png)
 Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
+
+Note: Callendar breaks this rule a few pages later, in the Manual, Specimen of Fully Written Style, "abbreviation."
+![abbreviation, manual, fw](assets/manual-bits/1vow-sep-counterexample-m014.png)
+Manual: abbreviation
+
+He changes the order of AI and rounds the corner even though the vowels are sounded separately.
+
+## Vowels Sounded Together, Diphthongs
+
+Orthic uses an older definition of the word *diphthong*.
+
+![diphthongs intro, manual](assets/manual-bits/1diphth-m004.png)
+Manual: ai, oy, ou, eau
+
+
 
 ## A
 
@@ -842,6 +853,24 @@ NT, CNT, N(ING2), O, OE, N, N(LY), NE, NCE, PH (?? PRH), RT, ROU,
 SEF, SVS, SHA, SH, SHD, ^EMSVES, ^ERF, ^(ING2), ^ROUT, T, INT, U, 
 WK, WD, WH, TH, Y, YRS 
 ```
+
+
+sup pg06 , text, gen methods of abbreviation
+rea read
+rou round
+cou count
+
+
+sup pg07, text, gen methods of abbreviation
+rt right
+mst most, must
+pt part
+pnt point
+cd could
+hd had, head, hood
+wd would, world
+mst most, must
+mt might, -ment
 
 
 

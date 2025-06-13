@@ -1,0 +1,1229 @@
+The following is taken from a notice of Orthic
+which appeared in the Athenaeum of Oct. 17, 1891.
+TROUGH phonetic spelling has usually been adopted byshorthand authors, there is something to be said on the
+other side. The task of the learner is simplified when he can
+use the spelling with which he is already familiar ; and the shorthand author has fewer characters to provide; Mr Callendar,
+who is favourably known as a writer on phonetics and as the
+author of a phonetic system of shorthand, has here put forward a system based on common spelling with an alphabet
+of twenty-six letters It is pre-eminently simple, and makes
+admirable use of the best material afforded by script methods.
+...No distinction of thickness is used, backslopes and upright
+strokes are practically discarded, linearity is well preserved,
+and the writing has an extremely fluent appearance. As
+tried by the severe test of full alphabetic writing the result
+is remarkably good, and we have found no difficulty in spelling out the specimens given without reference to the key.
+Those characters which differ only in size are well distinguished, one being made about three times as large as
+the other. Careful attention has been bestowed on the
+accommodation of one character to another in joining, and
+the connected writing is accordingly more brief than one
+would anticipate from a mere inspection of the alphabet. The
+system looks as if it would work well and offer few openings
+for clashing Mr Callendar must be congratulated on the
+great tact and skill with which he has carried out a distinctly
+original plan.
+
+SUPPLEMENT
+TO THE
+
+MANUAL OF
+
+ORTHIC SHORTHAND
+[ORTHOGRAPHIC CURSIVE]
+THE CAMBRIDGE SYSTEM.
+
+BY
+
+HUGH L. CALLENDAR, M.A.
+ORTHIC PUBLICATIONS.
+
+FELLOW OF TRINITY COLLEGE, CAMBRIDGE.
+
+A Manual of Orthographic Cursive. Price 1s.
+A complete exposition of the system containing 12 pp. of
+reading practice.
+Supplement to the Manual of Orthic. Price 6d.
+Containing further illustrations of the methods of abbreviation, and 9 pp. of reading practice for advanced
+writers of the system.
+The text-books may be ordered through any bookseller or will
+be sent post free on remitting prices to the publishers,
+C. J. CLAY and SONS, Cambridge University Press
+Warehouse, Ave Maria Lane, London, E. C.
+
+London : C. J. CLAY AND SONS,
+CAMBRIDGE UNIVERSITY PRESS WAREHOUSE,
+AVE MARIA LANE.
+1892
+
+Price Sixpence.
+
+PREFACE.
+IT is now nearly a year since the publication of Orthographic Cursive. The approval with which it has been
+greeted on all sides has more than fulfilled the author's
+expectations, and repaid him for the years which he has
+spent in the endeavour to devise a system of shorthand
+sufficiently simple for general use.
+The want of a brief and convenient title for the system
+has been very generally felt. It has been decided to adopt
+the title of Orthic' in place of the somewhat cumbrous
+Orthographic Cursive.'
+A society called the Cambridge Shorthand Society,'
+has recently been started for the study and propagation
+of Orthic. It has been placed under the management of
+Mr W. Stevens, of the Commercial and Technical Institute, Ranelagh Road, Ealing, W. Manuscript magazines are, at present, circulated among the members, and
+serve to provide practice in reading and writing the
+system. It is hoped shortly to publish a magazine
+printed in Orthic, and to establish a central school in
+London for the benefit of clerks and others who wish to
+perfect themselves in the reporting style, and to utilise
+the system for business purposes. In the meantime
+teaching for various centres can be arranged with Mr
+Stevens, the Principal of the Ealing Institute.
+H. L. CALLENDAR.
+June, 1892.
+
+SUPPLEMENT TO THE MANUAL OF
+ORTHIC.
+
+THE object of the following pages is to supply fuller explanation and illustration of the methods of abbreviation given
+in the Manual, pp. 30 and 31, and to provide advanced writers
+of the system with additional matter for exercise and reading
+practice.
+Some students appear to think that a phonetic system
+must necessarily be briefer and simpler than an orthographic.
+Others appreciating the superior simplicity of the orthographic
+method are apt to wonder why shorthand was ever made
+phonetic. It has therefore been thought necessary to explain
+these points more fully for the benefit of those who may not
+have read the author's previous publications on the subject.
+ADVANTAGES OF THE ORTHOGRAPHIC BASIS.
+An Orthography, that is to say a definite standard of
+spelling, is the necessary groundwork of any practical system
+of writing. It is essential, both for the sake of rapid automatic writing and to secure ease and certainty in reading,
+that each word should always be spelt in the same way. In
+this way alone can it be written without conscious thought,
+and read without hesitation.
+The author has insisted on 'this point, and illustrated it
+at some length in previous publications, particularly in the
+
+3
+
+Advantages of the Orthographic Basis.
+
+Advantages of the Orthographic Basis.
+
+introduction to the Manual of Cursive Shorthand' (Phonetic).
+Every word of that introduction will apply equally to the
+present system, except that it is orthographic and not phonetic. The student who wishes thoroughly to master the
+principles of Orthic, and to learn how and why it differs from
+other systems of shorthand, will find in the introduction to
+the Phonetic Manual much that is interesting and instructive,
+and that will be of material assistance to him. The proof and
+explanation of the above statement, having been already given
+therein, need not be repeated here. It is only necessary to
+point out its bearing on the question of an orthographic as
+opposed to a phonetic basis for shorthand.
+Every system of shorthand must in one sense be orthographic. There must be a correct outline for each word.
+Every departure from this rule entails a certain loss of efficiency, and a systematic violation of it results in hopeless
+confusion.
+It is evidently much simpler, if possible, to adopt the commonly received orthography as the basis of spelling for a shorthand system, than to elaborate a new phonetic standard. The
+common spelling is already familiar to everyone, and is a
+practically perfect standard in point of strictness and uniformity. Phonetic spelling, on the other hand, is to many
+people extremely distasteful and difficult to learn. It is,
+moreover, even when learnt, an uncertain and unsatisfactory
+standard= owing to varieties and changes of pronunciation.
+That is the main and decisive point. The simplicity and
+definiteness attained by adopting the orthographic basis make
+it far preferable for general use to the phonetic. There are
+several minor advantages, however, which should not be overlooked.
+A phonetic system is quite unable to cope with any peculiarities of spelling, or to give any adequate representation of
+
+proper names. It is also very difficult to adapt to the pronunciation of a foreign language. Orthic, as shown in the
+Manual, can be used, almost without change, for writing any
+foreign language that is spelt with the common alphabet.
+Another very practical advantage of Orthic is that all the
+familiar longhand abbreviations can be at once utilised. The
+majority of the examples given in the list on pp. 11-13 are
+simply transliterations of those in common use, and being
+already familiar require no learning.
+It is commonly urged in favour of phonetic spelling that so
+much is gained in point of shortness by the omission of mute
+and silent letters, and by using simple signs for diphthongs
+and other compound sounds. This argument as applied to
+shorthand is somewhat misleading. All phonetic methods of
+abbreviation, such as tho for though, brot for brought etc., in so
+far as they are convenient and clear, are naturally utilised in
+any orthographic system. Common diphthongs and combinations are also naturally represented by simple curves. The
+characters of the orthographic alphabet can also be grouped
+on the principle of representing similar sounds by similar
+signs, thus securing whatever advantages a phonetic system
+may claim in this respect.
+From the inventor's point of view, the real advantage of a
+phonetic system lies in the fact that it is much easier to construct. The early inventors could not find sufficient material
+for their alphabets in the way of characters which would join
+easily and clearly. They got out of the difficulty by rejecting
+what they called duplicate or superfluous letters, such as c, j,
+q, .r, and by omitting all the vowels, or expressing them by
+detached marks. This was really only a method of cutting
+the Gordian knot, and could not result in the production of
+a system adequate and suitable for general use. The comparative ease of constructing a system on this basis is, however, undoubtedly the true explanation of the extraordinary
+prevalence of systems of this type.
+It is much more difficult to find sufficient stenographic
+material for a complete phonetic system, providing joined
+
+2
+
+1
+
+Published by C. J. Clay and Sons, price 2.s.
+
+See A System of Phonetic 'Spelling, pp. 17 and 21, by H. L.
+Callendar, published by Clay and Sons, 1889, price 6d.
+2
+
+1-2
+
+4
+
+5
+
+Advantages of the Orthographic Basis.
+
+Ordinary Style.
+
+characters for both vowels and consonants. The difficulty of
+constructing a complete orthographic system is of the same
+kind, but greater, owing to the great number and variety of
+different combinations to be provided for.
+As early as 1887 the author fully recognised the advantages
+of an orthographic basis in point of simplicity, and had made
+many unsuccessful attempts to construct such a system ; but
+at the time of writing the introduction to the Manual he did
+not fully realise the difficulties that phonetic spelling presents
+to the majority of students. He was therefore content to
+abandon his orthographic labours, and to acquiesce in the
+generally prevailing opinion (as expressed in the Manual,
+p. 19) that a system of shorthand to be simple, consistent
+and complete must be phonetic, since it is almost impossible,
+to make a system represent consistently and simply the endless variety of combinations in the common spelling. A correction in the above passage suggested by two or three eminent
+shorthand authorities, consisted in striking out the word '
+almost'befrip.Thautowevr,ing
+length succeeded in solving the problem to his own satisfaction, is now of opinion that he had somewhat over-rated
+the impossibility.
+Very shortly after the publication of Cursive, it became
+evident that the difficulties of the majority of learners were
+almost entirely phonetic, that the system was otherwise extremely simple and very easily acquired. The author therefore set to work again in a more systematic way. A most
+elaborate analysis was made of the common spelling of
+English and several foreign languages. The relative frequencies and modes of occurrence of all the possible combinations of letters were tabulated. By means of this table a
+great variety of different methods and arrangements of characters were tested and rejected, or emended and improved.
+After about a year of trial and failure an alphabet was at
+length evolved, capable of satisfying all the conditions previously laid down.
+Subsequent experience of Orthic has served only to confirm
+
+the author's expectations. The testimony of learners is unanimous as to its great simplicity in comparison with any phonetic
+system. Teachers and school-masters in particular declare
+most strongly in its favour. They find, as might naturally
+be expected, that besides being more easily learnt, it has not,
+like phonetic systems, any tendency to spoil the learner's
+spelling.
+Phonetic spelling in itself is undoubtedly a useful educational subject and a valuable aid in teaching correct pronunciation. This argument is often advanced in favour of
+phonetic shorthand. But it has been shown that there is
+no necessary connection between the two ; and it is manifestly unreasonable to saddle shorthand with unnecessary
+difficulties in order to teach at the same time a subject which
+many people have no need or desire to learn. In any case the
+work of both teacher and learner would be much simplified
+by keeping the two subjects separate.
+ORDINARY STYLE.
+The Ordinary Style of Orthic is intended for general use
+and for purposes of correspondence and communication between
+different writers of the system. The rules have been made as
+simple and definite as possible, so that any word can be correctly written in one way only. It is particularly desirable
+that writers should keep as far as possible to the ordinary style
+in correspondence, and that they should not introduce reporting abbreviations of their own devising.
+Since the publication of the Manual the methods of abbreviation given in pp. 30 and 31, under 'Hints for Reporting,'
+have been very thoroughly tested by experienced writers of the
+system. Many of these methods have been found to be so
+convenient and safe for purposes of correspondence that it has
+been decided to admit them into the ordinary style. The
+following list contains a fuller explanation and illustration of
+the abbreviations which have been thus admitted.
+It should be observed that the use of these additional
+
+6
+
+General Method of Abbreviation.
+
+abbreviations is optional. Those who prefer it may continue
+to write the full ordinary style as developed in the Manual,
+which is quite brief enough for general purposes. But if they
+correspond with advanced writers of the system, they must be
+prepared to meet with any of the following methods of abbreviation.
+Teachers are recommended to instruct their pupils thoroughly in the full ordinary style, before introducing them to the
+advanced style developed in this Supplement. They should
+also make beginners write between double-ruled lines at first,
+as explained in the Manual, § 3, p. 5. This is of great assistance in forming the characters neatly, and in distinguishing
+correctly between the two sizes.
+GENERAL METHOD OF ABBREVIATION.
+The general method of abbreviating Orthic (Manual, p. 17)
+is the same as that ordinarily employed in longhand, namely,
+to write the first syllable of a word and, if necessary, to indicate the termination by.writing the last letter or two separated
+by a small interval from the rest of the word. Experience has
+shown that abbreviations made in this way are at once the
+most suggestive and the most readily extemporised. The free
+use of this simple method of abbreviation is rendered possible
+in Orthic by the full expression of vowels in the outlines. In
+systems of shorthand which have no adequate means of expressing the vowels, it would obviously be quite inadmissible.
+In correspondence, this method of abbreviation must of
+course be used with reason and moderation and with due
+regard to the context. It should be restricted to very common
+words or to words frequently repeated and specially related to
+the subject of the letter. In taking notes intended only for
+private use, it may be much more freely employed.
+Examples of abbreviations for common words such as may
+safely be used in correspondence are given in the list on p. 11.
+The method of curtailment may be applied to short words as
+well as to long ones. In the case of short words containing a
+
+Phraseoraphy.
+
+7
+
+characteristic long vowel or diphthong it is generally best to
+keep the vowel (e.g. rea for read, rou for round, cou for count),
+but in the case of very common words for which abbreviations
+are already current in longhand, it is often better to follow the
+longhand usage (e.g. rt for right, mst for most or must, pt for
+part, put for point, cd for could). It may be remarked that, as
+in longhand, the same abbreviation may in some cases be used
+for two or even three different words provided that they are
+different parts of speech such as would necessarily be distinguished by the context. Thus hd is used for had and head
+and also for the termination -hood, wd for would and world,
+mst for most and must, nit for might and for the termination
+-ment. In most systems of shorthand this principle is applied,
+by the wholesale omission of vowels, to an altogether unwarrantable extent. In Taylor's or Pitman's a single combination
+of consonants such as is may stand for any one of twenty or
+thirty different words. The principle in itself is good and
+reasonable, but we would caution writers of Orthic against the
+abuse of it.
+PHRASEOGRAPHY.
+Time is frequently saved and legibility increased by joining
+words together in phrases without lifting the pen. This is a
+powerful method of abbreviation in the hands of experienced
+writers, and is specially applicable in the case of Orthic owing
+to its lineality and facility of joining. Experience has shown,
+however, that beginners are apt to run riot with all sorts of
+impossible and useless phrases to the great detriment of the
+speed and legibility of their writing. The number of possible
+and useful phrases is so great that it is impracticable to publish
+an exhaustive list showing what phrases may be used in the
+ordinary style. The simplest and best general rule for a beginner to follow is not to use phraseography at all in correspondence until he has made himself perfectly familiar with
+the system.
+
+8
+
+9
+
+Supra-linear Writing.
+
+Other Prefixes and Slurs.
+
+SUPRA-LINEAR WRITING.
+
+PARA, PERI. These Greek prefixes may also be expressed
+by supra-linear writing for the -same reason. Peri is distinguished by retaining the i ; it may be regarded as a special case
+of per.
+Examples of these prefixes will be found in the list on
+pp. 11-13.
+
+This signifies writing a word above the line, out of its
+natural position, to indicate the omission of a prefix. It is
+a method of great simplicity and power if properly applied.
+Initial th as explained in the Manual, p. 15, is already
+expressed in this way, supplying clear and systematic abbreviations for a very special class of common words peculiar to
+English. It is found, however, that the use of this method
+may be very largely extended without any risk of clashing. It
+will be observed that all the following applications of the
+method are merely special cases of the general method of abbreviation 'by mode' explained on pp. 30 and 31 of the Manual.
+EVE. The words every, evening, event, evident, evil, and
+their derivatives, are abbreviated by the V-Mode, in the same
+way as ever, by omitting the eve and writing the rest of the
+word above the line.
+Exception :—Even is written e'en, to distinguish it from than
+or then.
+BE. This prefix is peculiar to a special class of English
+words, and may also be expressed by writing above the line.
+The word be is expressed by a dot above the line ; been and
+being by it and straight -ing ; the former will not be found to
+clash with than.
+PER-, PRO-, PRE-. These prefixes, being Latin, will not
+clash with any of the above English prefixes, and may be
+expressed in the same way with great saving of time and space.
+Pre- and pro- are distinguished from per, if necessary, by
+retaining the vowels e and o. The cases, however, in which
+it is necessary to make the distinction are very rare. When
+any of these prefixes occur in the middle of a word after another prefix, as in the words unbelief, compromise, etc., they
+are expressed by Mode (1), that is to say by writing the
+terminal portion of the word close above and to the right of
+the initial prefix. In the prefixes super, supra, hyper, the per
+is similarly expressed. The allied prefix pri may be expressed
+in the same way as pre in some common words.
+
+OTHER PREFIXES AND SLURS.
+ACQU, ADJ, are written aqu, aj respectively.
+Adv is slurred into one large character compounded of d
+and v as explained in the Manual, p. 31. (See list, p. 11.)
+Con, Cox, are expressed by a dot on the line written close in
+front of the word, as explained in the Manual, p. 30. In
+taking notes the dot may generally be omitted or expressed by
+Mode (2). In correspondence it should be retained.
+In compound prefixes, such as imam-, discern-, etc., the
+cant- or con- is expressed by Mode (2).
+Circum is written cir followed by a short break to express
+the cum. Circe is the regular longhand abbreviation for the
+word circumstance.
+MAGNA, MAGNI, are written in, the rest of the word being
+placed below to indicate the g. (Mode (3), Manual, p. 31.)
+MB may be written with a single character somewhat like
+mp, but beginning and ending on the line. (See list, p. 12.)
+Mrs- is written ins, omitting the i.
+NCH, SCE. These combinations may be written without an
+angle or break. (See inch, such, school, in the list, p. 12.)
+Ten. The t may always be omitted in this combination.
+TRANS is written trs, as in longhand.
+TERMINATIONS.
+In accordance with the general method terminations are indicated by writing the last letter or two detached from the rest
+of the word. Thus the common terminations -ent, -ence, -ency,
+1-5
+
+10
+
+Examples of Abbreviations.
+
+Examples of Abbreviations.
+
+-m, -p,
+-graph, -ism, -ship, -wise, are written -t, -ce, -cy,
+-se respectively. (See list, p. 11.)
+NESS. This termination should be written -ess detached,
+by the general rule, and not ns as given in the Manual, p. 16.
+Detached is and as can then be used, as in longhand, for the
+expression of the common terminations -ation and -ations.
+VE, -Iva. This common termination is expressed by a dot
+above and to the right of the word to indicate the v. (Mode (1),
+Manual, p. 31,) When the word is inflected the last letter of
+the inflection is substituted for the dot. (See gives, given, selves,
+etc. in the list, p. 11.)
+GE, -DGE, -AGE, and derived terminations are similarly
+expressed by a dot below and to the right to indicate the g.
+(Mode (3), Manual, p. 31. See also knowledge, agent, etc. in
+the list, p. 11.)
+GN,RAMareindctbys peivlwrtn
+below (Mode (3)) to indicate the g, as in the termination
+- ight. (See foreign, sign, in the list, p. 1L)
+
+EXAMPLES OF ABBREVIATIONS.
+The following list of abbreviations contains examples of all
+the preceding methods. They are collected together and
+arranged alphabetically in order to facilitate reference.
+Derivatives of words given in the list are abbreviated in
+the same way as the primitives from which they are derived.
+For instance in the words former and formal the first syllable
+is written in the same way as the word form; the prefix for in
+forgive is written in the same way as the word for; party and
+particular are abbreviated in the same way as the word part.
+In the words come and same the final e is omitted to distinguish
+them from came and same. The attention of the student is
+particularly directed to the abbreviations for the words much
+(Inch), such (sat), and next (nst), which are new.
+
+sit
+
+11
+
+12
+
+Examples of Abbreviations.
+
+Examples of Abbreviations.
+
+Si
+
+-
+
+;AK_
+
+nxaa
+
+,
+
+G.4
+
+13
+
+c
+
+-
+
+Ordinary Style, Abbreviated (Key, pp. 3 and 4). 1,75
+
+14 Ordinary Style, Abbreviated (Key, pp. 1 and 2).
+
+- —
+
+C"
+
+--0 -4, •
+
+"\_1
+
+-
+
+, 4 —
+A4 A"
+
+_-
+
+,
+
+44 •
+C-,
+
+o'.
+
+//- / 3
+
+y„.;)
+
+—
+
+)--,"
+
+• P w ,•∎
+
+r e'
+
+e"r
+
+.4C—
+
+C 1 ° ---
+
+-- L _ _
+
+‘rt' ,
+
+—
+
+,A4.
+
+jr-4 1-
+
+r
+
+4 ic
+
+20 7 's,
+
+6, 7.7 ,
+
+-0
+
+cre
+
+— 6- .
+
+S
+
+6
+
+a' — o r ...AP 2 —ED
+
+e9
+
+-
+
+—
+
+2, /if
+
+0.9• , — —
+
+4—,
+• • • (.7"<-• •
+
+,
+
+_ _ __pcl _
+
+)
+
+li
+
+•
+3 e-•
+
+-
+
+_ rs 6r
+4.1
+
+J.
+
+A,4
+
+-
+
+/4-ss
+
+Ey—f,
+
+•-• er • ••••-,
+
+-
+
+e' 0 , - '7 .
+
+5_4/4
+
+•
+
+2„„
+
+0
+
+4•
+
+-6-6 9 - o
+
+•
+-
+
+6/"2^
+
+u
+
+u
+
+)„ ?
+
+A
+
+-
+
+9( er
+
+• —
+
+A. '
+—
+
+r 4 °i •
+co./. —LI
+tr"--ecam, V•••• ✓
+
+—
+
+.
+
+N../ 3
+
+cr?
+
+Notes on Reporting.
+
+f6 Ordinary Style, Abbreviated (Key, pp. 4 and 5).
+
+--- 3 r-^'
+
+r-4-f
+
+•
+
+Q_o" \
+
+0, 4-- , 4
+
+— _7
+
+oC2-,.
+U
+
+6,,, -3
+
+,
+
+4-d(2^
+
+9-• —
+•
+
+°I. '9 -6-2. (-4,
+
+3 C.,-
+
+._
+
+-^ C
+7,/ 3.,
+•
+
+afs
+
+,e
+47
+
+)
+
+,
+
+-fCv"),
+
+(-
+
+,
+
+—
+
+Z--,
+
+.
+
+— CP
+r
+
+)"../
+
+9 6,L-0
+4
+
+VON.,
+
+r' 1 ° —
+
+--'
+
+•
+
+7-a"4"")7
+
+Cir
+3
+
+fr-Y
+
+ofr' -0
+
+-
+
+Q„.
+
+6 . r
+
+--e9< cv`.--" 3 6-‘
+
+-ocr
+
+•
+
+- 3 1-./
+
+eA a. -7
+
+L-7
+
+A-f
+
+Cc 94' 6.—
+
+c— V Er^
+-Lpr
+
+—
+
+_
+•,,5), y. '
+
+13m
+
+r fr., 1 .
+CL„
+
+"
+
+c_fc,
+
+L._ 7"
+
+17
+
+18
+*
+
+r
+
+„
+
+• g
+
+(-;"/.' 8 . 4 4 r•-...34c.
+
+=c
+
+2
+
+r
+
+"t •
+
+r
+
+.
+
+2
+
+Pe.
+
+" —
+
+-7
+
+,
+
+•
+
+&
+
+0_,/ A-
+
+•
+
+Q.-,
+
+–
+
+,
+
+,
+
+=
+
+'
+
+4-4
+
+S
+
+)
+• •-• •)•• • •
+
+19
+
+-Votes on Reporting.
+
+Notes on Reporting.
+
+=
+
+-r 4
+
+-
+
+i- 677
+
+,
+
+4:1;
+
+1-=
+Cl
+
+—
+
+•-49 3, =
+
+'-'
+
+s
+
+4A/".
+
+c-fc, -g
+
+at, —
+
+—
+
+_ t
+
+=
+r
+
+E
+
+= •• , p = (-(R, , =
+_6, L.
+-
+
+d.-"F C^
+
+9—cc,. • r,
+
+=
+
+=
+
+2
+
+=
+
+,
+= ,..••••A
+
+=
+
+.
+
+O's
+
+,v 6imp,def
+
+•-• 0.-j "---4 •
+!L:
+
+;
+
+=
+
+Key to p. 20.
+
+..'Votes of a Speech.
+
+20
+
+p
+
+-
+
+,Q-
+
+G.L. 6 4,
+
+-
+
+r ,
+N
+
+w
+
+-7 r-2
+
+/' 2
+
+cs 3
+
+2r.)
+/e."
+
+L ,y
+T'
+
+-
+
+e ..
+
+r <r_ - v
+
+ace.,
+? __
+
+•-)
+-k<-0
+
+o' "on (y.,
+
+.4' ,
+
+-
+
+LORD DUFFERIN AT ST ANDREWS.
+
+(.• -, s-J •
+
+cs2--
+
+o
+
+--
+
+r
+
+,
+
+-G-
+
+-7
+
+° ci„
+
+21
+
+-
+
+,,_
+2
+
+c1 ,
+
+The RECTOR, who was received with cheers, said that he had
+determined that the best return he could make to those who
+had shown him so much kindness, but to whom he knew he
+was incompetent to communicate anything worth their attention, in regard either to science or letters, would be to give
+them, in as simple and unpretending a manner as he could,
+such practical hints in regard to some few of the matters which
+would affect their start in life as his own personal experience
+might furnish. The first piece of advice, then, that he would
+give was to endeavour to reach a practical conception both of
+the length and of the shortness of life ; he urged upon them to
+get clearly into their heads the fact that life is a definite circumscribed period of time, sufficiently long to get a great deal
+done in it, and yet not long enough to oppress them with the
+idea of exhausting and unending effort. He asked them, in
+the next place, to try and frame for themselves beforehand as
+clear and correct a conception as circumstances might permit
+of the natural incidence, and ultimate conditions of whatever
+careers they were determined to follow, being careful at the
+same time, before they chose their profession, to get a right
+knowledge of their individual aptitudes, and of the extent of
+their powers, for he was convinced that their usefulness, as
+well as their happiness, depended upon their work being done
+in a congenial atmosphere ; and that it was much better to
+choose a humbler, less promising, or less remunerative walk
+in life, in which they were certain of personal satisfaction,
+than to commit themselves to a more ambitious employment
+which might, perhaps, prove distressing to their tastes and
+unsuited to their faculties. He impressed upon them strongly
+the necessity of attending to their health, maintaining that the
+healthiness and robustness of their nerves and mental fibre
+were as worthy of cultivation as those of their corporeal
+faculties. In that way they would keep themselves free from
+those morbid, sentimental, and vicious growths which left a
+human being neither man nor woman. Regarding the acquisition of languages, he was inclined to range himself on the
+side of those who would retain not only Latin but also Greek
+as an essential part of the education of every gentleman. Nay,
+if one were to be compulsorily admitted, he would prefer dropping Latin rather than Greek, for the literature of Greece had
+been the quarry out of which the brightest gems in the writings
+of their modern authors had been extracted. He adverted to the
+necessity of their acquiring a knowledge of, at all events, one
+modern European language, and there could not be any doubt that
+that language should be French, for not only was its literature the
+.
+
+CV -,
+
+• -„
+
+,
+
+22
+
+Key to p. 22.
+
+Yotes of a Speech.
+
+s
+
+-
+
+oC-P
+
+- C
+
+o
+
+r
+
+2
+
+----
+
+a"-Q-4
+
+9---
+
+1■
+
+1
+
+'-'4 — 3 --- 5
+
+.
+
+CL,
+
+_ r
+
+_
+6, 7 07,
+tV" "
+
+v.z
+
+or.) -
+
+e 3 1,
+
+-) — -
+
+•Ir'i
+
+v
+
+D---) a 5'
+
+.
+
+Of
+
+23
+
+most diverse and admirable possessed by any European community except their own, but it had long been accepted as the
+common channel of communication between European nations.
+But far more important than the acquisition of any foreign
+tongue was the art of skilfully handling their own. Already
+Providence had issued its decree that English should be the
+predominant language of the globe—in other words, the man
+who wrote a good book, or made a good speech in English,
+would command for all time what was already the greatest
+audience known to history, and which eventually would cover
+the better part of three of the five continents of the world.
+There was one golden rule which he would venture to insist
+upon—namely, that in the first place, before putting pen to
+paper, they should compel their own mind to hammer out an
+absolUtely clear and distinct conception of the thought they
+wished to express, and that then they should put it into the
+simplest and least Latinised words that came to hand, without
+giving a thought to what was called style, and confining their
+attention to the attainment of only two objects—conciseness
+and lucidity. There was one other useful rule which he would
+also recommend to all young writers, no matter what might
+be the nature of their composition, whether books, speeches,
+sermons, lectures, or addresses—namely, that after they had
+written them they should cut them down by about one-third.
+Probably there were few hooks, still fewer sermons, and certainly no speeches, that had ever been produced or delivered
+which would not have been much improved by being considerably curtailed. With regard to public speaking, the first essential principle was undoubtedly practice. He had often
+heard experienced members of the House of Commons remark
+on the extraordinary improvement which practice had produced amongst those whom necessary circumstances or their
+own courage and ambition had induced to persevere in imposing themselves upon a long-suffering audience. He adverted to their writing an extempore speech beforehand, and
+said they should not send it to the reporters, before it had been
+delivered, as once was done by an acquaintance of his, who,
+after all, never got an opportunity of speaking. His Lordship
+concluded by mentioning two further rules of conduct—namely,
+the cultivation of the spirit of justice, and, of the sentiment of
+chivalry. The secret of lifelong happiness was not, as was
+generally said, to keep one's illusions as long as possible, but
+to preserve the conviction that one's " illusions " were the only
+realities, and that their destruction was tantamount to their
+becoming the victims of a vain and empty dream. But with
+knightly purity and white-robed justice for their companions,
+the magic light would neither waver nor fade from their path.
+
+24
+
+Verbatim Report of a Speech.
+
+Key to Reporting Style on p. 24.
+
+o•-_,
+
+,
+
+e--
+
+r
+
+.
+
+a
+
+—
+
+e-
+
+C
+
+,4,-
+
+e
+
+6
+
+LtIC.
+
+c).?( . c-°(
+
+o,
+
+—
+
+— 14.
+•
+
+.
+
+0- P-
+
+p- 1".
+
+I r\s.
+•ir
+
+-
+
+3 _3g
+
+-
+
+CAMBRIDGE: PRINTED BY G J. CLAY, M.A. AND SONS, AT TIER UNIVERSITY PRESS.
+
+LORD SALISBURY AT THE MANSION HOUSE.
+My Lord Mayor, my noble colleague challenged me to tell
+you what were the changes of policy of her Majesty's Government. Well, we are to meet in Cabinet to-morrow, and of
+course I shall have the opportunity of explaining them to him
+more distinctly when we meet. But I may tell you that my
+task will be an easy one, because they are represented by zero.
+There are no changes in the policy of her Majesty's Government. We are quite satisfied with the result of our policy in
+Ireland. And we think that the statesman who has been principally associated with that policy, Mr Arthur Balfour, may
+retire from the immediate supervision of it with a consciousness of the best bit of four years' work that has ever been done
+by a statesman. And I am bound to say that what we have
+recently seen in Ireland has not altered our opinion. What we
+have seen has not made us think that a domestic legislature in
+Ireland will be distinguished by peace or order, or an abstinence from blackthorn, or a freedom from the curse of ecclesiastical domination. Therefore I have to reply to my noble
+friend that I see no reason to chance our policy with respect to
+Ireland. With respect to our foreign affairs, there is always a
+certain difficulty and responsibility, because the speaker is apt
+to be suspected of intending to assume the mantle of a prophet.
+I desire entirely to disclaim that intention. We have had a
+good deal of prophecy of late—they call it meteorology. We
+are told of things that are certainly to happen in a year's time.
+Well, I am not here to discuss those prophecies, but I think
+confident predictions when they are to the advantage of the
+predictor are sometimes a mistake, for fortune is fond of
+flouting such confidence. But, at all events, whatever we
+may think of domestic affairs, with respect to Foreign affairs
+I will speak only of the present what I know ; and with respect
+to the present I will say that there is not on the horizon a
+single speck of a cloud which contains within it anything
+injurious to the prospects of peace. In fact, it seems to me
+that the warfare of nations, if you are to judge by the interest
+they take in the subject, is slowly changing its object and its
+field, and that it is the industrial competition which chiefly
+occupies in these days the chancellaries and diplomacies. The
+great subjects of consideration are those Treaties of Commerce
+which are to expire next year ; the great question is what tariffs
+will the various nations adopt with regard to each other. And
+though, with respect to material warfare, I think we can hold
+out to you the most promising anticipations, as far as our
+present prospects go, with respect to this industrial warfare,
+which has for its weapons protective legislation, and has for its
+prize the markets of various countries, I am afraid we must be
+content to occupy for a time a peculiar and isolated position.
+
+
