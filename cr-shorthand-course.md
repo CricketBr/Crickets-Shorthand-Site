@@ -1,6 +1,6 @@
 # Cricket’s Shorthand Course
 
-Rev 2025-06-11. Made summary. Moved progressions to summary. Added comparison of Cricket's to Swem's. Moved more stuff around. Expanded instructions for increasing duration. Consolidated descriptions of each level to single section, ending with progressions. Almost changed the entire program to use Swem's (start with fast dictation) but thought better of it.
+Rev 2025-06-16
 
 Canonical copy and licence at 
 [https://cricketbr.github.io/Crickets-Shorthand-Site](https://cricketbr.github.io/Crickets-Shorthand-Site)
@@ -36,29 +36,27 @@ Options 2 and 3 are only available if the text has sufficient shorthand images i
 
 # Typical Hour
 
-If you use shorter sessions, do a bit of each work each session, or do one after the other. Finish each writing passage the session you start it. Always end with a bit of precision practice.
+If you use shorter sessions, do a bit of each work each session, or do one after the other. Finish writing and building speed on each passage the session you start it. Always end with a bit of precision practice. (Second thoughts: What happens if you spread a passage over multiple days?)
 
 Just like with music, shorter and more-frequent works better than longer and less-frequent.
 
-*15 minutes reading the text.*
+**15 minutes reading the text.**
 
-Review the theory and copy words that demonstrate each rule. You will work through the book several times. Stop this step this once you can take dictation from unseen material at 100wpm on your first attempt.
+Review the theory and copy words that demonstrate each rule. You will work through the book several times. You can stop this step this once you can take dictation from unseen material at 125wpm on your first attempt.
 
 The reading material in modern books usually review theory from earlier chapters in a systematic manner. Those lucky students can skip this step until they finish the book. If your book has reading material, take time from writing to read this. You will save time overall because you will know which details are important and which are not, and your brain will better know that to tell your hand to write.
 
 Reading instructions are in a later section.
 
-If you have an advanced book that reviews all the theory, use this book once you reach 60wpm.
+**Advanced, after you finish the first book and reach 60wpm:**  All the modern 2nd year texts I've seen include a review of the basics, usually a few concepts in each chapter, and Swem advise reviewing the basic manual at least 1-2 times, until you reach 125wpm. That's unusually unanimous. If you have an advanced book that reviews the basic theory, you don't need to review the basic book. If you have an advanced book that only teaches new rules but does not review the basic theory, read that book instead of the first book 1 day in 4 and continue to review the basic theory the other days. 
 
-If you have an advanced book that only teaches new rules but does not review the theory, read that book instead of the first book 1 day in 4.
-
-*10 minutes reading your own writing.*
+**10 minutes reading your own writing.**
  
-Use material that has rested for a bit. This give you practice reading your own writing, and will catch bad habits early. Practice a few words that need it, but do not redo the entire passage. At first, focus on recent work (to catch bad habits quickly). Then gradually extend it to six months or more, so you practice reading old material. Note that your first writing will be so bad that, while it's good to read it to find problems to fix, you may not benefit from reading it later. Use your own judgement. (Keep a sample so in a year you can look back and see how far you've come.)
+Use material that has rested for a bit. This give you practice reading your own writing, and will catch bad habits early. Practice a few words that need it, but do not redo the entire passage. At first, focus on recent work (to catch bad habits quickly). Then gradually extend it to six months or more, so you practice reading old material. Note that your first writing will be so bad that, while it's good to read it to find problems to fix, you may not benefit from reading it weeks later. Use your own judgement. (Keep a sample so in a year you can look back and see how far you've come.)
 
-*30 minutes copying and/or writing from dictation.*
+**30 minutes copying and/or writing from dictation.**
 
-If you have not already written for 5 minutes (copying example words), do that now. Use penmanship exercises from your system, or one similar, if you have them.
+If you have not already written for 5 minutes (copying example words), do that now to warm up. Use penmanship exercises from your system, or one similar, if you have them.
 
 As said before, take time from this block if your book has reading material.
 
@@ -66,25 +64,25 @@ As said before, take time from this block if your book has reading material.
 
 1 session out of 4, experiment.
 
-*5 minutes practicing penmanship.*  
+**5 minutes practicing penmanship.**  
 
 End each session, no matter how short, with accurate writing. Music teachers also recommend this. Your body remembers the final minutes of a lesson strongly.
 
-Swem suggests tracing shorthand in the textbook. This will force you to notice subtle details, but isn't always an option, and may not give much variety. Many systems have penmanship exercises. Do some from your system, or one similar, or invent your own. Sometimes work on problems you know you have. Other times work on other aspects. Often the real problem is something we only think we've mastered.
+Swem suggests tracing shorthand in the textbook. This will force you to notice subtle details, but isn't always an option and may not give much variety. Many systems have penmanship exercises. Do some from your system, or one similar, or invent your own. Sometimes work on problems you know you have. Other times work on other aspects. Often the real problem is something we only think we've mastered.
 
-Trace, if you can, for every other session. For the rest, select a recent exercise and copy it practically perfectly.
+Divide your penmanship time equally between tracing, penmanship exercises, and copying a recent exercise carefully -- but keep it fluid. You are writing, not drawing.
 
 Once you know the shapes well, add speed to this, enough to make your writing smooth but not enough to sacrifice accuracy.
 
 # Diary
 
-Keep a diary showing the date, passage description, length in words, activity (Read, Copy, Dictation), the wpm (words per minute) and accuracy of each attempt. The numbers will go up and down, but the average will gradually go up. Include a section for other notes.
+Keep a diary showing the date, passage description, length in words, activity (Read, Copy, Dictation), the wpm (words per minute) and accuracy of each attempt. The numbers will go up and down, but the average will gradually go up. Include room for other notes.
 
-You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy and the effect of different types of repetition. This will change rapidly at first, then settle down, then change again as you increase your target speeds.
+You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy vs length, and the effect of different types of repetition. This will change rapidly at first, then settle down, then change again as you increase your target speeds.
 
 This is for your own use. Be as specific or vague as you like.
 
-Reading skill is as important as writing skill.
+Reading skill is as important as writing skill. Track it!
 
 # How to Read Shorthand
 
@@ -99,19 +97,19 @@ For each new word:
 * Spell it. Look at each part as you do so.
 * Say it.
 
-Use the key instead of struggling with a word. When you can read 9/10 words reasonably well, try reading the entire sentence a second time before using the key. Then spell and say as before. When you can read 19/20 words reasonably well, use the Column Method described later.
+Use the key instead of struggling with a word. When you can read 9/10 words reasonably well, try reading the entire sentence a second time before using the key. Then spell and say as before. When you can read 19/20 words reasonably well, use the Column Method described later. Leslie recommends you keep one finger on the shorthand and the other on the key.
 
-Reread each passage until you can read it without referring to the key, pointing to each word. It is ok if you inadvertently memorize the it.
+Reread each passage until you can read it without referring to the key, pointing to each word. It is ok if you inadvertently memorize it, but be sure to look at each word.
 
 As you gain experience, look for letters that often occur together, and think of them as a single letter. Eg TR and SH. Do this for all words as needed. Eventually, only do it for words you struggle with or that demonstrate a new rule.
 
-This process will help lock in the shapes of each letter and combination, and the outline of the entire word. Doing it out loud involves senses in your throat, mouth and ears, which enhances learning. Leslie does not recommend tracing outlines at any stage. Swem recommends it for 5 minutes to finish each hour of studying.
+This process will help lock in the shapes of each letter and combination, and the outline of the entire word. Doing it out loud involves senses in your throat, mouth and ears, which enhances learning. Leslie recommends against tracing outlines at any stage. Swem recommends it for 5 minutes to finish each hour of studying. (Leslie and Swem both worked directly for JR Gregg.)
 
 ## Column Method to read for Difficult Words
 
 Don't worry about deciphering difficult words at first. They will all be difficult! For now, seeing the building blocks in a variety of settings is more important than practice deciphering.
 
-Continue to use the key frequently, until you only struggle with 1 word in 20. Leslie recommends a finger on the shorthand and another finger on the key.
+Continue to use the key frequently, until you only struggle with 1 word in 20.
 
 The column method works well if you suspect a penmanship issue, or are not sure which of several sounds or abbreviations are intended. It also works for checking if a proposed abbreviation has other possible interpretations.
 
@@ -213,7 +211,7 @@ Be very careful making your own material until you finish the book.
 
 Modern books for most systems have enough practice material in each chapter that you won’t need any new material until the core theory is covered. Some systems have theory in one book and practice material keyed to the text in another.
 
-Orthographic systems such as Orthic and Teeline quickly teach an acceptable way to write all words – just use the alphabet. You can start writing after learning the alphabet and combinations. I recommend you wait a bit, since the next few pages usually teach simple but powerful ways to reduce writing. You do not want your hand to get stuck on the Fully Written versions.
+Orthographic systems such as Orthic and Teeline quickly teach an acceptable way to write all words – just use the alphabet. You can start writing after learning the alphabet and combinations, or so they say. I recommend you wait a bit, since the next few pages usually teach simple but powerful ways to reduce writing. You do not want your hand to get stuck on the Fully Written versions.
 
 Older phonetic books are a challenge. Work through the core theory and available samples BEFORE writing new material. Often an outline that seems correct now does not follow later rules – to the point that you wrote the opposite of what you intended. Then be very careful to proof-read all your writing and make sure you follow all the rules. Making your own reference book will be very useful for these shorthands.
 
@@ -221,7 +219,11 @@ Beware of creating your own abbreviations, or even simplifying spelling, before 
 
 If you aren’t sure where the core theory stops and optional theory begins, read more of the book, not to learn, but to see which sections are core theory, which are optional but useful, and which can wait. Some books separate those nicely. Some mix them together.
 
-Quickly reading the entire book will also give you advance warning of additional sizes, positions, and shapes that you might confuse with the earlier shapes if not aware. For now, read to see what exists, not to learn.
+Quickly reading the entire book will also give you advance warning of additional sizes, positions, and shapes that you might confuse with the earlier shapes if not aware. First read to see what exists, not to learn.
+
+Once you finish the core theory, choose a passage about 20 words long. Write it, then proof-read it carefully. Your sample needs to follow the rules, but the penmanship only has to be readable, not perfect. Re-read the core theory (or your summary of it) often, so you use all of it for your samples.
+
+Modern books have enough accurately written samples that you know the theory is correct. Luxury!
 
 # Personal Reference Binder
 
@@ -251,19 +253,15 @@ That is not to say word lists are never useful.
 * A list of technical terms that sound similar but have different meanings helps you learn the words and find ways to distinguish them.  
 * A list in the back of your notebook can help you remember uncommon or difficult words, especially if you need them months later.
 
-Once you finish the core theory, choose an passage about 20 words long. Write it, then proof-read it carefully. Your sample needs to follow the rules, but the penmanship only has to be readable, not perfect. Re-read the core theory (or your summary of it) often, so you use all of it for your samples.
-
-Modern books have enough accurately written samples that you know the theory is correct. Luxury!
-
 ## Working With Word Lists — Spaced Repetition
 
 As stated earlier, a list of all the words you encounter is a waste of time, but lists can be useful for other reasons.
 
 The best way to learn lists is spaced repetition. Each time you successfully remember a word, promote it to a longer review frequency. If you struggle with a word you previously mastered, demote it. 
 
-Some people use a deck of cards, one card per word, longhand on one side and shorthand on the other. Leitner Box is a famous system for managing repetition using cards. Apps such as Anki have virtual cards and keep track of which words should be repeated and how often. I find the physical cards use too much paper and are hard to carry. It also takes too long to scan and enter each word for a computer version. (I used a program similar to Anki to study music vocabulary, which was text-only and easy to enter. I got 100% on that section of the exam.)
+Some people use a deck of cards, one card per word, longhand on one side and shorthand on the other. Leitner Box is a famous system for managing repetition using cards. Apps such as Anki have virtual cards and keep track of which words should be repeated and how often. There might even be a shared deck for your system. I find the physical cards use too much paper and are hard to carry. It takes too long to scan and enter each word for a computer version, and your hand doesn't get practice with each repetition. (I used a program similar to Anki to study music vocabulary, which was text-only and easy to enter. I got 100% on that section of the exam.)
 
-For shorthand, I prefer the accordion column method. Write the longhand in one column and shorthand in the column beside it. Fold or cover the paper so you can only see the longhand. Write the shorthand in the next column, uncover the key, and note the mistakes. Adjust it so you can only see the shorthand. Write the longhand in the next column and note the mistakes. (You can save time and paper by saying the longhand but not writing it.) Now repeat the process with only the words you didn’t get first try. Repeat again, until you have gotten each word correct more often than you got it wrong.
+For shorthand, I prefer the accordion column method. Write the longhand in one column and shorthand in the column beside it. Fold or cover the paper so you can only see the longhand. Write the shorthand in the next column, uncover the key, and note the mistakes. Adjust it so you can only see the shorthand. Write the longhand in the next column and note the mistakes. (You can save time and paper by saying the longhand but not writing it. Say it out loud and follow with your finger to avoid shortcuts.) Now repeat the process with only the words you didn’t get first try. Repeat again, until you have gotten each word correct more often than you got it wrong.
 
 Copy the words you did not get correct the first time to a page with tomorrow’s date. You will work on them again then. Copy the words you got correct the first time to another column (or page), marked with the date you want to review them. Words you always get correct the first time need to be reviewed less often.
 
@@ -575,7 +573,7 @@ Instead of doing two extra hours each week, do the following:
 
 For reading, Swem recommends:
 * 5x15=75 minutes on the manual, until you can apply the theory without hesitation at 125wpm.
-* 2x30=60 minutes "practice new phrases and expedients" from advanced books.
+* 2x30=60 minutes "practice new phrases and expedients" from advanced books -- clearly doesn't apply until you've mastered the first book.
 
 I'd simplify that to alternating days.
 
