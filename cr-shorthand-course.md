@@ -107,11 +107,11 @@ As you gain experience, look for letters that often occur together, and think of
 
 This process will help lock in the shapes of each letter and combination, and the outline of the entire word. Doing it out loud involves senses in your throat, mouth and ears, which enhances learning. Leslie does not recommend tracing outlines at any stage. Swem recommends it for 5 minutes to finish each hour of studying.
 
-# Column Method for Difficult Words
+## Column Method to read for Difficult Words
 
 Don't worry about deciphering difficult words at first. They will all be difficult! For now, seeing the building blocks in a variety of settings is more important than practice deciphering.
 
-Continue to use the key frequently, until you only struggle with 1 word in 20.
+Continue to use the key frequently, until you only struggle with 1 word in 20. Leslie recommends a finger on the shorthand and another finger on the key.
 
 The column method works well if you suspect a penmanship issue, or are not sure which of several sounds or abbreviations are intended. It also works for checking if a proposed abbreviation has other possible interpretations.
 
@@ -119,19 +119,7 @@ Make one column for each letter. The first row is the letter in shorthand. The f
 
 You will have to adapt it a bit if combinations of letters create word parts.
 
-# Accuracy and Perfection
 
-Every teacher manual I've read agrees: Mark the transcript, not the shorthand.
-
-95% accurate means someone who is familiar with your penmanship, or yourself in 6 months, can read 95% of the words. You might add “uses the appropriate abbreviation for your chosen level,” but that is still a far cry from perfection.
-
-It is impossible to perfectly predict your accuracy at any speed. It will change with difficulty of the passage and practice with that passage. Use your best guess.
-
-Progression milestones are 4 passages out of 5. Do not let the occassional difficult passage hold you back.
-
-Your accuracy at lower speeds will increase as you increase your barely-readable speed.
-
-Do not strive for perfect notes. That will slow you down. Besides, what is perfect?
 
 # How to Copy
 
@@ -146,6 +134,20 @@ Your hand will be unstable at first. (Leslie) Work only until you stop improving
 Begin with very short passages (only 20 words) and build up to 100.
 
 Stay at this stage until your hand is comfortable and there is not much difference in your penmanship between copies.
+
+## Accuracy and Perfection
+
+Every teacher manual I've read agrees: Mark the transcript, not the shorthand.
+
+95% accurate means someone who is familiar with your penmanship, or yourself in 6 months, can read 95% of the words. You might add “uses the appropriate abbreviation for your chosen level,” but that is still a far cry from perfection.
+
+It is impossible to perfectly predict your accuracy at any speed. It will change with difficulty of the passage and practice with that passage. Use your best guess.
+
+Progression milestones are 4 passages out of 5. Do not let the occassional difficult passage hold you back.
+
+Your accuracy at lower speeds will increase as you increase your barely-readable speed.
+
+Do not strive for perfect notes. That will slow you down. Besides, what is perfect?
 
 ## Four Column Method for Copying
 
@@ -579,21 +581,28 @@ Alternate days of short/fast and long/slow dictations until your long speed reac
 
 # Building Endurance
 
+## Good Textbook
+
+If your textbook has material keyed to each chapter, trust it. Both Cricket's and Swem's methods for dictation practice automatically give you more reps and higher speed for easy (short) passages. If you notice in advance that a passage is short, consider raising your key speeds to save repetitions.
+
+## Other Textbooks
+
 Leslie and Blanchard agree that speed will decrease as length increases, but not by how much. They disagree about when to start longer dictations and how to make the shift.
 
 My best attempt to reconcile them is:
 
 Do not work on duration until you are using the modified Swem's method and your starting speed for 1 minute is 80wpm.
 
+Begin building duration by using Blanchard's Pyramid (below). Only use it until you are confident you can build a 5-minute passage up to 60wpm.
+
 Alternate days of short and long dictations until your starting speed for 5 minutes is 80wpm and you are using the Swem's course with no modifications. Then reduce short dictations, but do not abandon them altogether.
 
-Begin building duration by using Blanchard's Pyramid (below). Only use it until you are confident you can build a 5-minute passage up to 60wpm.
 
 After that, use the modified Swem's method.
 
 If your long-dictation speed lags more than 20wpm below your short-dictation speed, use the pyramid again to prove that you can do the higher speed, then return to Swem's method.
 
-Occassionally experiment with even longer dictations, so you do not run out of concentration at the end of 5 minutes.
+Occassionally experiment with even longer dictations, to build more endurance.
 
 ## Professional Advice for Endurance
 
