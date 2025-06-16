@@ -713,6 +713,13 @@ Most of this advice comes from books I read over the years without noting the so
 
 I did, however, remember to note a few. They are are available on [stenophile.com](www.stenophile.com), and also at the links given (most of which are on Stenophile's DropBox account). 
 
+## Shorthand Groups
+
+Often a study buddy, penpal, or mentor a few levels above you can make a big difference. Many groups have a quote of the day or week, where you can see and discuss how different writers handle the same passage. Comparing methods and abbreviations from other systems, in moderation, can help you understand yours better.
+
+* Discord, International Shorthand Society
+* reddit.com/r/shorthand
+
 ## How to Teach Shorthand
 
 * [Methods of Teaching Gregg Shorthand, Lois A Leslie, 1953.](https://books.google.ca/books/about/Methods_of_Teaching_Gregg_Shorthand.html?id=VhcXAAAAIAAJ&redir_esc=y)
@@ -736,7 +743,6 @@ I did, however, remember to note a few. They are are available on [stenophile.co
 
 * gutenberg.org
 * standardebooks.org
-
 
 
 cricket
