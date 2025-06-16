@@ -1,5 +1,10 @@
 # Cricket’s Shorthand Tips
 
+
+# Deprecated. Use Cricket's Shorthand Course
+https://cricketbr.github.io/Crickets-Shorthand-Site/
+
+
 Rev 2025-06-08
 
 Canonical copy and license at 
