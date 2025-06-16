@@ -149,6 +149,12 @@ Your accuracy at lower speeds will increase as you increase your barely-readable
 
 Do not strive for perfect notes. That will slow you down. Besides, what is perfect?
 
+## Graph Paper
+
+Graph paper can help you practice correct sizing, especially for horizontal lines. It can also backfire and make you try to be too perfect.
+
+Consider using it for copying at first a precision drills when needed, but not as a regular practice.
+
 ## Four Column Method for Copying
 
 This method works well while you are at the copying stage, and later for penmanship practice, or if you cannot take dictation. It also helps you build hand speed separate from brain speed.
@@ -372,6 +378,10 @@ Dedicate 1 sessions in 4 to experiments. Do a few passages for each experiment, 
 - Follow Swem's advice and start with a fast dictation, so fast you cannot quite keep up, followed by a practically perfect one. As you get better, you will find this approach works better. Switch when appropriate, or use a mix.
 
 # Additional Advice
+
+## Don't Rush, but Don't Stall
+
+It might take a chapter or two for an earlier chapter to sink in, but if that doesn't work do not hesitate to review older chapters.
 
 ## Difficult Words
 
@@ -703,17 +713,34 @@ Most of this advice comes from books I read over the years without noting the so
 
 I did, however, remember to note a few. They are are available on [stenophile.com](www.stenophile.com), and also at the links given (most of which are on Stenophile's DropBox account). 
 
+## How to Teach Shorthand
+
 * [Methods of Teaching Gregg Shorthand, Lois A Leslie, 1953.](https://books.google.ca/books/about/Methods_of_Teaching_Gregg_Shorthand.html?id=VhcXAAAAIAAJ&redir_esc=y)
-* [Swem’s Systematic Course for Advanced Writers](swem-systematic-speed-course.md) This course is for writers between 80 and 150wpm. Swem worked for Gregg.
 * [Expert Shorthand Speed Course, Rupert P. SoRelle](https://www.dropbox.com/scl/fi/oclct2mpsj74hnx4kvlxo/Expert-Shorthand-Speed-Course-1913.pdf?rlkey=k3abd2yk6mwd1zill37jsj7lo&e=1&dl=0) This book describes the program used by the Gregg company to produce championship writers.
 * [Factors of Shorthand Speed, Blanchard](https://www.dropbox.com/scl/fi/3j9t1ma2mktanugcgy39d/20-Shortcuts-To-Shorthand-Speed.pdf?rlkey=jp0nl321aqouvavhogwv8jtmx&e=1&dl=0)
 * (Building Speed by the Pyramid Plan, Blanchard)[https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view?usp=sharing] Appendix to unknown book.
 * (Building Speed by the Pyramid Plan, Blanchard)[https://archive.org/details/sim_business-education-world_1940-12_21_4/page/346/mode/2up?q=pyramid] Original article referenced in apendix to unknown book.
+
+## How to Learn Shorthand
+* [Swem’s Systematic Course for Advanced Writers](swem-systematic-speed-course.md) This course is for writers between 80 and 150wpm. Swem worked for Gregg.
+* (Long Live Pitman's Shorthand)[https://www.long-live-pitmans-shorthand.org.uk/] Excellent site by Beryl Pratt. All of the study advice applies to all systems.
 * (20 Shortcuts To Shorthand Speed, Blanchard)[https://www.dropbox.com/scl/fi/3j9t1ma2mktanugcgy39d/20-Shortcuts-To-Shorthand-Speed.pdf?rlkey=jp0nl321aqouvavhogwv8jtmx&e=1&dl=0]
+
+## Dictation Recordings
+
+*[ Beryl Pratt on YouTube](https://www.youtube.com/@berylpratt). Berryl teaches Pitman, but the recordings can be used for any system. Beryl is an excellent teacher.
+* Let's Love Teeline Together.
+
+
+## Text for Computer Reading
+
+* gutenberg.org
+* standardebooks.org
+
+
 
 cricket
 
 # Revision History
 
-2025-06-09
-* Much reorganizing.
+Still very fluid and hard to track.
