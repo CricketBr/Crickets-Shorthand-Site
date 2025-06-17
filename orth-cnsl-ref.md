@@ -79,7 +79,8 @@ Rendered into Markdown and annotated by Jeremy W Sherman.
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
 W Stevens, 1896\
-<https://orthic.shorthand.fun/teaching-pt1> , <https://orthic.shorthand.fun/teaching-pt2>
+<https://orthic.shorthand.fun/teaching-pt1> , <https://orthic.shorthand.fun/teaching-pt2>\
+Teaching Part One is Fully Written, through Ordinary and Abreviated. Part Two is Reporting.
 
 **Revised, Extended and Improved**\
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; Revised, Extended and Improved\
