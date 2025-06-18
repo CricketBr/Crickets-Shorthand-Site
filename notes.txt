@@ -1,1 +1,4 @@
 use site pdf to go , to extract original scans from pdf
+
+
+add Teaching of Shorthand, gregg, to course
