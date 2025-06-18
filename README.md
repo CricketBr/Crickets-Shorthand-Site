@@ -22,6 +22,14 @@ This book combines all the rules from all the earlier books, except some that ar
 
 Hopefully it creates more clarity than confusion.
 
+**Orthic Consolidated Vocabulary**
+
+A master list of all the vocabulary and where to find the shorthand.
+
+**Orthic Consolidated Reverse Rules**
+
+Rules sorted by Orthic spelling.
+
 **The Hobbit Learns Orthic -- Not started**
 
 A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written to Supplement/Correspondence Style. The order of presentation will be "as needed." In theory that will cover most of the useful rules at a reasonable pace.

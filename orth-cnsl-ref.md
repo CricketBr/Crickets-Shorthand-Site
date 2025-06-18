@@ -2,14 +2,26 @@
 
 ## Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
 
-
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
-xxx copyright, license
-xxx canonical copy, revs
-xxx
+Revised 2025-06-18.
+
+Canonical copy of this document is at\
+https://cricketbr.github.io/Crickets-Shorthand-Site/
+
+
+This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, https://creativecommons.org/licenses/by-sa/4.0/
+
+Based on works listed below under Sources.
+
+
 
 # remember they have already read the Manual !!!
+
+
+* Table of Contents
+{:toc}
+
 
 # Introduction to Orthic Consolidated 
 
@@ -19,9 +31,7 @@ In keeping with tradition, I'll begin with deficiencies of previous books:
 * The rules are spread out over too many publications.
 * The rules in the different books are sometimes inconsistent.
 
-Callendar wrote the Manual in 1891, then, instead of updating it, he published the Supplement in 1982. This booklet moved some rules from advanced to intermediate, and even changed a few. Stevens wrote The Teaching of Orthic Shorthand in 1896, and, again, instead of writing a complete book, he told the readers to refer to the previous two publications. He also moved rules between levels, added some, and, I suspect, changed a few. Finally, in 1911, Clarey wrote Orthic Shorthand: Revised, Extended and Improved. That book brought together all the rules, changed a few, and removed the distinct levels.
-
-
+Callendar wrote the Manual in 1891, then, instead of updating it, he published the Supplement in 1982. This booklet moved some rules from advanced to intermediate, and even changed a few. Stevens wrote The Teaching of Orthic Shorthand in 1896, and, again, instead of writing a complete book, he told the readers to refer to the previous two publications. He also moved rules between levels, added some, and, I suspect, changed a few. Finally, in 1911, Clarey wrote Orthic Shorthand: Revised, Extended and Improved. That book brought together all the rules, changed a few, and added many rules for prefixes and terminations.
 
 This book addresses the first deficiency, hopefully without creating too much more confusion. It does so by consolidating all the rules from all the earlier books, except some that are only in the Reporting Style. It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.) It assumes you have read the Manual or Revised. 
 
@@ -62,7 +72,7 @@ Welcomed! Contact me in one of the ways on the first page.
 
 ### Jeremy W Sherman
 
-Creator of of <www.orthic.shorthand.fun>, who transcribed, clipped, and re-assembled the Manual and Supplement. He also programmed and made the database for the online dictionary, including diving into several large blocks of shorthand. He also helped with Consolidated by finding examples of rules burried in the shorthand samples.
+Creator of of <www.orthic.shorthand.fun>, who found, transcribed, clipped, and re-assembled the Manual and Supplement. He also programmed and made the database for the online dictionary, including diving into several large blocks of shorthand. He also helped with Consolidated by finding examples of rules burried in the shorthand samples.
 
 ### Jacob Moena
 
