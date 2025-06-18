@@ -910,7 +910,7 @@ I think the 2nd one is HR, also used for THR. (Cricket)
 Teaching 1: pra
 
 ![alt text](assets/revised-split/rc-r04.jpg)\
-REvised: rd, force, tierce, mercy, farcical
+revised: rd, force, tierce, mercy, farcical
 
 Manual: proof (alphabet), present (P) -- to show PR.
 
@@ -933,6 +933,15 @@ PR, SR, FR, KR: It is usual to write a vowel following R attached to an upright 
 
 A mess. (Cricket)
 
+| | Callendar | Stevens | Clarey |
+|--- |--- |--- |--- |
+| Small loop, exit off the top. | SH | SH | SCR |
+| Small loop, exit off the bottom. | SR | SHR | SR |
+| Large loop, exit off the top.  | | | SH |
+| Small loop, even smaller loop in the top | SHR | | |
+| SC, nothing fancy | SC | | |
+| SC, R inside C | SCR | | |
+
 ![s, manual](assets/manual-bits/s-m011.png)\
 Manual: shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
 
@@ -950,14 +959,7 @@ Revised: sb, sc, sch, sh, shr, sk, sl, sm, sn, sp, sph, squ, st, sw, sy, scream,
 
 
 
-| | Callendar | Stevens | Clarey |
-|--- |--- |--- |--- |
-| Small loop, exit off the top. | SH | SH | SCR |
-| Small loop, exit off the bottom. | SR | SHR | SR |
-| Large loop, exit off the top.  | | | SH |
-| Small loop, even smaller loop in the top | SHR | | |
-| SC, nothing fancy | SC | | |
-| SC, R inside C | SCR | | |
+
 
 Note that SH coming off the top is an exception to the stated rule under R. (Cricket)
 
