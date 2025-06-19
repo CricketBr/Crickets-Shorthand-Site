@@ -1,6 +1,18 @@
 Copyright
 Find an actual statement, GNU? MIT?
 Personal use copies fine. Distribution include link to original. If I disappear for more than a year, International Shorthand Society Discord to decide 
+
+xxx move the above to home page
+
+
+I take no responsibilty for:
+- accuracy of shorthand. I'm not that good!
+- people making and sharing copies of your contributions. They're not supposed to do it, but I have no way to enforce it.
+
+
+
+
+
 Original at 
 link
 Introduction

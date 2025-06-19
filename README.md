@@ -22,11 +22,17 @@ This book combines all the rules from all the earlier books, except some that ar
 
 Hopefully it creates more clarity than confusion.
 
-**Orthic Consolidated Vocabulary**
+**Orthic Consolidated Study Lists**
+
+Lists of words by rule, created as Cricket needs them.
+
+**Orthic Consolidated Vocabulary -- Not Started**
+* Words used as examples.
+* Passages
 
 A master list of all the vocabulary and where to find the shorthand.
 
-**Orthic Consolidated Reverse Rules**
+**Orthic Consolidated Reverse Rules -- Not Started**
 
 Rules sorted by Orthic spelling.
 

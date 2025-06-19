@@ -6,15 +6,14 @@ By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society,
 
 Revised 2025-06-18.
 
-Canonical copy of this document is at\
-https://cricketbr.github.io/Crickets-Shorthand-Site/
+Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
 
 
 This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, https://creativecommons.org/licenses/by-sa/4.0/
 
 Based on works listed below under Sources.
 
-
+xxx fix this up nicely
 
 # remember they have already read the Manual !!!
 
@@ -45,8 +44,6 @@ The Supplement does not always put the longhand and shorthand for a word on the 
 
 "No examples" or lack of examples with no note, means no example in the the dictionary or any of the books. If you find examples in other material, please let me know.
 
- Where I have included a rule from the Reporting level, I have clearly marked it, unless the Supplement or Teaching moved it to an easier level. I think many words in Revised's middle level are actually Reporting level of risk, but have  followed Clarey's organization.
-
 Hopefully it creates more clarity than confusion.
 
 It is organized into the following parts: 
@@ -72,11 +69,11 @@ Welcomed! Contact me in one of the ways on the first page.
 
 ### Jeremy W Sherman
 
-Creator of of <www.orthic.shorthand.fun>, who found, transcribed, clipped, and re-assembled the Manual and Supplement. He also programmed and made the database for the online dictionary, including diving into several large blocks of shorthand. He also helped with Consolidated by finding examples of rules burried in the shorthand samples.
+Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, transcribed, clipped, and re-assembled the Manual and Supplement. He also programmed and made the database for the online dictionary, including diving into several large blocks of shorthand. He also helped with Consolidated by finding examples of rules burried in the shorthand samples.
 
 ### Jacob Moena
 
-Transcriber, clipper, and assembler of Teachings Part 1 and 2.
+Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
 ## Examples and Images
 
@@ -93,7 +90,7 @@ The image file name consists of the concept or word, book, and page number.
 - page number not shown for Supplement because it only has 3 pages of shorthand.
 
 
-## Sources
+## Sources / References
 
 **Phonetic Cursive**\
 A Manual of Phonetic Cursive Shorthand\
@@ -105,24 +102,29 @@ This is the precursor to Orthographic Cursive, and is included for historical re
 A Manual of Orthographic Shorthand: The Cambridge System,\
 Hugh L Callendar, 1891\. 
 <https://orthic.shorthand.fun/manual>\
+<https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ>\
 Rendered into Markdown and annotated by Jeremy W Sherman.
 
 **The Supplement**\
 Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
 Hugh L Callendar, 1892.\
 <https://orthic.shorthand.fun/supplement>\
+https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf\
 Rendered into Markdown and annotated by Jeremy W Sherman.
 
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
 W Stevens, 1896\
 <https://orthic.shorthand.fun/teaching-pt1> , <https://orthic.shorthand.fun/teaching-pt2>\
+<https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf>\
+<https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf>\
 Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
 
 **Revised, Extended and Improved**\
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; Revised, Extended and Improved\
 Hugh L Callendar ; E Clarey, 1911\
 <https://orthic.shorthand.fun/> under Resources\
+<https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf>\
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
 
 **Dictionary**\
@@ -144,7 +146,9 @@ The order is:
 
 The books all agree what is in Fully Written, but don't agree on the rest. In general, newer books move rules down, as they are proven safe, useful, and easy to learn.
 
-My intent was to show clearly when a rule applies to a style other than Fully Written. Then I forgot to keep notes. I tried to get them all, but no promises.
+My intent was to show clearly when a rule applies to a style other than Fully Written. Then I forgot to keep notes.
+
+Where I have included a rule from the Reporting level, I have clearly marked it, unless the Supplement or Teaching moved it to an easier level. I think many words in Revised's middle level are actually Reporting level of risk, but have followed Clarey's organization.
 
 ## Discrepancies
 
@@ -178,10 +182,10 @@ Letters in brackets are compound letters or slurs.
 Where there is more than one way to write a letter or compound, I added numbers. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : (ing1) = straight, (ing2) = curved, chosen because 1 is straight and 2 is curved. (Cricket)
 
 # The Alphabet
-![alphabet, manual](assets/manual-bits/1alphabet-m003.png)
+![alphabet, manual](assets/manual-bits/1alphabet-m003.png)\
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
-![alt text](assets/revised-split/1alphabet-r02.jpg)
+![alt text](assets/revised-split/1alphabet-r02.jpg)\
 Revised: absent, opera, back, bib, centre, mimic, dirty, wind, enter, line, fasten, calf, gentle, cog, help, oh, insert, ani, jest, reject, kept, kick, lender, until, melt, stem, nine, hasten, often, canto, point, step, query, equity, render, fir, simply, tends, time, comet, under, gnu, vine, wave, wow, award, exist, sex, yes, haply, zebra, waltz
 
 # General Rules for Fully Written Style
@@ -190,30 +194,28 @@ Revised: absent, opera, back, bib, centre, mimic, dirty, wind, enter, line, fast
 ### Two Sizes of Letters
 Most books say use 1:3, but then use less in the Two Sizes image, and somewhere between 1:2 and 1:3 in actual writing. It's rarely a problem except for debates between students.
 
-![two sizes, manual](assets/manual-bits/1two-sizes-m005.png)
+![two sizes, manual](assets/manual-bits/1two-sizes-m005.png)\
 Manual: alphabet, letters grouped by size, st, ste, en, ens, inst, nt, er, ers, abs, against, epitaph
 
-![alt text](assets/teach-1-bits/1twosizes-t102.jpg)
+![alt text](assets/teach-1-bits/1twosizes-t102.jpg)\
 Teaching 1: Alphabet, CH, ing1, ing2
 
 ![alt text](assets/teach-1-bits/1groups-t102.jpg)\
 Teaching 1: Letters grouped in another way.
 
 
-"The actual **size** of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle may be reduced to a dot. But it is best to make the small characters about one-twelfth of an inch \[2.1mm\] long, and the large ones twice as big." (Revised, p3, General Rules)
+"The actual *size* of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle may be reduced to a dot. But it is best to make the small characters about one-twelfth of an inch \[2.1mm\] long, and the large ones twice as big." (Revised, p3, General Rules)
 
 ### Position on the Line, aka Mode
 The rules for this are a mess.
 
 Just do what looks right to you. If you read something that doesn't make sense, remember some writers will write higher or lower than you do.
 
-Position 
-
 **Details:** 
 
 In the Manual, Callendar claims the first letter sits on the line, then on the same page (Two Sizes of Character) starts *epitaph* above the line, with P sitting on the line. In St John II, *it* and *in* start on the line and go upwards. T is a downstroke, so the rule isn't first downstroke. 
 
-In Teaching 1, Stevens says nothing, but on the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. In Teaching 2 he has more fun, with using starting position to indicate an entire omitted word.
+In Teaching 1, Stevens says nothing, but on the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. In Teaching 2 he has more fun and uses starting position to indicate an entire omitted word.
 
 In Revised, Clarey says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceeding downstrokes." (Revised, General Rules, p3)
 
@@ -278,7 +280,7 @@ Full stop may be indicated by a space (Revised) (Full stop is UK for period.)
 Manual: hyphen, dash
 
 ![alt text](assets/revised-split/1punct-r03.jpg)\
-Refised: hyphen, dash
+Revised: hyphen, dash
 
 
 
@@ -599,7 +601,7 @@ Teaching 1: gn, foreign, age, magnify
 Supplement: goodness
 
 ![alt text](assets/revised-split/g-r07.jpg)\
-Revised: G, gb, gd, gh, gl, gm, gn, gr, gs, gy\
+Revised: G, gb, gd, gh, gl, gm, gn, gr, gs, gy
 
 Rest of the word below the line signifies G (or termination with G). (Teaching 1)
 
@@ -621,7 +623,24 @@ H, CH, and WH are all large circles, and described here for easy comparison. All
 
 Most of the time, it is safe, and faster, to omit the H in WH. There are, however, times when you need to record the exact spelling. I prefer to start WH at the bottom, to make an enlarged W, or to start it at the right, instead of at the top.
 
-### CH
+## H, Not CH and WH
+
+![ther, manual](assets/manual-bits/ther-m016.png)\
+ther, others, ard, toward\
+
+
+![alt text](assets/revised-split/h-r07.jpg)\
+Revised: H, ch, hat, chat, hd, hg, hs, hy
+
+HR: R goes inside H.
+
+THR, THER: T can be omitted.
+
+See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
+
+See SH and TH for those joins. Sometimes H is smaller or not completed.
+
+### H: CH
 
 ![ch, manual](assets/manual-bits/ch-m006.png)
 ![ch, manual](assets/manual-bits/ch-m007.png)\
@@ -659,7 +678,7 @@ Note the different ways of writing *school* or *scholar*.
 
 
 
-### WH
+### H: WH
 
 Each writer has a slightly different way to write WH.
 
@@ -673,47 +692,6 @@ Teaching 1 (Stevens): th, who
 
 ![alt text](assets/revised-split/ch,wh-r05.jpg)\
 Revised (Clarey): wh, whose, when, chose, chin
-
-
-
-## H, Other Joins
-
-![ther, manual](assets/manual-bits/ther-m016.png)\
-ther, others, ard, toward\
-
-
-![alt text](assets/revised-split/h-r07.jpg)\
-Revised: H, ch, hat, chat, hd, hg, hs, hy
-
-HR: R goes inside H.
-
-THR, THER: T can be omitted.
-
-See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
-
-See SH and TH for those joins. Sometimes H is smaller or not completed.
-
-
-
-
-
-```
-xxx
-
-**Revised**
-
-
-
-In adding inflections to CH they may be joined either above or below. (Revised, p7, How to Write and Join the Characters)
-
-* Aches, pitch'd, filches, pilchard (Revised)
-
-WH
-
-* Whose, when, chose, chin (Revised, p5, Compound Characters)
-
-xxx ends
-```
 
 ## I
 
@@ -780,7 +758,7 @@ Revised: \
 lair, rail, male, mare, \
 link, rink, fail, fair, \
 flay, fray, whirl, walrus,\
-lb, lc, lch, lchr, ld, lf, lg, lh, lk, lm, ln, lp, lr, ls, lt, lv,ly
+lb, lc, lch, lchr, ld, lf, lg, lh, lk, lm, ln, lp, lr, ls, lt, lv, ly
 
 When standing by itself as an initial, L or R is prefixed by a short stroke showing its direction. In other cases the distinction is obvious.
 
@@ -927,7 +905,10 @@ I think the 2nd one is HR, also used for THR. (Cricket)
 Teaching 1: pra
 
 ![alt text](assets/revised-split/rc-r04.jpg)\
-revised: rd, force, tierce, mercy, farcical
+Revised: rd, force, tierce, mercy, farcical
+
+![alt text](assets/revised-split/r-r09.jpg)\
+Revised: rb, rce, rch, rd, rf, rg, barge, serge, rh, rhyme, Rhine, catarrh, rk, rl, rd, rm, rn, rp, rqu, rs, rt, rv, ry, rz
 
 Manual: proof (alphabet), present (P) -- to show PR.
 
@@ -953,15 +934,16 @@ A mess. (Cricket)
 | | Callendar | Stevens | Clarey |
 |--- |--- |--- |--- |
 | Small loop, exit off the top. | SH | SH | SCR |
+| Large loop, exit off the top.  | x | x | SH |
 | Small loop, exit off the bottom. | SR | SHR | SR |
-| Large loop, exit off the top.  | | | SH |
-| Small loop, even smaller loop in the top | SHR | | |
-| SC, nothing fancy | SC | | |
-| SC, R inside C | SCR | | |
+| Small loop, even smaller loop in the top | SHR | x | SHR |
+| SC, nothing fancy | SC | x | SC |
+| SC, R inside C | SCR | SCR | |
 
 Callendar: Manual and Supplement\
 Stevens: Teaching, Psalms, Aesop's Fables\
-Clarey: Revised
+Clarey: Revised\
+x: No examples found.
 
 ![s, manual](assets/manual-bits/s-m011.png)\
 Manual: shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
@@ -978,10 +960,6 @@ Revised: sh, shop, shrink, push, wash
 ![alt text](assets/revised-split/s-r09.jpg)\
 Revised: sb, sc, sch, sh, shr, sk, sl, sm, sn, sp, sph, squ, st, sw, sy, scream, misread
 
-
-
-
-
 Note that SH coming off the top is an exception to the stated rule under R. (Cricket)
 
 xxx need a mnemonic for this! Shoot off the top?
@@ -990,16 +968,11 @@ Stevens doesn't show SR. He usually follows Callendar, so maybe it's ok for SR a
 
 Some examples are from the dictionary, not the rule definitions.
 
-I recommend following Callendar. His set is the most complete. (Cricket)
-
-
 Note: This is an exception to "comes off the top" described under R. (Cricket)
 
 SHR: Very tiny R inside the small H. (It doesn't have to be a circle, just enough to look like you tried. Cricket).
 
-
-
-
+I'm not sure whether to recommend following Callendar or Stevens. Callendar's is complete. Stevens wrote a lot more material, but there are only a few examples (except maybe in the Bible passages) so his way won't be reinforced. (Cricket)
 
 ### Other S Joins
 
@@ -1705,7 +1678,7 @@ Revised: lithograph, paragraph, geography
 
 Supplement. No examples.
 
-### -GUE ```g```
+### -GUE (One Syllable) ```g```
 
 ![alt text](assets/revised-split/gue-r20.jpg)\
 Revised: league, prologue, rogue, tongue
@@ -2372,7 +2345,7 @@ solicitor, some, sometimes, source, special, spirit, state, strong, strength, su
 
 ## Teaching Part 1
 
-Teaching 1 includes useful comments in the list. See [Jacob Moena's transcript of Teaching 1.](https://orthic.shorthand.fun/teaching-pt1)\
+Teaching 1 includes useful comments in the list. See [Jacob Moena's transcript of Teaching 1.](https://orthic.shorthand.fun/teaching-pt1)
 
 ### Common Words
 
