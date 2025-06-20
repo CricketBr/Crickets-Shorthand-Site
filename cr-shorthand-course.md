@@ -1,6 +1,6 @@
 # Cricket’s Shorthand Course
 
-Rev 2025-06-16
+Rev 2025-06-20
 
 Canonical copy and licence at 
 [https://cricketbr.github.io/Crickets-Shorthand-Site](https://cricketbr.github.io/Crickets-Shorthand-Site)
@@ -273,7 +273,7 @@ That's a far distant goal. Start where you are — with hand and brain that need
 
 Start dictation when your hand is somewhat comfortable with your system's shapes and you can copy with 95% accuracy. Dictation will push rules from your brain to your hand faster than copying.
 
-Graduate to Swem's Course, modified as described later, when your final speed reaches 60-80wpm, and unmodified when you reach 80-100wpm for 5 minutes. Experiment. You may be ready earlier.
+Graduate to Swem's Course, modified as described later, when your final speed reaches 60-80wpm, and unmodified when you reach 80-100wpm for 5 minutes. Experiment. Swem's method starts with a dictation at your target speed, which might be a waste of time if you don't know the core theory. Experiment and see.
 
 **Read, correct, and practice problem areas after each writing.**
 
