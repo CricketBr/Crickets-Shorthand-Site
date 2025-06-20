@@ -61,9 +61,15 @@ It is organized into the following parts:
 
 xxx means a section needs to be fixed
 
+## A Note About Reporting
+
+I merged (some of) Reporting in with the rest in order to make a single comprehensive document. Skip all sections marked as Reporting until you have mastered the rest. Trust me. If you try to learn it all at once you will be overwhelmed both with volume and with contradicting rules. Some of Clarey's Reporting rules conflict with Steven's Intermediate rules, and vice versa. Even if you stick to Steven's rules, you will often have to use multiple rules to decipher a single phrase.
+
+A smaller rule set, with building blocks that you use without hesitation, is faster than a larger one with rules you have to think about.
+
 ## Comments and Corrections
 
-Welcomed! Contact me in one of the ways on the first page.
+Contact me in one of the ways on the first page.
 
 ##  Acknowledgements
 
@@ -75,7 +81,7 @@ Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, tran
 
 Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
-## Examples and Images
+## Examples and Images, File Names
 
 Help would be welcomed.
 
@@ -88,6 +94,8 @@ The image file name consists of the concept or word, book, and page number.
 - "cat-t105.jpg" means the word cat, Teaching 1, page 5.
 - File name starting with W means concept, not letter or word
 - page number not shown for Supplement because it only has 3 pages of shorthand.
+
+For Reporting level, the book name and page number is first. The rest might be the concept, or might just be words from the line if more than one concept is illustrated.
 
 
 ## Sources / References
@@ -514,9 +522,12 @@ Revised: black, sensible, bleak, trebly
 ![alt text](assets/revised-split/b-r07.jpg)\
 Revised: bd, bf, bg, bh, abhor, bj, bk, bl, bl, bl, bm, bn, bp, bq, br, brain, bs, bt, bv, by, bz
 
+
+
 BE-: See Abbreviating Principles.
 
 BL can be shown by reversing the direction of the B loop, and optionally writing the L inside the B. (Revised, pg 4, Compound Characters)
+
 
 
 
@@ -1095,6 +1106,7 @@ Revised: w, wd, wh, wk, wl, wn, wr, th, ws, saws, news, wy, snowy, sinewy, dewy
 ![alt text](assets/revised-split/would,world-r19.jpg)\
 Revised: hood, would, world, might, ment
 
+
 W goes upwards. C and F go downwards.
 
 Use left-W at the beginning of a word, except before R. It can start at the 3:00 position, to form 3/4 of a circle, for ease of writing. Again, there is an exception: WR goes ccw. (Cricket)
@@ -1276,7 +1288,7 @@ Drop them all, unless absoultely necessary. Be brave! (Cricket)
 
 
 
-## Abbreviating Principles (Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
+# Abbreviating Principles (Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
 
 Prefixes, suffixes, and common letter groups. Description is under the strongest sounding letter.
 
@@ -1368,7 +1380,7 @@ Revised: elementary, contrary, conservatory
 
 ### -ASY, -ASSY -- See -ACY.
 
-### -ATE See -ADE.
+### -ATE See -ADE
 
 ### -ATION ```.n```
 
@@ -1483,6 +1495,9 @@ Revised: ge, edge, lodge, budge
 Teaching 1: DD
 
 Slurred to a double-wide D. (Teaching 1)
+
+
+
 
 ### DISCOM- -- See COM-
 
@@ -1701,6 +1716,8 @@ Bachelorhood : No need for tiny R, just make a bigger H! (Cricket)
 
 ### HYPER- -- See PER.
 
+
+
 ### -IGHT ```_t```
 
 ![ight, manual](assets/manual-bits/ight-m016.png)\
@@ -1905,8 +1922,6 @@ This termination should be written ‑ess detached, by the general rule, and not
 ![alt text](assets/revised-split/ode,ote-r21.jpg)\
 Revised: explode, strode, promote, wrote.
 
-See -EDE for note.
-
 
 ### -OLOGY ```ogy```
 Supplement, Notes on Reporting.
@@ -2037,6 +2052,8 @@ But...the only example in the Supplement is not detatched.
 
 Revised, looks like it's connected, and separated in the first example for ease of writing, not to detatch it for the termination.
 
+
+
 ### -STRUCT ```str```
 ![alt text](assets/revised-split/struct-r20.jpg)\
 Revised: instruct, obstructing, destructive
@@ -2049,6 +2066,8 @@ T may generally be slurred in-the terminations ty (20) and th, thus duy = duty, 
 
 T may be slurred (omitted) in such words as duty, bounty, etc. (Teaching 1)\
 Supplement said it better. (Cricket)
+
+
 
 
 ### TCH ```ch```
@@ -2088,6 +2107,9 @@ Other egs: *with, other*.
 
 The only case of a word written above the line and not presupposing initial Th is the word “and” signified by a, written above the line. (Teaching 1)\ 
 ...What about words starting Be? (Cricket)
+
+
+
 
 
 ### -THER ```(ther)```
@@ -2172,7 +2194,6 @@ Revised: likewise, otherwise, unwise
 Why not keep the W? (Cricket)
 
 
-
 ### X- -- See EX- and X (Joining Consonants)
 
 
@@ -2203,10 +2224,10 @@ Manual: able to do; as it is; I am not; I have had; I shall be very; to be; ough
 ![alt text](assets/teach-1-bits/1phrases-t116.jpg)\
 Teaching 1: I should have been; with a view to; able to do so; as soon as
 
+
 ## Phrases in Revised
 ![alt text](assets/revised-split/com-phrases-r16.jpg)\
 Revised: in combination, I conceive
-
 
 ![alt text](assets/revised-split/cam-phrases-r16.jpg)\
 Revised: camphor, candid, the campaign, to cancel
@@ -2412,3 +2433,7 @@ Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obe
 - how to write *today*
 
 - We definitely need a reverse dictionary for the abbreviations and abbreviating principles!! It can refer to this doc for details.
+
+- manually do the links in each heading, I think, so V in joins and V in abbreviating aren't just V1 and V2.
+
+- code should be a serif font (i,l,I,O,0), preferably monospaced to make it stand out

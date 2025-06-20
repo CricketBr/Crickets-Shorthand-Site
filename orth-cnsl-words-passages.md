@@ -34,7 +34,7 @@ expected to be writing 60 WPM and reading fluently.
 
 # Manual, Callendar
 
-All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman.
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Note Jeremy added 
 
 ## Specimen of Fully Written Style, Callendar
 
@@ -136,7 +136,7 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 
 ## Hints for Reporting Style (Callendar)
 
-See <https://orthic.shorthand.fun/manual#key-to-hints>, transcribed by Jeremy W Sherman.
+See <https://orthic.shorthand.fun/manual#hints-for-the-reporting-style>, transcribed by Jeremy W Sherman, for marked-up image and key.
 
 The reporting style differs from the ordinary style only in the more extensive use of (2) abbreviation and phrasing.
 

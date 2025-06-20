@@ -9,6 +9,8 @@ Or just list the letters, and subheading under each for mode, prefix, etc
 Last idea probably best.
 
 
+Need "nothing in front", eg be, they-phrases
+
 Orthic letters
 - prefix
   - no gap
@@ -27,5 +29,9 @@ Orthic letters
   - mode 3
 
 
-Each entry would be a link to the big reference page. Probably not a live link at first. So many anchors to add to each heading!
-I want to manually do the links in each heading, I think, so V in joins and V in abbreviating aren't just V1 and V2.
+Nope, too much work for links. Include example for easy lookup.
+
+start the doc with link to ref
+
+
+
