@@ -40,7 +40,7 @@ a:hover {text-decoration: underline;}
 
 #sitehead {
 
-    padding-bottom: 2em 1ch 1em 1ch;    
+    padding-bottom: 5emem 1ch 5em 1ch;    
     border-bottom : 5px solid var(--accent1);
     text-align:center;
 
@@ -71,7 +71,7 @@ h1
 h2 {
     color: var(--accent1);
     font-family: serif;
-    font-size: 250%;
+    font-size: 200%;
     font-weight: bold;
     text-align: left;
 }
