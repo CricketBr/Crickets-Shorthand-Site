@@ -3,6 +3,8 @@ layout: default
 title: CSW - Homepage
 ---
 
+# Welcome to Cricket's Shorthand Website
+
 Finally! All in one place, with URLs that make sense.
 
 Still a work in progress. Plans will probably change.
