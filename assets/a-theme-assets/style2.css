@@ -4,7 +4,7 @@
 
 
 :root {
-    --kortrightblue: hsl(207.8,82.7%,36.3%);
+    --kortrightblue: #1062a9;
     --accent1: hsl(208, 75%, 40%);
 
 
@@ -29,7 +29,7 @@ body {
     max-width: 900px;
     max-width: 900px;
 
-    text-align: center;
+    text-align: left;
 
     border: solid 1ch var(--accent1);
 
@@ -39,7 +39,8 @@ body {
 }
 
 a {
-    color: var(--accent1)
+    color: var(--accent1);
+    font-family: serif;
 }
 
 
@@ -50,12 +51,19 @@ a {
     border-bottom : 5px solid var(--accent1);
 
     font-family: serif;
-    font-size: 500%;
+    font-size: 400%;
     text-align: center;
+    font-weight: bold;
 
     line-height:normal;
     color: var(--accent1);
 
 }
 
-
+h1 {
+    color: var(--accent1);
+    font-family: serif;
+    font-size: 400%;
+    text-align: center;
+    font-weight: bold;
+}

@@ -5,11 +5,20 @@ title: CSW - Homepage
 
 # Welcome to Cricket's Shorthand Website
 
-Finally! All in one place, with URLs that make sense.
+# Still Under Construction
+
+Finally! All in one place, with human-readable URLs.
 
 Still a work in progress. Plans will probably change.
 
-You can reach me at cricket@onebit.ca, Discord International Shorthand Society @cricket, Reddit u/CrBr, GitHub @CricketBr, or raise an issue on GitHub. Comments and corrections are more than welcome.
+You can reach me at:
+- cricket@onebit.ca
+- Discord International Shorthand Society @cricket
+- Reddit u/CrBr
+- GitHub @CricketBr
+- raise an issue on GitHub.  xxx add link
+
+Comments and corrections are more than welcome.
 
 **[Cricket's Shorthand Tips](cr-shorthand-tips.md)**
 
