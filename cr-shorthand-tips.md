@@ -3,9 +3,7 @@
 
 # Deprecated. 
 
-# Use Cricket's Shorthand Course
-
-[https://cricketbr.github.io/Crickets-Shorthand-Site/](https://cricketbr.github.io/Crickets-Shorthand-Site/)
+# [Use Cricket's Shorthand Course](cr-shorthand-course.md)
 
 
 Rev 2025-06-08
@@ -13,8 +11,7 @@ Rev 2025-06-08
 Canonical copy and license at 
 [https://cricketbr.github.io/Crickets-Shorthand-Site](https://cricketbr.github.io/Crickets-Shorthand-Site)
 
-## Table of Contents
-{.no_toc}
+## Table of Contents{.no_toc}
 
 * toc
 {:toc}
