@@ -26,8 +26,7 @@ body {
 
     margin:auto;
     padding: 0ch 2ch; 
-    max-width: 900px;
-    max-width: 900px;
+
 
     text-align: left;
 
@@ -52,7 +51,7 @@ a {
 
     font-family: serif;
     font-size: 400%;
-    text-align: center;
+    /* text-align: center; */
     font-weight: bold;
 
     line-height:normal;
@@ -60,10 +59,12 @@ a {
 
 }
 
+#sitehead a { text-decoration: none;}
+
 h1 {
     color: var(--accent1);
     font-family: serif;
     font-size: 400%;
-    text-align: center;
+    /* text-align: center; */
     font-weight: bold;
 }
