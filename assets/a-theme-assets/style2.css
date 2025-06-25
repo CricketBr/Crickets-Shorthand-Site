@@ -52,7 +52,11 @@ a:hover {text-decoration: underline;}
 
 }
 
-#sitehead a { text-decoration: none;}
+#sitehead a { text-decoration: none;
+}
+
+#sitehead a:hover {text-decoration: underline;
+}
 
 h1 
 /* Only One Per Page! */
@@ -67,10 +71,14 @@ h1
 h2 {
     color: var(--accent1);
     font-family: serif;
-    font-size: 300%;
+    font-size: 250%;
     font-weight: bold;
     text-align: left;
 }
 
 h2 a {text-decoration: none;
+}
+
+p {
+    line-height: 1.25;
 }

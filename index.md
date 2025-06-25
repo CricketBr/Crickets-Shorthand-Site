@@ -3,8 +3,9 @@ layout: default
 title: CSW - Homepage
 ---
 
-# Welcome to Cricket's Shorthand Website\
-Still Under Construction
+# Welcome to Cricket's Shorthand Website
+
+# Still Under Construction
 
 Finally! All in one place, with human-readable URLs.
 
@@ -37,7 +38,9 @@ This book combines all the rules from all the earlier books, except some that ar
 
 Hopefully it creates more clarity than confusion.
 
-## Orthic Consolidated Study Lists
+## Orthic Consolidated Study Lists -- Not Started
+
+
 
 Lists of words by rule, created as Cricket needs them.
 
@@ -63,6 +66,7 @@ A crowd-sourced version of The Hobbit, written in whatever styles the contributo
 
 Unless otherwise stated, all my work is licenced under ...
 ``` probably creative commons share alike ```
+xxx todo
 
 You are welcome to copy and share the files. All the files include a revision date and a link to this source, so readers can check for updates.
 
