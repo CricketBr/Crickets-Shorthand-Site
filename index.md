@@ -1,3 +1,8 @@
+---
+layout: default
+title: CSW - Homepage
+---
+
 Finally! All in one place, with URLs that make sense.
 
 Still a work in progress. Plans will probably change.
