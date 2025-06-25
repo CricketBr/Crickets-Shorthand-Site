@@ -1,8 +1,17 @@
+/* kortright blue hsl(207.8,82.7%,36.3%)
+#1062a9;
+ */
+
+
+:root {
+    --accent1: hsl(207.8,82.7%,36.3%)
+}
+
 h1  {
-border : 5px solid #1062a9;
+border : 5px solid var(--accent1);
 font-family: serif;
 font-size: 500%;
-color: #00ff40;
+color: 1062a9;
 background-color: #aaaaaa ;
 
 /* color: #1062a9;*/
