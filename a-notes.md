@@ -6,3 +6,5 @@ add Teaching of Shorthand, gregg, to course
 if I do revised, maybe do paragraph by paragraph, alternate full image with text, maybe just the text of the shorthand words.
 
 [ ] move long toc to bottom, add mini-toc to top
+
+speed milestones -- who writes how fast - targets
