@@ -2,7 +2,8 @@ title: Cricket's Shorthand Website
 author: Cricket
 description: Things I often tell others about shorthand, especially Orthic.
 markdown: kramdown
-kramdown: toc_levels: 2..6
+kramdown: 
+  toc_levels: 2..6
 url: https://cricketbr.github.io/Crickets-Shorthand-Site
 baseurl: /
 
