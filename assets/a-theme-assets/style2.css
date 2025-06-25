@@ -5,8 +5,8 @@
 
 :root {
     --kortrightblue: hsl(207.8,82.7%,36.3%);
-    --accent1: hsl(207.8,82.7%,45%);
-    max-width: 900px;
+    --accent1: hsl(208, 75%, 40%);
+
 
     
     
@@ -22,12 +22,14 @@ html {
 
 }
 
-
 body {
 
     margin:auto;
     padding: 0ch 2ch; 
     max-width: 900px;
+    max-width: 900px;
+
+    text-align: center;
 
     border: solid 1ch var(--accent1);
 
@@ -42,7 +44,7 @@ a {
 
 
 
-h1  {
+#sitehead {
 
     padding-bottom: 10px;    
     border-bottom : 5px solid var(--accent1);
@@ -53,8 +55,6 @@ h1  {
 
     line-height:normal;
     color: var(--accent1);
-
-
 
 }
 
