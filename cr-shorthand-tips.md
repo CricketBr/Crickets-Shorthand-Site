@@ -5,15 +5,16 @@
 
 # Use Cricket's Shorthand Course
 
-(https://cricketbr.github.io/Crickets-Shorthand-Site/)[https://cricketbr.github.io/Crickets-Shorthand-Site/]
+[https://cricketbr.github.io/Crickets-Shorthand-Site/](https://cricketbr.github.io/Crickets-Shorthand-Site/)
 
 
 Rev 2025-06-08
 
 Canonical copy and license at 
-(https://cricketbr.github.io/Crickets-Shorthand-Site)
+[https://cricketbr.github.io/Crickets-Shorthand-Site](https://cricketbr.github.io/Crickets-Shorthand-Site)
 
 ## Table of Contents
+{.no_toc}
 
 * toc
 {:toc}

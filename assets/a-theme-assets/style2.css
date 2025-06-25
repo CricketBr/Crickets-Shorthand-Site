@@ -42,14 +42,13 @@ a:hover {text-decoration: underline;}
 
     padding-bottom: 5em 1ch 5em 1ch;    
     border-bottom : 5px solid var(--accent1);
-    box-shadow: 2em 2em ;
     text-align:center;
 
 
     font-family: serif;
     font-size: 500%;
     font-weight: bold;
-    text-shadow: 2px 2px;
+    text-shadow: 5px 5px 2px black ;
     
 
     color: var(--accent1);
