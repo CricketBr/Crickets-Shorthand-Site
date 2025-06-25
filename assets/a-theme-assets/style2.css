@@ -15,8 +15,11 @@
 
 }
 
+html {
+
+}
 h1 a:visited {
-    color: var(--accent1)
+    color: var(--accent1);
 }
 
 a:target {
@@ -29,6 +32,7 @@ font-family: serif;
 font-size: 500%;
 color: var(--accent1);
 text-align: center;
+line-height:normal
 }
 
 body {
@@ -36,5 +40,5 @@ body {
     border: solid 5px var(--accent1);
     padding: 10px;
     line-height: 1.25em;
-    text-align: center;
+    margin:auto;
 }
