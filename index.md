@@ -3,7 +3,8 @@ layout: default
 title: CSW - Homepage
 ---
 
-# Welcome to Cricket's Shorthand Website Still Under Construction
+# Welcome to Cricket's Shorthand Website\
+Still Under Construction
 
 Finally! All in one place, with human-readable URLs.
 
@@ -18,7 +19,7 @@ You can reach me at:
 
 Comments and corrections are more than welcome.
 
-[Cricket's Shorthand Tips](cr-shorthand-tips.md){.amain}
+## [Cricket's Shorthand Tips](cr-shorthand-tips.md)
 
 A collection of tips I've accumulated over the years. Replaced by Cricket's Shorthand Course.
 

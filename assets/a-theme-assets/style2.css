@@ -35,11 +35,12 @@ a {
     font-family: serif;
 }
 
+a:hover {text-decoration: underline;}
 
 
 #sitehead {
 
-    padding-bottom: 1em 1ch 0 1ch;    
+    padding-bottom: 2em 1ch 1em 1ch;    
     border-bottom : 5px solid var(--accent1);
     text-align:center;
 
@@ -68,7 +69,7 @@ h2 {
     font-family: serif;
     font-size: 300%;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
 }
 
 h2 a {text-decoration: none;
