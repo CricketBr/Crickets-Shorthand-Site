@@ -5,7 +5,8 @@
 
 :root {
     --kortrightblue: #1062a9;
-    --accent1: hsl(208, 75%, 40%);
+    /* --accent1: hsl(208, 75%, 40%); */
+    --accent1: #ff0000;
 
 
     
