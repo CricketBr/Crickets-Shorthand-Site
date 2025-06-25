@@ -40,14 +40,14 @@ a:hover {text-decoration: underline;}
 
 #sitehead {
 
-    padding-bottom: 5emem 1ch 5em 1ch;    
+    padding-bottom: 5em 1ch 5em 1ch;    
     border-bottom : 5px solid var(--accent1);
-    box-shadow: 2em, 2em;
+    box-shadow: 2em 2em ;
     text-align:center;
 
 
     font-family: serif;
-    font-size: 400%;
+    font-size: 500%;
     font-weight: bold;
     text-shadow: 2px 2px;
     
