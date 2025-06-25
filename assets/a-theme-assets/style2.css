@@ -1,12 +1,7 @@
-/* kortright blue hsl(207.8,82.7%,36.3%)
-#1062a9;
- */
-
-
 :root {
     --kortrightblue: #1062a9;
-    /* --accent1: hsl(208, 75%, 40%); */
-    --accent1: #ff0000;
+    --accent1: hsl(208, 75%, 40%);
+    /* --accent1: #ff0000; */
 
 
     
@@ -44,7 +39,7 @@ a {
 
 #sitehead {
 
-    padding-bottom: 10px;    
+    padding-bottom: 1em 1ch 0 1ch;    
     border-bottom : 5px solid var(--accent1);
     text-align:center;
 
@@ -58,9 +53,23 @@ a {
 
 #sitehead a { text-decoration: none;}
 
-h1 {
+h1 
+/* Only One Per Page! */
+{
+    color: var(--accent1);
+    font-family: serif;
+    font-size: 400%;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
     color: var(--accent1);
     font-family: serif;
     font-size: 300%;
     font-weight: bold;
+    text-align: center;
+}
+
+h2 a {text-decoration: none;
 }
