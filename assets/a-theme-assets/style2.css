@@ -4,7 +4,15 @@
 
 
 :root {
-    --accent1: hsl(207.8,82.7%,36.3%)
+    --accent1: hsl(207.8,82.7%,36.3%);
+    max-width: 900px;
+    
+    
+    box-sizing: content-box;  
+    /* not inherited; default is content-box; this line is a reminder */
+
+
+
 }
 
 h1  {
@@ -20,4 +28,5 @@ background-color: #aaaaaa ;
 body {
     font-family: sans-serif;
     background-color: #aaaaaa ;
+    border: solid 5px var(--accent1)
 }
