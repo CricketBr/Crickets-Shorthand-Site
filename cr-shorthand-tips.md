@@ -3,7 +3,9 @@
 
 # Deprecated. 
 
-# Use Cricket's Shorthand Course (https://cricketbr.github.io/Crickets-Shorthand-Site/)[https://cricketbr.github.io/Crickets-Shorthand-Site/]
+# Use Cricket's Shorthand Course
+
+(https://cricketbr.github.io/Crickets-Shorthand-Site/)[https://cricketbr.github.io/Crickets-Shorthand-Site/]
 
 
 Rev 2025-06-08
