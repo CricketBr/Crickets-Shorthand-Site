@@ -107,3 +107,13 @@ h3 {
     font-weight: bold;
     text-align: left;
 }
+
+table {
+    border: 1px solid var(--accent1)
+}
+
+th, td {
+    padding: 1ch;
+}
+
+tr:nth-child(even){background-color: var(--accent2 )}
