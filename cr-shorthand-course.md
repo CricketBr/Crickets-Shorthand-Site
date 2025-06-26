@@ -1,5 +1,6 @@
 # Cricket’s Shorthand Course
 
+xx
 Rev 2025-06-26
 
 Canonical copy, contact and licence at 

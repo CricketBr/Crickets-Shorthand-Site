@@ -1,8 +1,8 @@
 :root {
     --kortrightblue: #1062a9;
     /* --accent1: hsl(208, 75%, 40%); */
-    --accent1: #196bb3;
-    --accent2: #bedbf4;
+    --accent1: hsl(208, 75%, 40%);
+    --accent2: hsl(208, 50%, 80%);
     /* --accent1: #ff0000; */
 
 
@@ -95,7 +95,7 @@ p {
 h3 {
     color: var(--accent1);
     font-family: serif;
-    font-size: 150%;
+    font-size: 175%;
     font-weight: bold;
     text-align: left;
 }
@@ -103,7 +103,7 @@ h3 {
 h3 {
     color: var(--accent1);
     font-family: serif;
-    font-size: 125%;
+    font-size: 150%;
     font-weight: bold;
     text-align: left;
 }
