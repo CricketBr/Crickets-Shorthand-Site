@@ -1,3 +1,0 @@
-# Colour Testing
-
-#

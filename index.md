@@ -7,11 +7,9 @@ title: CSW - Homepage
 
 ## Colour Testing (Part of Construction)
 
-abc{: .color1}
+[css text](css-test.md)
 
-abc{: .color2}
-
-----
+## Still Under Construction
 
 
 Finally! All in one place and with human-readable URLs.
