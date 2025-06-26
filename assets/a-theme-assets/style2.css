@@ -51,21 +51,30 @@ a:hover {
 
 
 header {
+    padding: 1ch;
 
-    padding: 1ch 1ch 2ch 1ch;
-    border: 1ch solid var(--accent1);
+    border-width: 1ch 1ch 0 1ch;
+    border-style: solid;
+    border-color: var(--accent1);
     text-align: center;
     background-color: var(--accent2);
-
 
     font-family: sans-serif;
     font-size: 500%;
     font-weight: bold;
 
-
     color: var(--accent1);
 
 }
+
+article {
+    padding: 1ch;
+    border-width: 1ch 1ch 1ch 1ch;
+    border-style: solid;
+    border-color: var(--accent1);
+
+    font-family: sans-serif;
+
 
 header a, h1 a {
     text-decoration: none;
@@ -75,11 +84,6 @@ header a:hover {
     text-decoration: underline;
 }
 
-article {
-    padding: 1ch 1ch 1ch;
-    border: 1ch solid var(--accent1);
-
-    font-family: sans-serif;
 
 }
 
@@ -154,6 +158,12 @@ code {
     font-size: 1rem;
 }
 
+.serif {
+   font-family: serif;
+    font-size: 1rem; 
+}
+
 em {
     font-weight: 500;
 }
+
