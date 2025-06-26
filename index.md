@@ -5,7 +5,7 @@ title: CSW - Homepage
 
 # Still Under Construction
 
-Finally! All in one place, with human-readable URLs.
+Finally! All in one place and with human-readable URLs.
 
 Still a work in progress. Plans will probably change.
 
@@ -25,6 +25,10 @@ A collection of tips I've accumulated over the years. Replaced by Cricket's Shor
 ## [Cricket's Shorthand Course](cr-shorthand-course.md)
 
 A series of steps for learning shorthand, especially if you don't have a teacher to guide you.
+
+## Cricket's Shorthand Course Summary -- Not Started
+
+Because the first one, with all the reasons and references, is too long.
 
 ## [Orthic Consolidated Reference  -- In Progress](orth-cnsl-ref.md)
 

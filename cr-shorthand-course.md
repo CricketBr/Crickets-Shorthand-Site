@@ -12,14 +12,18 @@ Canonical copy, cotact and licence at
 * [Typical Hour](#typical-hour)
 * [Diary](#diary)
 * [How to Read Shorthand](#how-to-read-shorthand)
+  * [Column Method to Read Difficult Words](#column-method-to-read-difficult-words)
 * [How to Copy Shorthand](#how-to-copy-shorthand).
   * [Four Column Method for Copying](#four-column-method-for-copying)
 * [Personal Reference Binder](#personal-reference-binder)
+  * [Working with Word Lists -- Spaced Repetition](#working-with-word-lists--spaced-repetition)
 * [How to Take Dictation](#how-to-take-dictation)
+  * [Text Reader (aka Dictation) Programs](#text-reader-aka-dictation-programs)
 * [Additional Advice](#additional-advice)
 * [Building Endurance](#building-endurance)
 * [Swem's Systematic Speed Course](#comparison-of-crickets-course-for-beginners-to-swems-course-for-advanced-writers)
-* [Modified Swem's Course](#modified-swems-systematic-speed-course-for-intermediate-writers)
+  * [Modified Swem's Course](#modified-swems-systematic-speed-course-for-intermediate-writers)
+  * [Unmodified Swem's Course](#unmodified-swems-course)
 * [Final Words](#final-words)
 * [References](#references)
 * [Acknowledgements](#acknowledgements)
@@ -323,6 +327,15 @@ Leslie recommends that students take dictation with the shorthand image in front
 
 Be prepared for slower speeds when you increase stages. It will take a few experiments to find your new starting speed.
 
+### Text Reader (aka Dictation) Programs
+
+Most text reader programs (aka test to speech) are too fast for early dictation, or are not properly calibrated. These are pretty good:
+
+* [http://qwertysteno.com/Dictation/](http://qwertysteno.com/Dictation/)  
+It doesn’t sound as nice as a human dictator, but it’s a lot more patient.  
+* [https://www.naturalreaders.com/online/](https://www.naturalreaders.com/online/)  
+This one is reported to sound better, and may do other languages.
+
 ### Slow Dictation
   
 Choose a speed that usually allows for just under 95% accuracy. If you regularly achieve over 95% on the first dictation, increase the starting speed.
@@ -337,11 +350,21 @@ Remember to correct your work and practice difficult sections after each dictati
 
 Swem recommends beginning each passage so fast you can barely manage with great effort. I don't think that does any good until you know the theory well.
 
+If you cannot reach the target speed, try dividing the passage into two sections instead of reducing step size. Prove to yourself that your pen can move fast enough.
+
+However, sometimes a smaller step makes more sense, especially at the higher speeds. Experiment. If the larger step doesn’t work, try a smaller step, or try an even larger step.
+
+There is no benefit to repeated failure.
+
 ### Faster Dictation
 
 Increase the speed by 10wpm, make corrections, and increase speed again until you are down to 90% accuracy. This is your overshoot speed. It will force your hand to go faster for the easy parts, and show you which parts need attention even though they seemed fine at slower speeds.
 
 Do your best to keep up and get at least something down for each word. (A sentence with one inaccurate word is better than losing the rest of the sentence. A hint of a word is better than nothing.) 
+
+**Step Size**
+
+Previous generations of students succeeded with 10wpm steps through 80 or even 100wpm. I would use that size step both for increasing target speeds and repeating a passage, until you reach at least 80wpm. Larger steps are more likely to break you out of ruts and to highlight problem sections. Smaller will give you more successes and confidence.
 
 ### Final Dictation at Slower Speed
 
@@ -462,22 +485,6 @@ Speed depends on many factors. Check with your school, testing agency, or profes
 
 Typical speeds: [UK journalists needed 100wpm](https://www.holdthefrontpage.co.uk/2023/news/fewer-than-one-in-five-journalism-students-pass-100-wpm-shorthand/) needed 100wpm until 2016. [Toastmasters](https://www.toastmasters.org/magazine/magazine-issues/2021/sept/quit-talking-quickly) recommends 120-160 wpm. [Court reporters](https://www.courtreportersboard.ca.gov/applicants/information.shtml) need 200wpm.
 
-### Text Reader (aka Dictation) Programs
-
-Most text reader programs (aka test to speech) are too fast for early dictation, or are not properly calibrated. These are pretty good:
-
-* [http://qwertysteno.com/Dictation/](http://qwertysteno.com/Dictation/)  
-It doesn’t sound as nice as a human dictator, but it’s a lot more patient.  
-* [https://www.naturalreaders.com/online/](https://www.naturalreaders.com/online/)  
-This one is reported to sound better, and may do other languages.
-
-Previous generations of students succeeded with 10wpm steps through 80 or even 100wpm. I would use that size step both for increasing target speeds and repeating a passage, until you reach at least 80wpm. Larger steps are more likely to break you out of ruts and to highlight problem sections. Smaller will give you more successes and confidence.
-
-If you cannot reach the target speed, try dividing the passage into two sections instead of reducing step size. Prove to yourself that your pen can move fast enough.
-
-However, sometimes a smaller step makes more sense, especially at the higher speeds. Experiment. If the larger step doesn’t work, try a smaller step, or try an even larger step.
-
-There is no benefit to repeated failure.
 
 ### Practicing Problem Areas
 
@@ -578,7 +585,7 @@ The math gets a bit wonky if you start at a different speed. This chart assumes 
 |11 | Rest, then entire 400 word take at 80wpm. | 60wpm, 320 words |
 |12 | Check work. | Same. |
 
-The entire procedure, after the homework, should take only 30 minutes.
+The entire in-class procedure, after the homework, should take only 30 minutes.
 
 You have now written a 5-minute passage at 20wpm less than your 1-minute speed. (It was 4 minutes at the faster speed, 5 at slower.)
 
@@ -588,7 +595,7 @@ Blanchard is very clear that the pyramid plan is only to be used when the gap be
 
 ### Other Methods
 
-Take a 5-minute passage, lower your starting and practically perfect speeds by 20-40wpm each, and go for it. You'll soon learn what those speeds should be, te same way you learned when you started Swem's method for 1-minute passages.
+Take a 5-minute passage, lower your starting and practically perfect speeds by 20-40wpm each, and go for it. You'll soon learn what those speeds should be, the same way you learned when you started Swem's method for 1-minute passages. Build the speed for this length as usual.
 
 Use a 2-minute passage, lower your key speeds, and build as usual. Repeat with a 3-minute passage, then 4, then 5.
 
@@ -596,7 +603,7 @@ As above, but use the same passage each time, just adding more to the end.
 
 As above, but add to the beginning, not the end, so you finish with your strongest material.
 
-As above, but repeat the same 1-minute material multiple times without pausing.
+As above, but repeat the same 1-minute material multiple times without pausing for a total of five minutes.
 
 ### Other Advice, Sometimes Contractory
 
@@ -612,7 +619,9 @@ Blanchard, Factors of Shorthand Speed.
 
 - Only 3 dictations of previewed material, so the final is 20wpm above the initial. More will be necessary if material is not previewed.
 
-## Comparison of Cricket's Course for Beginners to Swem's Course for Advanced Writers
+## Beginning Swem's Systematic Speed Course
+
+**Comparison of Cricket's Course for Beginners to Swem's Course for Advanced Writers**
 
 <table>
 <thead><th>Cricket</th><th>Swem</th></thead>

@@ -12,7 +12,7 @@
     /* not inherited; default is content-box; this line is a reminder */
 
 
-    
+
 
 }
 
@@ -48,6 +48,7 @@ a:hover {text-decoration: underline;}
     padding-bottom: 5em 1ch 5em 1ch;    
     border : 5px solid var(--accent1);
     text-align:center;
+    background-color: var(--accent2);
 
 
     font-family: serif;
@@ -88,4 +89,20 @@ h2 a {text-decoration: none;
 
 p {
     line-height: 1.25;
+}
+
+h3 {
+    color: var(--accent1);
+    font-family: serif;
+    font-size: 150%;
+    font-weight: bold;
+    text-align: left;
+}
+
+h3 {
+    color: var(--accent1);
+    font-family: serif;
+    font-size: 125%;
+    font-weight: bold;
+    text-align: left;
 }
