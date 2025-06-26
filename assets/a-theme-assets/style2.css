@@ -1,19 +1,22 @@
 :root {
     --kortrightblue: #1062a9;
     /* --accent1: hsl(208, 75%, 40%); */
-    --accent1: hsl(208, 75%, 40%);
-    --accent2: hsl(208, 50%, 90%);
+    --accent1: #196bb3;
+    --accent2: #d9e6f2;
     /* --accent1: #ff0000; */
-
-
-    
+  
     
     box-sizing: content-box;  
     /* not inherited; default is content-box; this line is a reminder */
 
+}
 
+.color1 {
+    background-color: var(--accent1);
+}
 
-
+.color2 {
+    background-color: var(--accent2);
 }
 
 
@@ -114,6 +117,9 @@ table {
 
 th, td {
     padding: 1ch;
+    border: 1px solid var(--accent2);
+    border-collapse: collapse;
+
 }
 
 tr:nth-child(even){background-color: var(--accent2 )}

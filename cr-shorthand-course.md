@@ -22,7 +22,7 @@ Canonical copy, contact and licence at
   * [Text Reader (aka Dictation) Programs](#text-reader-aka-dictation-programs)
 * [Additional Advice](#additional-advice)
 * [Building Endurance](#building-endurance)
-* [Swem's Systematic Speed Course](#comparison-of-crickets-course-for-beginners-to-swems-course-for-advanced-writers)
+* [Swem's Systematic Speed Course](#starting-swems-systematic-speed-course)
   * [Modified Swem's Course](#modified-swems-systematic-speed-course-for-intermediate-writers)
   * [Unmodified Swem's Course](#unmodified-swems-course)
 * [Final Words](#final-words)
@@ -620,7 +620,7 @@ Blanchard, Factors of Shorthand Speed.
 
 - Only 3 dictations of previewed material, so the final is 20wpm above the initial. More will be necessary if material is not previewed.
 
-## Beginning Swem's Systematic Speed Course
+## Starting Swem's Systematic Speed Course
 
 **Comparison of Cricket's Course for Beginners to Swem's Course for Advanced Writers**
 
@@ -678,8 +678,8 @@ Blanchard, Factors of Shorthand Speed.
   <td>Finish every session (sessions are an hour) with 5 minutes penmanship practice tracing textbook with dry pen.</td>
 </tr>
 <tr>
-  <td>1 session in 4, experiment with other speeds.</td>
-  <td>For 2x30-minute sessions/week, start dictation at highest readable speed, Correct but do not write again.</td>
+  <td>1 session in 4, experiment with other speeds and methods.</td>
+  <td>For 2x30-minute sessions/week, start dictation at highest readable speed. Correct but do not write again.</td>
 </tr>
 </tbody>
 </table>
