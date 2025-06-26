@@ -180,7 +180,7 @@ Do not strive for perfect notes. That will slow you down. Besides, what is perfe
 
 As you repeat a section at the same speed, your writing will improve, then plateau, then degrade. Stop when it plateaus, ***usually within 5 repetitions***. 
 
-“Anything that is dull and uninteresting is of doubtful pedagogic value. Also, excessive repetition generally results in progressive deterioration of the outlines practiced.” — Gregg Shorthand Functional Method Teachers Handbook (1936), from [stenophile.com](www.stenophile.com) .
+“Anything that is dull and uninteresting is of doubtful pedagogic value. Also, excessive repetition generally results in progressive deterioration of the outlines practiced.” — Gregg Shorthand Functional Method Teachers Handbook (1936), from [stenophile.com](https://www.stenophile.com) .
 
 Vary the speed. Slow helps precision. Speed helps fluency and reduces hesitation. You need both. Play with the speed and see what happens. Our brains and bodies remember the first and final repeats more than the middle ones. They should be as fast as possible without losing readability.
 

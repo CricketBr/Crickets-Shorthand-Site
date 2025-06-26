@@ -28,7 +28,7 @@ body {
 
 
     text-align: left;
-    line-height: 1.25;
+    line-height: 2;
 
     border: solid 1ch var(--accent1);
 
@@ -55,7 +55,7 @@ a:hover {text-decoration: underline;}
     background-color: var(--accent2);
 
 
-    font-family: serif;
+    font-family: sans-serif;
     font-size: 500%;
     font-weight: bold;
     
@@ -74,7 +74,7 @@ h1
 /* Only One Per Page! */
 {
     color: var(--accent1);
-    font-family: serif;
+    font-family: sans-serif;
     font-size: 400%;
     font-weight: bold;
     text-align: center;
@@ -82,7 +82,7 @@ h1
 
 h2 {
     color: var(--accent1);
-    font-family: serif;
+    font-family: sans-serif;
     font-size: 200%;
     font-weight: bold;
     text-align: left;
@@ -97,7 +97,7 @@ p {
 
 h3 {
     color: var(--accent1);
-    font-family: serif;
+    font-family: sans-serif;
     font-size: 175%;
     font-weight: bold;
     text-align: left;
@@ -105,7 +105,7 @@ h3 {
 
 h3 {
     color: var(--accent1);
-    font-family: serif;
+    font-family: sans-serif;
     font-size: 150%;
     font-weight: bold;
     text-align: left;
@@ -119,8 +119,17 @@ h3 {
     text-align: left;
 }
 
+h3 {
+    color: var(--accent1);
+    font-family: sans-serif;
+    font-size: 110%;
+    font-weight: bold;
+    text-align: left;
+}
+
 table {
-    border: 1px solid var(--accent1)
+    border: 1px solid var(--accent1);
+    border-collapse: collapse;
 }
 
 th, td {
@@ -131,3 +140,13 @@ th, td {
 }
 
 tr:nth-child(even){background-color: var(--accent2 )}
+
+image {
+    max-width: 100%;
+}
+
+code {
+    font-family:monospace;
+    border: 1px solid var(--accent2);
+    font-size: 200%;
+    }

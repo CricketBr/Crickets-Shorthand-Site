@@ -4,7 +4,7 @@
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
-Revised 2025-06-18.
+Revised 2025-06-25. Still very fluid.
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
 
@@ -32,6 +32,7 @@ xxx fix this up nicely
 * [Word Lists](#word-lists)
 * [Full Table of Contents](#full-table-of-contents-no_toc)
 * [Notes to Self](#notes-to-self)
+* [Revision History](#revision-history)
 
 ## Introduction to Orthic Consolidated 
 
@@ -134,7 +135,8 @@ Rendered into Markdown and annotated by Jeremy W Sherman.
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
 W Stevens, 1896\
-<https://orthic.shorthand.fun/teaching-pt1> , <https://orthic.shorthand.fun/teaching-pt2>\
+<https://orthic.shorthand.fun/teaching-pt1>\
+<https://orthic.shorthand.fun/teaching-pt2>\
 <https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf>\
 <https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf>\
 Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
@@ -240,7 +242,7 @@ In Revised, Clarey says, "The first letter of a word generally begins or ends on
 
 It looks like Stevens is the outlier, but since they wrote the majority of the reading material, we cannot just ignore them.
 
-It all gets even more confusing when we add modes to indicate omitted letters. See General Methods of Abbreviation, below.
+It all gets even more confusing when we add modes to indicate omitted letters. See [General Methods of Abbreviation](#general-methods-of-abbreviation-including-ordinary-style).
 
 #### Doubling a Letter
 
@@ -662,7 +664,7 @@ See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
 
 See SH and TH for those joins. Sometimes H is smaller or not completed.
 
-#### H: CH
+### H: CH
 
 ![ch, manual](assets/manual-bits/ch-m006.png)
 ![ch, manual](assets/manual-bits/ch-m007.png)\
@@ -700,7 +702,7 @@ Note the different ways of writing *school* or *scholar*.
 
 
 
-#### H: WH
+### H: WH
 
 Each writer has a slightly different way to write WH.
 
@@ -949,7 +951,7 @@ PR, SR, FR, KR: It is usual to write a vowel following R attached to an upright 
 
 ### S
 
-#### SH, SHR, SR, SCR
+### SH, SHR, SR, SCR
 
 A mess. (Cricket)
 
@@ -996,7 +998,7 @@ SHR: Very tiny R inside the small H. (It doesn't have to be a circle, just enoug
 
 I'm not sure whether to recommend following Callendar or Stevens. Callendar's is complete. Stevens wrote a lot more material, but there are only a few examples (except maybe in the Bible passages) so his way won't be reinforced. (Cricket)
 
-#### Other S Joins
+### Other S Joins
 
 ![s cap, manual](assets/manual-bits/s-cap-m011.png)\
 Manual: S.E.
@@ -1212,7 +1214,7 @@ band, bond, dame, dome, gang, gong, tame, tome, wander, wonder
 
 An omission of this kind can always be corrected by writing the omitted character above.
 
-### General Method of Abbreviation
+### General Method of Abbreviation Details
 
 ![alt text](assets/manual-bits/1gen-abbr-m017.png)\
 Manual: different, difference, acknowledge, especially, circumstance, extraordinary, representative
@@ -1299,7 +1301,7 @@ Drop them all, unless absoultely necessary. Be brave! (Cricket)
 
 
 
-## Abbreviating Principles (Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
+## Abbreviating Principles<br/>(Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
 
 Prefixes, suffixes, and common letter groups. Description is under the strongest sounding letter.
 
@@ -2457,3 +2459,6 @@ Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obe
 - code should be a serif font (i,l,I,O,0), preferably monospaced to make it stand out
 
 
+## Revision History
+
+Still very fluid.
