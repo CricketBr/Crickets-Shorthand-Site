@@ -3,7 +3,7 @@ layout: default
 title: CSW - Homepage
 ---
 
-# Welcome to Cricket's Shorthand Website <br/> Still Under Construction
+# Still Under Construction
 
 Finally! All in one place, with human-readable URLs.
 

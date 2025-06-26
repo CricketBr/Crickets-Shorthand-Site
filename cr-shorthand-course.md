@@ -1,13 +1,31 @@
 # Cricket’s Shorthand Course
 
-Rev 2025-06-20
+Rev 2025-06-26
 
-Canonical copy and licence at 
-[https://cricketbr.github.io/Crickets-Shorthand-Site](https://cricketbr.github.io/Crickets-Shorthand-Site)
+Canonical copy, cotact and licence at 
+<https://cricketbr.github.io/Crickets-Shorthand-Site>
 
-## Table of Contents
-* toc
-{:toc}
+## Table of Contents (Short)
+{: .no_toc}
+
+* [Introduction](#introduction)
+* [Typical Hour](#typical-hour)
+* [Diary](#diary)
+* [How to Read Shorthand](#how-to-read-shorthand)
+* [How to Copy Shorthand](#how-to-copy-shorthand).
+  * [Four Column Method for Copying](#four-column-method-for-copying)
+* [Personal Reference Binder](#personal-reference-binder)
+* [How to Take Dictation](#how-to-take-dictation)
+* [Additional Advice](#additional-advice)
+* [Building Endurance](#building-endurance)
+* [Swem's Systematic Speed Course](#comparison-of-crickets-course-for-beginners-to-swems-course-for-advanced-writers)
+* [Modified Swem's Course](#modified-swems-systematic-speed-course-for-intermediate-writers)
+* [Final Words](#final-words)
+* [References](#references)
+* [Acknowledgements](#acknowledgements)
+* [Full Table of Contents](#full-table-of-contents)
+* [Revision History](#revision-history)
+
 
 This course will (hopefully) work with any shorthand system and any book. Options are given to accommodate different types of systems and quality of books.
 
@@ -20,7 +38,7 @@ Most modern shorthand students do not have the luxury of a teacher, or even a go
 A good book will:
 - introduce the material in an order that allows for natural language and interesting material as early as possible.
 - have plenty of well-written shorthand to read and copy at all stages.
-- say when to increase speed, and when to move to the next stage.
+- say when to increase speed and when to move to the next type of practice.
 - clearly state when enough rules have been taught that it is safe for you to write your own material.
 
 This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do.
@@ -28,11 +46,11 @@ This course will help you overcome those deficiencies in your book, and to do fo
 Experts do not agree on a method of progression. Even books published by the same company disagree!
 
 There are three main methods:
-- Increase to 40wpm. Learn all the theory at that speed, then build speed.
+- Increase to 40wpm. Learn all the theory at that speed, then build speed. This is fast enough to force some pen efficiency and force you to learn the building-blocks instead of think about them.
 - Increase speed and theory evenly across the course.
-- Learn most of the theory by reading but not writing, then increase spead and theory across the remaining part of the course. (Gregg Functional Method)
+- Learn most of the theory by reading but not writing, then increase spead and theory across the remainder of the course. (Gregg Functional Method)
 
-Options 2 and 3 are only available if the text has sufficient shorthand images in each chapter. Therefore I have focused on the first.
+Options 2 and 3 are only available if the text has sufficient shorthand images in each chapter. I have focused on the first.
 
 ## Typical Hour
 
@@ -44,11 +62,13 @@ Just like with music, shorter and more-frequent works better than longer and les
 
 Review the theory and copy words that demonstrate each rule. You will work through the book several times. You can stop this step this once you can take dictation from unseen material at 125wpm on your first attempt.
 
-The reading material in modern books usually review theory from earlier chapters in a systematic manner. Those lucky students can skip this step until they finish the book. If your book has reading material, take time from writing to read this. You will save time overall because you will know which details are important and which are not, and your brain will better know that to tell your hand to write.
+Modern books (beginner and advanced) often incorporate a systematic review in their exercises. If your book does this, then you can spend less time reading theory and more time reading and writing the exercises. Swem's course starts after you know all the theory and can write 80wpm for 5 minutes -- and he still recommends reviewing the basic manual at least 1-2 times, until you reach 125wpm.
 
-Reading instructions are in a later section.
+If your advanced book does not review the basic rules, then alternate books.
 
-**Advanced, after you finish the first book and reach 60wpm:**  All the modern 2nd year texts I've seen include a review of the basics, usually a few concepts in each chapter, and Swem advise reviewing the basic manual at least 1-2 times, until you reach 125wpm. That's unusually unanimous. If you have an advanced book that reviews the basic theory, you don't need to review the basic book. If you have an advanced book that only teaches new rules but does not review the basic theory, read that book instead of the first book 1 day in 4 and continue to review the basic theory the other days. 
+[Reading instructions](#how-to-read-shorthand) are in a later section.
+
+If your book says to just read then keep reading for the rest of the hour. (The Gregg Functional Method books do this.) If you can't resist picking up the pen, then continue with these instructions.
 
 **10 minutes reading your own writing.**
  
@@ -66,9 +86,11 @@ As said before, take time from this block if your book has reading material.
 
 **5 minutes practicing penmanship.**  
 
-End each session, no matter how short, with accurate writing. Music teachers also recommend this. Your body remembers the final minutes of a lesson strongly.
+End each session, no matter how short, with accurate but not-slow writing. Music teachers also recommend this. Your body remembers the final minutes of a lesson strongly.
 
-Swem suggests tracing shorthand in the textbook. This will force you to notice subtle details, but isn't always an option and may not give much variety. Many systems have penmanship exercises. Do some from your system, or one similar, or invent your own. Sometimes work on problems you know you have. Other times work on other aspects. Often the real problem is something we only think we've mastered.
+Swem suggests tracing shorthand in the textbook. This will force you to notice subtle details, but isn't always an option and may not give much variety. Many systems have penmanship exercises. Do some from your system, or one similar, or invent your own. Sometimes work on problems you know you have. Other times work on other aspects. Often the real problem is something we think we've mastered.
+
+Leslie recommends against tracing outlines at any stage. (Leslie and Swem both worked directly for JR Gregg.)
 
 Divide your penmanship time equally between tracing, penmanship exercises, and copying a recent exercise carefully -- but keep it fluid. You are writing, not drawing.
 
@@ -76,11 +98,13 @@ Once you know the shapes well, add speed to this, enough to make your writing sm
 
 ## Diary
 
-Keep a diary showing the date, passage description, length in words, activity (Read, Copy, Dictation), the wpm (words per minute) and accuracy of each attempt. The numbers will go up and down, but the average will gradually go up. Include room for other notes.
+Optional, but I like the information. This is for your own use. Be as specific or vague as you like.
+
+IA diary shows progress (reassuring) and the results of experiments. It will also show when you need to push through a plateau.
 
 You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy vs length, and the effect of different types of repetition. This will change rapidly at first, then settle down, then change again as you increase your target speeds.
 
-This is for your own use. Be as specific or vague as you like.
+I recommend date, passage description, length in words, activity (Read, Copy, Dictation), the wpm (words per minute) and accuracy of each attempt. The numbers will go up and down, but the average will gradually go up. Include room for other notes.
 
 Reading skill is as important as writing skill. Track it!
 
@@ -88,24 +112,26 @@ Reading skill is as important as writing skill. Track it!
 
 Finish reading the entire book before writing words not taught, unless the book says otherwise. Later rules often contradict the general rules in early chapters.
 
-Your goal at this stage is to become familiar with the rules and the building blocks in a variety of settings. (Paraphrase of Leslie) Do not memorize the fine details of the rules. You will absorb them by reading. Leslie goes so far as to say that if teachers are asked about the details and reasons, they should ask the student to wait until the end of the course for an answer. (Leslie's students had the luxury of plenty of reading material demonstrating each new rule.)
+Your goal at this stage is to become familiar with the rules and the building blocks in a variety of settings. (Paraphrase of Leslie)
 
-Make a chart of letters by shape, including preffixes and suffixes, so you can look them up quickly.
+If you have enough reading material, then do not memorize the fine details of the rules. You will absorb them by reading. Leslie goes so far as to say that if teachers are asked about the details and reasons, they should ask the student to wait until the end of the course for an answer.
 
-For each new word:
+For each new word, or old word that you forgot:
 
 * Spell it. Look at each part as you do so.
 * Say it.
 
-Use the key instead of struggling with a word. When you can read 9/10 words reasonably well, try reading the entire sentence a second time before using the key. Then spell and say as before. When you can read 19/20 words reasonably well, use the Column Method described later. Leslie recommends you keep one finger on the shorthand and the other on the key.
+This process will help lock in the shapes of each letter and combination, and the outline of the entire word. Doing this out loud involves senses in your throat, mouth and ears, which enhances learning. It also helps prevent skipping steps.
+
+Use the key instead of struggling with a word. Leslie recommends you keep one finger on the shorthand and the other on the key. When you can read 9/10 words reasonably well, try reading the entire sentence a second time before using the key. Then spell and say as before. When you can read 19/20 words reasonably well, use the [Column Method](#column-method-to-read-difficult-words).
+
+You may want to make a chart of letters by shape, including preffixes and suffixes, so you can look them up quickly.
 
 Reread each passage until you can read it without referring to the key, pointing to each word. It is ok if you inadvertently memorize it, but be sure to look at each word.
 
-As you gain experience, look for letters that often occur together, and think of them as a single letter. Eg TR and SH. Do this for all words as needed. Eventually, only do it for words you struggle with or that demonstrate a new rule.
+As you gain experience, look for letters that often occur together, and think of them as a single letter. Eg TR and SH.
 
-This process will help lock in the shapes of each letter and combination, and the outline of the entire word. Doing it out loud involves senses in your throat, mouth and ears, which enhances learning. Leslie recommends against tracing outlines at any stage. Swem recommends it for 5 minutes to finish each hour of studying. (Leslie and Swem both worked directly for JR Gregg.)
-
-### Column Method to read for Difficult Words
+### Column Method to Read Difficult Words
 
 Don't worry about deciphering difficult words at first. They will all be difficult! For now, seeing the building blocks in a variety of settings is more important than practice deciphering.
 
@@ -117,13 +143,11 @@ Make one column for each letter. The first row is the letter in shorthand. The f
 
 You will have to adapt it a bit if combinations of letters create word parts.
 
-
-
-## How to Copy
+## How to Copy Shorthand
 
 Your goal at this stage is for your hand to be comfortable with the building blocks in a variety of settings, not to build speed. That will come later. (Paraphrase of Leslie)
 
-Read the passage, if it exists, in the same way as before, then copy 4x using the 4-column method. Read, correct, and practice problem areas after each writing.
+Read the passage, if it exists, in the same way as before, then copy 4x using the Four Column Method (below). Read, correct, and practice problem areas after each writing.
 
 If you do not have a sample to copy, you will have to make your own. Be extra careful checking it.
 
@@ -131,7 +155,7 @@ Your hand will be unstable at first. (Leslie) Work only until you stop improving
 
 Begin with very short passages (only 20 words) and build up to 100.
 
-Stay at this stage until your hand is comfortable and there is not much difference in your penmanship between copies.
+Stay at this stage until your hand is comfortable and there is not much difference in your penmanship between copies. It should only take a few exercises!
 
 ### Accuracy and Perfection
 
@@ -139,7 +163,7 @@ Every teacher manual I've read agrees: Mark the transcript, not the shorthand.
 
 95% accurate means someone who is familiar with your penmanship, or yourself in 6 months, can read 95% of the words. You might add “uses the appropriate abbreviation for your chosen level,” but that is still a far cry from perfection.
 
-It is impossible to perfectly predict your accuracy at any speed. It will change with difficulty of the passage and practice with that passage. Use your best guess.
+This course says to use speeds at which you expect a stated accuracy. Use your best guess. Your accuracy will change with the difficulty and length of a passage, and your practice with it.
 
 Progression milestones are 4 passages out of 5. Do not let the occassional difficult passage hold you back.
 
@@ -147,25 +171,35 @@ Your accuracy at lower speeds will increase as you increase your barely-readable
 
 Do not strive for perfect notes. That will slow you down. Besides, what is perfect?
 
+### A Note on Repetition
+
+As you repeat a section at the same speed, your writing will improve, then plateau, then degrade. Stop when it plateaus, ***usually within 5 repetitions***. 
+
+“Anything that is dull and uninteresting is of doubtful pedagogic value. Also, excessive repetition generally results in progressive deterioration of the outlines practiced.” — Gregg Shorthand Functional Method Teachers Handbook (1936), from [stenophile.com](www.stenophile.com) .
+
+Vary the speed. Slow helps precision. Speed helps fluency and reduces hesitation. You need both. Play with the speed and see what happens. Our brains and bodies remember the first and final repeats more than the middle ones. They should be as fast as possible without losing readability.
+
+Working on difficult areas, slow and then fast, works better than repeating the entire passage. [8 Things Top Practicers Do Differently](https://bulletproofmusician.com/8-things-top-practicers-do-differently/)
+
 ### Graph Paper
 
 Graph paper can help you practice correct sizing, especially for horizontal lines. It can also backfire and make you try to be too perfect.
 
-Consider using it for copying at first a precision drills when needed, but not as a regular practice.
+Use it for precision drills when needed, but not as a regular practice.
 
 ### Four Column Method for Copying
 
-This method works well while you are at the copying stage, and later for penmanship practice, or if you cannot take dictation. It also helps you build hand speed separate from brain speed.
+This method works well while you are at the copying stage, and later for penmanship practice, and when you cannot take dictation. It also helps you build hand speed separate from brain speed.
 
-It will not, however, help you build speed. I speak from experience.
+It will not, however, help you build speed. I speak from experience. Only dictation will do that.
 
-Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. If you are creating your own material, write your first attempt in the first column. Do not go to the margin; you will need space for corrections.
+Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect. If you are creating your own material, write your first attempt in the first column and leave room for corrections.
 
-Check your work and make corrections. Choose a few words you struggled with, copy them a few times, then copy the passage again. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect.
+Check your work and make corrections. Choose a few outlines you struggled with, copy them a few times, then copy the passage again.
 
 Then copy from the first column to the second, check your work, make corrections, and practice difficult sections. Then copy from the second column to the third, and the third to the forth. Check your work, make corrections, and practice difficult sections after each copy.
 
-The 1st column needs to be accurate, since it will be the model for the others. Accurate means readable and following the rules, not perfect penmanship. Go as slow as needed to reach this level.
+The 1st column needs to be accurate, since it will be the model for the others. Accurate means readable and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
 
 Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed.
 
@@ -177,7 +211,6 @@ It will take a bit of practice to learn how fast to write each column. The speed
 
 Some people do this in rows, leaving four rows between each original copy, instead of in four columns.
 
-Leslie recommends that students take dictation with the shorthand image in front of them. Having the key in front is especially useful when they are new to dictation and trying to apply several new skills at the same time. All students – fast, slow or lazy – will reduce their reliance on the text as their confidence and speed increase.
 
 ### Find the Size Your Hand Prefers
 
@@ -187,6 +220,8 @@ To Start: Draw straight lines on paper, a full inch apart, and copy the previous
 
 Repeat this test with shorthand before and after every few writing sessions. Your hand will change when it's tired, and as it learns the shapes better. As you become more consistent you can reduce the frequency.
 
+I only learned about this test a few years ago, and tried it after decades of writing Gregg. I discovered my hand was happier, accuracy better, and speed faster when my large letters were 8mm instead of 7.
+
 Consistency is more important than exact lengths. All tall letters should be the same height.
 
 I only learned about this test a few years ago, and tried it after decades of writing Gregg. I discovered my hand was happier, accuracy better, and speed faster when my large letters were 8mm instead of 7.
@@ -195,37 +230,25 @@ Experiment with skipping lines. Even if the size doesn’t change, it sometimes 
 
 "The actual size of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle may be reduced to a dot, but it is best to make the small characters about one-twelfth of an inch long (2.1mm), and the large ones at least twice as big." — Clarey, Orthic Revised, General Rules
 
-### A Note on Repetition
-
-As you repeat a section at the same speed, your writing will improve, then plateau, then degrade. Stop when it plateaus, usually within 5 repetitions. 
-
-“Anything that is dull and uninteresting is of doubtful pedagogic value. Also, excessive repetition generally results in progressive deterioration of the outlines practiced.” — Gregg Shorthand Functional Method Teachers Handbook (1936), from [stenophile.com](www.stenophile.com) .
-
-Vary the speed. Slow helps precision. Speed helps fluency and reduces hesitation. You need both. Play with the speed and see what happens. Our brains and bodies remember the first and final repeats more than the middle ones. They should be as fast as possible without losing readability.
-
-Work on difficult areas, slow and then fast, works better than repeating the entire passage. [8 Things Top Practicers Do Differently](https://bulletproofmusician.com/8-things-top-practicers-do-differently/)
-
 ### A Note on Making Your Own Material
 
-Be very careful making your own material until you finish the book.
+Modern books usually have enough exercises that you do not have to make your own material until you know the core theory well. Luxury!
 
-Modern books for most systems have enough practice material in each chapter that you won’t need any new material until the core theory is covered. Some systems have theory in one book and practice material keyed to the text in another.
+Do not make your own material until you finish the core theory.
 
-Orthographic systems such as Orthic and Teeline quickly teach an acceptable way to write all words – just use the alphabet. You can start writing after learning the alphabet and combinations, or so they say. I recommend you wait a bit, since the next few pages usually teach simple but powerful ways to reduce writing. You do not want your hand to get stuck on the Fully Written versions.
+Forkner and Gregg both say to leave out vowels, so Can -> CN, right? Several chapters later, they say that C means can and CN means cannot. All your old notes are wrong. For the next year, every time you try to write Can your hand will write Cannot, and every time you read CN you will wonder if you wrote Cannot correctly or Can incorrectly.
 
-Older phonetic books are a challenge. Work through the core theory and available samples BEFORE writing new material. Often an outline that seems correct now does not follow later rules – to the point that you wrote the opposite of what you intended. Then be very careful to proof-read all your writing and make sure you follow all the rules. Making your own reference book will be very useful for these shorthands.
+Orthographic systems such as Orthic and Teeline quickly teach an acceptable way to write all words -- just use the alphabet. You can start writing after learning the alphabet and combinations, or so they say. I recommend you wait a bit, since the next few pages usually teach simple but powerful ways to reduce writing. You do not want your hand to get stuck on the Fully Written versions.
 
-Beware of creating your own abbreviations, or even simplifying spelling, before learning the entire system. Forkner and Gregg both say to leave out vowels, so Can -> CN, right? Several chapters later, they say that Can -> C, and CN means cannot. All your old notes are wrong. For the next year, every time you try to write Can your hand will write Cannot, and every time you read CN you will wonder if you wrote Cannot correctly or Can incorrectly.
+Older phonetic books are a challenge. Work through the core theory and available samples, then be very careful to proof-read all your writing and make sure you follow all the rules.
 
-If you aren’t sure where the core theory stops and optional theory begins, read more of the book, not to learn, but to see which sections are core theory, which are optional but useful, and which can wait. Some books separate those nicely. Some mix them together.
-
-Quickly reading the entire book will also give you advance warning of additional sizes, positions, and shapes that you might confuse with the earlier shapes if not aware. First read to see what exists, not to learn.
+If you aren’t sure where the core theory stops and optional theory begins, read more of the book, not to learn, but to see which sections are core theory, which are optional but useful, and which can wait. Some books separate those nicely. Some mix them together. Quickly reading the entire book will also give you advance warning of additional sizes, positions, and shapes that you might confuse with the earlier shapes if not aware. Read to see what exists, not to learn.
 
 Once you finish the core theory, choose a passage about 20 words long. Write it, then proof-read it carefully. Your sample needs to follow the rules, but the penmanship only has to be readable, not perfect. Re-read the core theory (or your summary of it) often, so you use all of it for your samples.
 
-Modern books have enough accurately written samples that you know the theory is correct. Luxury!
-
 ## Personal Reference Binder
+
+Optional, but I found it worthwhile.
 
 Make a small binder of reference material, and add to it as you learn. Make sections for:
 
@@ -233,11 +256,13 @@ Make a small binder of reference material, and add to it as you learn. Make sect
 * Theory, sorted by alphabet (Include cross-reference entries between normal and shorthand spelling, so you can use it for reading or writing.)  
 * Vocabulary (Only include abbreviations, words that demonstrate a new rule, and words you expect to struggle with.)
 
+Only write as much of the rule as you need for quick reference.
+
 Update this book at the end of each homework session – after your hand is comfortable with the new shapes. Sort the contents of each page in any order that makes sense to you. The order does not have to be perfect.
 
-When a page is filled, rewrite it spread over two or more pages, to make room for more. You will find that you need shorter explanations and fewer examples for familiar rules each time.
+When a page is filled, rewrite it spread over two or more pages, to make room for more.  This copying will help you remember the rules.
 
-Making the binder will help you learn the rules, and will also give you a quick way to look them up. 
+You will find that you need shorter explanations and fewer examples for familiar rules each time. I wouldn't omit rules, though, since a list can help with the column method for reading difficult words.
 
 ### A Note on Word Lists
 
@@ -261,6 +286,8 @@ The best way to learn lists is spaced repetition. Each time you successfully rem
 
 Some people use a deck of cards, one card per word, longhand on one side and shorthand on the other. Leitner Box is a famous system for managing repetition using cards. Apps such as Anki have virtual cards and keep track of which words should be repeated and how often. There might even be a shared deck for your system. I find the physical cards use too much paper and are hard to carry. It takes too long to scan and enter each word for a computer version, and your hand doesn't get practice with each repetition. (I used a program similar to Anki to study music vocabulary, which was text-only and easy to enter. I got 100% on that section of the exam.)
 
+#### Accordian Method for Word Lists
+
 For shorthand, I prefer the accordion column method. Write the longhand in one column and shorthand in the column beside it. Fold or cover the paper so you can only see the longhand. Write the shorthand in the next column, uncover the key, and note the mistakes. Adjust it so you can only see the shorthand. Write the longhand in the next column and note the mistakes. (You can save time and paper by saying the longhand but not writing it. Say it out loud and follow with your finger to avoid shortcuts.) Now repeat the process with only the words you didn’t get first try. Repeat again, until you have gotten each word correct more often than you got it wrong.
 
 Copy the words you did not get correct the first time to a page with tomorrow’s date. You will work on them again then. Copy the words you got correct the first time to another column (or page), marked with the date you want to review them. Words you always get correct the first time need to be reviewed less often.
@@ -271,13 +298,17 @@ Copy the words you did not get correct the first time to a page with tomorrow’
 
 That's a far distant goal. Start where you are — with hand and brain that need to practice a passage before speeding it up.
 
-Start dictation when your hand is somewhat comfortable with your system's shapes and you can copy with 95% accuracy. Dictation will push rules from your brain to your hand faster than copying.
+Start dictation when your hand is only somewhat comfortable with your system's shapes and you can copy with 95% accuracy. Dictation will push rules from your brain to your hand faster than copying.
 
-Graduate to Swem's Course, modified as described later, when your final speed reaches 60-80wpm, and unmodified when you reach 80-100wpm for 5 minutes. Experiment. Swem's method starts with a dictation at your target speed, which might be a waste of time if you don't know the core theory. Experiment and see.
+Graduate to Swem's Course, modified as described later, when your final speed reaches 60-80wpm, and unmodified when you reach 80-100wpm for 5 minutes. Swem's method starts with a dictation at your target speed, which might be a waste of time if you don't know the core theory. Experiment and see.
 
 **Read, correct, and practice problem areas after each writing.**
 
 The normal sequence for each exercise is:
+- Preparation Appropriate to the Stage
+- Slow Dictation
+- Faster Dictation (and Faster)
+- Final Dictation at Slower Speed
 
 ### Preparation Appropriate to the Stage
 
@@ -288,7 +319,7 @@ The stages are:
 
 Correct your work and practice difficult areas. Make copy if accuracy was below 90% — but only once. Copying the same material helps accuracy, and is better than nothing if you cannot take dictation, but does not build speed.
 
-Keep the good copy in front of you during dictation, and look at it when needed. You will gradually use it less as speed and confidence increase. (You can continue to use the column method by making the good copy in the left column and using the rest of the columns for dictation.)
+Leslie recommends that students take dictation with the shorthand image in front of them, especially when they are new to dictation and trying to apply several new skills at the same time. All students – fast, slow or lazy – will reduce their reliance on the text as their confidence and speed increase.
 
 Be prepared for slower speeds when you increase stages. It will take a few experiments to find your new starting speed.
 
@@ -296,23 +327,19 @@ Be prepared for slower speeds when you increase stages. It will take a few exper
   
 Choose a speed that usually allows for just under 95% accuracy. If you regularly achieve over 95% on the first dictation, increase the starting speed.
 
-If your first attempt is below 90% accuracy, repeat this speed once, but do not repeat any other speeds.
+20wpm for 1 minute is suitable for your first-ever dictation. Your writing will be horrible, but will improve quickly as you get used to the process. After your first hour of dictation, do not repeat any speeds but the first.
 
-20wpm for 1 minute is suitable for your very first dictation ever. Your writing will be horrible, but will improve quickly as you get used to the process.
-
-After your first hour of dictation, do not repeat any speeds but the first.
+If your first attempt is below 90% accuracy, then go down by 10wpm and try again.
 
 Most teachers do not clarify whether a 1-minute passage is 1-minute at the initial speed or the final speed. Use the average and don't worry about it. The relative difference will shrink as your speed increases.
 
 Remember to correct your work and practice difficult sections after each dictation.
 
-Swem recommends that your first dictation of each passage be so fast you can barely manage with great effort. I don't think that does any good until you know the theory well.
+Swem recommends beginning each passage so fast you can barely manage with great effort. I don't think that does any good until you know the theory well.
 
 ### Faster Dictation
 
-Increase the speed by 10wpm, make corrections, and increase speed again until you are down to 90% accuracy. This is your overshoot speed. It will force your hand to go faster for the easy parts, and show you which parts need attention, even though they seemed fine at slower speeds.
-
-Repeat your first take of a passage only if it was worse than 95% accuracy — readable, not perfect. This will only happen right after you increase starting speed. Do not repeat any other speeds, except maybe for your first hour of dictation.
+Increase the speed by 10wpm, make corrections, and increase speed again until you are down to 90% accuracy. This is your overshoot speed. It will force your hand to go faster for the easy parts, and show you which parts need attention even though they seemed fine at slower speeds.
 
 Do your best to keep up and get at least something down for each word. (A sentence with one inaccurate word is better than losing the rest of the sentence. A hint of a word is better than nothing.) 
 
@@ -330,6 +357,8 @@ Some books recommend only 3-4 takes per passage, but that includes preparation a
 
 Continue to experiment, so you notice when you are ready to increase speeds.
 
+If your book has a lot of exercises, then lower your speeds a bit so you don't spend too much time in each chapter.
+
 
 ### Challenges and Progressions
 
@@ -345,17 +374,17 @@ Stay at each stage until your first dictation is 95% accurate at the following s
 - Reduced Preparation until 50-70wpm, 1 minute. 
 - No Preparation until 60-80wpm, 1 minute.
 - Modified Swem until 80-100wpm, 1 minutes.
-- Blanchard's Pyramid a few times (See Duration vs Speed)
+- Blanchard's Pyramid a few times. [Building Endurance](#building-endurance)
 - Modified Swem until 80wpm, 5 minutes. (Alternate days of short and long dictation.)
 - Unmodified Swem.
 
-If you increase duration before reaching 100wpm for 1 minute, you will have to do your own math for the pyramid, or use a different method to increase endurance.
+If you increase duration before reaching 100wpm for 1 minute, you will have to do your own math for the endurance-building pyramid, or use a different method to increase endurance.
 
 Your starting speed and accuracy will temporaily drop after when you reduce preparation.
 
-You may want to switch to Modified Swem shortly after switching to reduced preparation. Experiment. Their method builds speed faster, but won't work if your first attempt 
+You may want to switch to Modified Swem shortly after switching to reduced preparation. Experiment. Their method builds speed faster, with fewer repetitions.
 
-Increase your duration when your speed reaches 80wpm and 95% accuracy. See later for methods.
+Increase your duration when your speed reaches 80wpm and 95% accuracy. See [Building Endurance](#building-endurance) .
 
 One session in four should be experiments instead of the normal exercises, as described later.
 
@@ -363,7 +392,7 @@ One session in four should be experiments instead of the normal exercises, as de
 
 Remember to keep a diary and experiment. These are experiments and maybe practice, not tests. Use the results to decide what to do next.
 
-Dedicate 1 sessions in 4 to experiments. Do a few passages for each experiment, to give yourself time to get used to it. You will not fit all experiments into a single session, so rotate through them, or follow your curiosity.
+Dedicate 1 sessions in 4 to experiments. You will not fit all experiments into a single session, so rotate through them or follow your curiosity.
 
 - Do the first attempt even slower — slow enough for practically perfect — then build speed as before.
 
@@ -403,7 +432,9 @@ Dictation that is slow enough to be 100% accurate helps you write accurately. It
 
 Fast dictation helps you build speed, shows you which words need practice, and helps you write easy words faster so you have more time for difficult words. Doing all your work at this speed risks penmanship degradation and loss of accuracy.
 
-Leslie recommends pushing until your accuracy drops to 80%. I think that's a bit high. Use 90% for your overshoot speed, 95% for good-enough, and 98% for practically perfect. Adjust a bit depending on the speed-building method and what works for you.
+Leslie recommends pushing until your accuracy drops to 80%. (xxx where?) I think that's a bit high. Use 90% for your overshoot speed, 95% for good-enough, and 98% for practically perfect. Adjust a bit depending on the speed-building method and what works for you.
+
+Once you graduate to Swem's method, use his advice for speeds.
 
 Work at a variety of speeds, even if you think you only need practice at one speed. We are often poor judges of what we actually need.
 
@@ -429,6 +460,8 @@ Speed depends on many factors. Check with your school, testing agency, or profes
 
 *Type of Material.* Even a court reporter will have very few brief forms for poetry.
 
+Typical speeds: [UK journalists needed 100wpm](https://www.holdthefrontpage.co.uk/2023/news/fewer-than-one-in-five-journalism-students-pass-100-wpm-shorthand/) needed 100wpm until 2016. [Toastmasters](https://www.toastmasters.org/magazine/magazine-issues/2021/sept/quit-talking-quickly) recommends 120-160 wpm. [Court reporters](https://www.courtreportersboard.ca.gov/applicants/information.shtml) need 200wpm.
+
 ### Text Reader (aka Dictation) Programs
 
 Most text reader programs (aka test to speech) are too fast for early dictation, or are not properly calibrated. These are pretty good:
@@ -448,9 +481,9 @@ There is no benefit to repeated failure.
 
 ### Practicing Problem Areas
 
-Watch your accuracy as you practice. At first it will get better, then plateau, then degrade. Stop when it plateaus. More practice after this point will do more harm than good. Usually that is five or fewer repetitions.
+Watch your accuracy as you practice. At first it will get better, then plateau, then degrade. Stop when it plateaus. More practice after this point will do more harm than good. Usually that is [five or fewer repetitions](#a-note-on-repetition).
 
-Observe where you begin to fall behind in dictation. The problem outline is probably a few words before that. The problem is in preparing to write the outline, not in the execution. Questionnaire and motion pictures studies by Klein (described later) show even expert writers do not know which outlines they write faster or slower.
+Observe where you begin to fall behind in dictation. The problem outline may be a few words before that. Questionnaire and motion pictures studies by Klein (described later) show even expert writers do not know which outlines they write faster or slower.
 
 Try including a few words on either side of the problem. This will prevent hesitation as you approach a word that worries you.
 
@@ -473,6 +506,97 @@ Push each passage as far as it will go, but do not waste time pushing it farther
 In the same vein, some are easier than others. Use these to practice going even faster.
 
 The total repetitions for easy and hard passages will be about the same. The only difference is your final speed and accuracy. (That may change when you graduate from this course and move to Swem’s.)
+
+## Building Endurance
+
+Your speed will go down for longer passages. This is normal.
+
+Swem says to begin his Systematic Speed Course at 80-100wpm for five minutes, but until now you've been doing shorter dictations.
+
+### Good Textbook
+
+If your textbook has material keyed to each chapter, trust it. Both Cricket's and Swem's methods for dictation practice will automatically adjust speed for easy or difficult passages. If you notice in advance that a passage is short, consider raising your key speeds to reach the top speed with fewer repetitions.
+
+### Other Textbooks
+
+Leslie and Blanchard agree that speed will decrease as length increases, but not by how much. They disagree about when to start longer dictations and how to make the shift.
+
+My best attempt to reconcile them is:
+
+Do not work on duration until you are using the modified Swem's method and your starting speed for 1 minute is 80wpm.
+
+Begin building duration by using Blanchard's Pyramid (below). Only use it until you are confident you can build a 5-minute passage up to 60wpm.
+
+Alternate days of short and long dictations until your starting speed for 5 minutes is 80wpm and you are using the Swem's course with no modifications. Then reduce short dictations, but do not abandon them altogether.
+
+After that, use the modified Swem's method.
+
+If your long-dictation speed lags more than 20wpm below your short-dictation speed, use the pyramid again to prove that you can do the higher speed, then return to Swem's method.
+
+Occassionally experiment with even longer dictations, to build more endurance.
+
+### Professional Advice for Endurance
+
+Leslie and Blanchard agree that speed will decrease as length increases, but not by how much.
+
+| Leslie | Blanchard |
+|--- |--- |
+|--- |30s at 100wpm |
+|2-3m at 120wpm |2m at 90wpm |
+|5m at 100wpm |5m at 80wpm |
+|10-15m at 60wpm |--- |
+
+Beyond that? Advice varies.
+
+Leslie recommends increasing speed on 1- and 2-minute dictations, which will automatically increase speed on longer dictations. He does not say how much to practice longer dictations, implying that we do not need to practice them at all. He believes lack of endurance is actually lack of speed.
+
+[Blanchard](https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view) recommends that, once you build to the longer dictations, you stay with them.  He recommends a pyramid method combining short fast takes with slower longer takes on the same material. "Mistakes in the last half are not due to lack of skill, but lack of endurance."
+
+Swem assumes you can already do 80wpm for 5 minutes, and says nothing about shorter passages.
+
+None of them discuss erratic speeds.
+
+### Blanchard's Pyramid
+
+Blanchard's example assumes students can write at 100wpm for 1 minute, proves to the students they can write for 5 minutes at 60wpm, then increases their speed to 80wpm for 5 minutese. 
+
+The math gets a bit wonky if you start at a different speed. This chart assumes you have already read Blanchard's article, [Building Speed by the Pyramid Plan](https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view) .
+
+| Step | 100wpm Start | 80wpm Start |
+|--- |--- |--- |
+|Target Speed| 80wpm | 60wpm |
+|1 | Select easy 400 word passage, 5min at final speed |320 words |
+|2 | Homework. Limited preparation. | Same. |
+|3 | Review homework. | Same.|
+|4 | Dictate at 60wpm for 5min = 300 words. | 40wpm, 200 words. |
+|5 | Check work. | Same.|
+|6 | 4 x 1/2min takes, 100wpm, 200 words | 80wpm, 160 words |
+|7 | Same in single take, 90wpm | 70wpm |
+|8 | Check work. | Same. |
+|9 | Repeat step 6 for 2nd half. | Same.|
+|10 | Repeat step 7 for 2nd half. | Same.|
+|11 | Rest, then entire 400 word take at 80wpm. | 60wpm, 320 words |
+|12 | Check work. | Same. |
+
+The entire procedure, after the homework, should take only 30 minutes.
+
+You have now written a 5-minute passage at 20wpm less than your 1-minute speed. (It was 4 minutes at the faster speed, 5 at slower.)
+
+It appears that Blanchard is ok with a high rate of errors for this passage.
+
+Blanchard is very clear that the pyramid plan is only to be used when the gap between speeds for short and long dictations is too high. Go directly to a 5-minute take the rest of the time.
+
+### Other Methods
+
+Take a 5-minute passage, lower your starting and practically perfect speeds by 20-40wpm each, and go for it. You'll soon learn what those speeds should be, te same way you learned when you started Swem's method for 1-minute passages.
+
+Use a 2-minute passage, lower your key speeds, and build as usual. Repeat with a 3-minute passage, then 4, then 5.
+
+As above, but use the same passage each time, just adding more to the end.
+
+As above, but add to the beginning, not the end, so you finish with your strongest material.
+
+As above, but repeat the same 1-minute material multiple times without pausing.
 
 ### Other Advice, Sometimes Contractory
 
@@ -587,93 +711,7 @@ Continue with 1-minute dictations until you reach 80-100wpm for 1-minute, then b
 
 Alternate days of short/fast and long/slow dictations until your long speed reaches 80wpm. At that point you are ready for Swem's course with no modifications.
 
-## Building Endurance
 
-### Good Textbook
-
-If your textbook has material keyed to each chapter, trust it. Both Cricket's and Swem's methods for dictation practice automatically give you more reps and higher speed for easy (short) passages. If you notice in advance that a passage is short, consider raising your key speeds to save repetitions.
-
-### Other Textbooks
-
-Leslie and Blanchard agree that speed will decrease as length increases, but not by how much. They disagree about when to start longer dictations and how to make the shift.
-
-My best attempt to reconcile them is:
-
-Do not work on duration until you are using the modified Swem's method and your starting speed for 1 minute is 80wpm.
-
-Begin building duration by using Blanchard's Pyramid (below). Only use it until you are confident you can build a 5-minute passage up to 60wpm.
-
-Alternate days of short and long dictations until your starting speed for 5 minutes is 80wpm and you are using the Swem's course with no modifications. Then reduce short dictations, but do not abandon them altogether.
-
-
-After that, use the modified Swem's method.
-
-If your long-dictation speed lags more than 20wpm below your short-dictation speed, use the pyramid again to prove that you can do the higher speed, then return to Swem's method.
-
-Occassionally experiment with even longer dictations, to build more endurance.
-
-### Professional Advice for Endurance
-
-Leslie and Blanchard agree that speed will decrease as length increases, but not by how much.
-
-| Leslie | Blanchard |
-|--- |--- |
-|--- |30s at 100wpm |
-|2-3m at 120wpm |2m at 90wpm |
-|5m at 100wpm |5m at 80wpm |
-|10-15m at 60wpm |--- |
-
-Beyond that? Advice varies.
-
-Leslie recommends increasing speed on 1- and 2-minute dictations, which will automatically increase speed on longer dictations. He does not say how much to practice longer dictations, implying that we do not need to practice them at all. He believes lack of endurance is actually lack of speed.
-
-[Blanchard](https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view) recommends that, once you build to the longer dictations, you stay with them.  He recommends a pyramid method combining short fast takes with slower longer takes on the same material. "Mistakes in the last half are not due to lack of skill, but lack of endurance."
-
-Swem assumes you can already do 80wpm for 5 minutes, and says nothing about shorter passages.
-
-None of them discuss erratic speeds.
-
-### Blanchard's Pyramid
-
-Blanchard's example assumes students can write at 100wpm for 1 minute, proves to the students they can write for 5 minutes at 60wpm, then increases their speed to 80wpm for 5 minutese. 
-
-The math gets a bit wonky if you start at a different speed. This chart assumes you have already read Blanchard's article, [Building Speed by the Pyramid Plan](https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view) .
-
-| Step | 100wpm Start | 80wpm Start |
-|--- |--- |--- |
-|Target Speed| 80wpm | 60wpm |
-|1 | Select easy 400 word passage, 5min at final speed |320 words |
-|2 | Homework. Limited preparation. | Same. |
-|3 | Review homework. | Same.|
-|4 | Dictate at 60wpm for 5min = 300 words. | 40wpm, 200 words. |
-|5 | Check work. | Same.|
-|6 | 4 x 1/2min takes, 100wpm, 200 words | 80wpm, 160 words |
-|7 | Same in single take, 90wpm | 70wpm |
-|8 | Check work. | Same. |
-|9 | Repeat step 6 for 2nd half. | Same.|
-|10 | Repeat step 7 for 2nd half. | Same.|
-|11 | Rest, then entire 400 word take at 80wpm. | 60wpm, 320 words |
-|12 | Check work. | Same. |
-
-The entire procedure, after the homework, should take only 30 minutes.
-
-You have now written a 5-minute passage at 20wpm less than your 1-minute speed. (It was 4 minutes at the faster speed, 5 at slower.)
-
-It appears that Blanchard is ok with a high rate of errors for this passage.
-
-Blanchard is very clear that the pyramid plan is only to be used when the gap between speeds for short and long dictations is too high. Go directly to a 5-minute take the rest of the time.
-
-### Other Methods
-
-Take a 5-minute passage, lower your starting and practically perfect speeds by 20-40wpm each, and go for it. You'll soon learn what those speeds should be, te same way you learned when you started Swem's method for 1-minute passages.
-
-Use a 2-minute passage, lower your key speeds, and build as usual. Repeat with a 3-minute passage, then 4, then 5.
-
-As above, but use the same passage each time, just adding more to the end.
-
-As above, but add to the beginning, not the end, so you finish with your strongest material.
-
-As above, but repeat the same 1-minute material multiple times without pausing.
 
 ## Unmodified Swem's Course
 
@@ -724,7 +762,7 @@ Often a study buddy, penpal, or mentor a few levels above you can make a big dif
 * [Expert Shorthand Speed Course, Rupert P. SoRelle](https://www.dropbox.com/scl/fi/oclct2mpsj74hnx4kvlxo/Expert-Shorthand-Speed-Course-1913.pdf?rlkey=k3abd2yk6mwd1zill37jsj7lo&e=1&dl=0) This book describes the program used by the Gregg company to produce championship writers.
 * [Factors of Shorthand Speed, Blanchard](https://www.dropbox.com/scl/fi/3j9t1ma2mktanugcgy39d/20-Shortcuts-To-Shorthand-Speed.pdf?rlkey=jp0nl321aqouvavhogwv8jtmx&e=1&dl=0)
 * (Building Speed by the Pyramid Plan, Blanchard)[https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view?usp=sharing] Appendix to unknown book.
-* (Building Speed by the Pyramid Plan, Blanchard)[https://archive.org/details/sim_business-education-world_1940-12_21_4/page/346/mode/2up?q=pyramid] Original article referenced in apendix to unknown book.
+* (Building Speed by the Pyramid Plan, Blanchard)[https://archive.org/details/sim_business-education-world_1940-12_21_4/page/346/mode/2up?q=pyramid] Original article referenced in appendix to unknown book.
 
 ### How to Learn Shorthand
 * [Swem’s Systematic Course for Advanced Writers](swem-systematic-speed-course.md) This course is for writers between 80 and 150wpm. Swem worked for Gregg.
@@ -746,10 +784,19 @@ Often a study buddy, penpal, or mentor a few levels above you can make a big dif
 
 Thanks to:
 Shorthand Discord V2, especially @vevrik, @stenophile, @richard for ideas and review.
-Reddit Shorthand, especially u/BerylPratt whose site has excellent advice
+Reddit Shorthand, especially u/BerylPratt whose site has excellent advice (which I have not always followed)
 
 
-cricket
+
+
+## Full Table of Contents
+{: .no_toc}
+* toc
+{:toc}
+
+
+
+
 
 ## Revision History
 

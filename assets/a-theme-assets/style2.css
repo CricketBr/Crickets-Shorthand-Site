@@ -18,7 +18,7 @@
 body {
 
     margin:auto;
-    padding: 0ch 2ch; 
+    padding: 2ch 2ch; 
     max-width: 900px;
 
 
@@ -33,7 +33,9 @@ body {
 
 a {
     color: var(--accent1);
-    font-family: serif;
+    text-decoration: underline;
+    font-weight: bold;
+
 }
 
 a:hover {text-decoration: underline;}

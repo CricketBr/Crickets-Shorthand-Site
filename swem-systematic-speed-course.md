@@ -1,6 +1,6 @@
 # Swem's Systematic Speed Course for Advanced Writers
 
-By Charles Lee Swem, Offical Reproter, Supreme Court, State of New York  
+By Charles Lee Swem, Offical Reporter, Supreme Court, State of New York  
 Appendix to Gregg Speed Building
 
 [PDF of Original Text](systematic-speed-course-for-advanced-writers-swem.pdf)
