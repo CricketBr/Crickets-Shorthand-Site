@@ -1,8 +1,8 @@
 :root {
     --kortrightblue: #1062a9;
     /* --accent1: hsl(208, 75%, 40%); */
-    --accent1: hsl(208, 75%, 40%);
-    --accent2: hsl(208, 75%, 80%);
+    --accent1: #196bb3;
+    --accent2: #bedbf4;
     /* --accent1: #ff0000; */
 
 
@@ -25,6 +25,7 @@ body {
 
 
     text-align: left;
+    line-height: 1.25;
 
     border: solid 1ch var(--accent1);
 
@@ -88,7 +89,7 @@ h2 a {text-decoration: none;
 }
 
 p {
-    line-height: 1.25;
+    /* line-height: 1.25; */
 }
 
 h3 {
