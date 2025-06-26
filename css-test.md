@@ -12,17 +12,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1 [text](index.md)
+# Header 1 [linktext](index.md)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2 [text](index.md)
+## Header 2 [linktext](index.md)
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3 [text](index.md)
+### Header 3 [linktext](index.md)
 
 ```js
 // Javascript code with syntax highlighting.
@@ -39,19 +39,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4 [text](index.md)
+#### Header 4 [linktext](index.md)
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5 [text](index.md)
+##### Header 5 [linktext](index.md)
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6 [text](index.md)
+###### Header 6 [linktext](index.md)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|

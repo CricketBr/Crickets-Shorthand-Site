@@ -1,41 +1,40 @@
 <!DOCTYPE html>
+
 <head>
-    <title>{{page.title}}</title>
+  <title>{{page.title}}</title>
 
-    <!-- or is it page.title ?? -->
+  <!-- or is it page.title ?? -->
 
-<!-- <link rel="stylesheet" type="text/css" href="style1.css"> works!! 
+  <!-- <link rel="stylesheet" type="text/css" href="style1.css"> works!! 
  -->
 
-<!-- egs from Jeremy's site
+  <!-- egs from Jeremy's site
 {% assign M = site.url | append: site.baseurl | append: "/manual" %}
 {% capture S -%}
 {{ site.baseurl }}/assets/supplement
 {%- endcapture %} 
 -->
 
-<link rel="stylesheet" type="text/css" href="assets/a-theme-assets/style2.css">
+  <link rel="stylesheet" type="text/css" href="assets/a-theme-assets/style2.css">
 
-<!-- works
+  <!-- works
 <link rel="stylesheet" type="text/css" href="assets/a-theme-assets/style2.css"> 
 -->
 
-<!-- broken
+  <!-- broken
 <link rel="stylesheet" type="text/css" href="/assets/a-theme-assets/style2.css">
 <link rel="stylesheet" type="text/css" href="/assets/a-theme-assets/style2.css">
   -->
 
 </head>
 
-
-
-
-
-<html>
 <body>
-    <div id="sitehead"><a href="{{site.url}}">Cricket's Shorthand Website</a>
-    </div>
-
+  <header>
+    <a href="{{site.url}}">Cricket's Shorthand Website</a>
+  </header>
+  <article>
     {{ content }}
+  </article>
 </body>
+
 </html>

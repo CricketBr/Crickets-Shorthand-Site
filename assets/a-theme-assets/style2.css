@@ -10,9 +10,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
     --accent1: #196bb3;
     --accent2: #d9e6f2;
     /* --accent1: #ff0000; */
-  
-    
-    box-sizing: content-box;  
+
+
+    box-sizing: content-box;
     /* not inherited; default is content-box; this line is a reminder */
 
 }
@@ -28,14 +28,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 
 body {
 
-    margin:auto;
+    margin: auto;
     max-width: 900px;
-
-
     text-align: left;
     line-height: 1.5;
-
-    border: solid 1ch var(--accent1);
 
 
     font-family: sans-serif;
@@ -49,48 +45,84 @@ a {
 
 }
 
-a:hover {text-decoration: underline;}
+a:hover {
+    text-decoration: underline;
+}
 
 
-#sitehead {
+header {
 
-    padding-bottom: 1ch 1ch 2ch 1ch;    
-    border : 5px solid var(--accent1);
-    text-align:center;
+    padding: 1ch 1ch 2ch 1ch;
+    border: 1ch solid var(--accent1);
+    text-align: center;
     background-color: var(--accent2);
 
 
     font-family: sans-serif;
     font-size: 500%;
     font-weight: bold;
-    
+
 
     color: var(--accent1);
 
 }
 
-#sitehead a { text-decoration: none;
+header a, h1 a {
+    text-decoration: none;
 }
 
-#sitehead a:hover {text-decoration: underline;
+header a:hover {
+    text-decoration: underline;
 }
 
-h1, h2, h3, h4, h5, h6 {
+article {
+    padding: 1ch 1ch 1ch;
+    border: 1ch solid var(--accent1);
+
+    font-family: sans-serif;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: var(--accent1);
     font-family: serif;
     font-weight: bold;
 }
 
 /* Only One h1 Per Page! */
-h1 { font-size: 400%; text-align: center; }
-h2 { font-size: 300%; }
-h3 { font-size: 200%; }
-h4 { font-size: 150%; }
-h5 { font-size: 125%; }
-h6 { font-size: 100%; }
+h1 {
+    font-size: 400%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 300%;
+}
+
+h3 {
+    font-size: 200%;
+}
+
+h4 {
+    font-size: 150%;
+}
+
+h5 {
+    font-size: 125%;
+}
+
+h6 {
+    font-size: 100%;
+}
 
 
-h2 a {text-decoration: none;
+h2 a {
+    text-decoration: none;
 }
 
 
@@ -100,7 +132,8 @@ table {
     margin: auto
 }
 
-th, td {
+th,
+td {
     padding: 1ch;
     border: 1px solid var(--accent2);
     border-collapse: collapse;
@@ -108,17 +141,19 @@ th, td {
 
 }
 
-tr:nth-child(even){background-color: var(--accent2 )}
+tr:nth-child(even) {
+    background-color: var(--accent2)
+}
 
 img {
     max-width: 100%;
 }
 
 code {
-    font-family:monospace;
+    font-family: monospace;
     font-size: 1rem;
 }
 
 em {
-    font-weight:500;
+    font-weight: 500;
 }
