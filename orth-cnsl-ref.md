@@ -1,6 +1,6 @@
 # Orthic Consolidated – Reference DRAFT
 
-## Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+### Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
@@ -15,14 +15,25 @@ Based on works listed below under Sources.
 
 xxx fix this up nicely
 
-# remember they have already read the Manual !!!
+## remember they have already read the Manual !!!
 
+## Table of Contents (Short){: .no_toc}
 
-* Table of Contents
-{:toc}
+* [Introduction to Orthic Consolidated](#introduction-to-orthic-consolidated)
+* [Acknowledgements](#acknowledgements)
+* [Sources / References](#sources--references)
+* [The Alphabet](#the-alphabet)
+* [General Rules for Fully Written Style](#general-rules-for-fully-written-style)
+* [Joining Vowels](#joining-vowels-sounded-individually-and-diphthongs)
+* [Joining Consonants](#joining-consonants)
+* [General Methods of Abbreviation, Including Ordinary Style](#general-methods-of-abbreviation-including-ordinary-style)
+* [Abbreviating Principles](#abbreviating-principles-abbreviations-prefixes-suffixes-slurs-blends-compound-characters-etc)
+* [Phrases](#phrases)
+* [Word Lists](#word-lists)
+* [Full Table of Contents](#full-table-of-contents-no_toc)
+* [Notes to Self](#notes-to-self)
 
-
-# Introduction to Orthic Consolidated 
+## Introduction to Orthic Consolidated 
 
 Orthic shorthand is a good first shorthand for most students. It is quick to learn at the Fully Written Level, and multiple levels can be used in a single sentence without confusion. Based on stroke counts, its speed potential is comparable to other office and personal use shorthands. The Abbreviated and Reporting levels are even faster.
 
@@ -61,27 +72,27 @@ It is organized into the following parts:
 
 xxx means a section needs to be fixed
 
-## A Note About Reporting
+### A Note About Reporting
 
 I merged (some of) Reporting in with the rest in order to make a single comprehensive document. Skip all sections marked as Reporting until you have mastered the rest. Trust me. If you try to learn it all at once you will be overwhelmed both with volume and with contradicting rules. Some of Clarey's Reporting rules conflict with Steven's Intermediate rules, and vice versa. Even if you stick to Steven's rules, you will often have to use multiple rules to decipher a single phrase.
 
 A smaller rule set, with building blocks that you use without hesitation, is faster than a larger one with rules you have to think about.
 
-## Comments and Corrections
+### Comments and Corrections
 
 Contact me in one of the ways on the first page.
 
-##  Acknowledgements
+###  Acknowledgements
 
-### Jeremy W Sherman
+#### Jeremy W Sherman
 
 Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, transcribed, clipped, and re-assembled the Manual and Supplement. He also programmed and made the database for the online dictionary, including diving into several large blocks of shorthand. He also helped with Consolidated by finding examples of rules burried in the shorthand samples.
 
-### Jacob Moena
+#### Jacob Moena
 
 Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
-## Examples and Images, File Names
+### Examples and Images, File Names
 
 Help would be welcomed.
 
@@ -98,7 +109,7 @@ The image file name consists of the concept or word, book, and page number.
 For Reporting level, the book name and page number is first. The rest might be the concept, or might just be words from the line if more than one concept is illustrated.
 
 
-## Sources / References
+### Sources / References
 
 **Phonetic Cursive**\
 A Manual of Phonetic Cursive Shorthand\
@@ -145,7 +156,7 @@ Includes a notation that will encode Orthic text into ASCII. Contains all the ex
 
 
 
-## Styles or Levels
+### Styles or Levels
 
 The order is:
 - Fully Written
@@ -158,7 +169,7 @@ My intent was to show clearly when a rule applies to a style other than Fully Wr
 
 Where I have included a rule from the Reporting level, I have clearly marked it, unless the Supplement or Teaching moved it to an easier level. I think many words in Revised's middle level are actually Reporting level of risk, but have followed Clarey's organization.
 
-## Discrepancies
+### Discrepancies
 
 Often a writer will explain a rule, then break it on the next page. I think that happens for a few reasons:'
 - They first learned Pitman, so spelling phonetically is automatic, even when they try to write FW.
@@ -171,7 +182,7 @@ Often a writer will explain a rule, then break it on the next page. I think that
 
 Don't worry about it. The only true test of shorthand quality is whether the intended reader can read it at the intended time, for the intended purpose. (I strongly suggest you define that each time you pick up the pen.)
 
-## Notation
+### Notation
 
 Use the joining rules for Fully Written unless otherwise specified.
 
@@ -189,17 +200,17 @@ Letters in brackets are compound letters or slurs.
 
 Where there is more than one way to write a letter or compound, I added numbers. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : (ing1) = straight, (ing2) = curved, chosen because 1 is straight and 2 is curved. (Cricket)
 
-# The Alphabet
+## The Alphabet
 ![alphabet, manual](assets/manual-bits/1alphabet-m003.png)\
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
 ![alt text](assets/revised-split/1alphabet-r02.jpg)\
 Revised: absent, opera, back, bib, centre, mimic, dirty, wind, enter, line, fasten, calf, gentle, cog, help, oh, insert, ani, jest, reject, kept, kick, lender, until, melt, stem, nine, hasten, often, canto, point, step, query, equity, render, fir, simply, tends, time, comet, under, gnu, vine, wave, wow, award, exist, sex, yes, haply, zebra, waltz
 
-# General Rules for Fully Written Style
+## General Rules for Fully Written Style
 
 
-### Two Sizes of Letters
+#### Two Sizes of Letters
 Most books say use 1:3, but then use less in the Two Sizes image, and somewhere between 1:2 and 1:3 in actual writing. It's rarely a problem except for debates between students.
 
 ![two sizes, manual](assets/manual-bits/1two-sizes-m005.png)\
@@ -214,7 +225,7 @@ Teaching 1: Letters grouped in another way.
 
 "The actual *size* of the characters may be varied according to circumstances, such as the goodness of the light and the writing materials. The minuteness of any kind of writing is limited by the size of the smallest characters. In Orthic the small size may be made as small as desired, and the small circle may be reduced to a dot. But it is best to make the small characters about one-twelfth of an inch \[2.1mm\] long, and the large ones twice as big." (Revised, p3, General Rules)
 
-### Position on the Line, aka Mode
+#### Position on the Line, aka Mode
 The rules for this are a mess.
 
 Just do what looks right to you. If you read something that doesn't make sense, remember some writers will write higher or lower than you do.
@@ -231,7 +242,7 @@ It looks like Stevens is the outlier, but since they wrote the majority of the r
 
 It all gets even more confusing when we add modes to indicate omitted letters. See General Methods of Abbreviation, below.
 
-### Doubling a Letter
+#### Doubling a Letter
 
 Most letters are doubled by putting a dot underneath. EE, II, EI and IE are exceptions. The dot is omitted unless absolutely necessary to avoid confusion with a similar word in all but the Fully Written Style.
 
@@ -255,7 +266,7 @@ Where there are double a's or oo's, leave out one. (Teaching 1)
 Teaching 1: command, son, soon
 
 
-### Connecting Tick
+#### Connecting Tick
 
 A short connecting tick maybe used after ER, TH, etc, and when they are followed by G, P and S. (Revised, p3, General Rules)
 
@@ -264,7 +275,7 @@ This rule is only in Revised. Clarey may need this more than the other writers d
 ![alt text](assets/revised-split/1connecting-tick-r03.jpg)\
 Revised: er, th, G, P, S, dirg, faiths, serpent
 
-### Dividing Words
+#### Dividing Words
 
 You can divide a word to keep it on the line. Beware that this might be confused with writing by mode. (Cricket)
 
@@ -276,7 +287,7 @@ Revised: lawsuit, bagpipes
 
 
 
-### Punctuation
+#### Punctuation
 
 So they are not confused with raised A (and) and raised O (though).
 
@@ -293,7 +304,7 @@ Revised: hyphen, dash
 
 
 
-### Initial Capitals 
+#### Initial Capitals 
 
 Indicated in a few ways. See S to distinguish intial S from initial P. (S is vertical.)
 
@@ -309,12 +320,12 @@ Note that Revised often intersects the word.
 
 xxx revised: aphthorpe (phth),  tay (ay)
 
-# Vowels Sounded Individually and Diphthongs
+## Joining Vowels Sounded Individually and Diphthongs
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
 
-## Vowels Sounded Individually
+### Vowels Sounded Individually
 
 Leave the angle between the vowels. For ao/oa, leave a gap.
 
@@ -337,7 +348,7 @@ abbreviation, which are illustrated in the sections that follow,
 
 
 
-## Vowels Sounded Together, Diphthongs
+### Vowels Sounded Together, Diphthongs
 
 Orthic uses an older definition of the word *diphthong*.
 
@@ -356,11 +367,11 @@ Teaching 1: ye, obey
 
 
 
-## A
+### A
 
 
 
-### A with E,I,Y
+#### A with E,I,Y
 
 See S for AYS.
 
@@ -400,7 +411,7 @@ Teaching 1 gives several examples of what might happen if you use the wrong orde
 
 Teaching 1 recommends that AI always be written in AI order, regardless of surrounding letters, but does not say why. IA is written IA. It also recommends dotting the I. The Manual and Supplement do not have any counter-examples. Revised does not mention the rule, and even has a counter-example.
 
-### AO, OA, AU
+#### AO, OA, AU
 
 ![alt text](assets/teach-1-bits/oar,laon-t104.jpg)\
 Teaching 1: oar, Laon
@@ -412,7 +423,7 @@ Write A above O, possibly towards the correct end of the O.
 
 
 
-## E
+### E
 
 See also AE.
 
@@ -445,7 +456,7 @@ Revised: ea, ee, ei, eu, ew, few
 
 
 
-## I
+### I
 
 See also AI, EI.
 
@@ -455,7 +466,7 @@ Manual: social, optician, chief
 ![alt text](assets/revised-split/i-r07.jpg)\
 Revised: i, e, ia, ie
 
-## O
+### O
 ![o diphthongs, manual](assets/manual-bits/o-diphth-m010.png)\
 Manual: oar, or, oak, oi, toil, ou, out, oy, boys
 
@@ -473,7 +484,7 @@ Revised: oy, toy, annoy, decoy
 
 See S for OYS.
 
-## U
+### U
 
 See also EE.
 
@@ -487,7 +498,7 @@ Revised: ua, guard, dual, usual
 
 
 
-## Y
+### Y
 
 See also AY.
 
@@ -499,11 +510,11 @@ Teaching 1: ye, obey
 
 
 
-# Joining Consonants
+## Joining Consonants
 
 Some concepts are under a letter other than the first, if the other letter is sounded more strongly, or it makes for a more sensible explanation.
 
-## A
+### A -- With Consonants
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
@@ -511,7 +522,7 @@ A on the line is *a*. A raised is *and*.
 ![and raised, manual](assets/manual-bits/a-above-and-m015.png)\
 Manual: and
 
-## B
+### B
 
 ![b, manual](assets/manual-bits/b-m006.png)\
 Manual: bd, rob'd, bj, object, bl, able, br, bray, bs, absurd, bt, subtract, bv, subvent
@@ -531,7 +542,7 @@ BL can be shown by reversing the direction of the B loop, and optionally writing
 
 
 
-## C
+### C
 
 ![c, manual](assets/manual-bits/c-m007.png)
 Manual: ck, suckle, cl, close, cr, crutch, ct
@@ -551,7 +562,7 @@ CD, CT: CD blends so it looks like a C with a long, very long, bottom. This rule
 
 TCH. See Abbreviating Principles
 
-## D
+### D
 
 ![d, manual](assets/manual-bits/d-m007.png)\
 Manual: dge, judge, dj, dle, fiddle, dr, dread, dv, dw, dwell
@@ -568,7 +579,7 @@ DD, DT and TD can be written as a double-wide D. See Abbreviating Principles.
 
 DV can be written as a double-wide V. See Abbreviating Principles.
 
-## E
+### E -- With Consonants
 
 ![alt text](assets/revised-split/e-r07.jpg)\
 Revised: ea, ee, ei, eu, ew, few
@@ -583,7 +594,7 @@ ENC: Make sure that you do a full N. The first part of the C does not retrace an
 
 
 
-## F
+### F
 
 ![f, manual](assets/manual-bits/f-m008.png)\
 Manual: if, ft, soft, fd, puff'd, fl, fr, rifle, afraid, fs, skiffs
@@ -600,7 +611,7 @@ FR: Vowel comes off the top to save time and going around the circle twice. See 
 
 FS: S curves upwards to the left. See S.
 
-## G
+### G
 
 ![g, manual](assets/manual-bits/g-m008.png)\
 Manual: gh, high, gl, glory, gr, agree, gn, sign
@@ -623,7 +634,7 @@ No angle between G and D. (Supplement)
 
 
 
-## H, CH, and WH
+### H, CH, and WH
 
 Manual (H): cha, hat, chat, what, which
 ![h, manual](assets/manual-bits/h-m008.png)\
@@ -634,7 +645,7 @@ H, CH, and WH are all large circles, and described here for easy comparison. All
 
 Most of the time, it is safe, and faster, to omit the H in WH. There are, however, times when you need to record the exact spelling. I prefer to start WH at the bottom, to make an enlarged W, or to start it at the right, instead of at the top.
 
-## H, Not CH and WH
+### H, Not CH and WH
 
 ![ther, manual](assets/manual-bits/ther-m016.png)\
 ther, others, ard, toward\
@@ -651,7 +662,7 @@ See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
 
 See SH and TH for those joins. Sometimes H is smaller or not completed.
 
-### H: CH
+#### H: CH
 
 ![ch, manual](assets/manual-bits/ch-m006.png)
 ![ch, manual](assets/manual-bits/ch-m007.png)\
@@ -689,7 +700,7 @@ Note the different ways of writing *school* or *scholar*.
 
 
 
-### H: WH
+#### H: WH
 
 Each writer has a slightly different way to write WH.
 
@@ -704,7 +715,7 @@ Teaching 1 (Stevens): th, who
 ![alt text](assets/revised-split/ch,wh-r05.jpg)\
 Revised (Clarey): wh, whose, when, chose, chin
 
-## I
+### I -- With Consonants
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
@@ -717,14 +728,14 @@ IC vs INC: This is often tricky, but fortunately the word is usually clear from 
 
 ING: See Abbreviating Principles.
 
-## J
+### J
 
 Manual has no images.
 
 ![alt text](assets/revised-split/j-r08.jpg)\
 Revised: j
 
-## K
+### K
 
 Manual has no images.
 
@@ -752,7 +763,7 @@ I don't like this. Take / tag can be used as noun and verb. Too much chance of c
 
 KR: Vowel comes off the top to save time and going around the circle twice. See R for rule. Examples: None, but it makes sense that the rule applies to KR since it applies to FR.
 
-## L
+### L
 
 ![l, manual](assets/manual-bits/l-m009.png)\
 Manual: black, bread, clay, crow, addle, dry, flow, fro, glad, grade, play, pray, little, litre, slay, Israel, held, herd, world, already,\
@@ -781,7 +792,7 @@ Note how downstrokes come off the bottom: lc, ld, lf, lg, lt. (Cricket)
 
 Other shorthand systems (notably Gregg) base direction on the surrounding strokes. This can get confusing when switching systems. Each Orthic book has a mnemonic or two to help. (Cricket)
 
-## M
+### M
 
 ![m, manual](assets/manual-bits/m-m009.png)\
 Manual: mp, imply, mb, limb, ms
@@ -792,7 +803,7 @@ Revised: mb, mbs, md, ml, mn, mp, ms, mt, my
 See DEN for D, T, N, M blends.
 
 
-## N
+### N
 
 See DEN for D, T, N, M blends.
 
@@ -817,7 +828,7 @@ nch, nd, nf, ng, nh, inherit,\
 inhale, nj, nk, nl, nm, nqu, nr, enrich, enroll, ns, nsp, nt, nv, nw, inward, enwrap, nx, ny
 
 
-## O
+### O -- With Consonants
 
 ![alt text](assets/revised-split/o-r08.jpg)\
 Revised: oa, coat, cot, oe, oi, ou, oy
@@ -827,7 +838,7 @@ All examples from the Manual are under Joining Vowels with Vowels.
 
 
 
-## P
+### P
 
 ![p, manual](assets/manual-bits/p-m010.png)\
 Manual: sp, sphere, ps, cusps, ph, ph ```(ph-b, ph-d)```, phrase, phlegm, pl, place, pr, present, pd, depth, phth
@@ -874,7 +885,7 @@ PW uses angle-W (Revised)
 
 
 
-## Q
+### Q
 
 ![q, manual](assets/manual-bits/q-m010.png)\
 Manual: esquire
@@ -903,7 +914,7 @@ To clearly state the spelling, two ideas come to mind:
 
 
 
-## R
+### R
 
 ![r, manual](assets/manual-bits/r-m010.png)\
 Manual: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv
@@ -936,9 +947,9 @@ PR, SR, FR, KR: It is usual to write a vowel following R attached to an upright 
 
 
 
-## S
+### S
 
-### SH, SHR, SR, SCR
+#### SH, SHR, SR, SCR
 
 A mess. (Cricket)
 
@@ -985,7 +996,7 @@ SHR: Very tiny R inside the small H. (It doesn't have to be a circle, just enoug
 
 I'm not sure whether to recommend following Callendar or Stevens. Callendar's is complete. Stevens wrote a lot more material, but there are only a few examples (except maybe in the Bible passages) so his way won't be reinforced. (Cricket)
 
-### Other S Joins
+#### Other S Joins
 
 ![s cap, manual](assets/manual-bits/s-cap-m011.png)\
 Manual: S.E.
@@ -1029,7 +1040,7 @@ SW: See W for alternate form of W.
 
 
 
-## T
+### T
 
 ![alt text](assets/teach-1-bits/th-t106.jpg)\
 Teaching 1: TH
@@ -1058,7 +1069,7 @@ See Abbreviating Principles, TH- for TH at the beginning of a word.
 
 
 
-## U
+### U -- With Consonants
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
@@ -1068,7 +1079,7 @@ see E, Joining Vowels, for E vs U
 Revised: u, ee, sum, see, ua, ue, ui
 
 
-## V
+### V
 
 ![v, manual](assets/manual-bits/v-m012.png)\
 Manual: minster (not minister), Minver, stew, view
@@ -1080,7 +1091,7 @@ V is distinguished from ste by its size.
 
 See Abbreviating Principles: EV for all vowel-V-vowel combinations.
 
-## W
+### W
 
 ![w, manual](assets/manual-bits/w1-m012.png)\
 Manual: way, woe, wet, write
@@ -1130,7 +1141,7 @@ WK, WL, WN: Notice how the letters blend. (Cricket)
 
 
 
-## X
+### X
 
 ![x, manual](assets/manual-bits/x-m012.png)\
 Manual: xh, xp, xt, extent, exhort, expense
@@ -1151,7 +1162,7 @@ You can often omit the S, or merge the S with the following letter. (Cricket)
 
 There is no need to make an angle in the combinations *Exh*, *Exch*. (Manual)
 
-## Y
+### Y -- With Consonants
 ![y, manual](assets/manual-bits/y-m012.png)\
 Manual: yacht, yet, yore yule
 
@@ -1172,7 +1183,7 @@ tries -> ```trys```,  applies -> ```applyd```
 
 
 
-## Z
+### Z
 ![z, manual](assets/manual-bits/z-m012.png)\
 Manual: daze, Fitz, puzzle
 
@@ -1183,11 +1194,11 @@ Revised: z
 
 
 
-# General Methods of Abbreviation, including Ordinary Style
+## General Methods of Abbreviation, Including Ordinary Style
 
 The most important rule of all in reporting practice is never to use a mode or an abbreviation that causes hesitation or waste of time, not to worry about trifles; and to practise writing from dictation and transcribing till your notes become perfectly fluent and cursive and legible. A study of-the examples which follow will probably be more useful than many pages of hints. (Supplement, Notes on Reporting)
 
-## Omit A and O before M and N
+### Omit A and O before M and N
 ![omit a,o, correction, manual](assets/manual-bits/a-o-omit-m015.png)\
 Manual: can, con, alone, woman, ```cn, alne, wmn```
 
@@ -1201,7 +1212,7 @@ band, bond, dame, dome, gang, gong, tame, tome, wander, wonder
 
 An omission of this kind can always be corrected by writing the omitted character above.
 
-## General Method of Abbreviation
+### General Method of Abbreviation
 
 ![alt text](assets/manual-bits/1gen-abbr-m017.png)\
 Manual: different, difference, acknowledge, especially, circumstance, extraordinary, representative
@@ -1223,7 +1234,7 @@ The general method of abbreviating is the same as that ordinarily employed in lo
 
 
 
-## Modes or Positions
+### Modes or Positions
 
 xxx is it clear whether the mode is relative to the previous letter, or to lifting the pen from it? Some egs in supplement imply the latter. (Grumble. Absolute positioning would be easier to describe.)
 
@@ -1273,7 +1284,7 @@ In the middle of a short word, G or V may be conveniently expressed by the modes
 
 
 
-## Drop the Dots
+### Drop the Dots
 
 ![alt text](assets/revised-split/1dots-r11.jpg)\
 Revised: is, if, in, it, apply, assist, cotton, fiddle
@@ -1288,7 +1299,7 @@ Drop them all, unless absoultely necessary. Be brave! (Cricket)
 
 
 
-# Abbreviating Principles (Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
+## Abbreviating Principles (Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
 
 Prefixes, suffixes, and common letter groups. Description is under the strongest sounding letter.
 
@@ -1296,11 +1307,11 @@ Look for patterns! Usually it's the key sounds.
 
 See Notation above.
 
-### Revised
+#### Revised
 
 Revised often teaches simple abbreviating principles with the letter. If it's a duplicate of a rule already here, the image is only in the Joins section.
 
-### Short Vowels
+#### Short Vowels
 
 Short vowels may often be slurred, especially in terminations. (Supplement, Notes on Reporting)
 
@@ -1308,7 +1319,7 @@ manner: ```(mn)r```
 upper: ```upr```
 national: ```nnl```
 
-### ABLE-, BLE- ```b```
+#### ABLE-, BLE- ```b```
 
 ![alt text](assets/revised-split/able,ble-r19.jpg)\
 liable, payable, bibles, table, tab
@@ -1318,22 +1329,22 @@ If there's an A, it's AB. If not, it's AB
 xxx what about horr-ible? Maybe on a later page? Does ible/able ever get confused?
 
 
-### -ACITY ```ct``
+#### -ACITY ```ct``
 ![alt text](assets/revised-split/acity-r19.jpg)\
 Revised: capacity, pertinacity, veracity
 
-### ACQU ```aq```
+#### ACQU ```aq```
 ![alt text](assets/supp-bits/acqu-s.png)\
 Supplement: acqu
 
 ![alt text](assets/revised-split/acqua-r12.jpg)\
 Revised: aqu, acquire, acquaint
 
-### -ACY, -ASY ```ay, ya```
+#### -ACY, -ASY ```ay, ya```
 ![alt text](assets/revised-split/acy,asy-r19.jpg)\
 Revised: curacy, diplomacy, embassy, easy
 
-### -ADE ```de```, -ATE ```te```, only in some words
+#### -ADE ```de```, -ATE ```te```, only in some words
 ![alt text](assets/revised-split/ade,ate-r21.jpg)\
 Revised: made, date\
 decade, deprecate, fade, fate, brigade, gate, hate, obviate, cockade, Kate, glade, late, spade, trade, rate, crusade, wade\
@@ -1348,7 +1359,7 @@ Way too many ambiguous words for my taste! (Cricket)
 
 
 
-### ADJ ```aj```
+#### ADJ ```aj```
 ![alt text](assets/supp-bits/adj-s.png)\
 Supplement: aj
 
@@ -1357,32 +1368,32 @@ Revised: aj, adjure, adjourn
 
 
 
-### ADV, ```(dv)```
+#### ADV, ```(dv)```
 
 ![alt text](assets/supp-bits/advantage-s.png)\
 Supplement: advantage
 
 Slurred into one large character compounded of d and v.
 
-### -AGE, -AKE -- See -GE.
+#### -AGE, -AKE -- See -GE.
 
-### -AL ```l```
+#### -AL ```l```
 ![alt text](assets/teach-1-bits/al-final-t115.jpg)\
 Teaching 1: final, upper
 
 The softly sounding vowel can be slurred in terminations such as "al". (Teaching 1)
 
-### -ARY, -ORY ```y```
+#### -ARY, -ORY ```y```
 ![alt text](assets/revised-split/ary,ory-r20.jpg)\
 Revised: elementary, contrary, conservatory
 
 
 
-### -ASY, -ASSY -- See -ACY.
+#### -ASY, -ASSY -- See -ACY.
 
-### -ATE See -ADE
+#### -ATE See -ADE
 
-### -ATION ```.n```
+#### -ATION ```.n```
 
 ![alt text](assets/teach-1-bits/ation-t108.jpg)\
 Teaching 1: termination
@@ -1393,7 +1404,7 @@ Revised: abrasion, relation
 Note Stevens' cleverness using the word *termination*. It's hard to see here, but the previous line in the book is, "-ion: This termination is shown by..."
 
 
-### BE-, ```^```
+#### BE-, ```^```
 
 ![alt text](assets/supp-bits/be-being-s.png)
 ![alt text](assets/supp-bits/been-s.png)\
@@ -1415,18 +1426,18 @@ This prefix is peculiar to a special class of English words, and may also be exp
 
 This abbreviation is **only** to be used when "be" is a distinc prefix. (Teaching 1)
 
-### -BILITY ```bl```
+#### -BILITY ```bl```
 
 ![alt text](assets/revised-split/bility-r20.jpg)\
 Revised: ability, affability, insensibility
 
-### -BLE -- See -ABLE
+#### -BLE -- See -ABLE
 
-### CH compounds: MCH, NCH, SCH
+#### CH compounds: MCH, NCH, SCH
 These combinations may be written without an angle or break. See H.
 
 
-### CIRCUM- ```cir.```
+#### CIRCUM- ```cir.```
 Also see COM-.
 
 ![alt text](assets/supp-bits/circum-s.png)
@@ -1435,12 +1446,12 @@ Supplement: cir, circumstance
 
 Written ```cir``` followed by a short break to represent *cum*. ```circe``` is the the regular longhand abbreviation for the word *circumstance*. (Supplement)
 
-### -CITY 
+#### -CITY 
 xxx ??
 
 
 
-### COM-, CON-, CUM-, CAM-, CAN- ```*```
+#### COM-, CON-, CUM-, CAM-, CAN- ```*```
 
 ![alt text](assets/supp-bits/com,con-s.png)
 ![alt text](assets/supp-bits/come,came-s.png)
@@ -1471,16 +1482,16 @@ In compound prefixes, such as incom-, discom-, etc., the com- or con- is express
 The prefixes in the front of the mouth are raised. C is in the back. Why isn't it lowered like G? (Cricket)
 
 
-### CT
+#### CT
 
 No angle between C and T, so bottom of C is wider. (Supplement, Reporting)
 
 xxx check on this, might only be CD
 
 
-### -D -- See ED.
+#### -D -- See ED.
 
-### -DGE -- ```ge```
+#### -DGE -- ```ge```
 
 Also see -GE
 
@@ -1489,7 +1500,7 @@ Revised: ge, edge, lodge, budge
 
 
 
-### DD, DT ```dd, dt```
+#### DD, DT ```dd, dt```
 
 ![alt text](assets/teach-1-bits/dd,dt,td-t115.jpg)\
 Teaching 1: DD
@@ -1499,12 +1510,12 @@ Slurred to a double-wide D. (Teaching 1)
 
 
 
-### DISCOM- -- See COM-
+#### DISCOM- -- See COM-
 
-### DJ ```j```
+#### DJ ```j```
 In words having the combination DJ, leave out the D. (Teaching 1)
 
-### DV ```(dv)```
+#### DV ```(dv)```
 
 ![alt text](assets/supp-bits/advantage-s.png)\
 Supplement: advantage
@@ -1517,17 +1528,17 @@ Revised: advert, avert
 
 DV is slurred into one large compound character, a double-wide V. (Supplement)
 
-### EACH ```ea```, EAT ```ae```
+#### EACH ```ea```, EAT ```ae```
 Revised, Examples of Abbreviations, page 23.
 
-### -ED ```d```
+#### -ED ```d```
 ![ed, manual](assets/manual-bits/ed-m016.png)\
 Manual: used, kissed, stirred, ```usd, kissd, stirrd```\
 
 ![alt text](assets/revised-split/ed-r12.jpg)\
 Revised: tired, faced
 
-### -EDE, ETE ```e```
+#### -EDE, ETE ```e```
 
 ![alt text](assets/revised-split/ede,ete-r21.jpg)\
 Revised: concede, impede, effete, obsolete
@@ -1535,13 +1546,13 @@ Revised: concede, impede, effete, obsolete
 ![alt text](assets/revised-split/ede-note-r21.jpg)\
 Revised: impeded, sided, eroded, concluded, secreted, indited, voted
 
-### -ENCE ```.ce```
+#### -ENCE ```.ce```
 ![alt text](assets/revised-split/ence-r20.jpg)\
 Revised: influence, residence, confidence
 
 Supplement. No examples.
 
-### -ENCY ```.cy```
+#### -ENCY ```.cy```
 ![alt text](assets/revised-split/ency-r20.jpg)\
 clemency, competency, emergency
 
@@ -1549,7 +1560,7 @@ Supplement. No examples.
 
 
 
-### -ENT ```.t```
+#### -ENT ```.t```
 ![alt text](assets/supp-bits/agent,ages-s.png)
 ![alt text](assets/supp-bits/apparent-s.png)
 ![alt text](assets/supp-bits/comment-s.png)\
@@ -1559,7 +1570,7 @@ Supplement: agent, apparent, comment\
 opponent, provident, agent
 
 
-### -ER ```r```
+#### -ER ```r```
 
 ![alt text](assets/teach-1-bits/al-final-t115.jpg)\
 Teaching 1: final, upper
@@ -1568,9 +1579,9 @@ The softly sounding vowel can be slurred in terminations such as "al". (Teaching
 
 Probably also in ER, since there's an example.
 
-### -ETE See -EDE
+#### -ETE See -EDE
 
-### EV, EVE, EVI ```^```
+#### EV, EVE, EVI ```^```
 
 ![alt text](assets/supp-bits/every-s.png)
 ![alt text](assets/supp-bits/evening-s.png)
@@ -1607,7 +1618,7 @@ Note that *even* is written ```een``` instead of being raised, to distinguish it
 
 
 
-### EX- ```x```
+#### EX- ```x```
 
 As there is no English word beginning with *X* that is not preceded by *E*, this character may be used to represent *Ex*. (Manual)
 
@@ -1615,19 +1626,19 @@ As there is no English word beginning with X that is not preceded by E, this cha
 
 Out of date! I recommend a similar procedure as for Q: Checkmark or X below the letter to show standard Orthic rules apply. If you want to be sure you spell it correctly, write the outline and the correct spelling in longhand in a standard place. (Cricket)
 
-### -FECTION ```fun```
+#### -FECTION ```fun```
 ![alt text](assets/revised-split/fection-r20.jpg)\
 Revised: affection, defection, perfection
 
 See -ION for explanation.
 
-### -FICATION ```f.n```
+#### -FICATION ```f.n```
 ![alt text](assets/revised-split/fication-r20.jpg)\
 Revised: fortification, modification
 
 
 
-### -FUL ```fl```
+#### -FUL ```fl```
 ![ful, manual](assets/manual-bits/ful-m016.png)\
 Manual: useful, beautifully, ```usefl, beautifly```
 
@@ -1643,7 +1654,7 @@ Beautiful shows one reason for retaining the Y in the inflected word. (Teaching 
 
 
 
-### -GE, -DGE, -AGE, -GE, -KE, -AKE ```_*```
+#### -GE, -DGE, -AGE, -GE, -KE, -AKE ```_*```
 
 
 ![alt text](assets/supp-bits/knowledge-s.png)
@@ -1662,7 +1673,7 @@ Some words are better written with the K and omitting the E. (Revised)\
 
 
 
-### -GN ```_n```
+#### -GN ```_n```
 
 ![alt text](assets/supp-bits/foreign-s.png)
 ![alt text](assets/supp-bits/sign-s.png)\
@@ -1677,7 +1688,7 @@ Revised: sign, impugn
 Indicated by N written below to indicate the G.
 
 
-### -GRAM ```_m```
+#### -GRAM ```_m```
 ![alt text](assets/revised-split/gram-r17.jpg)\
 Revised: diagram
 
@@ -1686,24 +1697,24 @@ Indicated by M written below to indicate the g, similar to -gn. (Supplement)
 Diagram is a good example of relative vs absolute positioning. (Cricket)
 
 
-### -GRAPH ```ph```
+#### -GRAPH ```ph```
 
 ![alt text](assets/revised-split/graph-r20.jpg)\
 Revised: lithograph, paragraph, geography
 
 Supplement. No examples.
 
-### -GUE (One Syllable) ```g```
+#### -GUE (One Syllable) ```g```
 
 ![alt text](assets/revised-split/gue-r20.jpg)\
 Revised: league, prologue, rogue, tongue
 
-### -HEAD ```hd```
+#### -HEAD ```hd```
 ![alt text](assets/teach-1-bits/head,hood-t108.jpg)\
 Teaching 1: head
 
 
-### -HOOD ```hd```
+#### -HOOD ```hd```
 ![hood, manual](assets/manual-bits/hood-m016.png)\
 Manual: manhood, ```man.hd```
 
@@ -1714,11 +1725,11 @@ xxx Is man-hood detactched in manual because of rule, or ease of writing?
 
 Bachelorhood : No need for tiny R, just make a bigger H! (Cricket)
 
-### HYPER- -- See PER.
+#### HYPER- -- See PER.
 
 
 
-### -IGHT ```_t```
+#### -IGHT ```_t```
 
 ![ight, manual](assets/manual-bits/ight-m016.png)\
 Manual: night, light, ```n_t, le_t```
@@ -1732,15 +1743,15 @@ Revised: sight, alight
 
 It is better to show the vowel after I and R, so as to show which consonant it is by the way it is turned. (Teaching 1)
 
-### -IGNANT, -IGNITY ```eg```
+#### -IGNANT, -IGNITY ```eg```
 
 ![alt text](assets/revised-split/ignant,ignity-r20.jpg)\
 Revised: indignant or indignity, dignity
 
-### INCOM- -- See COM-
+#### INCOM- -- See COM-
 
 
-### -ING ```(ing1), (ing2)```
+#### -ING ```(ing1), (ing2)```
 
 ![ing, manual](assets/manual-bits/ing-m016.png)\
 Manual: using, saying, seeming, king, sing, singing.\
@@ -1757,7 +1768,7 @@ This form is used only for the inflection "ing" and not in other words. It is be
 
 I vote we use it in sing and king. It's already used in thing and bring. (Cricket)
 
-### -ION ```un``` 
+#### -ION ```un``` 
 
 ![ion, manual](assets/manual-bits/ion-m016.png)\
 Manual: action, ```actn``` \
@@ -1771,22 +1782,22 @@ ion, position, passion, deception, action, section
 
 Dotted if necessary. (Manual)
 
-### -IDE, -ITE ```e```
+#### -IDE, -ITE ```e```
 ![alt text](assets/revised-split/ide,ite-r21.jpg)\
 Revised: confide, reside, smite, write
 
 See -EDE for note.
 
 
-### -ISM ```em``` or ```.m```
+#### -ISM ```em``` or ```.m```
 ![alt text](assets/revised-split/ism-r19.jpg)\
 idealism, conservatism, socialism
 
 Supplement uses ```.m```, no examples.
 
-### -ITE See -IDE.
+#### -ITE See -IDE.
 
-### -ITY, -ETY, -IETY -- ```^y```
+#### -ITY, -ETY, -IETY -- ```^y```
 ![lty, manual](assets/manual-bits/lty-m016.png)\
 Manual: abilities, peculiarity, ```ab^ys, pec^y``` \
 Note "abilities" -- y stands unaltered.
@@ -1802,28 +1813,28 @@ Teaching 1 specifically says "above/below the last letter," and explains that's 
 
 Note piety vs pity. (Revised)
 
-### -IVE -- See -VE.
+#### -IVE -- See -VE.
 
-### -JECT ```j```
+#### -JECT ```j```
 ![alt text](assets/revised-split/ject-r20.jpg)\
 Revised: inject, project, reject
 
-### -KE -- See -GE
+#### -KE -- See -GE
 
-### -LESS ```ls```
+#### -LESS ```ls```
 ![less, manual](assets/manual-bits/less-m016.png)\
 Manual: thankless, fearlessness, ```^ankls, fear.lsns```
 
 ![alt text](assets/revised-split/less-r12.jpg)\
 Revised: ls, useless, unless, fearless
 
-### LTH ```th```
+#### LTH ```th```
 
 L maybe slurred with the T in such words as wealth, health, etc. (Teaching 1)
 
 From other examples, I think this means L can be omitted. (Cricket)
 
-### -LY ```_y```
+#### -LY ```_y```
 ![ly, manual](assets/manual-bits/ly-m016.png)\
 Manual: nearly, easily, dailies, ```near_y, easy_y, day_ys```
 
@@ -1839,21 +1850,21 @@ In practice, the Y may generally be joined. (Revised)
 
 After a mode, the LY would be written in full. (Revised)
 
-### MAGNGA-, MAGUE-, MAGNI- ```m_```
+#### MAGNGA-, MAGUE-, MAGNI- ```m_```
 
 ![alt text](assets/revised-split/mag-r016.jpg)\
 Revised: magnanimity, magnetic, magnify
 
 
 
-### MANGA, MAGNI ```m_```
+#### MANGA, MAGNI ```m_```
 
 ![alt text](assets/supp-bits/magnify-s.png)\
 Supplement: magnify
 
 Written m, the rest of the word being placed below to indicate the g. (Supplement)
 
-### MB, MBS ```(mb)```
+#### MB, MBS ```(mb)```
 
 
 ![alt text](assets/supp-bits/mb,mp-s.png)\
@@ -1872,7 +1883,7 @@ May be written with a single character somewhat like mp , but beginning and endi
 
 Note: Only when preceded by E, I and U upstroke vowels. (Revised) It looks like the vowel is combined with the start of M. (Cricket)
 
-### -MENT   ```mt ```
+#### -MENT   ```mt ```
 
 ![alt text](assets/teach-1-bits/ment-t109.jpg)\
 Teaching 1: ```mt``` 
@@ -1881,7 +1892,7 @@ Teaching 1: ```mt```
 Revised: mt, payment, raiment, moment
 
 
-### MIS- ```ms```
+#### MIS- ```ms```
 
 ![alt text](assets/supp-bits/mis,mistake-s.png)\
 Supplement: mis, mistake
@@ -1891,17 +1902,17 @@ Revised: mis, ms, misuse, mislay, misnomer
 
 Written ms, omitting the i. 
 
-### MM, MN ```mm, mn```
+#### MM, MN ```mm, mn```
 
 ![alt text](assets/teach-1-bits/mm-t114.jpg)\
 Teaching 1: mm, mn
 
 Double-wide M. Vowel is left out. (Teaching 1)
 
-### NCH -- See H.
+#### NCH -- See H.
 
 
-### -NESS ```.es```
+#### -NESS ```.es```
 ![ns, manual](assets/manual-bits/ness-m016.png)\
 Manual: happiness, thoughtfulness, ```hapyns, ^otfl.ns``` -- ***Deprecated***
 
@@ -1916,17 +1927,17 @@ Note in thoughtfulness that ns is not marked as raised. It is in position 2, and
 This termination should be written ‑ess detached, by the general rule, and not ns as given in the Manual. [E.g. goodness.] Detached n and ns can then be used, as in longhand, for the expression of the common terminations ‑ation and ‑ations. (Suplement)
 
 
-### -NG -- See ING.
+#### -NG -- See ING.
 
-### -ODE, -OTE ```o```
+#### -ODE, -OTE ```o```
 ![alt text](assets/revised-split/ode,ote-r21.jpg)\
 Revised: explode, strode, promote, wrote.
 
 
-### -OLOGY ```ogy```
+#### -OLOGY ```ogy```
 Supplement, Notes on Reporting.
 
-### -OLUTE, -UDE, -UTE ```u```
+#### -OLUTE, -UDE, -UTE ```u```
 ![alt text](assets/revised-split/olute,ude,ute-r21.jpg)\
 Revised: absolute, denude, mute\
 Words which might clash: incide/incite, rede/ride/rite, side/site, mode/mote, rode/rote, delude/dilute, illude/elude
@@ -1934,20 +1945,20 @@ Words which might clash: incide/incite, rede/ride/rite, side/site, mode/mote, ro
 Again, too many clashes for my taste! (Cricket)
 
 
-### -OLVE -- See -VE
+#### -OLVE -- See -VE
 
-### -ORY -- See -ARY
+#### -ORY -- See -ARY
 
-### -OSION, -OTION ```oun```
+#### -OSION, -OTION ```oun```
 
 ![alt text](assets/revised-split/osion,otion-r20.jpg)\
 Revised: explosion, lotion
 
-### -OTE See -ODE
+#### -OTE See -ODE
 
-### -OUD, -OUT, -OUND, -OUNT -- See -OUND, -OUNT
+#### -OUD, -OUT, -OUND, -OUNT -- See -OUND, -OUNT
 
-### -OUGH ```o```
+#### -OUGH ```o```
 ![ough, manual](assets/manual-bits/ough-m016.png)\
 Manual: ought, brought
 
@@ -1957,7 +1968,7 @@ Teaching 1: ought, thought
 ![alt text](assets/revised-split/ough-r12.jpg)\
 Revised: o, brought, plough
 
-### -OUND, -OUNT ```ou```
+#### -OUND, -OUNT ```ou```
 
 ![alt text](assets/teach-1-bits/ound,ount-t110.jpg)\
 Teaching 1: round, sound, count, counter, county, country
@@ -1975,14 +1986,14 @@ xxx cloud? That's a G, not a C
 
 There are examples of this in the Supplement, but it isn't listed as a rule. It is listed as a rule in Teaching 1.
 
-### OVE, OLVE -- See VE.
+#### OVE, OLVE -- See VE.
 
-### PR Family
+#### PR Family
 
 Someone needs to dive into this a bit more, but on first glance it appears all PRv and PvR at start of word are treated the same. Super/supra differently. So why do all the books separate them? (Cricket)
 
 
-### PER-, PRO-, PRE- maybe PRA- ```^```
+#### PER-, PRO-, PRE- maybe PRA- ```^```
 ![alt text](assets/supp-bits/person-s.png)
 ![alt text](assets/supp-bits/present-s.png)
 ![alt text](assets/supp-bits/promise-s.png)
@@ -2013,7 +2024,7 @@ In the prefixes super, supra, hyper, the per is expressed by writing the termina
 ![alt text](assets/revised-split/pri,pur-r16.jpg)
 
 
-### PARI-, PERI ```^```
+#### PARI-, PERI ```^```
 ![alt text](assets/supp-bits/perceives-s.png)
 ![alt text](assets/supp-bits/person-s.png)\
 Supplement: perceives, person
@@ -2027,19 +2038,19 @@ Only for prefixes, or quazi prefixes (Teaching 1)
 
 May be indicated in a similar manner. (Revised)
 
-### PRI ```^```
+#### PRI ```^```
 
 ![alt text](assets/revised-split/pri,pur-r16.jpg)\
 Revised: primary, private, purchase, purvey
 
 Same as PRE "in many instances." (Revised)
 
-### PUR -- See PRI.
+#### PUR -- See PRI.
 
 
-### SCH -- See CH, Abbreviating Principles
+#### SCH -- See CH, Abbreviating Principles
 
-### -SHIP ```.p``` or ```p```
+#### -SHIP ```.p``` or ```p```
 ![alt text](assets/supp-bits/worship-s.png)\
 Supplement: worship
 
@@ -2054,15 +2065,15 @@ Revised, looks like it's connected, and separated in the first example for ease 
 
 
 
-### -STRUCT ```str```
+#### -STRUCT ```str```
 ![alt text](assets/revised-split/struct-r20.jpg)\
 Revised: instruct, obstructing, destructive
 
-### SUPER-, SUPRA -- See PER.
+#### SUPER-, SUPRA -- See PER.
 
-### T
+#### -T
 
-T may generally be slurred in-the terminations ty (20) and th, thus duy = duty, wih = with, ohr = other. (Supplement, Notes on Reporting)
+T may generally be slurred in the terminations ty (20) and th, thus duy = duty, wih = with, ohr = other. (Supplement, Notes on Reporting)
 
 T may be slurred (omitted) in such words as duty, bounty, etc. (Teaching 1)\
 Supplement said it better. (Cricket)
@@ -2070,7 +2081,7 @@ Supplement said it better. (Cricket)
 
 
 
-### TCH ```ch```
+#### TCH ```ch```
 
 No examples in Supplement and Teaching 1.
 
@@ -2083,10 +2094,10 @@ The t may always be omitted in this combination. (Supplement, Teaching 1)
 
 
 
-### TD -- See DD.
+#### TD -- See DD.
 
 
-### TH- ```^```
+#### TH- ```^```
 
 ![th initial, manual](assets/manual-bits/th-raised-m015.png)\
 Manual: the, they, this, them, tho', that
@@ -2112,7 +2123,7 @@ The only case of a word written above the line and not presupposing initial Th i
 
 
 
-### -THER ```(ther)```
+#### -THER ```(ther)```
 
 ![ther, manual](assets/manual-bits/ther-m016.png)\
 ther, others, ard, toward
@@ -2125,10 +2136,10 @@ Teaching 1: HR, other
 
 Slur the T into the H circle and put the R inside. (Teaching 1)
 
-### -TION -- See ION.
+#### -TION -- See ION.
 
 
-### TRANS- ```trs```
+#### TRANS- ```trs```
 
 ![alt text](assets/supp-bits/transact-s.png)\
 Supplement: transact
@@ -2138,7 +2149,7 @@ Revised: trans, transfer, transmit, transcript
 
 Written trs, as in longhand. [E.g. transact.] (Manual? Supplement?)
 
-### -TY ```y ??```
+#### -TY ```y ??```
 
 T may generally be slurred in the termination -ty. (Supplement, Notes on Reporting)
 
@@ -2146,9 +2157,9 @@ duty: ```duy```
 
 See also ITY, which includes ETY and IETY.
 
-### -UDE, -UTE See -OLUTE.
+#### -UDE, -UTE See -OLUTE.
 
-### -VE, -IVE, -OVE, -OLVE, -V- ```^*```
+#### -VE, -IVE, -OVE, -OLVE, -V- ```^*```
 
 ![alt text](assets/supp-bits/arrive-s.png)
 ![alt text](assets/supp-bits/gives,en-s.png)
@@ -2174,7 +2185,7 @@ See Modes for Revised's warnings about over-use.
 
 
 
-### WARD ```ard```
+#### WARD ```ard```
 ![alt text](<assets/manual-bits/ward-with-ther-m016 copy.png>)\
 Manual: hr, others, ward, twoards
 
@@ -2184,7 +2195,7 @@ Teaching 1: forward
 ![alt text](assets/revised-split/ward-r12.jpg)\
 Revised: ard, inward, outward, forward
 
-### -WISE ```.se``` or ```se``
+#### -WISE ```.se``` or ```se``
 ![alt text](assets/supp-bits/otherwise-s.png)\
 Supplement: otherwise
 
@@ -2194,17 +2205,17 @@ Revised: likewise, otherwise, unwise
 Why not keep the W? (Cricket)
 
 
-### X- -- See EX- and X (Joining Consonants)
+#### X- -- See EX- and X (Joining Consonants)
 
 
-### -YING ```ing1```
+#### -YING ```ing1```
 ![alt text](assets/revised-split/ying-r20.jpg)\
 Revised: conveying, crying, dying, flying
 
 Flying looks like fling. (Cricket)
 
 
-# Phrases
+## Phrases
 
 Note: Time is saved by writing without hesitation, not writing fewer lines at the expense of more thought. Do not go overboard with phrasing. (Many books on Gregg.)
 
@@ -2212,20 +2223,20 @@ The last rule is an important one and should be thoughtfuly remembered. "Never t
 
 Apparently there's a "list of recognized contractions as issued by the Society (Teaching 1, Lesson 9) but I haven't seen it. (Cricket)
 
-## Phrases in Manual
+### Phrases in Manual
 
 ![alt text](assets/manual-bits/1gen-phrases-m017.png)\
 Manual: able to do; as it is; I am not; I have had; I shall be very; to be; ought to have been; with a view to.
 
 "With a view to" is not worth phrasing for modern material. (Cricket)
 
-## Phrases in Teaching
+### Phrases in Teaching
 
 ![alt text](assets/teach-1-bits/1phrases-t116.jpg)\
 Teaching 1: I should have been; with a view to; able to do so; as soon as
 
 
-## Phrases in Revised
+### Phrases in Revised
 ![alt text](assets/revised-split/com-phrases-r16.jpg)\
 Revised: in combination, I conceive
 
@@ -2251,13 +2262,13 @@ He must remeber that:
 
 
 
-# Word Lists
+## Word Lists
 
 In order of appearance. Use your browser's Find in Page function as needed. Words that abbreviated according to the above rules are not included, mostly.
 
 Using the same notation as above.
 
-## Manual
+### Manual Word Lists
 
 ![a, manual](assets/manual-bits/a-above-and-m015.png)\
 Manual: and, ```a```
@@ -2281,9 +2292,9 @@ WK, WD, WH, TH, Y, YRS
 
 Lots of other words burried in the various specimens. Most of the specimens are typed out on https://orthic.shorthand.fun/ . A few link to other sources for the text.
 
-## Supplement
+### Supplement Word Lists
 
-### General Methods of Abbreviation
+#### General Methods of Abbreviation -- Supplement
 
 The following words were in the middle of a paragraph, in General Methods of Abbreviation. All the shorthand in the Supplement is on three pages, included just a bit below here. There was no shorthand, only text.
 
@@ -2292,7 +2303,7 @@ read, round, count, right, most, must, part, point, could, had, head, hood, woul
 red, rou, cou, rt, mst, mst, pt, pnt, cd, hd, hd, hd, wd, wd, mst, mst, mt, mt
 ```
 
-### Examples of Abbreviations
+#### Examples of Abbreviations -- Supplement
 ![sup pg 11](assets/supp-bits/1abb1-s11.png)\
 Supplement:\
 able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being\
@@ -2326,7 +2337,7 @@ little, lord, make, makes, magnify, mb, mp, member, mis-, mistake, much, much mo
 
 
 
-### Notes on Reporting
+#### Notes on Reporting, Supplement, Word Lists
 
 Images for these are burried in the Supplement, Notes on Reporting. These ones don't seem to follow any specific rule.
 
@@ -2364,30 +2375,30 @@ solicitor, some, sometimes, source, special, spirit, state, strong, strength, su
 
 
 
-## Teaching Part 1
+### Teaching Part 1 Word Lists
 
 Teaching 1 includes useful comments in the list. See [Jacob Moena's transcript of Teaching 1.](https://orthic.shorthand.fun/teaching-pt1)
 
-### Common Words
+#### Common Words
 
 ![alt text](assets/teach-1-bits/1list-t110.jpg)\
 Teaching 1: Also, each, any, because, cause, child, children, from, form, great, much, that, already, according, after, both, else, even, except, help, know, little, letter, part, sir, work, word, would / world, party
 
-### Other Abbreviations, Mode 2
+#### Other Abbreviations, Mode 2
 ![alt text](assets/teach-1-bits/1list-t113.jpg)\
 Teaching 1: different, difference, ultimo, interest
 
 
 
 
-## Revised
+### Revised Word Lists
 
-### Abbreviations for Common Words, page 13
+#### Abbreviations for Common Words, Revised page 13
 
 ![alt text](assets/revised-split/1common-words-r13.jpg)\
 Revised: a, an, able, about, above, after, already, also, always, am, amount, anger, answer, any, anyone, are, are not, be, beg, big, body, but, both, came, come, can, can't, child, could, course, court, dear, do, does, down, even, for, form, forthwithy, found, friend, from, further, general, gentleman, gentlemen, good, great, had, half, have, having, into, like, made, might, more, most, much, must, never, not, note, nothing, of, on, once, one, out, over, perhaps, right, rightful, round, same, some, self, shall, she, sould, something, state, to, under, very, verify, weak, week, were, what, which, whom, with, without, would, young, youngster, you, yours, youth
 
-### General Methods of Abbreviation, page 19
+#### General Methods of Abbreviation, Revised page 19
 
 ![alt text](assets/revised-split/1abb-gen-mthd-r19.jpg)\
 Revised, page 19:\
@@ -2398,7 +2409,7 @@ head, hood, would, world, might, -ment
 
 xxx Is it worth cutting this? Would need to include 7 lines out of 17.
 
-### Examples of Abbreviations, page 22,23
+#### Examples of Abbreviations, Revised page 22,23
 
 Derivatives of words are abbreviated in the same way as the word except:
 - adjust in the same way as just
@@ -2418,7 +2429,14 @@ Revised page 22: accord, according, advantage, afraid, afternoon, announce, appa
 ![alt text](assets/revised-split/1ex-abbr-r23.jpg)\
 Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade particular, party, partly, peculiar, people, puip, philo-, philosophy, plaintif, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
-# Notes to Self
+
+## Full Table of Contents{: no_toc}
+* Table of Contents
+{:toc}
+
+
+
+## Notes to Self
 
 - If it's not obvious where the full description should be, choose the earlier one.
 - Abbreviation and Vocab sections assume reader knows Joins. Jeremy's notation is enough for them to make the image on their own. (Will need to add to the notation.)
@@ -2437,3 +2455,5 @@ Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obe
 - manually do the links in each heading, I think, so V in joins and V in abbreviating aren't just V1 and V2.
 
 - code should be a serif font (i,l,I,O,0), preferably monospaced to make it stand out
+
+
