@@ -23,7 +23,6 @@
 body {
 
     margin:auto;
-    padding: 0; 
     max-width: 900px;
 
 
@@ -49,7 +48,7 @@ a:hover {text-decoration: underline;}
 
 #sitehead {
 
-    padding-bottom: 5em 1ch 5em 1ch;    
+    padding-bottom: 1ch 1ch 2ch 1ch;    
     border : 5px solid var(--accent1);
     text-align:center;
     background-color: var(--accent2);
@@ -70,72 +69,36 @@ a:hover {text-decoration: underline;}
 #sitehead a:hover {text-decoration: underline;
 }
 
-h1 
-/* Only One Per Page! */
-{
+h1, h2, h3, h4, h5, h6 {
     color: var(--accent1);
-    font-family: sans-serif;
-    font-size: 400%;
+    font-family: serif;
     font-weight: bold;
-    text-align: center;
 }
 
-h2 {
-    color: var(--accent1);
-    font-family: sans-serif;
-    font-size: 200%;
-    font-weight: bold;
-    text-align: left;
-}
+/* Only One h1 Per Page! */
+h1 { font-size: 400%; text-align: center; }
+h2 { font-size: 300%; }
+h3 { font-size: 200%; }
+h4 { font-size: 150%; }
+h5 { font-size: 125%; }
+h6 { font-size: 100%; }
+
 
 h2 a {text-decoration: none;
 }
 
-p {
-    /* line-height: 1.25; */
-}
-
-h3 {
-    color: var(--accent1);
-    font-family: sans-serif;
-    font-size: 175%;
-    font-weight: bold;
-    text-align: left;
-}
-
-h3 {
-    color: var(--accent1);
-    font-family: sans-serif;
-    font-size: 150%;
-    font-weight: bold;
-    text-align: left;
-}
-
-h3 {
-    color: var(--accent1);
-    font-family: sans-serif;
-    font-size: 125%;
-    font-weight: bold;
-    text-align: left;
-}
-
-h3 {
-    color: var(--accent1);
-    font-family: sans-serif;
-    font-size: 110%;
-    font-weight: bold;
-    text-align: left;
-}
 
 table {
     border: 2px solid var(--accent1);
     border-collapse: collapse;
+    margin: auto
 }
 
 th, td {
     padding: 1ch;
     border: 1px solid var(--accent2);
     border-collapse: collapse;
+    vertical-align: top;
 
 }
 
@@ -147,6 +110,9 @@ img {
 
 code {
     font-family:monospace;
-    border: 1px solid var(--accent2);
-    font-size: 150%;
-    }
+    font-size: 1rem;
+}
+
+em {
+    font-weight:500;
+}

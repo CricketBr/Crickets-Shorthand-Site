@@ -1,7 +1,7 @@
 # Cricket’s Shorthand Course
 
 xx
-Rev 2025-06-26
+Rev 2025-06-26 -- removed speed goals for each level; replaced them with accuracy of first dictation;
 
 Canonical copy, contact and licence at 
 <https://cricketbr.github.io/Crickets-Shorthand-Site>
@@ -48,14 +48,17 @@ A good book will:
 
 This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do.
 
-Experts do not agree on a method of progression. Even books published by the same company disagree!
+Experts, even from the same company, do not agree on teaching methods, even when using the same textbooks. This book is my advice and the reasons behind it. It is heavily influenced by two books:
 
-There are three main methods:
-- Increase to 40wpm. Learn all the theory at that speed, then build speed. This is fast enough to force some pen efficiency and force you to learn the building-blocks instead of think about them.
-- Increase speed and theory evenly across the course.
-- Learn most of the theory by reading but not writing, then increase spead and theory across the remainder of the course. (Gregg Functional Method)
+xxx links
 
-Options 2 and 3 are only available if the text has sufficient shorthand images in each chapter. I have focused on the first.
+- Methods of Teaching Gregg Shorthand, Louis A Leslie. Follows the Functional approach, which requires a great deal of reading material for each chapter of the textbook. For students learning theory and initial speed and endurance building.
+
+- Systematic Speed Course for Advanced Writers, CL Swem. Starts after you know the theory and can write at 80-100wpm for 5 minutes.
+
+Leslie makes a good case for delaying writing until you know most of the shapes, and delaying cop
+
+Adjust this program as you see fit.
 
 ## Typical Hour
 
@@ -67,13 +70,13 @@ Just like with music, shorter and more-frequent works better than longer and les
 
 Review the theory and copy words that demonstrate each rule. You will work through the book several times. You can stop this step this once you can take dictation from unseen material at 125wpm on your first attempt.
 
-Modern books (beginner and advanced) often incorporate a systematic review in their exercises. If your book does this, then you can spend less time reading theory and more time reading and writing the exercises. Swem's course starts after you know all the theory and can write 80wpm for 5 minutes -- and he still recommends reviewing the basic manual at least 1-2 times, until you reach 125wpm.
+Modern books (beginner and advanced) often incorporate a systematic review in their exercises. If your book does this, then you can spend less time reading theory and more time reading and writing shorthand. Swem's course starts after you know all the theory and can write new material at 80wpm for 5 minutes -- and he still recommends reviewing the basic manual at least 1-2 more times, until you reach 125wpm.
 
-If your advanced book does not review the basic rules, then alternate books.
+If you are ready for an advanced book, but it does not review the basic rules, then alternate books.
 
 [Reading instructions](#how-to-read-shorthand) are in a later section.
 
-If your book says to just read then keep reading for the rest of the hour. (The Gregg Functional Method books do this.) If you can't resist picking up the pen, then continue with these instructions.
+If your book says to just read *then keep reading* for the rest of the hour. (The Gregg Functional Method books do this.) If you can't resist picking up the pen, then continue with these instructions.
 
 **10 minutes reading your own writing.**
  
@@ -85,13 +88,13 @@ If you have not already written for 5 minutes (copying example words), do that n
 
 As said before, take time from this block if your book has reading material.
 
-3 sessions out of 4, follow the usual copy and dictation pattern, described later. Start slow, increase speed until accuracy is fairly low, then finish at a medium speed.
+4 sessions out of 5, follow the usual copy and dictation pattern, described later. Start slow, increase speed until accuracy is fairly low, then finish at a medium speed.
 
-1 session out of 4, experiment.
+1 session out of 5, experiment.
 
 **5 minutes practicing penmanship.**  
 
-End each session, no matter how short, with accurate but not-slow writing. Music teachers also recommend this. Your body remembers the final minutes of a lesson strongly.
+End each writing session, no matter how short, with accurate but not-slow writing. Music teachers also recommend this. Your body remembers the final minutes of a lesson strongly.
 
 Swem suggests tracing shorthand in the textbook. This will force you to notice subtle details, but isn't always an option and may not give much variety. Many systems have penmanship exercises. Do some from your system, or one similar, or invent your own. Sometimes work on problems you know you have. Other times work on other aspects. Often the real problem is something we think we've mastered.
 
@@ -105,13 +108,21 @@ Once you know the shapes well, add speed to this, enough to make your writing sm
 
 Optional, but I like the information. This is for your own use. Be as specific or vague as you like.
 
-IA diary shows progress (reassuring) and the results of experiments. It will also show when you need to push through a plateau.
+A diary shows progress (reassuring) and the results of experiments. It will also show when you need to push through a plateau.
 
 You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy vs length, and the effect of different types of repetition. This will change rapidly at first, then settle down, then change again as you increase your target speeds.
 
 I recommend date, passage description, length in words, activity (Read, Copy, Dictation), the wpm (words per minute) and accuracy of each attempt. The numbers will go up and down, but the average will gradually go up. Include room for other notes.
 
-Reading skill is as important as writing skill. Track it!
+Reading skill is as important as writing skill. Test it every few sessions.
+
+| Date | Passage | Length | 1st | 2nd | 3rd | 4th | 5th | 6th | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jun26 | GSF2 ch5 ex40 | 100 | Read sh/50 | 30/95 | 40/95 | 50/90 | 40/95 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jun26 | Hob ch1 L100-110 | 100 | Read txt, practice all | 40/95 | 50/95 | 60/90 | 70/90 | 60/95 | Lots of long words|
+| Jun26 | Hob ch1 L110-120 | 100 | Read txt, practice probs only |40/90 | 40/95 | 50/90| 60/90 | 50/98| Happy! |
+| Jun26 | Hob ch1 L110-120 | 100 | Read txt, no practice |40/90 | 40/95 | 50/95| 60/90 | 50/98| Happy! |
 
 ## How to Read Shorthand
 
@@ -132,9 +143,11 @@ Use the key instead of struggling with a word. Leslie recommends you keep one fi
 
 You may want to make a chart of letters by shape, including preffixes and suffixes, so you can look them up quickly.
 
-Reread each passage until you can read it without referring to the key, pointing to each word. It is ok if you inadvertently memorize it, but be sure to look at each word.
+Reread each passage until you can read it without referring to the key, pointing to each word. It is ok if you inadvertently memorize it, but be sure to look at each word as you say it.
 
 As you gain experience, look for letters that often occur together, and think of them as a single letter. Eg TR and SH.
+
+***Delay writing as long as you can.*** Your pen will be wobbly the first few times you write, but your brain will know the building blocks and how they fit together, and you will avoid most mistakes made by new writers.
 
 ### Column Method to Read Difficult Words
 
@@ -158,9 +171,33 @@ If you do not have a sample to copy, you will have to make your own. Be extra ca
 
 Your hand will be unstable at first. (Leslie) Work only until you stop improving, then take a break. We can only improve so much each day, and working longer will not help.
 
-Begin with very short passages (only 20 words) and build up to 100.
+Begin with very short passages (only 20 words) and build up to 60.
 
-Stay at this stage until your hand is comfortable and there is not much difference in your penmanship between copies. It should only take a few exercises!
+***Start dictation*** when your hand is somewhat comfortable with your system's shapes and you can copy with 95% accuracy. Dictation will build knowledge and speed faster than copying.
+
+### Four Column Method for Copying
+
+This method works well while you are at the copying stage, in the early stages of dictation when you should have well-written shorthand in front of you, when you cannot take dictaion, and at all stages for penmanship practice. It also helps you build hand speed separate from brain speed.
+
+It will not, however, help you build brain speed. I speak from experience. Only dictation will do that.
+
+Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect. If you are creating your own material, write your first attempt in the first column and leave room for corrections.
+
+Check your work and make corrections. Choose a few outlines you struggled with, copy them a few times, then copy the passage again.
+
+Then copy from the first column to the second, check your work, make corrections, and practice difficult sections. Then copy from the second column to the third, and the third to the forth. Check your work, make corrections, and practice difficult sections after each copy.
+
+The 1st column needs to be accurate, since it will be the model for the others. Accurate means readable and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
+
+Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed.
+
+Speed up even more for the 3rd column. Go so fast that your writing is only 95% accurate.
+
+The 4th and final column should be slow enough for 98% accuracy, but no slower. Your hand will remember this copy most. Too slow will teach slow writing. Too fast will teach inaccurate writing.
+
+It will take a bit of practice to learn how fast to write each column. The speeds will increase over time. Some passages will be easier or harder than others. Find speeds that usually work and don't worry about it.
+
+Some people do this in rows, leaving four rows between each original copy, instead of in four columns.
 
 ### Accuracy and Perfection
 
@@ -192,29 +229,7 @@ Graph paper can help you practice correct sizing, especially for horizontal line
 
 Use it for precision drills when needed, but not as a regular practice.
 
-### Four Column Method for Copying
 
-This method works well while you are at the copying stage, and later for penmanship practice, and when you cannot take dictation. It also helps you build hand speed separate from brain speed.
-
-It will not, however, help you build speed. I speak from experience. Only dictation will do that.
-
-Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect. If you are creating your own material, write your first attempt in the first column and leave room for corrections.
-
-Check your work and make corrections. Choose a few outlines you struggled with, copy them a few times, then copy the passage again.
-
-Then copy from the first column to the second, check your work, make corrections, and practice difficult sections. Then copy from the second column to the third, and the third to the forth. Check your work, make corrections, and practice difficult sections after each copy.
-
-The 1st column needs to be accurate, since it will be the model for the others. Accurate means readable and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
-
-Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed.
-
-Speed up even more for the 3rd column. Go so fast that your writing is only 95% accurate.
-
-The 4th and final column should be slow enough for 98% accuracy, but no slower. Your hand will remember this copy most. Too slow will teach slow writing. Too fast will teach inaccurate writing.
-
-It will take a bit of practice to learn how fast to write each column. The speeds will increase over time. Some passages will be easier or harder than others. Find speeds that usually work and don't worry about it.
-
-Some people do this in rows, leaving four rows between each original copy, instead of in four columns.
 
 
 ### Find the Size Your Hand Prefers
@@ -301,32 +316,75 @@ Copy the words you did not get correct the first time to a page with tomorrow’
 
 > The goal toward which you are striving is to reach the point where you can take new matter at your top speed and write it as well as you would after taking it two or three times. Of course, no matter how much skill you may eventually acquire you will occasionally "flunk" an outline or a phrase. In reading it back you will correct it, but the fact that you wrote it incorrectly the first time should be no cause for worry. It is done by everybody. Your aim should be simply to bring these errors down to a minimum. — Swem
 
-That's a far distant goal. Start where you are — with hand and brain that need to practice a passage before speeding it up.
+That's a far distant goal. Start where you are — with shakey knowledge of the theory, and hand and brain that need to practice a passage before speeding it up.
 
-Start dictation when your hand is only somewhat comfortable with your system's shapes and you can copy with 95% accuracy. Dictation will push rules from your brain to your hand faster than copying.
+Reading well-written shorthand is the best way learn how the rules work together, but only works if you have reading material.
 
-Graduate to Swem's Course, modified as described later, when your final speed reaches 60-80wpm, and unmodified when you reach 80-100wpm for 5 minutes. Swem's method starts with a dictation at your target speed, which might be a waste of time if you don't know the core theory. Experiment and see.
+Dictation fast enough to make you focus and keep your pen moving smoothly is the best way to practice. It forces your brain and hand to work without hesitation and highlights problem areas. However, it is a waste of time if you don't know what you are supposed to write.
 
-**Read, correct, and practice problem areas after each writing.**
 
-The normal sequence for each exercise is:
-- Preparation Appropriate to the Stage
-- Slow Dictation
-- Faster Dictation (and Faster)
-- Final Dictation at Slower Speed
+
+
+
+
+
+Stay with preparation as described below and 1-minute dictations until you are ready for Modified Swem's. (60-80wpm for 1 minute on first attempt with no preview.)
+
+The normal sequence for each exercise before mastering the theory is:
+- Preparation appropriate to the stage of theory mastery.
+- Slow dictation. Retake at this speed once if needed.
+- Faster dictation (and faster). 
+- Final dictation at intermediate speed.
+
+Read your work carefully, especially the preparation and first dictation of a passage. Make corrections, and practice difficult areas as needed after all dictations.
 
 ### Preparation Appropriate to the Stage
 
-The stages are:
-- Practice the entire passage once before dictation.
-- Read the passage but only practice difficult sections before dictation.
-- No reading or practice before dictation.
+Learning the rules so you can reduce preparation level is more important than speed. However, pushing speed will help reinforce the rules.
 
-Correct your work and practice difficult areas. Make copy if accuracy was below 90% — but only once. Copying the same material helps accuracy, and is better than nothing if you cannot take dictation, but does not build speed.
+**Progression**
 
-Leslie recommends that students take dictation with the shorthand image in front of them, especially when they are new to dictation and trying to apply several new skills at the same time. All students – fast, slow or lazy – will reduce their reliance on the text as their confidence and speed increase.
+Experiment with the next prepartion stage when you feel ready. Drop your first dictation speed by 10% for a few dictations, then increase it again. Your first dictation for a passage should be 90-95% accurate.
 
-Be prepared for slower speeds when you increase stages. It will take a few experiments to find your new starting speed.
+**Read Shorthand, Practice Once.**
+
+Read the entire passage. Look up rules you are uncertain of. Then copy the shorthand at a fluid speed. Keep one finger (or a ruler) on the shorthand to mark your place. Read a sentence, then say a group of words out loud, then write them. This works better than writing one word at a time.
+
+Repeat this step only for your first few times copying shorthand.
+
+**Read Shorthand, Minimal Practice.**
+
+Optional Stage. Read the entire passage, then practice only the sections you expect to struggle with. If you have a teacher, they will choose material that is 80-90% familiar, and which sections you should practice before dictation.
+
+**Read Typed Material, Write Shorthand, Pause as Needed.**
+
+Leslie says writing shorthand from typed material is a waste of time, but his students have the luxury of an entire book of shorthand that adds theory a bit at a time.
+
+Read the sentence, then read a few words at a time out loud and write them. Keep one finger or a ruler on the text to keep your place, or print the text on paper leaving room for shorthand between each line, or, getting fancy, see .... xxxx template for typed->shorthand paper.
+
+ If a rule causes repeated problems, practice a list of words that use that and related rules.
+
+Repeat this step if needed to get a reasonably clean copy.
+
+Try not to stay at this stage too long. Pausing is a bad habit, but writing a page filled with mistakes or "to check" flags is a waste of time.
+
+**Read Typed Material, Write Shorthand, No Pauses**
+
+Again, this stage is not necessary if you have enough shorthand to read and copy. Do not waste time on it.
+
+Do not get in the habit of pausing to think about the best way to write something and missing the rest of the sentence. Get down the key letters for the word, leave a gap, and keep going.
+
+If you need to leave so many gaps it gets annoying, go back to the previous stage.
+
+Move to the next stage when you can write something readable for everything, and the preferred outline for 90% of words, without referring to the rules.
+
+**No Preparation**
+
+Your first dictation will be slower and have more mistakes than before -- but the mistakes should be due to lack of practice with cold dictation, not lack of knowledge.
+
+If you have too many gaps at slow speeds, it's because either your overall knowledge of the theory is too low or you are letting a few difficult words throw you. In the first case, go back to preparing passages. There is no benefit to unprepared dictation before you know the theory to support it. In the second, increase your speed, get down one letter for the unknown word, and keep up with the dictation.
+
+Move to [modified Swem's](#starting-swems-systematic-speed-course) when your final dictation is 60-80wpm with 95% accuracy, and all the mistakes are due to lack of speed, not lack of knowledge. Swem's method begins with a 
 
 ### Text Reader (aka Dictation) Programs
 
@@ -338,95 +396,52 @@ It doesn’t sound as nice as a human dictator, but it’s a lot more patient.
 This one is reported to sound better, and may do other languages.
 
 ### Slow Dictation
-  
-Choose a speed that usually allows for just under 95% accuracy. If you regularly achieve over 95% on the first dictation, increase the starting speed.
 
-20wpm for 1 minute is suitable for your first-ever dictation. Your writing will be horrible, but will improve quickly as you get used to the process. After your first hour of dictation, do not repeat any speeds but the first.
+20wpm for 1 minute is suitable for your first-ever dictation. Your writing will be horrible, but will improve quickly as you get used to the process. Move up to 30 and even 40wpm starting speed as soon as you can.
 
-If your first attempt is below 90% accuracy, then go down by 10wpm and try again.
+At this stage of learning, your first dictation of a passage should be 90-95% accurate. I call this slow dictation because it is the slowest attempt at the passage, even though it is the same or worse accuracy than Swem's fast dictation.
 
-Most teachers do not clarify whether a 1-minute passage is 1-minute at the initial speed or the final speed. Use the average and don't worry about it. The relative difference will shrink as your speed increases.
+Remember to correct your work and practice difficult sections after each dictation. See [Practicing Problem Areas](#practicing-problem-areas) below for more advice.
 
-Remember to correct your work and practice difficult sections after each dictation.
+If your accuracy was <95% repeat the starting speed. If you cannot reach this on your 2nd attempt, slow down and/or do more preparation. Writing a page filled with mistakes is a waste of time.
 
-Swem recommends beginning each passage so fast you can barely manage with great effort. I don't think that does any good until you know the theory well.
+Leslie recommends that students take dictation with the shorthand image in front of them, especially when they are new to dictation and trying to apply several new skills at the same time. All students – fast, slow or lazy – will reduce their reliance on the text as their confidence and speed increase.
 
-If you cannot reach the target speed, try dividing the passage into two sections instead of reducing step size. Prove to yourself that your pen can move fast enough.
-
-However, sometimes a smaller step makes more sense, especially at the higher speeds. Experiment. If the larger step doesn’t work, try a smaller step, or try an even larger step.
-
-There is no benefit to repeated failure.
+A 1-minute passage is 1-minute long at the final speed, which is usually 20wpm higher than the starting speed.
 
 ### Faster Dictation
 
-Increase the speed by 10wpm, make corrections, and increase speed again until you are down to 90% accuracy. This is your overshoot speed. It will force your hand to go faster for the easy parts, and show you which parts need attention even though they seemed fine at slower speeds.
+Increase the speed by 10wpm. It will probably be more accurate than the slower attempt because your hand and brain now know the passage, and you have worked on the difficult sections. Make corrections and practice difficult areas, but do not repeat dictation at this speed.
 
-Do your best to keep up and get at least something down for each word. (A sentence with one inaccurate word is better than losing the rest of the sentence. A hint of a word is better than nothing.) 
+Increase the speed again, make corrections and practice, until you have written the passage *4 times*, including preparation.
+
+If any speed is <90% accurate, repeat that speed.
+
+If the accuracy of your last take was >95%, you're done. If it was <95% then drop speed by 10wpm for a clean final take.
+
+Immediately after reducing preparation your starting speed will drop, but your top speed will not. Four writings might not be enough to reach top speed. If this happens, alternate preparation methods. On some passages work on dictation with less preparation. On other passages work on higher speed. Do not work on both at the same time if it reduces the variety of material in a week.
+
+*Do not write a passage more than 6 times*, including preparation and a final take with at least 95% accuracy. You may need to stop below your top speed so you do not overshoot and have do a 7th take for accuracy. 
 
 **Step Size**
 
-Previous generations of students succeeded with 10wpm steps through 80 or even 100wpm. I would use that size step both for increasing target speeds and repeating a passage, until you reach at least 80wpm. Larger steps are more likely to break you out of ruts and to highlight problem sections. Smaller will give you more successes and confidence.
+Previous generations of students succeeded with 10wpm steps through 80 or even 100wpm. I would use that size step both for increasing target speeds and repeating a passage, until you reach at least 80wpm. Larger steps are more likely to break you out of ruts and to highlight problem sections, but writing too fast too often does more harm than good.
 
-### Final Dictation at Slower Speed
+### Experiments and Challenges.
 
-Take a final dication at the highest speed you expect to get 95% accuracy. Be brave! Make corrections. If you achieve that, you're done. If not, slow down once more so your final take is reasonably accurate. 
+Try an experiment every 5th passage, from this list or anything else that strikes your fancy. 
 
-### Total Number of Takes
+These are experiments and maybe practice, not tests. Be curious.
 
-4-6 takes should cover the entire sequence. If it takes more, then experiment! Maybe you can increase a speed or step size. Too many takes of the same passage will reduce variety. Too few will not give your hand and brain time to master the new content.
+- Try the next level of preparation, if you're close to ready.
 
-Note that your starting speed will drop drastically when you reduce preparation, but your overshoot and final speeds will be the same. Work hard to build your starting speed back up, so there are fewer steps between that and your overshoot speed.
+- Increase the speed of your first dictation.
 
-Some books recommend only 3-4 takes per passage, but that includes preparation at home if appropriate to the stage, and does not include overshooting (which I find extremely useful).
-
-Continue to experiment, so you notice when you are ready to increase speeds.
-
-If your book has a lot of exercises, then lower your speeds a bit so you don't spend too much time in each chapter.
-
-
-### Challenges and Progressions
-
-For each passage, except the first few after a speed increase, pick one challenge (rotate through them):
-- Use a faster starting speed. If you usually achieve 95%, then this is your new starting speed.
-- Push the top speed. If your accuracy is still better than 90%, then this is your new top speed.
-- Start the last dictation faster than usual. If you usually achieve 95%, this is your new final speed.
-
-After each increase, adjust the other speeds so starting speed is 10-20wpm below final speed, and overshoot speed is 10-20 above final speed. Aim for 4-6 takes per passage. It's all a bit of a guess. Some passages are easier or harder. Sometimes you have good or bad days.
-
-Stay at each stage until your first dictation is 95% accurate at the following speeds:
-- Full Preparation until 40-60wpm, 1 minute.
-- Reduced Preparation until 50-70wpm, 1 minute. 
-- No Preparation until 60-80wpm, 1 minute.
-- Modified Swem until 80-100wpm, 1 minutes.
-- Blanchard's Pyramid a few times. [Building Endurance](#building-endurance)
-- Modified Swem until 80wpm, 5 minutes. (Alternate days of short and long dictation.)
-- Unmodified Swem.
-
-If you increase duration before reaching 100wpm for 1 minute, you will have to do your own math for the endurance-building pyramid, or use a different method to increase endurance.
-
-Your starting speed and accuracy will temporaily drop after when you reduce preparation.
-
-You may want to switch to Modified Swem shortly after switching to reduced preparation. Experiment. Their method builds speed faster, with fewer repetitions.
-
-Increase your duration when your speed reaches 80wpm and 95% accuracy. See [Building Endurance](#building-endurance) .
-
-One session in four should be experiments instead of the normal exercises, as described later.
-
-### Experiments
-
-Remember to keep a diary and experiment. These are experiments and maybe practice, not tests. Use the results to decide what to do next.
-
-Dedicate 1 sessions in 4 to experiments. You will not fit all experiments into a single session, so rotate through them or follow your curiosity.
-
-- Do the first attempt even slower — slow enough for practically perfect — then build speed as before.
-
-- Do less preparation than usual.
-
-- Push the final speed until accuracy drops to 80%, then drop 20wpm for the final dictation.
+- Keep increasing the speed until you have written it 5 times or your accuracy falls below 80%. Then do a clean final take a bit faster than your usual final take.
 
 - Try something longer, with the same speed experiments.
 
-- Follow Swem's advice and start with a fast dictation, so fast you cannot quite keep up, followed by a practically perfect one. As you get better, you will find this approach works better. Switch when appropriate, or use a mix.
+- Follow Swem's advice and start with a fast dictation, so fast you cannot quite keep up, followed by a practically perfect one. You will find this approach works better as you master the theory. Switch when appropriate, or use a mix.
 
 ## Additional Advice
 
@@ -442,7 +457,7 @@ When you record spelling, note clearly whether it's correct or best-guess.
 
 Avoid the temptation to make abbreviations. Shorthand speed comes from using the building blocks well, not creating abbreviations. (See section on Klein’s motion picture studies.)
 
-Some writers leave larger margins and use a mark instead of a gap to mark needed corrections. Experiment.
+Some writers leave larger margins and use a mark instead of a gap to mark needed corrections or spelling. Experiment.
 
 ### Relax
 
@@ -450,41 +465,45 @@ Tension and aiming for perfection are the biggest causes of slow writing. Relax!
 
 Treat each attempt as an experiment, not a test. There is no pass/fail, just information about what type of practice to do next. It is ok to slow down for a bit if you pushed too hard, too fast, or you are having a bad week.
 
+Go down a speed or increase prepartion for a while.
+
 ### A Note on Speed
 
-Dictation that is slow enough to be 100% accurate helps you write accurately. It does not help you build speed.
+Do both types of practice.
 
-Fast dictation helps you build speed, shows you which words need practice, and helps you write easy words faster so you have more time for difficult words. Doing all your work at this speed risks penmanship degradation and loss of accuracy.
+> It is true, however, that if a learner is permitted to stay at 60 words a minute until he can pass tests with 1-5 errors consistently, his progress is being harmed. He becomes so accustomed to writing at that speed that he finds difficulty in going up to 80 words a minute. If he is started up toward 80 as soon as he can write 60 within 10—20 errors, it is much easier to make the transition to the higher speed. This is true at each speed-step on the ladder. -- Leslie, Methods of Teaching Shorthand, page 187.
 
-Leslie recommends pushing until your accuracy drops to 80%. (xxx where?) I think that's a bit high. Use 90% for your overshoot speed, 95% for good-enough, and 98% for practically perfect. Adjust a bit depending on the speed-building method and what works for you.
+10-20 errors in 60 words is only 67-84% accuracy. I worry about penmanship and bad habits at that speed.
 
-Once you graduate to Swem's method, use his advice for speeds.
-
-Work at a variety of speeds, even if you think you only need practice at one speed. We are often poor judges of what we actually need.
-
-End each session by writing either perfectly (tracing well-written shorthand) or writing as fast as you can while remaining accurate.
+> Each day the learner should write most of the writings for speed only, without regard to legibility. Each day the learner should write some of the dictations for legibility only, without regard for speed. The speed of those dictations should be moderate, so that the learner is free to devote all his attention to writing perfect shorthand notes. Thus it is important that the learner should seldom try to combine the two, yet should never go for a full class period without alternating the two.  -- Leslie, Methods of Teaching Shorthand, page 186
 
 ### Comparing Speeds
 
-For now, the only reason to care about speed is to know what speed to attempt next, and possibly bragging rights.
+For now, the only reason to care about speed is to know what speed to attempt next and possibly bragging rights.
 
-Speed depends on many factors. Check with your school, testing agency, or professional association for their rules, early enough that you can be sure to meet them.
+Unless stated, speed is the fastest you can record new material and be able to read it 100% accurately. There is no standard duration.
 
-*Counting Words.* Gregg says 1 word is 1.4 syllables. Pitman says a word is a word. German shorthands count syllables, not words. (You'll know why if you speak German.) I don't know what different text reader programs use. For now, while speed is just a setting on your computer, use that.
+Your school, testing agency, or professional association will clearly define the rules for accuracy, duration, and type of material. They will have sample dictations to practice with. Check with them early enough that you have time to meet their standards. Some even offer proctored practice exams so you can become familiar with the entire testing process.
 
-*Accuracy.* Most professions care only about the transcript, not the shorthand. The only exception I found was UK Journalists, whose shorthand notes are sometimes used as legal evidence. Even then, the shorthand does not have to be perfect. It just has to support the transcript. When learning, 95% accuracy passes. As your speed with that accuracy increases, your speed at 100% accuracy will also increase.
+**Counting Words.** Gregg says 1 word is 1.4 syllables. Pitman says a word is a word. German shorthands count syllables, not words. (You'll know why if you speak German.) I don't know what different text reader programs use. For now, while speed is just a setting on your computer, use that.
 
-*Amount of Preparation.* Eventually, only your speed for unprepared material will matter.
+**Accuracy.** Most professions care only about the transcript, not the shorthand. The only exception I found was UK Journalists, whose shorthand notes are sometimes used as legal evidence. Even then, the shorthand does not have to be perfect. It just has to support the transcript. Most teachers say a transcript that is 95% accurate passes. This includes formatting and typing accuracy. Professions, however, expect closer to perfection. 
 
-*Length of passage.* Speed goes down as length increases. Eventually you will write at close to the same speed for 1 minute as for 5, but not yet.
+Work on increasing your top speed at 95% accuracy. That will increase your speed at 100% accuracy will also increase faster than working at slower speeds.
 
-*Steady vs Burst and Pause.* For now, take steady dictation. Practice with bursts and pauses once you reach 5 minute duration and close to professional speeds.
+**Amount of Preparation.** Only your speed for unprepared material matters to your employer.
 
-*Familiarity with the Material.* An office stenographer is unlikely to have a brief form for "If it pleases the court."
+**Length of passage.** Speed goes down as length increases. Eventually you will write at close to the same speed for 1 minute as for 5, but not yet.
 
-*Type of Material.* Even a court reporter will have very few brief forms for poetry.
+**Steady vs Burst and Pause.** For now, take steady dictation. Practice with bursts and pauses once you reach 5 minute duration and close to professional speeds.
 
-Typical speeds: [UK journalists needed 100wpm](https://www.holdthefrontpage.co.uk/2023/news/fewer-than-one-in-five-journalism-students-pass-100-wpm-shorthand/) needed 100wpm until 2016. [Toastmasters](https://www.toastmasters.org/magazine/magazine-issues/2021/sept/quit-talking-quickly) recommends 120-160 wpm. [Court reporters](https://www.courtreportersboard.ca.gov/applicants/information.shtml) need 200wpm.
+**Familiarity with the Material.** A parliamentary reporter is unlikely to have a brief form for "If it pleases the court."
+
+**Type of Material.** Even a court reporter will struggle with poetry.
+
+**Unusual Word and Names.** Those are usually provided separately and not included in the speed test. However, you should practice getting down enough that you can make a good guess the spelling.
+
+Typical speeds: [UK journalists](https://www.holdthefrontpage.co.uk/2023/news/fewer-than-one-in-five-journalism-students-pass-100-wpm-shorthand/) needed 100wpm until 2016. [Toastmasters](https://www.toastmasters.org/magazine/magazine-issues/2021/sept/quit-talking-quickly) recommends 120-160 wpm. [Court reporters](https://www.courtreportersboard.ca.gov/applicants/information.shtml) need 200wpm for 13 minutes.
 
 
 ### Practicing Problem Areas
@@ -622,15 +641,30 @@ Blanchard, Factors of Shorthand Speed.
 
 ## Starting Swem's Systematic Speed Course
 
-**Comparison of Cricket's Course for Beginners to Swem's Course for Advanced Writers**
+### Comparison of Cricket's Course for Beginners to Swem's Course for Advanced Writers
+
+Cricket's course is for building theory with a bit of speed. The first dictation is slow and full of mistakes because your brain is learning the theory and your hand is learning the shapes. The next dictation is usually more accurate even though it is faster, because your brain and hand now know the passage better. One of the dictations (overshoot) is faster than you expect to be accurate, to find problem areas and keep up the pressure.
+
+Swem's course is for building speed once you know the theory. The first dictation is messy but readable. Your brain and hand know what to do, but can't do it at the requested speed. 
+
+
+
 
 <table>
 <thead><th>Cricket</th><th>Swem</th></thead>
 <tbody>
 
 <tr>
-  <td>Squeeze in what you can. Several shorter sessions works better than infrequent long sessions.</td>
-  <td>7 x 1-hour sessions per week; double up some days to create a rest day each week; never more than 2 days without practice.</td>
+  <td>Mistakes are due to both lack of speed and lack of knowledge.  
+    </td>
+  <td>Very few mistakes are due to lack of knowledge.</td>
+</tr>
+
+<tr>
+  <td>Squeeze in what you can. Several shorter sessions works better than infrequent long sessions.<br />
+    Experiment every 5th passage.   
+    </td>
+  <td>7 x 1-hour sessions per week. 5 of one type of practice, 2 of a different type. Double up some days to create a rest day each week. Never more than 2 days without practice.</td>
 </tr>
 
 <tr>
@@ -640,7 +674,7 @@ Blanchard, Factors of Shorthand Speed.
 
 <tr>
   <td>15 minutes per hour (re)read theory.</td>
-  <td>15 minutes per hour (re)read theory</td>
+  <td>15 minutes per hour (re)read theory. Even though you know the theory, a review helps, especially for the optional rules.</td>
 </tr>
 
 <tr>
@@ -649,21 +683,16 @@ Blanchard, Factors of Shorthand Speed.
 </tr>
 
 <tr>
-  <td>Preview appropriate to stage. Final stage is with no preview.</td>
-  <td>No preview.</td>
-</tr>
-
-<tr>
   <td>Read, correct, and practice problem areas for all attempts.</td>
   <td>Read and correct first attempts only. Practice problem areas after all attempts.</td>
 </tr>
 <tr>
-  <td>Start passage at a speed you can usually reach 95% accuracy.</td>
-  <td>Start passage at a speed at which you must exert yourself. Swem does not specify an accuracy.</td>
+  <td>Preview depending on theory knowledge and available materials.</td>
+  <td>"A speed at which you must exert yourself...Just get it down some way or another." Swem does not specify an accuracy until you reach 125wpm and 95% for a first attempt.</td>
 </tr>
 <tr>
-  <td>Not applicable.</td>
-  <td>Slow to practically perfect.</td>
+  <td>First dictation slow enough for 90-95% accuracy.</td>
+  <td>Next dictation "practically perfect" (but no slower).</td>
 </tr>
 <tr>
   <td>Increase until above target speed.</td>
@@ -673,8 +702,10 @@ Blanchard, Factors of Shorthand Speed.
   <td>Decrease to target speed for final attempt.</td>
   <td>You will probably be able to take it even above the speed of the first attempt, and by now the hour will probably be up.</td>
 </tr>
+  <td>Usually five repetitions, plus preparation.</td>
+  <td>At least four reptitions, including the first attempt.</td>
 <tr>
-  <td>Finish every session, no matter how short, with penmanship practice. Alternate methods between sessions.</td>
+  <td>Finish every writing session, no matter how short, with penmanship practice. Alternate methods between sessions.</td>
   <td>Finish every session (sessions are an hour) with 5 minutes penmanship practice tracing textbook with dry pen.</td>
 </tr>
 <tr>
@@ -685,13 +716,13 @@ Blanchard, Factors of Shorthand Speed.
 </table>
 
 
-## Modified Swem’s Systematic Speed Course for Intermediate Writers
+### Modified Swem’s Systematic Speed Course for Intermediate Writers
 
-When you are confident with the theory, move from Cricket's Beginner Sequence to Modified Swem's. Alternate for a few excercises if you worry you moved too soon.
+When you are confident with the theory, move from Cricket's Beginner Sequence to Modified Swem's.
 
 Read the [full article](swem-systematic-speed-course.md) for details.
 
-Swem wrote his course for advanced writers, who could write at 80-100wpm for 5 minutes. Make the following adjustments until you reach that stage.
+Swem wrote his course for advanced writers, who could write new material at 80-100wpm for 5 minutes on their first attempt. Make the following adjustments until you reach that stage.
 
 Keep a diary as before. Watch for changes, ruts and plateaus.
 
@@ -723,9 +754,9 @@ Alternate days of short/fast and long/slow dictations until your long speed reac
 
 
 
-## Unmodified Swem's Course
+### Unmodified Swem's Course
 
-Even though Swem does not say to, you should continue to experiment work on shorter and even longer passages, in addition to the recommended 5-minute passages.
+Even though Swem does not say to, you should continue to experiment work on short fast and longer slow passages, in addition to the recommended 5-minute passages.
 
 Increasing your 1-minute speed will help if the speaker sometimes speaks faster and sometimes pauses. Two dictations with the same average speed can have very different top speeds.
 
