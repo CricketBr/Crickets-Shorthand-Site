@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSW - Homepage
+title: CSW Homepage
 ---
 
 # Still Under Construction

@@ -5,7 +5,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 
 */
 
-.cssrev::after{
+.cssrev::after {
     content: " css rev 2025-06-27-1351";
     font-size: 3;
     color: var(--accentMain);
@@ -60,7 +60,7 @@ a:hover {
 
 
 header {
-    margin:0;
+    margin: 0;
     padding: 0rex 2rex 2rex 2rex;
 
     border-width: 1rex 1rex 0 1rex;
@@ -178,12 +178,17 @@ img {
     max-width: 100%;
 }
 
+img.row1 {
+    height: 2em;
+    border: 1px solid black;
+}
+
 code {
-    font-family: "Courier New", monospace;
-    overflow:auto;
+    /* font-family: "Courier New", monospace; */
+    overflow: auto;
     font-weight: 500;
-    margin:auto;
-    overflow:scroll;
+    margin: auto;
+    overflow: scroll;
 
 }
 
@@ -195,5 +200,4 @@ blockquote {
     margin-left: 2ex;
     border-left: 0.5ex solid var(--accentMed);
     padding-left: 2ex
-
 }

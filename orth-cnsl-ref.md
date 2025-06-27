@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSW - Homepage
+title: OCR - Orthic Consolidated Reference
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -11,7 +11,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 By CricketB
 
-Revised 2025-06-27-1404
+Revised 2025-06-27-1418
 
 Still very fluid.
 
