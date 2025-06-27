@@ -5,16 +5,17 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 
 */
 
-header::after{
-    content: " css rev  10";
+.cssrev::after{
+    content: " css rev  11";
 }
 
 :root {
     --kortrightblue: #1062a9;
     /* --accent1: hsl(208, 75%, 40%); */
-    --accentMain: hsl(208, 75%, 40%);
+    --accentMain: #196bb3;
     --accentMed: hsl(209, 49%, 90%);
     --accentLight: hsl(209, 41%, 95%);
+    --contrastMain: #B32B19;
     /* --accent1: #ff0000; */
 
 
@@ -45,7 +46,8 @@ a {
 
 a:hover {
     text-decoration: underline;
-    border-bottom: 2px solid var(--accentMain)
+    border-bottom: 1px solid var(--accentMain);
+    color: red;
 }
 
 
@@ -79,7 +81,7 @@ article {
 
 header a,
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 .subtitle {
@@ -102,7 +104,7 @@ h6,
 
 /* Only One h1 Per Page! */
 h1 {
-    font-size: 300%;
+    font-size: 350%;
     text-align: center;
 }
 
@@ -156,9 +158,18 @@ img {
 code {
     font-family: "Courier New", monospace;
     overflow:auto;
+    font-weight: 500;
+    margin:auto
 
 }
 
 .serif {
     font-family: serif;
+}
+
+blockquote {
+    margin-left: 2ex;
+    border-left: 0.5ex solid var(--accentMed);
+    padding-left: 2ex
+
 }

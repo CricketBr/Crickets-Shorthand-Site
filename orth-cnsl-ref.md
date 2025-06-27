@@ -17,7 +17,7 @@ xxx fix this up nicely
 
 ## remember they have already read the Manual !!!
 
-## Table of Contents (Short){: .no_toc}
+## Table of Contents (Short){:.no_toc}
 
 * [Introduction to Orthic Consolidated](#introduction-to-orthic-consolidated)
 * [Acknowledgements](#acknowledgements)
