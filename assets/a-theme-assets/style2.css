@@ -4,7 +4,7 @@ HTML details hides content until asked for
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
 
 
-911
+5
 */
 
 :root {
@@ -74,26 +74,31 @@ article {
 }
 
 
-header a, h1 a {
-    text-decoration:rebeccapurple;
+header a,
+h1 a {
+    color: rebeccapurple;
 }
 
 header a:hover {
     text-decoration: underline;
 }
 
-
-
+.subtitle {
+    font-size: 150%;
+    text-align: center;
+}
 
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.subtitle {
     color: var(--accentMain);
     font-weight: bold;
-    margin: 0;
+    margin: 1rem 0 0 0;
+    padding: 0;
 }
 
 /* Only One h1 Per Page! */
@@ -104,11 +109,10 @@ h1 {
 
 h2 {
     font-size: 200%;
-    text-align: center;
 }
 
 h3 {
-    font-size: 125%;
+    font-size: 150%;
 }
 
 h4 {
@@ -156,10 +160,9 @@ code {
 }
 
 .serif {
-   font-family: serif;
+    font-family: serif;
 }
 
 em {
     font-weight: 500;
 }
-
