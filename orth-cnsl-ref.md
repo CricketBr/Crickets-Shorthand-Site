@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-1638
+Revised 2025-06-27-2452
 
 CSS
 {: .cssrev}
@@ -956,7 +956,7 @@ Much disagreement among the authors. (Cricket)
 | Small loop, exit off the bottom. | SR | SHR | SR |
 | Small loop, even smaller loop in the top | SHR | x | SHR |
 | SC, nothing fancy | SC | x | SC |
-| SC, R inside C | SCR | SCR | |
+| SC, R inside C | SCR | SCR | x |
 
 Callendar: Manual and Supplement\
 Stevens: Teaching, Psalms, Aesop's Fables\

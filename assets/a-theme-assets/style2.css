@@ -6,9 +6,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-1638";
+    content: " css rev 2025-06-27-2452";
     font-size: 3;
     color: var(--accentMain);
+    font-weight: bold;
 }
 
 :root {
@@ -32,7 +33,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 body {
 
     margin: auto;
-    max-width: 600px;
+    max-width: 800px;
     text-align: left;
     line-height: 1.5;
     border: hidden 1px;
@@ -179,8 +180,8 @@ tr:nth-child(even) {
 
 img {
     max-width: min(600px, 100%);
-    margin-bottom:0;
-    overflow:scroll;
+    margin-bottom: 0;
+    overflow: scroll;
 }
 
 img.row1 {
@@ -188,8 +189,15 @@ img.row1 {
     border: 1px solid black;
 }
 
+img.row1sup {
+    height: 2.2em;
+    border: 1px solid black;
+    /* 2.0 too small */
+}
+
 img.man {
-    /* max-width: 600px; */
+    max-width: 500px;
+    /* 600px too big */
 }
 
 img.teach {
@@ -209,8 +217,11 @@ code {
     /* font-family: "Courier New", monospace; */
     /* font-weight: 500; */
     margin: auto;
+    max-width: 100%;
     overflow: scroll;
-    font-size: 140%;
+    font-size: 130%;
+    background-color: var(--accentLight);
+
 
 }
 
