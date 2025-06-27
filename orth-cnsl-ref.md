@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OCR - Orthic Consolidated Reference
+title: OCRef - Orthic Consolidated Reference
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -9,7 +9,10 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-1549
+Revised 2025-06-27-1609
+
+CSS
+{:. cssrev}
 
 Still very fluid.
 
