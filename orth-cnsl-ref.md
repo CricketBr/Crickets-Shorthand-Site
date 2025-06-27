@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-1914
+Revised 2025-06-27-1922
 
 CSS
 {: .cssrev}
@@ -210,12 +210,12 @@ Most books say use 1:3, but then use less in the Two Sizes image, and somewhere 
 ![two sizes, manual](assets/manual-bits/1two-sizes-m005.png){: .man}\
 Manual: alphabet, letters grouped by size, st, ste, en, ens, inst, nt, er, ers, abs, against, epitaph
 
-![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach1}\
 Teaching 1: Alphabet, CH, ing1, ing2
 
 Note the U is at a different angle between Teaching and the Manual. It's not critical.
 
-![alt text](assets/teach-1-bits/1groups-t102.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/1groups-t102.jpg){: .teach1-1row}\
 Teaching 1: Letters grouped in another way.
 
 
@@ -245,20 +245,20 @@ Most letters are doubled by putting a dot underneath. EE, II, EI and IE are exce
 ![double letters, manual](assets/manual-bits/1doubled-ltrs-m003.png){: .man}\
 Manual: odd, too, ee, sleep, sup
 
-![alt text](assets/teach-1-bits/1double-t103.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1double-t103.jpg){: .teach1}\
 Teaching 1: aa, Baal, foot
 
-![alt text](assets/teach-1-bits/ei-t103.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ei-t103.jpg){: .teach1}\
 Teaching 1: ee, ei, reed, reid
 
-![alt text](assets/revised-split/1double-r02.jpg){: .teach}\
+![alt text](assets/revised-split/1double-r02.jpg){: .teach1}\
 Revised: odd, coo, ee, peep, pup
 
 See also EE.
 
 Where there are double a's or oo's, leave out one. (Teaching 1)
 
-![alt text](assets/teach-1-bits/1double,a,o-t107.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1double,a,o-t107.jpg){: .teach1}\
 Teaching 1: command, son, soon
 
 
@@ -307,7 +307,7 @@ Indicated in a few ways. See S to distinguish intial S from initial P. (S is ver
 ![capitals, manual](assets/manual-bits/1capitals-m005.png){: .man}\
 Manual: Jack, Clay, S.E., L.S.W.R. (London and South West Rail Company)
 
-![alt text](assets/teach-1-bits/ealing-t104.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/ealing-t104.jpg){: .teach1-1row}\
 Teaching 1: Ealing
 
 ![alt text](assets/revised-split/1capitals-r03.jpg){: .rev}\
@@ -330,7 +330,7 @@ Check both orders of vowels to see all example words.
 ![vowels indiv, manual](assets/manual-bits/1vow-sep-m004.png){: .man}\
 Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
 
-![alt text](assets/teach-1-bits/1vowindiv-t104.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1vowindiv-t104.jpg){: .teach1}\
 Teaching 1: oar, Laon
 
 ![alt text](assets/revised-split/1vow-indiv-r03.jpg){: .rev}\
@@ -356,7 +356,7 @@ Revised: ai, oy, ou, eau
 
 An upstroke vowel following or preceeding Y is written with an angle. (Teaching 1)
 
-![alt text](assets/teach-1-bits/ye,obey-t104.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/ye,obey-t104.jpg){: .teach1-1row}\
 Teaching 1: ye, obey
 
 
@@ -374,19 +374,19 @@ See S for AYS.
 ![a diphthongs, manual](assets/manual-bits/a-diphth-m006.png){: .man}\
 Manual: ai, au, ay, days, quay, says, hay
 
-![alt text](assets/teach-1-bits/dear-t104.jpg){: .teach1row}
-![alt text](assets/teach-1-bits/dear-wrong-t104.jpg){: .teach1row}
-![alt text](assets/teach-1-bits/demr-t104.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/dear-t104.jpg){: .teach1-1row}
+![alt text](assets/teach-1-bits/dear-wrong-t104.jpg){: .teach1-1row}
+![alt text](assets/teach-1-bits/demr-t104.jpg){: .teach1-1row}\
 Teaching 1: dear, dear(wrong), demr
 
-![alt text](assets/teach-1-bits/meal-t104.jpg){: .teach1row}
-![alt text](assets/teach-1-bits/mail-t104.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/meal-t104.jpg){: .teach1-1row}
+![alt text](assets/teach-1-bits/mail-t104.jpg){: .teach1-1row}\
 Teaching 1: meal, mail
 
-![alt text](assets/teach-1-bits/day-t104.jpg){: .teach1row}
-![alt text](assets/teach-1-bits/day-wrong-t104.jpg){: .teach1row}
-![alt text](assets/teach-1-bits/dm,dmy-t104.jpg){: .teach1row}
-![alt text](assets/teach-1-bits/may-t104.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/day-t104.jpg){: .teach1-1row}
+![alt text](assets/teach-1-bits/day-wrong-t104.jpg){: .teach1-1row}
+![alt text](assets/teach-1-bits/dm,dmy-t104.jpg){: .teach1-1row}
+![alt text](assets/teach-1-bits/may-t104.jpg){: .teach1-1row}\
 Teaching 1: day, dm(wrong), dm or dny, may
 
 ![alt text](assets/revised-split/a-r07.jpg){: .rev}\
@@ -409,10 +409,10 @@ Teaching 1 recommends that AI always be written in AI order, regardless of surro
 
 #### AO, OA, AU
 
-![alt text](assets/teach-1-bits/oar,laon-t104.jpg){: .teach}\
+![alt text](assets/teach-1-bits/oar,laon-t104.jpg){: .teach1}\
 Teaching 1: oar, Laon
 
-![alt text](assets/revised-split/au-r05.jpg){: .teach}\
+![alt text](assets/revised-split/au-r05.jpg){: .teach1}\
 Revised: au, audit, landau
 
 Write A above O, possibly towards the correct end of the O.
@@ -500,7 +500,7 @@ See also AY.
 
 An upstroke vowel following or preceding Y is written with an angle. - Teaching
 
-![alt text](assets/teach-1-bits/obey,ye-t104.jpg){: .teach1row}\
+![alt text](assets/teach-1-bits/obey,ye-t104.jpg){: .teach1-1row}\
 Teaching 1: ye, obey
 
 
@@ -544,7 +544,7 @@ BL can be shown by reversing the direction of the B loop, and optionally writing
 ![c, manual](assets/manual-bits/c-m007.png){: .man}\
 Manual: ck, suckle, cl, close, cr, crutch, ct
 
-![alt text](assets/teach-1-bits/chl,chr-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/chl,chr-t105.jpg){: .teach1}\
 Teaching 1: chlo, chro
 
 ![alt text](assets/revised-split/c-r07.jpg){: .rev}\
@@ -613,7 +613,7 @@ FS: S curves upwards to the left. See S.
 ![g, manual](assets/manual-bits/g-m008.png){: .man}\
 Manual: gh, high, gl, glory, gr, agree, gn, sign
 
-![alt text](assets/teach-1-bits/g-lowered-t114.jpg){: .teach}\
+![alt text](assets/teach-1-bits/g-lowered-t114.jpg){: .teach1}\
 Teaching 1: gn, foreign, age, magnify
 
 ![alt text](assets/supp-bits/goodness-s.png){: .sup1row}\
@@ -708,7 +708,7 @@ Manual (W) (Callendar): who, ha (have)
 
 WH: Enlarge the W to look like H. (Teaching 1)
 
-![alt text](assets/teach-1-bits/wh-t106.jpg){: .teach}\
+![alt text](assets/teach-1-bits/wh-t106.jpg){: .teach1}\
 Teaching 1 (Stevens): th, who
 
 ![alt text](assets/revised-split/ch,wh-r05.jpg){: .rev}\
@@ -718,7 +718,7 @@ Revised (Clarey): wh, whose, when, chose, chin
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
-![alt text](assets/teach-1-bits/it-t107.jpg){: .teach}\
+![alt text](assets/teach-1-bits/it-t107.jpg){: .teach1}\
 Teaching 1: it
 
 Stevens (Teaching, Psalms) I below the line in short words such as IN. This is not in any rules.
@@ -738,10 +738,10 @@ Revised: j
 
 Manual has no images.
 
-![alt text](assets/teach-1-bits/ks-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ks-t105.jpg){: .teach1}\
 Teaching 1: ks-correct, ks-not-recommended\
 
-![alt text](assets/teach-1-bits/k-sublin-t114.jpg){: .teach}\
+![alt text](assets/teach-1-bits/k-sublin-t114.jpg){: .teach1}\
 Teaching 1: take, taking, sake
 
 ![alt text](assets/revised-split/ks-r06.jpg){: .rev}\
@@ -768,10 +768,10 @@ KR: Vowel comes off the top to save time and going around the circle twice. See 
 Manual: black, bread, clay, crow, addle, dry, flow, fro, glad, grade, play, pray, little, litre, slay, Israel, held, herd, world, already,\
 lf, half, lk, walk, lp, help, lt, wilt, lv, salve
 
-![alt text](assets/teach-1-bits/bl,br-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/bl,br-t105.jpg){: .teach1}\
 Teaching 1: bl, br
 
-![alt text](assets/teach-1-bits/l,r-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/l,r-t105.jpg){: .teach1}\
 Teaching 1: pl, br, fl, fr, ml, mr
 
 ![alt text](assets/revised-split/l-r08.jpg){: .rev}\
@@ -842,10 +842,10 @@ All examples from the Manual are under Joining Vowels with Vowels.
 ![p, manual](assets/manual-bits/p-m010.png){: .man}\
 Manual: sp, sphere, ps, cusps, ph, ph ```(ph-b, ph-d)```, phrase, phlegm, pl, place, pr, present, pd, depth, phth
 
-![alt text](assets/teach-1-bits/ph-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ph-t105.jpg){: .teach1}\
 Teaching 1: ph, ph ```(ph-b), (ph-d)```, phar, phy
 
-![alt text](assets/teach-1-bits/ps-t106.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ps-t106.jpg){: .teach1}\
 Teaching 1: sp, ps, sps
 
 ![alt text](assets/revised-split/ph-r04.jpg){: .rev}\
@@ -889,7 +889,7 @@ PW uses angle-W (Revised)
 ![q, manual](assets/manual-bits/q-m010.png){: .man}\
 Manual: esquire
 
-![alt text](assets/teach-1-bits/q-t106.jpg){: .teach}\
+![alt text](assets/teach-1-bits/q-t106.jpg){: .teach1}\
 Teaching 1: q
 
 ![alt text](assets/revised-split/q-r09.jpg){: .rev}\
@@ -918,11 +918,11 @@ To clearly state the spelling, two ideas come to mind:
 ![r, manual](assets/manual-bits/r-m010.png){: .man}\
 Manual: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv
 
-![alt text](assets/teach-1-bits/rh-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/rh-t105.jpg){: .teach1}\
 Teaching 1: rha, rha ?? \
 I think the 2nd one is HR, also used for THR. (Cricket)
 
-![alt text](assets/teach-1-bits/pra-t105.jpg){: .teach}\
+![alt text](assets/teach-1-bits/pra-t105.jpg){: .teach1}\
 Teaching 1: pra
 
 ![alt text](assets/revised-split/rc-r04.jpg){: .rev}\
@@ -969,7 +969,7 @@ x: No examples found.
 ![s, manual](assets/manual-bits/s-m011.png){: .man}\
 Manual: shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
 
-![alt text](assets/teach-1-bits/sh-t106.jpg){: .teach}\
+![alt text](assets/teach-1-bits/sh-t106.jpg){: .teach1}\
 Teaching 1: shro, sho
 
 ![alt text](assets/revised-split/scr,sr-r04.jpg){: .rev}\
@@ -1041,7 +1041,7 @@ SW: See W for alternate form of W.
 
 ### T
 
-![alt text](assets/teach-1-bits/th-t106.jpg){: .teach}\
+![alt text](assets/teach-1-bits/th-t106.jpg){: .teach1}\
 Teaching 1: TH
 
 ![t, manual](assets/manual-bits/t-m011.png){: .man}\
@@ -1098,7 +1098,7 @@ Manual: way, woe, wet, write
 ![w, manual](assets/manual-bits/w2-m012.png){: .man}\
 Manual: sews, cows, laws, wk, hawk, wl, owls, wn, dawn
 
-![alt text](assets/teach-1-bits/w-t106.jpg){: .teach}\
+![alt text](assets/teach-1-bits/w-t106.jpg){: .teach1}\
 Teaching 1: wo, ow, owing, owing, wd, wd, sw.
 
 ![alt text](assets/revised-split/sw-r04.jpg){: .rev}\
@@ -1378,7 +1378,7 @@ Slurred into one large character compounded of d and v.
 #### -AGE, -AKE -- See -GE.
 
 #### -AL ```l```
-![alt text](assets/teach-1-bits/al-final-t115.jpg){: .teach}\
+![alt text](assets/teach-1-bits/al-final-t115.jpg){: .teach1}\
 Teaching 1: final, upper
 
 The softly sounding vowel can be slurred in terminations such as "al". (Teaching 1)
@@ -1395,7 +1395,7 @@ Revised: elementary, contrary, conservatory
 
 #### -ATION ```.n```
 
-![alt text](assets/teach-1-bits/ation-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ation-t108.jpg){: .teach1}\
 Teaching 1: termination
 
 ![alt text](assets/revised-split/ation-r12.jpg){: .rev}\
@@ -1410,13 +1410,13 @@ Note Stevens' cleverness using the word *termination*. It's hard to see here, bu
 ![alt text](assets/supp-bits/been-s.png){: .sup1row}\
 Supplement: be, being, been.
 
-![alt text](assets/teach-1-bits/be01-raised-t112.jpg){: .teach}\
+![alt text](assets/teach-1-bits/be01-raised-t112.jpg){: .teach1}\
 Teaching 1: behold, be-ad (not bead)
 
-![alt text](assets/teach-1-bits/be02-raised-t112.jpg){: .teach}\
+![alt text](assets/teach-1-bits/be02-raised-t112.jpg){: .teach1}\
 Teaching 1: been, better, best, bring, thing
 
-![alt text](assets/teach-1-bits/be-t112.jpg){: .teach}\
+![alt text](assets/teach-1-bits/be-t112.jpg){: .teach1}\
 Teaching 1: be
 
 ![alt text](assets/revised-split/be-r15.jpg){: .rev}\
@@ -1465,7 +1465,7 @@ xxx ??
 ![alt text](assets/supp-bits/consideration-s.png){: .sup1row}\
 Supplement: com-, con-, come, came, command, comment, common, compound, comprehend, concerning, conserve, consideration
 
-![alt text](assets/teach-1-bits/com-t113.jpg){: .teach}\
+![alt text](assets/teach-1-bits/com-t113.jpg){: .teach1}\
 Teaching 1: "I commend" (with dot), "I commend" (written close to the preceeding word)
 
 ![alt text](assets/revised-split/com,con-r16.jpg){: .rev}\
@@ -1502,7 +1502,7 @@ Revised: ge, edge, lodge, budge
 
 #### DD, DT ```dd, dt```
 
-![alt text](assets/teach-1-bits/dd,dt,td-t115.jpg){: .teach}\
+![alt text](assets/teach-1-bits/dd,dt,td-t115.jpg){: .teach1}\
 Teaching 1: DD
 
 Slurred to a double-wide D. (Teaching 1)
@@ -1520,7 +1520,7 @@ In words having the combination DJ, leave out the D. (Teaching 1)
 ![alt text](assets/supp-bits/advantage-s.png){: .sup1row}\
 Supplement: advantage
 
-![alt text](assets/teach-1-bits/dv-t114.jpg){: .teach}\
+![alt text](assets/teach-1-bits/dv-t114.jpg){: .teach1}\
 Teaching 1: dv
 
 ![alt text](assets/revised-split/dv-r04.jpg){: .rev}\
@@ -1572,7 +1572,7 @@ opponent, provident, agent
 
 #### -ER ```r```
 
-![alt text](assets/teach-1-bits/al-final-t115.jpg){: .teach}\
+![alt text](assets/teach-1-bits/al-final-t115.jpg){: .teach1}\
 Teaching 1: final, upper
 
 The softly sounding vowel can be slurred in terminations such as "al". (Teaching 1)
@@ -1593,13 +1593,13 @@ Supplement: every, evening, event, evident, evil
 ![alt text](assets/supp-bits/even-s.png){: .sup1row}\
 Supplement: even, written e'en to distinguisn from than or then.
 
-![alt text](assets/teach-1-bits/v1-raised-t111.jpg){: .teach}\
+![alt text](assets/teach-1-bits/v1-raised-t111.jpg){: .teach1}\
 Teaching 1: given, loved
 
-![alt text](assets/teach-1-bits/v2-raised-t111.jpg){: .teach}\
+![alt text](assets/teach-1-bits/v2-raised-t111.jpg){: .teach1}\
 Teaching 1: evident, conceived, ever
 
-![alt text](assets/teach-1-bits/v3-raised-t112.jpg){: .teach}\
+![alt text](assets/teach-1-bits/v3-raised-t112.jpg){: .teach1}\
 Teaching 1: give, love, rove
 
 ![alt text](assets/revised-split/eve-r15.jpg){: .rev}\
@@ -1642,7 +1642,7 @@ Revised: fortification, modification
 ![ful, manual](assets/manual-bits/ful-m016.png){: .man}\
 Manual: useful, beautifully, ```usefl, beautifly```
 
-![alt text](assets/teach-1-bits/ful-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ful-t108.jpg){: .teach1}\
 Teaching 1: useful, beautiful / beautyfull
 
 ![alt text](assets/revised-split/ful-r12.jpg){: .rev}\
@@ -1679,7 +1679,7 @@ Some words are better written with the K and omitting the E. (Revised)\
 ![alt text](assets/supp-bits/sign-s.png){: .sup1row}\
 Supplement: foreign, sign
 
-![alt text](assets/teach-1-bits/g-lowered-t114.jpg){: .teach}\
+![alt text](assets/teach-1-bits/g-lowered-t114.jpg){: .teach1}\
 Teaching 1: gn, foreign, age, magnify
 
 ![alt text](assets/revised-split/gn-r17.jpg){: .rev}\
@@ -1710,7 +1710,7 @@ Supplement. No examples.
 Revised: league, prologue, rogue, tongue
 
 #### -HEAD ```hd```
-![alt text](assets/teach-1-bits/head,hood-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/head,hood-t108.jpg){: .teach1}\
 Teaching 1: head
 
 
@@ -1734,7 +1734,7 @@ Bachelorhood : No need for tiny R, just make a bigger H! (Cricket)
 ![ight, manual](assets/manual-bits/ight-m016.png){: .man}\
 Manual: night, light, ```n_t, le_t```
 
-![alt text](assets/teach-1-bits/ight-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ight-t108.jpg){: .teach1}\
 Teaching 1: Demonstrating how raising is just writing the word in full, then erasing the IGH.\
 lite, right
 
@@ -1773,7 +1773,7 @@ I vote we use it in sing and king. It's already used in thing and bring. (Cricke
 ![ion, manual](assets/manual-bits/ion-m016.png){: .man}\
 Manual: action, ```actn``` \
 
-![alt text](assets/teach-1-bits/ion-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ion-t108.jpg){: .teach1}\
 Teaching 1: ion, action
 
 ![alt text](assets/revised-split/ion-r12.jpg){: .rev}\
@@ -1802,7 +1802,7 @@ Supplement uses ```.m```, no examples.
 Manual: abilities, peculiarity, ```ab^ys, pec^y``` \
 Note "abilities" -- y stands unaltered.
 
-![alt text](assets/teach-1-bits/ly,ity-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ly,ity-t108.jpg){: .teach1}\
 Teaching 1: pitty, city, truly, nearly\
 Words are FW and Abbreviated.
 
@@ -1838,7 +1838,7 @@ From other examples, I think this means L can be omitted. (Cricket)
 ![ly, manual](assets/manual-bits/ly-m016.png){: .man}\
 Manual: nearly, easily, dailies, ```near_y, easy_y, day_ys```
 
-![alt text](assets/teach-1-bits/ly,ity-t108.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ly,ity-t108.jpg){: .teach1}\
 Teaching 1: pitty, city, truly, nearly\
 
 ![alt text](assets/revised-split/ly-r17.jpg){: .rev}\
@@ -1870,7 +1870,7 @@ Written m, the rest of the word being placed below to indicate the g. (Supplemen
 ![alt text](assets/supp-bits/mb,mp-s.png){: .sup1row}\
 Supplement: mb, mp
 
-![alt text](assets/teach-1-bits/mb-t114.jpg){: .teach}\
+![alt text](assets/teach-1-bits/mb-t114.jpg){: .teach1}\
 Teaching 1: mb, member, dv
 
 ![alt text](assets/revised-split/mb-r04.jpg){: .rev}\
@@ -1885,7 +1885,7 @@ Note: Only when preceded by E, I and U upstroke vowels. (Revised) It looks like 
 
 #### -MENT   ```mt ```
 
-![alt text](assets/teach-1-bits/ment-t109.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ment-t109.jpg){: .teach1}\
 Teaching 1: ```mt``` 
 
 ![alt text](assets/revised-split/ment-r12.jpg){: .rev}\
@@ -1904,7 +1904,7 @@ Written ms, omitting the i.
 
 #### MM, MN ```mm, mn```
 
-![alt text](assets/teach-1-bits/mm-t114.jpg){: .teach}\
+![alt text](assets/teach-1-bits/mm-t114.jpg){: .teach1}\
 Teaching 1: mm, mn
 
 Double-wide M. Vowel is left out. (Teaching 1)
@@ -1962,7 +1962,7 @@ Revised: explosion, lotion
 ![ough, manual](assets/manual-bits/ough-m016.png){: .man}\
 Manual: ought, brought
 
-![alt text](assets/teach-1-bits/ought-t109.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ought-t109.jpg){: .teach1}\
 Teaching 1: ought, thought
 
 ![alt text](assets/revised-split/ough-r12.jpg){: .rev}\
@@ -1970,7 +1970,7 @@ Revised: o, brought, plough
 
 #### -OUND, -OUNT ```ou```
 
-![alt text](assets/teach-1-bits/ound,ount-t110.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ound,ount-t110.jpg){: .teach1}\
 Teaching 1: round, sound, count, counter, county, country
 
 ![alt text](assets/revised-split/oud,out,ount,ount-r20.jpg){: .rev}\
@@ -2102,7 +2102,7 @@ The t may always be omitted in this combination. (Supplement, Teaching 1)
 ![th initial, manual](assets/manual-bits/th-raised-m015.png){: .man}\
 Manual: the, they, this, them, tho', that
 
-![alt text](assets/teach-1-bits/th-raised-t107.jpg){: .teach}\
+![alt text](assets/teach-1-bits/th-raised-t107.jpg){: .teach1}\
 Teaching 1: Demonstrating how raising is just writing the word in full, then erasing the TH.\
 although
 
@@ -2131,7 +2131,7 @@ ther, others, ard, toward
 ![alt text](assets/revised-split/ther-r12.jpg)
 Revised: ther, hr, other, mother, rather, either
 
-![alt text](assets/teach-1-bits/ther-t109.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ther-t109.jpg){: .teach1}\
 Teaching 1: HR, other
 
 Slur the T into the H circle and put the R inside. (Teaching 1)
@@ -2189,7 +2189,7 @@ See Modes for Revised's warnings about over-use.
 ![alt text](<assets/manual-bits/ward-with-ther-m016 copy.png>)\
 Manual: hr, others, ward, twoards
 
-![alt text](assets/teach-1-bits/ward-t109.jpg){: .teach}\
+![alt text](assets/teach-1-bits/ward-t109.jpg){: .teach1}\
 Teaching 1: forward
 
 ![alt text](assets/revised-split/ward-r12.jpg){: .rev}\
@@ -2232,7 +2232,7 @@ Manual: able to do; as it is; I am not; I have had; I shall be very; to be; ough
 
 ### Phrases in Teaching
 
-![alt text](assets/teach-1-bits/1phrases-t116.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1phrases-t116.jpg){: .teach1}\
 Teaching 1: I should have been; with a view to; able to do so; as soon as
 
 
@@ -2384,11 +2384,11 @@ Teaching 1 includes useful comments in the list. See [Jacob Moena's transcript o
 
 #### Common Words
 
-![alt text](assets/teach-1-bits/1list-t110.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1list-t110.jpg){: .teach1}\
 Teaching 1: Also, each, any, because, cause, child, children, from, form, great, much, that, already, according, after, both, else, even, except, help, know, little, letter, part, sir, work, word, would / world, party
 
 #### Other Abbreviations, Mode 2
-![alt text](assets/teach-1-bits/1list-t113.jpg){: .teach}\
+![alt text](assets/teach-1-bits/1list-t113.jpg){: .teach1}\
 Teaching 1: different, difference, ultimo, interest
 
 
