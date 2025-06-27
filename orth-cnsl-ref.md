@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-2452
+Revised 2025-06-27-1710
 
 CSS
 {: .cssrev}
@@ -275,7 +275,7 @@ Revised: er, th, G, P, S, dirg, faiths, serpent
 
 You can divide a word to keep it on the line. Beware that this might be confused with writing by mode. (Cricket)
 
-![divided words, manual](assets/manual-bits/1divide-line-m005.png)
+![divided words, manual](assets/manual-bits/1divide-line-m005.png)\
 Manual: lawsuit, Woolwich, virgin
 
 ![alt text](assets/revised-split/1divide-r03.jpg)\
@@ -291,7 +291,7 @@ Does this also apply to brackets, so they aren't confused with G and K? (Cricket
 
 Full stop may be indicated by a space (Revised) (Full stop is UK for period.)
 
-![punctuation, manual](assets/manual-bits/1punct-m005.png)
+![punctuation, manual](assets/manual-bits/1punct-m005.png)\
 Manual: hyphen, dash
 
 ![alt text](assets/revised-split/1punct-r03.jpg)\
@@ -304,7 +304,7 @@ Revised: hyphen, dash
 
 Indicated in a few ways. See S to distinguish intial S from initial P. (S is vertical.)
 
-![capitals, manual](assets/manual-bits/1capitals-m005.png)
+![capitals, manual](assets/manual-bits/1capitals-m005.png)\
 Manual: Jack, Clay, S.E., L.S.W.R. (London and South West Rail Company)
 
 ![alt text](assets/teach-1-bits/ealing-t104.jpg){: .row1}\
@@ -327,7 +327,7 @@ Leave the angle between the vowels. For ao/oa, leave a gap.
 
 Check both orders of vowels to see all example words.
 
-![vowels indiv, manual](assets/manual-bits/1vow-sep-m004.png)
+![vowels indiv, manual](assets/manual-bits/1vow-sep-m004.png)\
 Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
 
 ![alt text](assets/teach-1-bits/1vowindiv-t104.jpg)\
@@ -499,6 +499,7 @@ Revised: ua, guard, dual, usual
 See also AY.
 
 An upstroke vowel following or preceding Y is written with an angle. - Teaching
+
 ![alt text](assets/teach-1-bits/obey,ye-t104.jpg){: .row1}\
 Teaching 1: ye, obey
 
@@ -540,7 +541,7 @@ BL can be shown by reversing the direction of the B loop, and optionally writing
 
 ### C
 
-![c, manual](assets/manual-bits/c-m007.png)
+![c, manual](assets/manual-bits/c-m007.png)\
 Manual: ck, suckle, cl, close, cr, crutch, ct
 
 ![alt text](assets/teach-1-bits/chl, chr-t105.jpg)\
@@ -1257,6 +1258,7 @@ Note that the raised letters are in the front of the mouth. The lowered ones are
 Why did they choose L and not R for this rule? (Cricket)
 
 If the last part of the word is normally indicated by mode, use a dot.
+
 ![alt text](assets/supp-bits/advantage-s.png){: .row1}
 ![alt text](assets/supp-bits/arrange-s.png){: .row1}
 ![alt text](assets/supp-bits/arrive-s.png){: .row1}
@@ -2295,31 +2297,34 @@ Lots of other words burried in the various specimens. Most of the specimens are 
 The following words were in the middle of a paragraph, in General Methods of Abbreviation. All the shorthand in the Supplement is on three pages, included just a bit below here. There was no shorthand, only text.
 
 read, round, count, right, most, must, part, point, could, had, head, hood, would, world, most, must, might, ment
-```
+
 red, rou, cou, rt, mst, mst, pt, pnt, cd, hd, hd, hd, wd, wd, mst, mst, mt, mt
-```
+{: .code}
 
 #### Examples of Abbreviations -- Supplement
 ![sup pg 11](assets/supp-bits/1abb1-s11.png)\
 Supplement:\
 able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being\
-```
-not proof
+
+
 ab, aby, abv, ac(ing1), aq, aj, a(dv), af, afnn, afd, a_s, a_t, aso, alry, a.pte, ap.t, ar_*, ar^*, n, nr, bpt, ^b, ^(ing1)
-```
+{: .code}
 
 been, before, believed, better, best, bishop, body, both, by, thy, caught, changes, church, circum, circumstance, com-, con-, come, came, command, comment, common, compound\
-```
+
+
 ^n, ^f, ^lee.d, ^ter, ^st, bp, bdy, bth, ^y, ^y, caut, ch_s, chr???, cer., cerce?? certe??, *, *, cm, cme, *nd, *n, cpou
-```
+{: .code}
+
 xxx Callendar explains churc as ```ch-ch```
 
 xxx circumstance, not sure.
 
 comprehend, concerning, conserve, consideration, counter, country, course, court, Dear, different, difference, difficult, each, editor, else, endeavour, even (e'en), evening, event, every
-```
+
+
 *^hend, *c(ing1), *s^*, *sed, *sed.n, cour, coury, crs, crt, dr, def, def, deft, ea, edor, ls, _end^r, een, ^n(ing2), ^nt, ^ry
-```
+{: .code}
 
 ![sup pg 12](assets/supp-bits/1abb2-s12.png)\
 Supplement:\

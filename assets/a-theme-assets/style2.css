@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2452";
+    content: " css rev 2025-06-27-1710";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -99,16 +99,16 @@ header {
     font-style: italic;
 }
 
-
+/* 
 article {
-    /* padding: 2rex;
+padding: 2rex;
     border-width: 1rex;
     border-style: solid;
-    border-color: var(--accentMain); */
+    border-color: var(--accentMain); 
 
 
 }
-
+ */
 
 
 
@@ -162,7 +162,6 @@ h6 {
 table {
     border: 2px solid var(--accentMain);
     border-collapse: collapse;
-    margin: auto
 }
 
 th,
@@ -186,7 +185,7 @@ img {
 
 img.row1 {
     height: 2em;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 img.row1sup {
@@ -199,21 +198,23 @@ img.man {
     max-width: 500px;
     /* 600px too big */
 }
-
+/* 
 img.teach {
-    /* max-width: 600px; */
+    max-width: 600px;
 }
 
 img.sup {
-    /* max-width: 600px; */
+    max-width: 600px;
 }
 
 
 img.rev {
-    /* max-width: 600px; */
-}
+    max-width: 600px;
+} 
+    */
 
-code {
+code,
+.code1 {
     /* font-family: "Courier New", monospace; */
     /* font-weight: 500; */
     margin: auto;
