@@ -1,11 +1,10 @@
 # Orthic Consolidated – Reference DRAFT
 
-### Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
-{: .subtitle}
+> Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
-Revised 2025-06-27. 1214
+Revised 2025-06-27. 271255
 
 Still very fluid.
 
@@ -13,15 +12,15 @@ Still very fluid.
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
 
+xxx fix this up nicely
 
 This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, https://creativecommons.org/licenses/by-sa/4.0/
 
 Based on works listed below under [Sources](#sources--references).
 
-xxx fix this up nicely
 
-## For Learners Who Have Already Read The Manual !!!
-Or Revised, up to but not necessarily including Reporting.
+
+> For Learners Who Have Already Read The Manual or Revised, up to but not necessarily including Reporting.
 
 ## Table of Contents (Short)
 {: .no_toc}
@@ -73,13 +72,13 @@ xxx means a section needs to be fixed
 
 ### A Note About Reporting
 
-I merged (some of) Reporting in with the rest in order to make a single comprehensive document. Skip all sections marked as Reporting until you have mastered the rest. Trust me. If you try to learn it all at once you will be overwhelmed both with volume and with contradicting rules. Some of Clarey's Reporting rules conflict with Steven's Intermediate rules, and vice versa. Even if you stick to Steven's rules, you will often have to use multiple rules to decipher a single phrase.
+I merged (some of) Reporting in with the rest in order to make a single comprehensive document. Skip all sections marked as Reporting until you have mastered the rest. Trust me. If you try to learn it all at once you will be overwhelmed both with volume and with contradicting rules. Some of Clarey's Reporting rules conflict with Steven's Intermediate rules, and vice versa. Even if you stick to Steven's rules, you will often have to use multiple reporting rules to decipher a single phrase.
 
 A smaller rule set, with building blocks that you use without hesitation, is faster than a larger one with rules you have to think about.
 
 ### Comments and Corrections
 
-Contact me in one of the ways on the first page.
+Contact me in one of the ways on the first page. Many rules need sample images. There are many tyops.
 
 ###  Acknowledgements
 
@@ -93,20 +92,20 @@ Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
 ### Examples and Images, File Names
 
-Help would be welcomed.
+The Manual, Supplement, Teaching 1 and Revised, all levels except Reporting, have all been searched for examples. So has the online Orthic Dictionary (as of June 2025). I mostly did not check the contents of plates or any of the external reading material. If anyone wants to provide examples from other books, especially for rules that don't have examples, it would be much appreciated.
 
-I checked the typed parts of the books, and the Dictionary, for examples. I mostly did not check the contents of plates or any of the external reading material.
+Image file names are in a few formats.
 
-There is no typed version of Revised (yet), so there might be examples of rule that I didn't find, because it was an example of a later rule.
+`cat-t105.jpg` : The word "cat", Teaching 1, page 5.
+- File name starting with `1` means concept, not letter or word.
+- Only the key words or abbreviation are in the file name.
+- m,s,t,r : Manual, Supplement, Teaching, Revised.
+- Page number not shown for Supplement because it only has 3 pages of shorthand.
 
-The image file name consists of the concept or word, book, and page number.
-- m,s,t,r mean Manual, Supplement, Teaching, Revised
-- "cat-t105.jpg" means the word cat, Teaching 1, page 5.
-- File name starting with W means concept, not letter or word
-- page number not shown for Supplement because it only has 3 pages of shorthand.
+`t202-ws.jpg` : Teaching 2, page 2, "ws".
+- Same as above, but different order. 
 
-For Reporting level, the book name and page number is first. The rest might be the concept, or might just be words from the line if more than one concept is illustrated.
-
+`006.jpg` : The page number. See full link for which book.
 
 ### Sources / References
 
@@ -151,28 +150,20 @@ Some of Clarey's explanations and examples are good. Some of his additions and c
 Clipped, assembled and programmed by Jeremy W. Sherman\
 Includes a notation that will encode Orthic text into ASCII. Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
 
-*If not stated, the rule comes from The Manual.* The wording of each rule is a combination of the original sources and my own understanding. I have made very little effort to clarify who said what, but much effort to show where the concept was introduced. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's.
-
-
-
+*If not stated, the rule comes from The Manual.* I have been careful to show where each rule is introduced, but less careful to show who said what. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's.
 
 ### Styles or Levels
 
-The order is:
-- Fully Written
-- Ordinary, Abbreviated aka Correspondence aka Supplement
-- Reporting
+The book agree that Fully Written comes first and Reporting comes last. The middle levels are a bit fuzzy. Ordinary comes after FW. Supplement, Correspondence and Abbreviated overlap.
 
-The books all agree what is in Fully Written, but don't agree on the rest. In general, newer books move rules down, as they are proven safe, useful, and easy to learn.
-
-My intent was to show clearly when a rule applies to a style other than Fully Written. Then I forgot to keep notes.
+In general, newer books move rules to earlier levels, as they are proven safe, useful, and easy to learn.
 
 Where I have included a rule from the Reporting level, I have clearly marked it, unless the Supplement or Teaching moved it to an easier level. I think many words in Revised's middle level are actually Reporting level of risk, but have followed Clarey's organization.
 
 ### Discrepancies
 
-Often a writer will explain a rule, then break it on the next page. I think that happens for a few reasons:'
-- They first learned Pitman, so spelling phonetically is automatic, even when they try to write FW.
+Often a writer will explain a rule, then break it on the next page. I think that happens for a few reasons:
+- They first learned Pitman, so spelling phonetically is automatic, even when they try to write orthographically.
 
 - They are so used to writing advanced levels that they forget the less obvious differences between that and FW.
 
@@ -180,7 +171,7 @@ Often a writer will explain a rule, then break it on the next page. I think that
 
 - They are used to writing for expert readers who can fill in the blanks easily, and don't need perfect penmanship.
 
-Don't worry about it. The only true test of shorthand quality is whether the intended reader can read it at the intended time, for the intended purpose. (I strongly suggest you define that each time you pick up the pen.)
+Don't worry about it. The only true test of shorthand quality is whether the intended reader can read it at the intended time, for the intended purpose. (I strongly suggest you define those each time you pick up the pen.)
 
 ### Notation
 
@@ -196,9 +187,9 @@ Letters in brackets are compound letters or slurs.
 * I indicates dotted i. E is used if the dot is optional.
 * Dot for doubled letters is not included.
 * () indicates a compound letter.
-* vowels are listed in order written. Beginning writers need this.
+* vowels are listed in order written.
 
-Where there is more than one way to write a letter or compound, I added numbers. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : (ing1) = straight, (ing2) = curved, chosen because 1 is straight and 2 is curved. (Cricket)
+Where there is more than one way to write a letter or compound, I added extra characeters. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : `(ing1)` = straight, `(ing2)` = curved, chosen because 1 is straight and 2 is curved. `(ph-b)` is the PH that looks like the letter b. (Cricket)
 
 ## The Alphabet
 ![alphabet, manual](assets/manual-bits/1alphabet-m003.png)\
@@ -1298,7 +1289,7 @@ Drop them all, unless absoultely necessary. Be brave! (Cricket)
 
 
 
-{#abbreviating-principles}
+<a id="abbreviating-principles"></a>
 ## Abbreviating Principles<br/>(Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
 
 Prefixes, suffixes, and common letter groups. Description is under the strongest sounding letter.
@@ -2427,11 +2418,10 @@ The two forms of ea are used repsectively for each and eat. They may be generall
 Revised page 22: accord, according, advantage, afraid, afternoon, announce, apparent, appropriate, arrange, back, background, baptise, baptist, beautiful, believe, bishop, boy, breech, breach, bread, caught, command, commence, comment, common, commonwealth, concerning, consideration, consult, consultation, counter, country, county, dark, darkness, difference, different, difficult, each, eat, else, where, endeaor, except, exception, executor, exercise, expect, favor, female, foreign, forgive, glorify, grade, hand, happy, help, high, him, his, horrify, importance, important, individual, insult, interest, joy, just, justice, king, kingdom, know, known, knowledge, lady, ladyship, language, large, largest, laughter, lead, least, letter, little, lord, mad, male, make, meek, member, morning, mortgage, nearest, necessary
 
 ![alt text](assets/revised-split/1ex-abbr-r23.jpg)\
-Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade particular, party, partly, peculiar, people, puip, philo-, philosophy, plaintif, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
+Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade particular, party, partly, peculiar, people, puip, philo-, philosophy, plaintif, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
 {#full-table-of-contents}
 ## Full Table of Contents
-{: .no_toc}
 * Table of Contents
 {:toc}
 
