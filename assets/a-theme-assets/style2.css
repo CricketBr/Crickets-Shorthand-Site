@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-1753";
+    content: " css rev 2025-06-27-1900";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -178,41 +178,44 @@ tr:nth-child(even) {
 }
 
 img {
-    max-width: min(50rem,100%);
+    max-width: min(50rem, 100%);
     margin-bottom: 0;
     /* overflow: scroll; */
+    border-left: 10px solid purple
 }
 
 img.row1 {
     height: 2em;
-    /* border: 1px solid black; */
+    border: 2px solid purple;
 }
 
-img.row1sup {
+img.sup1row {
     height: 2.2em;
-    border: 1px solid black;
     /* 2.0 too small */
 }
 
+
 img.man {
-    max-width: min(25rem,100%);
-
-} 
-
-
-img.teach {
-    max-width: 600px;
+    max-width: min(25rem, 100%);
+    border-left: solid 2px magenta;
 }
 
 img.sup {
     max-width: 600px;
+    border-left: solid 2px sienna;
+}
+
+img.teach {
+    max-width: 600px;
+    border-left: solid 2px teal;
 }
 
 
 img.rev {
-    max-width: min(30rem,100%);
-} 
-    
+    max-width: min(30rem, 100%);
+    border-left: solid 2px red
+}
+
 
 code,
 .code1 {
