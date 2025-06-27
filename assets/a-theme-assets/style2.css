@@ -4,7 +4,7 @@ HTML details hides content until asked for
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
 
 
-855
+911
 */
 
 :root {
@@ -48,7 +48,7 @@ a:hover {
 
 
 header {
-    padding: 1rex;
+    padding: 2rex;
 
     border-width: 1rex 1rex 0 1rex;
     border-style: solid;
@@ -65,7 +65,7 @@ header {
 }
 
 article {
-    padding: 1rex;
+    padding: 2rex;
     border-width: 1rex;
     border-style: solid;
     border-color: var(--accentMain);
@@ -75,7 +75,7 @@ article {
 
 
 header a, h1 a {
-    text-decoration: pink;
+    text-decoration:rebeccapurple;
 }
 
 header a:hover {
@@ -93,28 +93,30 @@ h5,
 h6 {
     color: var(--accentMain);
     font-weight: bold;
+    margin: 0;
 }
 
 /* Only One h1 Per Page! */
 h1 {
-    font-size: 400%;
+    font-size: 300%;
     text-align: center;
 }
 
 h2 {
-    font-size: 300%;
+    font-size: 200%;
+    text-align: center;
 }
 
 h3 {
-    font-size: 200%;
+    font-size: 125%;
 }
 
 h4 {
-    font-size: 150%;
+    font-size: 125%;
 }
 
 h5 {
-    font-size: 125%;
+    font-size: 113%;
 }
 
 h6 {
