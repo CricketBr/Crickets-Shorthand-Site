@@ -74,16 +74,32 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ### Here is an unordered list:
 
 *   Item foo
-*   Item bar
-*   Item baz
+  *   Item bar
+    *   Item baz
 *   Item zip
 
 ### And an ordered list:
 
 1.  Item one
-1.  Item two
-1.  Item three
+  1.  Item two
+    1.  Item three
 1.  Item four
+
+### and a mix
+
+- level 1 item
+  1. level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
 ### And a nested list:
 
@@ -107,7 +123,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+broken link
 
 
 ### Definition lists can be used with HTML syntax.

@@ -4,15 +4,15 @@ HTML details hides content until asked for
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
 
 
-5
+7
 */
 
 :root {
     --kortrightblue: #1062a9;
     /* --accent1: hsl(208, 75%, 40%); */
     --accentMain: hsl(208, 75%, 40%);
-    --accentCode: hsl(209, 49%, 90%);
-    --accentTable: hsl(209, 41%, 95);
+    --accentMed: hsl(209, 49%, 90%);
+    --accentLight: hsl(209, 41%, 95%);
     /* --accent1: #ff0000; */
 
 
@@ -43,22 +43,23 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline overline;
 }
 
 
 header {
-    padding: 2rex;
+    padding: 0rex 2rex 2rex 2rex;
 
     border-width: 1rex 1rex 0 1rex;
     border-style: solid;
     border-color: var(--accentMain);
     text-align: center;
-    background-color: var(--accentCode);
+    background-color: var(--accentMed);
 
 
     font-size: 500%;
     font-weight: bold;
+    line-height: n;
 
     color: var(--accentMain);
 
@@ -77,6 +78,7 @@ article {
 header a,
 h1 a {
     color: rebeccapurple;
+    text-decoration: none;
 }
 
 header a:hover {
@@ -140,14 +142,14 @@ table {
 th,
 td {
     padding: 1ch;
-    border: 1px solid var(--accentTable);
+    border: 1px solid var(--accentMain);
     border-collapse: collapse;
     vertical-align: top;
 
 }
 
 tr:nth-child(even) {
-    background-color: var(--accentTable)
+    background-color: var(--accentLight)
 }
 
 img {
@@ -156,7 +158,8 @@ img {
 
 code {
     font-family: "Courier New", monospace;
-    /* background-color: var(--accentCode) */
+    overflow:auto;
+
 }
 
 .serif {
