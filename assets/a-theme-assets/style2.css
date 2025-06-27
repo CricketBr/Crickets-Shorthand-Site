@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after{
-    content: " css rev  271255";
+    content: " css rev 2025-06-27-1344";
     font-size: 3;
     color: var(--accentMain);
 }
@@ -34,10 +34,7 @@ body {
     max-width: 900px;
     text-align: left;
     line-height: 1.5;
-
-
-
-
+    border: hidden 1px;
 }
 
 a {
@@ -53,13 +50,17 @@ h1 a {
 }
 
 a:hover {
-    text-decoration: underline overline;
-    border-bottom: 2px solid var(--accentMain);
+    text-decoration: underline;
+    /* border-bottom: 2px solid var(--accentMain); */
+    /* border: 1px solid var(--accentMain); */
+    background-color: var(--accentMed);
+
 
 }
 
 
 header {
+    margin:0;
     padding: 0rex 2rex 2rex 2rex;
 
     border-width: 1rex 1rex 0 1rex;
@@ -71,10 +72,20 @@ header {
 
     font-size: 500%;
     font-weight: bold;
-    line-height: n;
+    line-height: normal;
 
     color: var(--accentMain);
 
+}
+
+#subtitle {
+    border: 5px solid var(--accentMain);
+    background-color: var(--accentMed);
+    color: var(--accentMain);
+    font-size: 350%;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
 }
 
 article {

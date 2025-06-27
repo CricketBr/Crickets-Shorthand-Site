@@ -17,11 +17,11 @@ Finally! All in one place and with human-readable URLs.
 Still a work in progress. Plans will probably change.
 
 You can reach me at:
-- cricket@onebit.ca
-- Discord International Shorthand Society @cricket
-- Reddit u/CrBr
-- GitHub @CricketBr
-- raise an issue on GitHub.  xxx add link
+* cricket@onebit.ca
+* Discord International Shorthand Society @cricket
+* Reddit u/CrBr
+* GitHub @CricketBr
+* [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
 Comments and corrections are more than welcome.
 

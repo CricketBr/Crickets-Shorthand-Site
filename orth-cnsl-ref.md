@@ -1,26 +1,22 @@
 # Orthic Consolidated – Reference DRAFT
 
-> Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+{: .subtitle}
 
-By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
+By CricketB
 
-Revised 2025-06-27. 1308
+Revised 2025-06-27-1345  {: .cssrev}
 
 Still very fluid.
 
-{: .cssrev}
-
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
-
-xxx fix this up nicely
 
 This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, https://creativecommons.org/licenses/by-sa/4.0/
 
 Based on works listed below under [Sources](#sources--references).
 
-
-
-> For Learners Who Have Already Read The Manual or Revised, up to but not necessarily including Reporting.
+For Learners Who Have Already Read The Manual or Revised, up to but not necessarily including Reporting.
+{: .subtitle}
 
 ## Table of Contents (Short)
 {: .no_toc}
@@ -38,6 +34,7 @@ Based on works listed below under [Sources](#sources--references).
 * [Word Lists](#word-lists)
 * [Full Table of Contents](#full-table-of-contents)
 * [Notes to Self](#notes-to-self)
+* [Contact](#contact)
 * [Revision History](#revision-history)
 
 ## Introduction to Orthic Consolidated 
@@ -2424,6 +2421,13 @@ Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, ob
 * Table of Contents
 {:toc}
 
+## Contact
+
+* cricket@onebit.ca
+* Discord International Shorthand Society @cricket
+* Reddit u/CrBr
+* GitHub @CricketBr
+* [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
 {#notes-to-self}
 ## Notes to Self
