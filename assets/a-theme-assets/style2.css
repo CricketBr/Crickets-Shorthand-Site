@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-1710";
+    content: " css rev 2025-06-27-1725";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -178,9 +178,9 @@ tr:nth-child(even) {
 }
 
 img {
-    max-width: min(600px, 100%);
+    max-width: 600px;
     margin-bottom: 0;
-    overflow: scroll;
+    /* overflow: scroll; */
 }
 
 img.row1 {

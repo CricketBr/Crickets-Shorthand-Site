@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-1710
+Revised 2025-06-27-1725
 
 CSS
 {: .cssrev}
@@ -2342,14 +2342,14 @@ little, lord, make, makes, magnify, mb, mp, member, mis-, mistake, much, much mo
 
 Images for these are burried in the Supplement, Notes on Reporting. These ones don't seem to follow any specific rule.
 
-tomorrow: ```tmow```
-until: ```ul```
-instead: ```ins(td)```
-next: ```nst```
-
-estate: ```este```
-ultimate: ```ulte```
-circumstance: ```circe```
+tomorrow: ```tmow```\
+until: ```ul```\
+instead: ```ins(td)```\
+next: ```nst```\
+\
+estate: ```este```\
+ultimate: ```ulte```\
+circumstance: ```circe```\
 institute: ```instute```
 
 
@@ -2430,7 +2430,8 @@ Revised page 22: accord, according, advantage, afraid, afternoon, announce, appa
 ![alt text](assets/revised-split/1ex-abbr-r23.jpg)\
 Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade particular, party, partly, peculiar, people, puip, philo-, philosophy, plaintif, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
-{#full-table-of-contents}
+
+<a name="full-table-of-contents></a>
 ## Full Table of Contents
 * Table of Contents
 {:toc}
@@ -2443,7 +2444,7 @@ Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, ob
 * GitHub @CricketBr
 * [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
-{#notes-to-self}
+<a id="notest-to-self"></a>
 ## Notes to Self
 
 - If it's not obvious where the full description should be, choose the earlier one.
@@ -2464,7 +2465,7 @@ Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, ob
 
 - code should be a serif font (i,l,I,O,0), preferably monospaced to make it stand out
 
-{#revision-history}
+<a id="revision-history"></a>
 ## Revision History
 
 Still very fluid.
