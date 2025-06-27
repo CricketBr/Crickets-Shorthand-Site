@@ -144,27 +144,16 @@ Reddit, Discord, and FaceBook have several groups, both for shorthand in general
 
 ## Make a Personal Reference Binder
 
-### Make a Rule Book Sorted By Longhand
+This helps you study the rules, and, more importantly, look them up when needed. Include a list of rules sorted by longhand and another sorted by shorthand. Include brief forms and common phrases. This will make it easy to write new words (once you finish the book). Many shorthands use the same letter to mean many different things. This sounds scary, but it works. Looking up 
 
-Include brief forms and common phrases. 
+It's a work in progress and should be messy. Rewrite it when you need more space. Think about it while rewriting. Do you really need the full text of the rule, or just a reminder of all the words and suffixes SH might stand for, and whether -SELF goes abover or below the line?
 
-This will make it easy to write new words (once you finish the book). Do this as you go, and rewrite it when you need more space. Rewriting helps you learn.
+**Do Not Make Complete Vocabulary List.** Lists make sense for some parts of learning, but a complete vocabulary list is not one of them. It would be too long! Instead, use the time to get better at using the buidling blocks in a variety of settings.
 
-### Make a Rule Book Sorted by Shorthand Letter
-
-Include brief forms and common phrases. 
-
-Many shorthands use the same letter to mean many different things. This sounds scary, but it works.
-
-The rule book will help you decipher words when reading. The act of making the list, and rewriting it when it needs more space, will help you learn.
-
-### Avoid the Temptation to Make Complete Vocabulary List
-
-Lists make sense for some parts of learning, but a complete vocabulary list is not one of them. It would be too long! Instead, use the time to get better at using the buidling blocks in a variety of settings.
-
-Lists are useful for practicing a rule in a variety of settings, learning abbreviations, and technical terms.
 
 ### Use the Accordion Page Method for Vocabulary Drills
+
+Yes, I just said not to make a complete vocabulary list. That doesn't mean never use lists. Short lists are useful for practicing a rule in a variety of settings, learning abbreviations, and technical terms.
 
 Fold a page into narrow columns. Write the vocabulary in longhand down the left column. Then write the shorthand version in the next column. Now fold the page so you can’t see the longhand. Look at the shorthand, and write the longhand in the next column. Unfold and check your work. Now fold it so you can see the longhand but not the shorthand, and write the shorthand in the next column.
 

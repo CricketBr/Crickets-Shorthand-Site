@@ -1,6 +1,6 @@
 # Orthic Consolidated – Reference DRAFT
 
-### Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+### Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment{:.subtitle}
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
@@ -17,7 +17,8 @@ xxx fix this up nicely
 
 ## remember they have already read the Manual !!!
 
-## Table of Contents (Short){:.no_toc}
+## Table of Contents (Short)
+{: .no_toc}
 
 * [Introduction to Orthic Consolidated](#introduction-to-orthic-consolidated)
 * [Acknowledgements](#acknowledgements)
@@ -2432,7 +2433,8 @@ Revised page 22: accord, according, advantage, afraid, afternoon, announce, appa
 Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade particular, party, partly, peculiar, people, puip, philo-, philosophy, plaintif, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
 
-## Full Table of Contents{: no_toc}
+## Full Table of Contents
+{: .no_toc}
 * Table of Contents
 {:toc}
 
