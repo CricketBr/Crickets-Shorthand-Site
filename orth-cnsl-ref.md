@@ -9,9 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-By CricketB
-
-Revised 2025-06-27-1418
+Revised 2025-06-27-1423
 
 Still very fluid.
 
@@ -212,7 +210,7 @@ Manual: alphabet, letters grouped by size, st, ste, en, ens, inst, nt, er, ers, 
 ![alt text](assets/teach-1-bits/1twosizes-t102.jpg)\
 Teaching 1: Alphabet, CH, ing1, ing2
 
-![alt text](assets/teach-1-bits/1groups-t102.jpg)\
+![alt text](assets/teach-1-bits/1groups-t102.jpg){: .row1}\
 Teaching 1: Letters grouped in another way.
 
 
