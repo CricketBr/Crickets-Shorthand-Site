@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 header::after{
-    content: " css rev  9";
+    content: " css rev  10";
 }
 
 :root {
@@ -43,13 +43,9 @@ a {
     font-weight: bold;
 }
 
-a::after {
-    content:"🔗";
-}
-
 a:hover {
     text-decoration: underline;
-    border-bottom: solid 2px var(--accentMain)
+    border-bottom: 2px solid var(--accentMain)
 }
 
 
@@ -82,7 +78,7 @@ article {
 
 
 header a,
-h1 a {
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     text-decoration: none;
 }
 
@@ -165,8 +161,4 @@ code {
 
 .serif {
     font-family: serif;
-}
-
-em {
-    font-weight: 500;
 }
