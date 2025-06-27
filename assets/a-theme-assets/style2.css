@@ -7,6 +7,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 
 .cssrev::after{
     content: " css rev  1145";
+    font-size: 3;
+    color: var(--accentMain);
 }
 
 :root {
@@ -44,10 +46,11 @@ a {
     font-weight: bold;
 }
 
+
+
 a:hover {
     text-decoration: underline;
     border-bottom: 1px solid var(--accentMain);
-    color: red;
 }
 
 
@@ -80,7 +83,7 @@ article {
 
 
 header a,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h1 a {
     /* text-decoration: none; */
 }
 

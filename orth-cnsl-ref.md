@@ -5,9 +5,10 @@
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
-Revised 2025-06-25. 1145
+Revised 2025-06-27. 1214
 
 Still very fluid.
+
 {: .cssrev}
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
@@ -19,7 +20,8 @@ Based on works listed below under [Sources](#sources--references).
 
 xxx fix this up nicely
 
-## remember they have already read the Manual !!!
+## For Learners Who Have Already Read The Manual !!!
+Or Revised, up to but not necessarily including Reporting.
 
 ## Table of Contents (Short)
 {: .no_toc}
@@ -32,10 +34,10 @@ xxx fix this up nicely
 * [Joining Vowels](#joining-vowels-sounded-individually-and-diphthongs)
 * [Joining Consonants](#joining-consonants)
 * [General Methods of Abbreviation, Including Ordinary Style](#general-methods-of-abbreviation-including-ordinary-style)
-* [Abbreviating Principles](#abbreviating-principles-abbreviations-prefixes-suffixes-slurs-blends-compound-characters-etc)
+* [Abbreviating Principles](#abbreviating-principles)
 * [Phrases](#phrases)
 * [Word Lists](#word-lists)
-* [Full Table of Contents](#full-table-of-contents-no_toc)
+* [Full Table of Contents](#full-table-of-contents)
 * [Notes to Self](#notes-to-self)
 * [Revision History](#revision-history)
 
@@ -65,16 +67,7 @@ Hopefully it creates more clarity than confusion.
 
 It is organized into the following parts: 
 
-* Sources.
-* Alphabet. Not really necessary by the time you're here.
-* Notation.
-* General Rules and Abbreviating Principles.
-* Non-Alphabet Rules. Rules that don't apply to a specific letter.
-* Joining Characters
-  * Vowels Sounded Individually and Diphthongs
-  * Consonants and Vowels
-* Abbreviating Principles (Prefixes, suffixes, slurs, etc)
-* Lists of Abbreviated Words
+
 
 xxx means a section needs to be fixed
 
@@ -1305,7 +1298,7 @@ Drop them all, unless absoultely necessary. Be brave! (Cricket)
 
 
 
-
+{#abbreviating-principles}
 ## Abbreviating Principles<br/>(Abbreviations, Prefixes, Suffixes, Slurs, Blends, Compound Characters, etc.)
 
 Prefixes, suffixes, and common letter groups. Description is under the strongest sounding letter.
@@ -2436,14 +2429,14 @@ Revised page 22: accord, according, advantage, afraid, afternoon, announce, appa
 ![alt text](assets/revised-split/1ex-abbr-r23.jpg)\
 Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade particular, party, partly, peculiar, people, puip, philo-, philosophy, plaintif, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
-
+{#full-table-of-contents}
 ## Full Table of Contents
 {: .no_toc}
 * Table of Contents
 {:toc}
 
 
-
+{#notes-to-self}
 ## Notes to Self
 
 - If it's not obvious where the full description should be, choose the earlier one.
@@ -2464,7 +2457,7 @@ Revised, page 23: neigbor, nevertheless, next, nor, notwithstanding, number, obe
 
 - code should be a serif font (i,l,I,O,0), preferably monospaced to make it stand out
 
-
+{#revision-history}
 ## Revision History
 
 Still very fluid.
