@@ -65,7 +65,7 @@ header {
 }
 
 article {
-    padding: 0.1rex;
+    padding: 1rex;
     border-width: 1rex;
     border-style: solid;
     border-color: var(--accentMain);

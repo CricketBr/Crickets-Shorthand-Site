@@ -19,12 +19,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2 [linktext](index.md)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3 [linktext](index.md)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ```js
 // Javascript code with syntax highlighting.
@@ -42,18 +44,21 @@ end
 ```
 
 #### Header 4 [linktext](index.md)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
 ##### Header 5 [linktext](index.md)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
 ###### Header 6 [linktext](index.md)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
