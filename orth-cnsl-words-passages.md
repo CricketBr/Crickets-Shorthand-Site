@@ -2,7 +2,7 @@ heading, title, copyright, contact, canonical copy, etc
 
 Creative Commons ... same as Jeremy's site
 
-xxx See Consol Ref for sources, ackms
+xxx See Consolidated Ref for sources, ackms
 
 ----
 
@@ -18,12 +18,7 @@ This document does not contain the text of the Psalms or the New Testament (both
 
 I have indicated the writer of each document. Callendar wrote the Manual and Supplement. Stevens wrote Teaching and most of the extra material. Clarey wrote Revised. Callendar and Stevens mostly follow the same rules. Stevens has slightly different rules for S-blends. Clarey? Very different rules for S-blends, many of what he calls "compound characters," and very many more abbreviating rules.
 
-xxx links to psalms and new testament 
-
-xxx intro to psalms is in this doc, since not readily available
-
-
-
+The Bible websites all put each psalm and chapter on a separate page. I made a valient attempt to collect them into this document, but ultimately gave up.
 
 
 *Table of Contents
@@ -176,7 +171,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
    - shtnd = shorthand,
    - chil = which will.
 
-2. (1) <a id="slurring" />SLURRING. This method of abbreviation is largely used in Gurney’s and in the (2) script systems which are universally employed in Germany.
+2. (1) SLURRING. This method of abbreviation is largely used in Gurney’s and in the (2) script systems which are universally employed in Germany.
    In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word.
    Examples of common slurs are:
 
@@ -194,7 +189,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
    - eduun = education,
    - nstuun = institution. (9)
 
-3. <a id="modes" />MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
+3. MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
 
    - The omission of B P or V is indicated by (12) mode I, that is by writing the termination above; thus
 
@@ -497,7 +492,7 @@ Psalms 66–83 in reporting style [PDF](https://orthic.shorthand.fun/assets/read
 
 # Aesop's Fables (Abbreviated) and A Speech In Reporting Style, Stevens
 
-[_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_]({{site.baseurl}}/assets/reading/Aesop's Fables in Orthic.pdf)
+[_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_](https://orthic.shorthand.fun/assets/reading/Aesop's%20Fables%20in%20Orthic.pdf)
 
 ## Aesop's Fables, Abbreviated, Stevens
 
@@ -673,7 +668,7 @@ They were separated by the blunder of the British Government.
 [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)\
 Key: Any authorized version of the KJV will do.
 
-Cricket made a valient attempt to transcribe, but ultimately gave up.
+The Bible websites all put each chapter on a separate page. Cricket made a valient attempt to collect the entire NT in a single document, but ultimately gave up.
 
 
 

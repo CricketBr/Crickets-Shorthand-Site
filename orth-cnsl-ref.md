@@ -1,17 +1,21 @@
 # Orthic Consolidated – Reference DRAFT
 
-### Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment{:.subtitle}
+### Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+{: .subtitle}
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
-Revised 2025-06-25. Still very fluid.
+Revised 2025-06-25. 1145
+
+Still very fluid.
+{: .cssrev}
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
 
 
 This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, https://creativecommons.org/licenses/by-sa/4.0/
 
-Based on works listed below under Sources.
+Based on works listed below under [Sources](#sources--references).
 
 xxx fix this up nicely
 
@@ -550,7 +554,7 @@ BL can be shown by reversing the direction of the B loop, and optionally writing
 ![c, manual](assets/manual-bits/c-m007.png)
 Manual: ck, suckle, cl, close, cr, crutch, ct
 
-![alt text](<assets/teach-1-bits/chl, chr-t105.jpg>)\
+![alt text](assets/teach-1-bits/chl, chr-t105.jpg)\
 Teaching 1: chlo, chro
 
 ![alt text](assets/revised-split/c-r07.jpg)\
