@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-1351";
+    content: " css rev 2025-06-27-1544";
     font-size: 3;
     color: var(--accentMain);
 }
@@ -177,6 +177,7 @@ tr:nth-child(even) {
 
 img {
     max-width: 100%;
+    margin-bottom:0;
 }
 
 img.row1 {
@@ -185,20 +186,20 @@ img.row1 {
 }
 
 img.man {
-    max-width: 70%;
+    max-width: 600px;
 }
 
 img.teach {
-    max-width: 70%;
+    max-width: 600px;
 }
 
 img.sup {
-    max-width: 70%;
+    max-width: 600px;
 }
 
 
 img.rev {
-    max-width: 70%;
+    max-width: 600px;
 }
 
 code {
