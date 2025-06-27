@@ -1,3 +1,7 @@
+---
+layout: default
+title: CSW - Homepage
+---
 # Orthic Consolidated – Reference DRAFT
 
 Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
@@ -7,7 +11,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 By CricketB
 
-Revised 2025-06-27-1358  {: .cssrev}
+Revised 2025-06-27-1404
 
 Still very fluid.
 
