@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-1513
+Revised 2025-06-27-1538
 
 Still very fluid.
 
@@ -192,10 +192,10 @@ Letters in brackets are compound letters or slurs.
 Where there is more than one way to write a letter or compound, I added extra characeters. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : `(ing1)` = straight, `(ing2)` = curved, chosen because 1 is straight and 2 is curved. `(ph-b)` is the PH that looks like the letter b. (Cricket)
 
 ## The Alphabet
-![alphabet, manual](assets/manual-bits/1alphabet-m003.png)\
+![alphabet, manual](assets/manual-bits/1alphabet-m003.png){: .man}\
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
-![alt text](assets/revised-split/1alphabet-r02.jpg)\
+![alt text](assets/revised-split/1alphabet-r02.jpg){: .rev}\
 Revised: absent, opera, back, bib, centre, mimic, dirty, wind, enter, line, fasten, calf, gentle, cog, help, oh, insert, ani, jest, reject, kept, kick, lender, until, melt, stem, nine, hasten, often, canto, point, step, query, equity, render, fir, simply, tends, time, comet, under, gnu, vine, wave, wow, award, exist, sex, yes, haply, zebra, waltz
 
 ## General Rules for Fully Written Style
@@ -204,10 +204,10 @@ Revised: absent, opera, back, bib, centre, mimic, dirty, wind, enter, line, fast
 #### Two Sizes of Letters
 Most books say use 1:3, but then use less in the Two Sizes image, and somewhere between 1:2 and 1:3 in actual writing. It's rarely a problem except for debates between students.
 
-![two sizes, manual](assets/manual-bits/1two-sizes-m005.png)\
+![two sizes, manual](assets/manual-bits/1two-sizes-m005.png){: .man}\
 Manual: alphabet, letters grouped by size, st, ste, en, ens, inst, nt, er, ers, abs, against, epitaph
 
-![alt text](assets/teach-1-bits/1twosizes-t102.jpg)\
+![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach}\
 Teaching 1: Alphabet, CH, ing1, ing2
 
 Note the U is at a different angle between Teaching and the Manual. It's not critical.
@@ -378,7 +378,7 @@ Teaching 1: dear, dear(wrong), demr
 
 ![alt text](assets/teach-1-bits/meal-t104.jpg){: .row1}
 ![alt text](assets/teach-1-bits/mail-t104.jpg){: .row1}\
-Teaching: meal, mail
+Teaching 1: meal, mail
 
 ![alt text](assets/teach-1-bits/day-t104.jpg){: .row1}
 ![alt text](assets/teach-1-bits/day-wrong-t104.jpg){: .row1}
