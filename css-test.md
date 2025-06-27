@@ -4,7 +4,7 @@ layout: default
 
 # CSS Testing
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~ or *italic*  or ***bold-italic*** .
 
 normal text <span class="serif"> serif </span> `code` .
 
