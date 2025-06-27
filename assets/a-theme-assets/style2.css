@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-1609";
+    content: " css rev 2025-06-27-1625";
     font-size: 3;
     color: var(--accentMain);
 }
@@ -25,13 +25,14 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
     /* not inherited; default is content-box; this line is a reminder */
 
     font-family: Helvetica, sans-serif;
+    padding: 0 2ch 0 2ch;
 
 }
 
 body {
 
     margin: auto;
-    max-width: 900px;
+    max-width: 600px;
     text-align: left;
     line-height: 1.5;
     border: hidden 1px;
@@ -210,6 +211,7 @@ code {
     /* font-weight: 500; */
     margin: auto;
     overflow: scroll;
+    /* font-size: ; */
 
 }
 

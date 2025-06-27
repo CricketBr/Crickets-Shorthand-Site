@@ -4,6 +4,7 @@ description: Things I often tell others about shorthand, especially Orthic.
 markdown: kramdown
 kramdown: 
   toc_levels: 2..6
+  syntax_highlighter: rouge
 url: https://cricketbr.github.io/Crickets-Shorthand-Site
 baseurl: /
 
