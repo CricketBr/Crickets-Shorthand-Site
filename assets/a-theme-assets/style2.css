@@ -3,9 +3,11 @@
 HTML details hides content until asked for
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
 
-
-7
 */
+
+header::after{
+    content: " css rev  9";
+}
 
 :root {
     --kortrightblue: #1062a9;
@@ -39,11 +41,15 @@ a {
     color: var(--accentMain);
     text-decoration: underline;
     font-weight: bold;
+}
 
+a::after {
+    content:"🔗";
 }
 
 a:hover {
-    text-decoration: underline overline;
+    text-decoration: underline;
+    border-bottom: solid 2px var(--accentMain)
 }
 
 
@@ -77,12 +83,7 @@ article {
 
 header a,
 h1 a {
-    color: rebeccapurple;
     text-decoration: none;
-}
-
-header a:hover {
-    text-decoration: underline;
 }
 
 .subtitle {
