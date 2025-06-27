@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after{
-    content: " css rev 2025-06-27-1344";
+    content: " css rev 2025-06-27-1351";
     font-size: 3;
     color: var(--accentMain);
 }
@@ -78,15 +78,23 @@ header {
 
 }
 
-#subtitle {
-    border: 5px solid var(--accentMain);
+.box {
+    border: 2px solid var(--accentMain);
     background-color: var(--accentMed);
     color: var(--accentMain);
+    font-size: 150%;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.subtitle {
     font-size: 350%;
     text-align: center;
     font-weight: bold;
     font-style: italic;
 }
+
 
 article {
     padding: 2rex;

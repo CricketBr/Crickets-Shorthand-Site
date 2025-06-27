@@ -5,18 +5,18 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 By CricketB
 
-Revised 2025-06-27-1345  {: .cssrev}
+Revised 2025-06-27-1351  {: .cssrev}
 
 Still very fluid.
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/)
 
-This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, https://creativecommons.org/licenses/by-sa/4.0/
+This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, <https://creativecommons.org/licenses/by-sa/4.0/>
 
 Based on works listed below under [Sources](#sources--references).
 
 For Learners Who Have Already Read The Manual or Revised, up to but not necessarily including Reporting.
-{: .subtitle}
+{: .box}
 
 ## Table of Contents (Short)
 {: .no_toc}
