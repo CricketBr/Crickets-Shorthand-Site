@@ -4,7 +4,7 @@
 
 By CricketB, Reddit u/CrBr, Cricket on Discord: International Shorthand Society, CricketBr on GitHub
 
-Revised 2025-06-27. 271255
+Revised 2025-06-27. 1308
 
 Still very fluid.
 
@@ -112,41 +112,40 @@ Image file names are in a few formats.
 **Phonetic Cursive**\
 A Manual of Phonetic Cursive Shorthand\
 Hugh L Callendar, 1889.\
-<https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala>\
+[Scanned at archive.org](https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala)\
 This is the precursor to Orthographic Cursive, and is included for historical reasons only. The introduction discusses "other, inferior systems" and is a fun read.
 
 **The Manual**\
 A Manual of Orthographic Shorthand: The Cambridge System,\
-Hugh L Callendar, 1891\. 
-<https://orthic.shorthand.fun/manual>\
-<https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ>\
+Hugh L Callendar, 1891.\
+[Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/manual)\
+[Scanned at google books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ)\
 Rendered into Markdown and annotated by Jeremy W Sherman.
 
 **The Supplement**\
 Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
 Hugh L Callendar, 1892.\
-<https://orthic.shorthand.fun/supplement>\
-https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf\
+[Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/supplement)\
+[Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf)\
 Rendered into Markdown and annotated by Jeremy W Sherman.
 
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
 W Stevens, 1896\
-<https://orthic.shorthand.fun/teaching-pt1>\
-<https://orthic.shorthand.fun/teaching-pt2>\
-<https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf>\
-<https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf>\
+[Teaching 1, Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/teaching-pt1)\
+[Teaching 2, Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/teaching-pt2)\
+[Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
+[Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
 
 **Revised, Extended and Improved**\
 Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; Revised, Extended and Improved\
 Hugh L Callendar ; E Clarey, 1911\
-<https://orthic.shorthand.fun/> under Resources\
-<https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf>\
+[Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
 
 **Dictionary**\
-<https://orthic.shorthand.fun/dictionary>\
+[orthic.shorthand.fun](https://orthic.shorthand.fun/dictionary)\
 Clipped, assembled and programmed by Jeremy W. Sherman\
 Includes a notation that will encode Orthic text into ASCII. Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
 
