@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2031";
+    content: " css rev 2025-06-27-2056";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -26,13 +26,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
     /* not inherited; default is content-box; this line is a reminder */
 
     font-family: Helvetica, sans-serif;
+    font-size: 16px;
 
 
 }
 
 body {
 
-
+    margin: auto;
+    max-width: 800px;
 
     line-height: 1.5;
     /* background-color: var(--accentMain); */
@@ -58,8 +60,7 @@ header {
 
 article {
 
-    margin: auto;
-    max-width: 800px;
+
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
@@ -188,17 +189,18 @@ img {
     max-width: min(50rem, 100%);
     margin-bottom: 0;
     /* overflow: scroll; */
-    border-left: 10px solid purple
+
 }
 
 img.row1 {
     height: 2em;
-    border: 2px solid purple;
+
 }
 
 img.sup1row {
     height: 2.3em;
     /* 2.2 too small goodness */
+
 }
 
 img.man1row {
@@ -209,28 +211,28 @@ img.man1row {
 
 img.man {
     max-width: min(25rem, 100%);
-    border-left: solid 2px magenta;
+
 }
 
 img.sup {
     max-width: 600px;
-    border-left: solid 2px sienna;
+
 }
 
 img.teach1 {
-    max-width: 600px;
-    border-left: solid 2px teal;
+    max-width: 550px;
+
 }
 
 img.teach1-1row {
     height: 2.1em;
-    border-left: solid 2px teal;
+
 }
 
 
 img.rev {
     max-width: min(30rem, 100%);
-    border-left: solid 2px red
+
 }
 
 
@@ -241,7 +243,7 @@ code,
     margin: auto;
     max-width: 100%;
     overflow: scroll;
-    font-size: 130%;
+    font-size: 125%;
     background-color: var(--accentLight);
 
 
