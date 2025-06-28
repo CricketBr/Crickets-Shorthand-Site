@@ -9,21 +9,12 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1657
+Revised 2025-06-28 1707
 
 CSS
 {: .cssrev}
 
 Still very fluid.
-
-Images for testing.
-
-![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach1}
-
-
-![alphabet, manual](assets/manual-bits/1alphabet-m003.png){: .man}
-
----
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) .
 
@@ -993,12 +984,12 @@ Much disagreement among the authors. (Cricket)
       </td>
       <td></td>
       <td>sch<br/><img src="assets/revised-split/sch-r09.jpg">
-      <br/>scholar<br/><img src="assets/revised-split/scholar-r04.jpg">
+        <br/>scholar<br/><img src="assets/revised-split/scholar-r04.jpg">
       </td>
     </tr>
     <tr>
-      <td>SCR-      </td>
-      <td>Only egs are abbrevs      </td>
+      <td>SCR-</td>
+      <td>Only egs are abbrevs</td>
       <td></td>
       <td>scrap<br/><img src="assets/revised-split/scrap-r04.jpg" class="rev1row">
           <br/>scream<br/><img src="assets/revised-split/scream-r09.jpg" class="rev1row">
@@ -1010,7 +1001,8 @@ Much disagreement among the authors. (Cricket)
         sha <br/><img src="assets/manual-bits/sha-m011.png" class="man1row" >
         <br/>shed <img src="assets/manual-bits/shed-m011.png" class="man1row" >
       </td>
-      <td>sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" ></td>
+      <td>sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
+      </td>
       <td>shop<br/><img src="assets/revised-split/shop-r04.jpg" class="rev1row">
           <br/>push<br/><img src="assets/revised-split/push-r04.jpg" class="rev1row">
           <br/>wash<br/><img src="assets/revised-split/wash-r04.jpg" class="rev1row">         
@@ -1018,9 +1010,13 @@ Much disagreement among the authors. (Cricket)
     </tr> 
     <tr>
       <td>SHR-</td>
-      <td>shred (yes, tiny R inside small H) <img src="assets/manual-bits/shred-m011.png" class="man1row" ></td>
-      <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" ></td>
+      <td>shred (yes, tiny R inside small H) <img src="assets/manual-bits/shred-m011.png" class="man1row">
+      </td>
+      <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" >
+      </td>
       <td>shrink<br/><img src="assets/revised-split/shrink-r04.jpg" class="rev1row">
+      </td>
+    </tr>
     <tr>
       <td>SR-</td>       
       <td>
@@ -1036,6 +1032,7 @@ Much disagreement among the authors. (Cricket)
       </td>
     </tr> 
 </table>
+
 
 ---
 ---
