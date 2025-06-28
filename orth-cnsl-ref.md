@@ -9,12 +9,17 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-2056
+Revised 2025-06-27-2111
 
 CSS
 {: .cssrev}
 
 Still very fluid.
+
+
+![alphabet, manual](assets/manual-bits/1alphabet-m003.png){: .man}
+
+---
 
 Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) .
 
@@ -143,8 +148,8 @@ W Stevens, 1896\
 Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
 
 **Revised, Extended and Improved**\
-Orthographic Cursive Shorthand (Orthic) ; The Cambridge System ; Revised, Extended and Improved\
-Hugh L Callendar ; E Clarey, 1911\
+Orthographic Cursive Shorthand (Orthic); The Cambridge System; Revised, Extended and Improved\
+Hugh L Callendar; E Clarey, 1911\
 [Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
 
@@ -2169,7 +2174,7 @@ See also ITY, which includes ETY and IETY.
 Supplement: arrive, gives, given, selves
 
 ![alt text](assets/revised-split/ive,ve-r16.jpg){: .rev}\
-REvised: leave, cove, give, saves, lived, given, loving, grove, novel, movement, ;prove, solve, shoving, involved
+REvised: leave, cove, give, saves, lived, given, loving, grove, novel, movement, prove, solve, shoving, involved
 
 
 A dot above and to the right of the word to indicate the V. When the word is inflected the last letter of the inflection is substituted for the dot.
