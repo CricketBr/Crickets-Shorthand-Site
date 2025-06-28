@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-1926";
+    content: " css rev 2025-06-27-0627";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -26,18 +26,38 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
     /* not inherited; default is content-box; this line is a reminder */
 
     font-family: Helvetica, sans-serif;
-    padding: 0 2ch 0 2ch;
+
 
 }
 
 body {
 
     margin: auto;
-    max-width: 800px;
     text-align: left;
     line-height: 1.5;
     border: hidden 1px;
     /* background-color: var(--accentMain); */
+}
+
+header {
+    margin: 0;
+    padding: 1rex 2rex 2rex 2rex;
+    border: 0 1rex 0 1rex solid var(--accentMain);
+    text-align: center;
+    background-color: var(--accentMed);
+
+
+    font-size: 500%;
+    font-weight: bold;
+    line-height: normal;
+
+    color: var(--accentMain);
+
+}
+
+article {
+    max-width: 800px;
+    padding: 0 2ch 0 2ch;
 }
 
 a {
@@ -62,24 +82,7 @@ a:hover {
 }
 
 
-header {
-    margin: 0;
-    padding: 1rex 2rex 2rex 2rex;
 
-    border-width: 1rex;
-    border-style: solid;
-    border-color: var(--accentMain);
-    text-align: center;
-    background-color: var(--accentMed);
-
-
-    font-size: 500%;
-    font-weight: bold;
-    line-height: normal;
-
-    color: var(--accentMain);
-
-}
 
 .box {
     border: 2px solid var(--accentMain);

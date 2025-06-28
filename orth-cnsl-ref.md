@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-1926
+Revised 2025-06-27-0627
 
 CSS
 {: .cssrev}
