@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1503
+Revised 2025-06-28 1525
 
 CSS
 {: .cssrev}
@@ -651,24 +651,9 @@ H, CH, and WH are all large circles, and described here for easy comparison. All
 
 Most of the time, it is safe, and faster, to omit the H in WH. There are, however, times when you need to record the exact spelling. I prefer to start WH at the bottom, to make an enlarged W, or to start it at the right, instead of at the top.
 
-### H, Not CH and WH
+#### H: CH
 
-![ther, manual](assets/manual-bits/ther-m016.png){: .man}\
-ther, others, ard, toward\
-
-
-![alt text](assets/revised-split/h-r07.jpg){: .rev}\
-Revised: H, ch, hat, chat, hd, hg, hs, hy
-
-HR: R goes inside H.
-
-THR, THER: T can be omitted.
-
-See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
-
-See SH and TH for those joins. Sometimes H is smaller or not completed.
-
-### H: CH
+Note the different ways of writing *school* or *scholar*.
 
 ![ch, manual](assets/manual-bits/ch-m006.png){: .man}\
 Manual: ch
@@ -701,14 +686,7 @@ I don't see why it has to turn ccw in the first place. It doesn't change the loo
 
 Revised gives even more options, including writing above the line.
 
-CHL:   `cl`\
-(Supplement, Notes on Reporting, no examples)\
-
-Note the different ways of writing *school* or *scholar*.
-
-
-
-### H: WH
+#### H: WH
 
 Each writer has a slightly different way to write WH.
 
@@ -722,6 +700,29 @@ Teaching 1 (Stevens): th, who
 
 ![alt text](assets/revised-split/ch,wh-r05.jpg){: .rev}\
 Revised (Clarey): wh, whose, when, chose, chin
+
+### H, Not CH and WH
+
+![ther, manual](assets/manual-bits/ther-m016.png){: .man}\
+ther, others, ard, toward\
+
+
+![alt text](assets/revised-split/h-r07.jpg){: .rev}\
+Revised: H, ch, hat, chat, hd, hg, hs, hy
+
+HR: R goes inside H.
+
+THR, THER: T can be omitted.
+
+See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
+
+See SH and TH for those joins. Sometimes H is smaller or not completed.
+
+CHL:   `cl`\
+(Supplement, Notes on Reporting, no examples)\
+
+
+
 
 ### I -- With Consonants
 
@@ -962,74 +963,74 @@ PR, SR, FR, KR: It is usual to write a vowel following R attached to an upright 
 Much disagreement among the authors. (Cricket)
 
 <table tabindex="0">
-    <caption>
-        Compare SH Family by Different Writers
-    </caption>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Callendar<br/>Manual, Supplement</th>
-            <th>Stevens<br/>Teaching, Psalms,<br/>Aesop's Fables</th>
-            <th>Clarey<br/>Revised</th>
-        </tr>
-    </thead>
-    <tbody>
+  <caption>
+      Compare SH Family by Different Writers
+  </caption>
+  <thead>
       <tr>
-        <td>SC-</td>
-        <td>
-          scent<img src="assets/manual-bits/scent-m011.png" class="man1row" >
-          scarcely (abbr)<img src="assets/supp-bits/scarcely-s.png" class="man1row" ></td>
-        <td></td>
-        <td></td>
-      </tr> 
-      <tr>
-        <td>SCH-</td>
-        <td>school<img src="assets/manual-bits/school-m011.png" class="man1row"></td>
-        <td></td>
-        <td></td>
-      </tr> 
-      <tr>
-        <td>SCR-</td>
-        <td>Only egs are abbrevs</td>
-        <td></td>
-        <td></td>
-      </tr> 
-            <tr>
-        <td>SCHR-</td>
-        <td>No egs</td>
-        <td></td>
-        <td></td>
-      </tr> 
-      <tr>
-        <td>SH-</td>
-        <td>
-          sha <img src="assets/manual-bits/sha-m011.png" class="man1row" >
-          shed <img src="assets/manual-bits/shed-m011.png" class="man1row" >
-        </td>
-        <td>
-          sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
-        </td>
-        <td></td>
-      </tr> 
-      <tr>
-        <td>SHR-</td>
-        <td>shred <img src="assets/manual-bits/shred-m011.png" class="man1row" ></td>
-        <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" >
-        </td>
-        <td></td>
-      <tr>
-        <td>SR-</td>       
-        <td>
-          sra <img src="assets/manual-bits/sra-m011.png" class="man1row" >
-          Tisri <img src="assets/manual-bits/tsiri-m011.png" class="man1row" >
-        </td>
-        <td>
-          pra <img src="assets/teach-1-bits/pra,sra-t105.jpg" class="man1row" > 
-          See below.
-        </td>
-        <td></td>
-      </tr> 
-    </tbody>
+          <th></th>
+          <th>Callendar<br/>Manual, Supplement</th>
+          <th>Stevens<br/>Teaching, Psalms,<br/>Aesop's Fables</th>
+          <th>Clarey<br/>Revised</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SC-</td>
+      <td>
+        scent<img src="assets/manual-bits/scent-m011.png" class="man1row" >
+        <br/>scarcely (abbr)<img src="assets/supp-bits/scarcely-s.png" class="man1row" ></td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>SCH-</td>
+      <td>school<img src="assets/manual-bits/school-m011.png" class="man1row"></td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>SCR-</td>
+      <td>Only egs are abbrevs</td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>SCHR-</td>
+      <td>No egs</td>
+      <td></td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>SH-</td>
+      <td>
+        sha <img src="assets/manual-bits/sha-m011.png" class="man1row" >
+        <br/>shed <img src="assets/manual-bits/shed-m011.png" class="man1row" >
+      </td>
+      <td>
+        sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
+      </td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>SHR-</td>
+      <td>shred <img src="assets/manual-bits/shred-m011.png" class="man1row" ></td>
+      <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" >
+      </td>
+      <td></td>
+    <tr>
+      <td>SR-</td>       
+      <td>
+        sra <br/><img src="assets/manual-bits/sra-m011.png" class="man1row" >
+        <br/>Tisri <img src="assets/manual-bits/tsiri-m011.png" class="man1row" >
+      </td>
+      <td>
+        pra <img src="assets/teach-1-bits/pra,sra-t105.jpg" class="man1row" > 
+        <br/>See below.
+      </td>
+      <td></td>
+    </tr> 
+  </tbody>
 </table>
 
 ---
