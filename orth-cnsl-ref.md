@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1555
+Revised 2025-06-28 1643
 
 CSS
 {: .cssrev}
@@ -969,8 +969,8 @@ Much disagreement among the authors. (Cricket)
   </caption>
 
 
-<table tabindex="0">
 
+<table tabindex="0">
     <tr>
       <th></th>
       <th>Callendar<br/>Manual, Supplement</th>
@@ -981,27 +981,28 @@ Much disagreement among the authors. (Cricket)
       <td>SC-</td>
       <td>
         scent<img src="assets/manual-bits/scent-m011.png" class="man1row" >
-        <br/>scarcely (abbr)<img src="assets/supp-bits/scarcely-s.png" class="man1row" ></td>
+        <br/>scarcely (abbr)<img src="assets/supp-bits/scarcely-s.png" class="man1row">
+      </td>
       <td></td>
-      <td></td>
+      <td>sc<br/><img src="assets/revised-split/sc-r09.jpg">
+      </td>
     </tr> 
     <tr>
-      <td>SCH-</td>
-      <td>school<img src="assets/manual-bits/school-m011.png" class="man1row"></td>
+      <td>SCH-      </td>
+      <td>school<img src="assets/manual-bits/school-m011.png" class="man1row">
+      </td>
       <td></td>
-      <td></td>
-    </tr> 
+      <td>sch<br/><img src="assets/revised-split/sch-r09.jpg">
+      <br/>scholar<br/><img src="assets/revised-split/scholar-r04.jpg">
+      </td>
+    </tr>
     <tr>
-      <td>SCR-</td>
-      <td>Only egs are abbrevs</td>
+      <td>SCR-      </td>
+      <td>Only egs are abbrevs      </td>
       <td></td>
-      <td></td>
-    </tr> 
-    <tr>
-      <td>SCHR-</td>
-      <td>No egs</td>
-      <td></td>
-      <td></td>
+      <td>scrap<br/><img src="assets/revised-split/scrap-r04.jpg" class="rev1row">
+          <br/>scream<br/><img src="assets/revised-split/scream-r09.jpg" class="rev1row">
+      </td>
     </tr> 
     <tr>
       <td>SH-</td>
@@ -1009,17 +1010,17 @@ Much disagreement among the authors. (Cricket)
         sha <br/><img src="assets/manual-bits/sha-m011.png" class="man1row" >
         <br/>shed <img src="assets/manual-bits/shed-m011.png" class="man1row" >
       </td>
-      <td>
-        sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
+      <td>sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" ></td>
+      <td>shop<br/><img src="assets/revised-split/shop-r04.jpg" class="rev1row">
+          <br/>push<br/><img src="assets/revised-split/push-r04.jpg" class="rev1row">
+          <br/>wash<br/><img src="assets/revised-split/wash-r04.jpg" class="rev1row">         
       </td>
-      <td></td>
     </tr> 
     <tr>
       <td>SHR-</td>
       <td>shred <img src="assets/manual-bits/shred-m011.png" class="man1row" ></td>
-      <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" >
-      </td>
-      <td></td>
+      <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" ></td>
+      <td>shrink<br/><img src="assets/revised-split/shrink-r04.jpg" class="rev1row">
     <tr>
       <td>SR-</td>       
       <td>
@@ -1030,10 +1031,12 @@ Much disagreement among the authors. (Cricket)
         pra <img src="assets/teach-1-bits/pra,sra-t105.jpg" class="man1row" > 
         <br/>See below.
       </td>
-      <td></td>
+      <td>disrank<br/><img src="assets/revised-split/disrank-r04.jpg" class="rev1row">
+            <br/>misread<br/><img src="assets/revised-split/misread-r09.jpg" class="rev1row">
     </tr> 
 </table>
 
+---
 ---
 
 ![alt text](assets/manual-bits/sh-text-m011.png){: .man}\
@@ -1052,32 +1055,18 @@ Teaching 1: shro, sho
 
 If the combination SHR is desired, it is shown by continuing the next letter from the bottom, instead of the top of the circle, as shro, but sho.
 
+![alt text](assets/revised-split/sc,sh-r04.jpg){: .rev}\
+Revised: p4: scr, scrap, sr, disrank, sh, shop, shrink, push, wash
+
+![alt text](assets/revised-split/s-r09.jpg){: .rev}\
+Revised: p9: sb, sc, sch, sh, shr, sk, sl, sm, sn, sp, sph, squ, st, sw, sy, scream, misread
 
 ----
 
 
-
-
-
-
-![alt text](assets/revised-split/scr,sr-r04.jpg){: .rev}\
-Revised: scr, scrap, sr, disrank
-
-![alt text](assets/revised-split/sh-r04.jpg){: .rev}\
-Revised: sh, shop, shrink, push, wash
-
-![alt text](assets/revised-split/s-r09.jpg){: .rev}\
-Revised: sb, sc, sch, sh, shr, sk, sl, sm, sn, sp, sph, squ, st, sw, sy, scream, misread
-
-Note that SH coming off the top is an exception to the stated rule under R. (Cricket)
-
 xxx need a mnemonic for this! Shoot off the top?
 
 Stevens doesn't show SR. He usually follows Callendar, so maybe it's ok for SR and SHR to share.
-
-Some examples are from the dictionary, not the rule definitions.
-
-Note: This is an exception to "comes off the top" described under R. (Cricket)
 
 SHR: Very tiny R inside the small H. (It doesn't have to be a circle, just enough to look like you tried. Cricket).
 

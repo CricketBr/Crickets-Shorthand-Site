@@ -53,7 +53,7 @@ Hopefully it creates more clarity than confusion.
 
 Lists of words by rule, created as Cricket needs them.
 
-## [Orthic Consolidated All The Words](orth-cnsl-words-passages-with-full-images.md)
+## [Orthic Consolidated -- All The Words](orth-cnsl-all-the-words-with-full-images.md)
 
 All the words used as examples. All the text from all the plates. Includes Aesops and Speech, but not Psalms or New Testament. With images.
 
