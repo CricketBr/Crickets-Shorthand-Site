@@ -53,11 +53,9 @@ Hopefully it creates more clarity than confusion.
 
 Lists of words by rule, created as Cricket needs them.
 
-## Orthic Consolidated Vocabulary -- Not Started
-* Words used as examples.
-* Passages
+## [Orthic Consolidated All The Words](orth-cnsl-words-passages-with-full-images.md)
 
-A master list of all the vocabulary and where to find the shorthand.
+All the words used as examples. All the text from all the plates. Includes Aesops and Speech, but not Psalms or New Testament. With images.
 
 ## Orthic Consolidated Reverse Rules -- Not Started
 

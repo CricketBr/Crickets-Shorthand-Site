@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2206";
+    content: " css rev 2025-06-28 1503";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -163,6 +163,10 @@ h6 {
     font-size: 100%;
 }
 
+caption {
+    caption-side: bottom;
+    text-align: left;
+}
 
 
 
@@ -170,6 +174,7 @@ h6 {
 table {
     border: 2px solid var(--accentMain);
     border-collapse: collapse;
+    overflow: auto
 }
 
 th,

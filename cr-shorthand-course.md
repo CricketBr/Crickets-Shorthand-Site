@@ -1,7 +1,10 @@
 # Cricket’s Shorthand Course
 
-xx
-Rev 2025-06-26 -- removed speed goals for each level; replaced them with accuracy of first dictation;
+## Recent Revisions
+
+2025-06-28: added link to Beryl Pratt's advice on Reddit for building endurance.
+
+2025-06-26: removed speed goals for each level; replaced them with accuracy of first dictation;
 
 Canonical copy, contact and licence at 
 <https://cricketbr.github.io/Crickets-Shorthand-Site>
@@ -123,6 +126,7 @@ Reading skill is as important as writing skill. Test it every few sessions.
 | Jun26 | Hob ch1 L100-110 | 100 | Read txt, practice all | 40/95 | 50/95 | 60/90 | 70/90 | 60/95 | Lots of long words|
 | Jun26 | Hob ch1 L110-120 | 100 | Read txt, practice probs only |40/90 | 40/95 | 50/90| 60/90 | 50/98| Happy! |
 | Jun26 | Hob ch1 L110-120 | 100 | Read txt, no practice |40/90 | 40/95 | 50/95| 60/90 | 50/98| Happy! |
+
 
 ## How to Read Shorthand
 
@@ -614,6 +618,8 @@ It appears that Blanchard is ok with a high rate of errors for this passage.
 Blanchard is very clear that the pyramid plan is only to be used when the gap between speeds for short and long dictations is too high. Go directly to a 5-minute take the rest of the time.
 
 ### Other Methods
+
+Beryl Pratt gives sensible advice on [Reddit/r/shorthand, Jne 6, 2025](https://www.reddit.com/r/shorthand/comments/1lmfiqn/approx_40_wpm_after_about_21_days_but_how_to/): 
 
 Take a 5-minute passage, lower your starting and practically perfect speeds by 20-40wpm each, and go for it. You'll soon learn what those speeds should be, the same way you learned when you started Swem's method for 1-minute passages. Build the speed for this length as usual.
 

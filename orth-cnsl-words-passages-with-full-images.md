@@ -310,7 +310,7 @@ Jew, Wales, England, S.E., L.S.W.R.
 ![alt text](assets/revised-split/done/004 bw.jpg)
 
 BL: black, sensible, bleak, trebly\
-CH: Christ, arch, filch, chat, such, scholar, sceme, chloric, richly, speechless\
+CH: Christ, arch, filch, chat, such, scholar, scheme, chloric, richly, speechless\
 DV: advert, avert\
 MB: timber, lumber, lamb, temper, lumper, lamp\
 NSP: inspirit, inspect, ensphere, conspire\
@@ -559,7 +559,7 @@ inject, project, reject\
 explosion, lotion\
 cloud, clout, aloud, route, astound, hound, account, recount\
 mound, mount, round, rout\
-felloship, friendship, worship\
+fellowship, friendship, worship\
 instruct, obstructing, destructive\
 likewise, otherwise, unwise\
 conveying, crying, dying, flying
