@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2145";
+    content: " css rev 2025-06-27-2155";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -139,12 +139,12 @@ h6,
 
 /* Only One h1 Per Page! */
 h1 {
-    font-size: 350%;
+    font-size: 200%;
     text-align: center;
 }
 
 h2 {
-    font-size: 200%;
+    font-size: 175%;
 }
 
 h3 {
@@ -211,12 +211,12 @@ img.man {
 }
 
 img.sup {
-    max-width: min(25rem, 100%);
+    max-width: min(40rem, 100%);
 
 }
 
 img.teach1 {
-    max-width: min(25rem, 100%);
+    max-width: min(40rem, 100%);
 
 }
 
@@ -239,7 +239,7 @@ code,
     margin: auto;
     max-width: 100%;
     overflow: scroll;
-    font-size: 125%;
+    font-size: 100%;
     background-color: var(--accentLight);
 
 

@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-2145
+Revised 2025-06-27-2155
 
 CSS
 {: .cssrev}
@@ -222,7 +222,7 @@ Teaching 1: Alphabet, CH, ing1, ing2
 
 Note the U is at a different angle between Teaching and the Manual. It's not critical.
 
-![alt text](assets/teach-1-bits/1groups-t102.jpg){: .teach1}\
+![alt text](assets/teach-1-bits/1groups-t102.jpg){: .teach1-1row}\
 Teaching 1: Letters grouped in another way.
 
 
