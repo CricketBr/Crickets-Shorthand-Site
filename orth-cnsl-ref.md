@@ -16,8 +16,10 @@ CSS
 
 Still very fluid.
 
-![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach1}\
-Teaching 1: Alphabet, CH, ing1, ing2
+Images for testing.
+
+![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach1}
+
 
 ![alphabet, manual](assets/manual-bits/1alphabet-m003.png){: .man}
 
@@ -180,7 +182,7 @@ Often a writer will explain a rule, then break it on the next page. I think that
 - It's often difficult to explain a rule, so they over-simplify without realizing it (or they intend to follow the rule as written but forget).
 
 - They are used to writing for expert readers who can fill in the blanks easily, and don't need perfect penmanship.
-schr
+
 Don't worry about it. The only true test of shorthand quality is whether the intended reader can read it at the intended time, for the intended purpose. (I strongly suggest you define those each time you pick up the pen.)
 
 ### Notation
@@ -1004,7 +1006,7 @@ Much disagreement among the authors. (Cricket)
     <tr>
       <td>SH-</td>
       <td>
-        sha <img src="assets/manual-bits/sha-m011.png" class="man1row" >
+        sha <br/><img src="assets/manual-bits/sha-m011.png" class="man1row" >
         <br/>shed <img src="assets/manual-bits/shed-m011.png" class="man1row" >
       </td>
       <td>
@@ -1055,8 +1057,6 @@ If the combination SHR is desired, it is shown by continuing the next letter fro
 ----
 
 
-
-x: No examples found.
 
 
 
