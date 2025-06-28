@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1525
+Revised 2025-06-28 1555
 
 CSS
 {: .cssrev}
@@ -964,19 +964,19 @@ PR, SR, FR, KR: It is usual to write a vowel following R attached to an upright 
 
 Much disagreement among the authors. (Cricket)
 
-<table tabindex="0">
   <caption>
       Compare SH Family by Different Writers
   </caption>
-  <thead>
-      <tr>
-          <th></th>
-          <th>Callendar<br/>Manual, Supplement</th>
-          <th>Stevens<br/>Teaching, Psalms,<br/>Aesop's Fables</th>
-          <th>Clarey<br/>Revised</th>
-      </tr>
-  </thead>
-  <tbody>
+
+
+<table tabindex="0">
+
+    <tr>
+      <th></th>
+      <th>Callendar<br/>Manual, Supplement</th>
+      <th>Stevens<br/>Teaching, Psalms,<br/>Aesop's Fables</th>
+      <th>Clarey<br/>Revised</th>
+    </tr>
     <tr>
       <td>SC-</td>
       <td>
@@ -1032,7 +1032,6 @@ Much disagreement among the authors. (Cricket)
       </td>
       <td></td>
     </tr> 
-  </tbody>
 </table>
 
 ---
