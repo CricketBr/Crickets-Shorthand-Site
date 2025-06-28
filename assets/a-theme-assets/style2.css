@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2125";
+    content: " css rev 2025-06-27-2145";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -192,10 +192,6 @@ img {
 
 }
 
-img.row1 {
-    height: 2em;
-
-}
 
 img.sup1row {
     height: 2.3em;
@@ -215,12 +211,12 @@ img.man {
 }
 
 img.sup {
-    max-width: 600px;
+    max-width: min(25rem, 100%);
 
 }
 
 img.teach1 {
-    max-width: 550px;
+    max-width: min(25rem, 100%);
 
 }
 
