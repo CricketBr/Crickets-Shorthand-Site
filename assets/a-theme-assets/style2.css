@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-28 1716";
+    content: " css rev 2025-06-28 1726";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -196,37 +196,37 @@ img {
     /* overflow: scroll; */
 }
 
+img.man {
+    max-width: min(30rem, 100%);
+    border-top: 1px solid black;
+}
 
-img.sup1row {
-    height: 2.4em;
-    /* 2.2 too small  */
+img.sup {
+    max-width: min(45rem, 100%);
+        border-top: 1px solid black;
+}
+
+img.teach1 {
+    max-width: min(45rem, 100%);
+        border-top: 1px solid black;
+}
+
+img.rev {
+    max-width: min(35rem, 100%);
 }
 
 img.man1row {
     height: 2.3em;
 }
 
-
-img.man {
-    max-width: min(30rem, 100%);
-}
-
-img.sup {
-    max-width: min(45rem, 100%);
-}
-
-img.teach1 {
-    max-width: min(45rem, 100%);
+img.sup1row {
+    height: 2.4em;
+    /* 2.2 too small  */
 }
 
 img.teach1-1row {
     height: 2.2em;
 
-}
-
-
-img.rev {
-    max-width: min(35rem, 100%);
 }
 
 img.rev1row {

@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1716
+Revised 2025-06-28 1725
 
 CSS
 {: .cssrev}
@@ -942,9 +942,10 @@ RCE: Written like lower-case E, according to the Manual. As near as I can tell, 
 
 RH: The R can lie just outside, or curl within, the H circle. (Teaching 1)
 
-PR, SR, FR, KR: It is usual to write a vowel following R attached to an upright letter from the top, as in PRA, to save time, and to avoid going round the circle twice. (Teaching 1, Lesson 3, L and R)
+PR: It is usual to write a vowel following R attached to an upright letter from the top, as in PRA, to save time, and to avoid going round the circle twice. (Teaching 1, Lesson 3, L and R)
 
-- This conflicts with the rules for SH. Details under S. It's complicated and the authors don't agree. (Cricket)
+Teaching doesn't say which letters this applies to, just gives example PRA. It doesn't apply to S. (See SH.)
+
 
 
 
@@ -1023,10 +1024,7 @@ Much disagreement among the authors. (Cricket)
         sra <br/><img src="assets/manual-bits/sra-m011.png" class="man1row" >
         <br/>Tisri <br/><img src="assets/manual-bits/tsiri-m011.png" class="man1row" >
       </td>
-      <td>
-        pra <br/><img src="assets/teach-1-bits/pra,sra-t105.jpg" class="man1row" > 
-        <br/>See below.
-      </td>
+      <td></td>
       <td>disrank<br/><img src="assets/revised-split/disrank-r04.jpg" class="rev1row">
             <br/>misread<br/><img src="assets/revised-split/misread-r09.jpg" class="rev1row">
       </td>
