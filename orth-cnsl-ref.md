@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1643
+Revised 2025-06-28 1657
 
 CSS
 {: .cssrev}
@@ -1018,7 +1018,7 @@ Much disagreement among the authors. (Cricket)
     </tr> 
     <tr>
       <td>SHR-</td>
-      <td>shred <img src="assets/manual-bits/shred-m011.png" class="man1row" ></td>
+      <td>shred (yes, tiny R inside small H) <img src="assets/manual-bits/shred-m011.png" class="man1row" ></td>
       <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" ></td>
       <td>shrink<br/><img src="assets/revised-split/shrink-r04.jpg" class="rev1row">
     <tr>
@@ -1033,6 +1033,7 @@ Much disagreement among the authors. (Cricket)
       </td>
       <td>disrank<br/><img src="assets/revised-split/disrank-r04.jpg" class="rev1row">
             <br/>misread<br/><img src="assets/revised-split/misread-r09.jpg" class="rev1row">
+      </td>
     </tr> 
 </table>
 
