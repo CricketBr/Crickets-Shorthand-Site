@@ -16,6 +16,8 @@ CSS
 
 Still very fluid.
 
+![alt text](assets/teach-1-bits/1twosizes-t102.jpg){: .teach1}\
+Teaching 1: Alphabet, CH, ing1, ing2
 
 ![alphabet, manual](assets/manual-bits/1alphabet-m003.png){: .man}
 
