@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-2025
+Revised 2025-06-27-2031
 
 CSS
 {: .cssrev}
@@ -516,6 +516,7 @@ Some concepts are under a letter other than the first, if the other letter is so
 All examples from the Manual are under Joining Vowels with Vowels.
 
 A on the line is *a*. A raised is *and*.
+
 ![and raised, manual](assets/manual-bits/a-above-and-m015.png){: .man}\
 Manual: and
 
@@ -634,6 +635,7 @@ No angle between G and D. (Supplement)
 ### H, CH, and WH
 
 Manual (H): cha, hat, chat, what, which
+
 ![h, manual](assets/manual-bits/h-m008.png){: .man}\
 
 See below for Revised.
@@ -661,7 +663,7 @@ See SH and TH for those joins. Sometimes H is smaller or not completed.
 
 ### H: CH
 
-![ch, manual](assets/manual-bits/ch-m006.png){: .man}
+![ch, manual](assets/manual-bits/ch-m006.png){: .man}\
 Manual: ch
 
 ![ch, manual](assets/manual-bits/ch-m007.png){: .man}\

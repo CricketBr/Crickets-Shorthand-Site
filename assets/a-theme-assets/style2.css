@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2025";
+    content: " css rev 2025-06-27-2031";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -32,8 +32,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 
 body {
 
-    margin: auto;
-    max-width: 800px;
+
 
     line-height: 1.5;
     /* background-color: var(--accentMain); */
@@ -59,6 +58,8 @@ header {
 
 article {
 
+    margin: auto;
+    max-width: 800px;
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
@@ -196,8 +197,13 @@ img.row1 {
 }
 
 img.sup1row {
-    height: 2.2em;
-    /* 2.0 too small */
+    height: 2.3em;
+    /* 2.2 too small goodness */
+}
+
+img.man1row {
+    height: 2em;
+
 }
 
 
@@ -217,7 +223,7 @@ img.teach1 {
 }
 
 img.teach1-1row {
-    height: 2.2em;
+    height: 2.1em;
     border-left: solid 2px teal;
 }
 
