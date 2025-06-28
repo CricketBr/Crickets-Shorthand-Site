@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1707
+Revised 2025-06-28 1716
 
 CSS
 {: .cssrev}
@@ -971,20 +971,20 @@ Much disagreement among the authors. (Cricket)
     <tr>
       <td>SC-</td>
       <td>
-        scent<img src="assets/manual-bits/scent-m011.png" class="man1row" >
-        <br/>scarcely (abbr)<img src="assets/supp-bits/scarcely-s.png" class="man1row">
+        scent<br/><img src="assets/manual-bits/scent-m011.png" class="man1row" >
+        <br/>scarcely (abbr)<br/><img src="assets/supp-bits/scarcely-s.png" class="man1row">
       </td>
       <td></td>
-      <td>sc<br/><img src="assets/revised-split/sc-r09.jpg">
+      <td>sc<br/><img src="assets/revised-split/sc-r09.jpg" class="rev1row">
       </td>
     </tr> 
     <tr>
       <td>SCH-      </td>
-      <td>school<img src="assets/manual-bits/school-m011.png" class="man1row">
+      <td>school<br/><img src="assets/manual-bits/school-m011.png" class="man1row">
       </td>
       <td></td>
-      <td>sch<br/><img src="assets/revised-split/sch-r09.jpg">
-        <br/>scholar<br/><img src="assets/revised-split/scholar-r04.jpg">
+      <td>sch<br/><img src="assets/revised-split/sch-r09.jpg" class="rev1row">
+        <br/>scholar<br/><img src="assets/revised-split/scholar-r04.jpg" class="rev1row">
       </td>
     </tr>
     <tr>
@@ -999,9 +999,9 @@ Much disagreement among the authors. (Cricket)
       <td>SH-</td>
       <td>
         sha <br/><img src="assets/manual-bits/sha-m011.png" class="man1row" >
-        <br/>shed <img src="assets/manual-bits/shed-m011.png" class="man1row" >
+        <br/>shed <br/><img src="assets/manual-bits/shed-m011.png" class="man1row" >
       </td>
-      <td>sho <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
+      <td>sho <br/><img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
       </td>
       <td>shop<br/><img src="assets/revised-split/shop-r04.jpg" class="rev1row">
           <br/>push<br/><img src="assets/revised-split/push-r04.jpg" class="rev1row">
@@ -1010,9 +1010,9 @@ Much disagreement among the authors. (Cricket)
     </tr> 
     <tr>
       <td>SHR-</td>
-      <td>shred (yes, tiny R inside small H) <img src="assets/manual-bits/shred-m011.png" class="man1row">
+      <td>shred (yes, tiny R inside small H) <br/><img src="assets/manual-bits/shred-m011.png" class="man1row">
       </td>
-      <td>shro <img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" >
+      <td>shro <br/><img src="assets/teach-1-bits/shro-t106.jpg" class="teach1-1row" >
       </td>
       <td>shrink<br/><img src="assets/revised-split/shrink-r04.jpg" class="rev1row">
       </td>
@@ -1021,10 +1021,10 @@ Much disagreement among the authors. (Cricket)
       <td>SR-</td>       
       <td>
         sra <br/><img src="assets/manual-bits/sra-m011.png" class="man1row" >
-        <br/>Tisri <img src="assets/manual-bits/tsiri-m011.png" class="man1row" >
+        <br/>Tisri <br/><img src="assets/manual-bits/tsiri-m011.png" class="man1row" >
       </td>
       <td>
-        pra <img src="assets/teach-1-bits/pra,sra-t105.jpg" class="man1row" > 
+        pra <br/><img src="assets/teach-1-bits/pra,sra-t105.jpg" class="man1row" > 
         <br/>See below.
       </td>
       <td>disrank<br/><img src="assets/revised-split/disrank-r04.jpg" class="rev1row">
@@ -1034,8 +1034,7 @@ Much disagreement among the authors. (Cricket)
 </table>
 
 
----
----
+.
 
 ![alt text](assets/manual-bits/sh-text-m011.png){: .man}\
 Manual: sh, sha, sr, shed, Tisri, shred, school
@@ -1058,8 +1057,6 @@ Revised: p4: scr, scrap, sr, disrank, sh, shop, shrink, push, wash
 
 ![alt text](assets/revised-split/s-r09.jpg){: .rev}\
 Revised: p9: sb, sc, sch, sh, shr, sk, sl, sm, sn, sp, sph, squ, st, sw, sy, scream, misread
-
-----
 
 
 xxx need a mnemonic for this! Shoot off the top?
