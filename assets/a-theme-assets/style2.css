@@ -33,15 +33,18 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 body {
 
     margin: auto;
-    text-align: left;
+    max-width: 800px;
+
     line-height: 1.5;
     /* background-color: var(--accentMain); */
+    /* max-width: 800px; */
 }
 
 header {
     margin: 0;
     padding: 2rex;
-    border: 1rex 0 1rex 0 solid var(--accentMain);
+    border-top: 1rex solid var(--accentMain);
+    border-bottom: 1rex solid var(--accentMain);
     text-align: center;
     background-color: var(--accentMed);
 
@@ -55,8 +58,9 @@ header {
 }
 
 article {
-    max-width: 800px;
+
     padding: 0 2ch 0 2ch;
+    text-align: left;
 }
 
 a {
