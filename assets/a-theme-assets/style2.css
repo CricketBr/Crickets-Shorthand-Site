@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-0627";
+    content: " css rev 2025-06-27-2010";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -35,14 +35,13 @@ body {
     margin: auto;
     text-align: left;
     line-height: 1.5;
-    border: hidden 1px;
     /* background-color: var(--accentMain); */
 }
 
 header {
     margin: 0;
-    padding: 1rex 2rex 2rex 2rex;
-    border: 0 1rex 0 1rex solid var(--accentMain);
+    padding: 2rex;
+    border: 1rex 0 1rex 0 solid var(--accentMain);
     text-align: center;
     background-color: var(--accentMed);
 
