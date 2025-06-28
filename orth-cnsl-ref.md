@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-28 1725
+Revision 100
 
 CSS
 {: .cssrev}
@@ -944,7 +944,7 @@ RH: The R can lie just outside, or curl within, the H circle. (Teaching 1)
 
 PR: It is usual to write a vowel following R attached to an upright letter from the top, as in PRA, to save time, and to avoid going round the circle twice. (Teaching 1, Lesson 3, L and R)
 
-Teaching doesn't say which letters this applies to, just gives example PRA. It doesn't apply to S. (See SH.)
+Teaching gives the example PRA, doesn't say here that it doesn't apply to S (see SH), and doesn't say which the other upright letters are. (Cricket)
 
 
 
@@ -956,13 +956,17 @@ Teaching doesn't say which letters this applies to, just gives example PRA. It d
 
 Much disagreement among the authors. (Cricket)
 
-  <caption>
-      Compare SH Family by Different Writers
-  </caption>
+
 
 
 
 <table tabindex="0">
+  <thead>
+    <caption>
+      Compare SH Family by Different Writers
+    </caption>
+  </thead>
+  <tbody>
     <tr>
       <th></th>
       <th>Callendar<br/>Manual, Supplement</th>
@@ -1029,6 +1033,7 @@ Much disagreement among the authors. (Cricket)
             <br/>misread<br/><img src="assets/revised-split/misread-r09.jpg" class="rev1row">
       </td>
     </tr> 
+  </tbody>
 </table>
 
 

@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-28 1726";
+    content: " css rev 100";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -203,16 +203,17 @@ img.man {
 
 img.sup {
     max-width: min(45rem, 100%);
-        border-top: 1px solid black;
+    border-top: 1px solid black;
 }
 
 img.teach1 {
     max-width: min(45rem, 100%);
-        border-top: 1px solid black;
+    border-top: 1px solid black;
 }
 
 img.rev {
     max-width: min(35rem, 100%);
+    border-top: 1px solid black;
 }
 
 img.man1row {
