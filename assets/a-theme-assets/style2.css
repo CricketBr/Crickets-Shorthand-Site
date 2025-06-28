@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 100";
+    content: " css rev 101";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -164,7 +164,7 @@ h6 {
 }
 
 caption {
-    caption-side: bottom;
+    caption-side: top;
     text-align: left;
 }
 
