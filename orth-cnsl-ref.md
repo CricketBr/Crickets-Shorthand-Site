@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revised 2025-06-27-2111
+Revised 2025-06-27-2121
 
 CSS
 {: .cssrev}
@@ -2289,13 +2289,13 @@ ther, others, ard, towards
 
 ![common abbreviations, manual](assets/manual-bits/9common-abbrev-m018.png){: .man}\
 Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours
-```
+
 ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, 
 D, DS, DN, ^R, F, FM, FD, GD, GRT, HA, HD, MDE, MT, MO, MST, 
 NT, CNT, N(ING2), O, OE, N, N(LY), NE, NCE, PH (?? PRH), RT, ROU, 
 SEF, SVS, SHA, SH, SHD, ^EMSVES, ^ERF, ^(ING2), ^ROUT, T, INT, U, 
 WK, WD, WH, TH, Y, YRS 
-```
+{: .code1}
 
 Lots of other words burried in the various specimens. Most of the specimens are typed out on https://orthic.shorthand.fun/ . A few link to other sources for the text.
 

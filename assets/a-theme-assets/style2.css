@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 2025-06-27-2111";
+    content: " css rev 2025-06-27-2121";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
