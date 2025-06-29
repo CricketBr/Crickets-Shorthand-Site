@@ -27,6 +27,8 @@ Even when thus written in full the system is very brief as contrasted (12) with 
 
 ### Specimen of the Ordinary Style: Introductory Remarks, Callendar
 
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
+
 The present system is an adaptation of the alphabet and principles of Cursive Shorthand to the common orthography.
 
 Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
@@ -47,6 +49,8 @@ In learning the system the student should work straight through the alphabet and
 
 ### From Macaulay's History, Callendar
 
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
+
 The State of England in the Reign of Charles II.
 
 It is time that this description of the England which Charles the Second governed should draw to a close. Yet one subject of the highest moment still remains untouched. Nothing has yet been said of the great body of the people, of those who held the ploughs, who tended the oxen, who toiled at the looms of Norwich, and squared the Portland stone for St Paul’s. Nor can very much be said. The most numerous class is precisely the class respecting which we have the most meagre information. In those times philanthropists did not yet regard it a sacred duty, not had demagogues yet found it a lucrative trade, to talk and write about the distress of the labourer. History was too much occupied with the Courts and camps to spare a line for the hut of the peasant, or the garret of the mechanic. The press now often sends forth in a day a greater quantity of discussion and declamation about the condition of the working man than was published during the twenty-eight years which elapsed between the Restoration and the Revolution. But it would be a great error to infer from the increase of complaint that there has been any increase of misery.
@@ -58,6 +62,8 @@ It seems clear that the wages of labour, estimated in money, were, in 1685, not 
 The produce of tropical countries, of mines, and of machinery, was positively dearer than at present. Among the commodities for which the labourer would have had to pay higher in 1685 than his posterity now pay, were sugar, salt, coals, candles, soap, shoes, stockings, and generally all articles of clothing and all articles of bedding. It may be added, that the old coats and blankets would have been, not only more costly, but less serviceable, than the modern fabrics.
 
 ### St John II, Callendar
+
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
 
 <https://www.biblegateway.com/passage/?search=John%202&version=KJV>
 
@@ -270,6 +276,8 @@ Another very practical advantage of Orthic is that all the familiar longhand abb
 
 ### Specimen: Ordinary Style, Abbreviated, plate 2, Callendar
 
+All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
+
 The majority of the examples given in the list of ‘Examples of Abbreviations’ are simply transliterations of those in common use, and being already familiar require no learning.
 
 Equal to any phonetic system
@@ -286,6 +294,8 @@ As early as 1887 the author fully recognised the advantages of an orthographic b
 
 
 ### Specimen: Ordinary Style, Abbreviated, plate 3, Callendar
+
+All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
 
 or three eminent shorthand authorities, conducted in striking out the word ‘almost’ before impossible. The author however, having at length succeeded in solving the problem to his own satisfaction, is now of the opinion that he had somewhat over-rated the impossibility.
 
@@ -352,6 +362,8 @@ _rel<sub>n</sub>_ = religion
 
 ### Specimen: Notes of a Speech by Lord Dufferin an St Andrews, Probably Reporting
 
+All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
+
 Key to Page 1
 
 The Rector, who was received with cheers, said that he had determined that the best return he could make to those who had shown him so much kindness, but to whom he knew he was incompetent to communicate anything worth their attention, in regard either to science or letters, would be to give them, in as simple and unpretending a manner as he could, such practical hints in regard to some few of the matters which would affect their start in life as his own personal experience might furnish.
@@ -372,6 +384,8 @@ With regard to public speaking, the first essential principle was undoubtedly pr
 His Lordship concluded by mentioning two further rules of conduct — namely, the cultivation of the spirit of justice, and, of the sentiment of chivalry. The secret of lifelong happiness was not, as was generally said, to keep one’s illusions as long as possible, but to preserve the conviction that one’s “illusions” were the only realities, and that their destruction was tantamount to their becoming the victims of a vain and empty dream. But with knightly purity and white-robed justice for their companions, the magic light would neither waver nor fade from their path.
 
 ### Specimen: Verbatim Report of a Speech, Probably Reporting
+
+All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
 
 Key: Lord Salisbury at the Mansion House
 
@@ -414,11 +428,15 @@ of the last two years, we shall find that the present deplorable situation, to w
 
 ## Revised, Clarey
 
+https://orthic.shorthand.fun/assets/clarey/Orthic%20Extended%201911%20Clarey.pdf
+
 All the specimens of shorthand have been taken from "The Idle Thoughts of an Idle Fellow," by Jerome K Jerome.
 
 https://www.gutenberg.org/files/849/
 
 ### On Being Idle, p10, Fully Written, Clarey
+
+https://orthic.shorthand.fun/assets/clarey/Orthic%20Extended%201911%20Clarey.pdf
 
 I think myself that I could keep out of bed all right if I once got out. It is the wrenching away of the head from the pillow that I find so hard, and no amount of over-night determination makes it easier. I say to myself, after having wasted the whole evening, "Well, I won't do any more work to-night; I'll get up early to-morrow morning;" and I am thoroughly resolved to do so—then. In the morning, however, I feel less enthusiastic about the idea, and reflect that it would have been much better if I had stopped up last night. And then there is the trouble of dressing, and the more one thinks about that the more one wants to put it off.
 
@@ -429,9 +447,13 @@ Our trouble is sore indeed when you turn away and will not comfort us. How long 
 
 ### On Cats and Dogs, p14, Intermediate, Before Modes, Clarey
 
+https://orthic.shorthand.fun/assets/clarey/Orthic%20Extended%201911%20Clarey.pdf
+
 Can you remember, reader, when you and I felt something of the same sort of thing? Can you remember those glorious days of fresh young manhood—how, when coming home along the moonlit road, we felt too full of life for sober walking, and had to spring and skip, and wave our arms, and shout till belated farmers' wives thought—and with good reason, too—that we were mad, and kept close to the hedge, while we stood and laughed aloud to see them scuttle off so fast and made their blood run cold with a wild parting whoop, and the tears came, we knew not why? Oh, that magnificent young LIFE! that crowned us kings of the earth; that rushed through every tingling vein till we seemed to walk on air; that thrilled through our throbbing brains and told us to go forth and conquer the whole world; that welled up in our young hearts till we longed to stretch out our arms and gather all the toiling men and women and the little children to our breast and love them all—all. Ah! they were grand days, those deep, full days, when our coming life, like an unseen organ, pealed strange, yearnful music in our ears, and our young blood cried out like a war-horse for the battle. Ah, our pulse beats slow and steady now, and our old joints are rheumatic, and we love our easy-chair and pipe and sneer at boys' enthusiasm. But oh for one brief moment of that god-like life again!
 
 ### On Being Hard Up, p17, Intermediate, After Modes, Clarey
+
+https://orthic.shorthand.fun/assets/clarey/Orthic%20Extended%201911%20Clarey.pdf
 
 It is a most remarkable thing. I sat down with the full intention of writing something clever and original; but for the life of me I can't think of anything clever and original—at least, not at this moment. The only thing I can think about now is being hard up. I suppose having my hands in my pockets has made me think about this. I always do sit with my hands in my pockets except when I am in the company of my sisters, my cousins, or my aunts; and they kick up such a shindy—I should say expostulate so eloquently upon the subject—that I have to give in and take them out—my hands I mean. The chorus to their objections is that it is not gentlemanly. I am hanged if I can see why. I could understand its not being considered gentlemanly to put your hands in other people's pockets (especially by the other people), but how, O ye sticklers for what looks this and what looks that, can putting his hands in his own pockets make a man less gentle? Perhaps you are right, though. Now I come to think of it, I have heard some people grumble most savagely when doing it. But they were mostly old gentlemen. We young fellows, as a rule, are never quite at ease unless we have our hands in our pockets. We are awkward and shifty. We are like what a music-hall Lion Comique would be without his opera-hat, if such a thing can be imagined. But let us put our hands in our trousers pockets, and let there be some small change in the right-hand one and a bunch of keys in the left, and we will face a female post-office clerk.
 
@@ -440,6 +462,8 @@ It is a little difficult to know what to do with your hands, even in your pocket
 I can speak with authority on the subject of being hard up. I have been a provincial actor.
 
 ### On Being In The Blues, p24, After General Method of Abbreviation, Clarey
+
+https://orthic.shorthand.fun/assets/clarey/Orthic%20Extended%201911%20Clarey.pdf
 
 By the way, it never does come except in the evening. In the sun-time, when the world is bounding forward full of life, we cannot stay to sigh and sulk. The roar of the working day drowns the voices of the elfin sprites that are ever singing their low-toned miserere in our ears. In the day we are angry, disappointed, or indignant, but never "in the blues" and never melancholy. When things go wrong at ten o'clock in the morning we—or rather you—swear and knock the furniture about; but if the misfortune comes at ten P.M., we read poetry or sit in the dark and think what a hollow world this is.
 
@@ -450,6 +474,8 @@ I am not sneering. I would not for a moment sneer at anything that helps to keep
 I am glad when I see Regret walked with as a friend—glad because I know the saltness has been washed from out the tears, and that the sting must have been plucked from the beautiful face of Sorrow ere we dare press her pale lips to ours. Time has laid his healing hand upon the wound when we can look back upon the pain we once fainted under and no bitterness or despair rises in our hearts. The burden is no longer heavy when we have for our past troubles only the same sweet mingling of pleasure and pity that we feel when old knight-hearted Colonel Newcome answers "adsum" to the great roll-call, 
 
 ### On Memory, Reporting, Clarey
+
+https://orthic.shorthand.fun/assets/clarey/Orthic%20Extended%201911%20Clarey.pdf
 
 A friend came to me the other day and urged me very eloquently to learn some wonderful system by which you never forgot anything. I don't know why he was so eager on the subject, unless it be that I occasionally borrow an umbrella and have a knack of coming out, in the middle of a game of whist, with a mild "Lor! I've been thinking all along that clubs were trumps." I declined the suggestion, however, in spite of the advantages he so attractively set forth. I have no wish to remember everything. There are many things in most men's lives that had better be forgotten. There is that time, many years ago, when we did not act quite as honorably, quite as uprightly, as we perhaps should have done—that unfortunate deviation from the path of strict probity we once committed, and in which, more unfortunate still, we were found out—that act of folly, of meanness, of wrong. Ah, well! we paid the penalty, suffered the maddening hours of vain remorse, the hot agony of shame, the scorn, perhaps, of those we loved. Let us forget. Oh, Father Time, lift with your kindly hands those bitter memories from off our overburdened hearts, for griefs are ever coming to us with the coming hours, and our little strength is only as the day.
 
@@ -480,6 +506,9 @@ And then comes school life, with its bitter little sorrows and its joyous shouti
 
 ## Psalms, KJV, Supplement to Teaching 1 and 2, Stevens
 
+https://orthic.shorthand.fun/reading
+
+
 Change of Plans. There is a lot of material in the Psalms. If you're desparate for an example or dictation material, you can find them all in one place here:\
 https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=2190116
 
@@ -500,14 +529,19 @@ Psalms 66–83 in reporting style [PDF](https://orthic.shorthand.fun/assets/read
 
 ## Aesop's Fables (Abbreviated) and A Speech In Reporting Style, Stevens
 
+https://orthic.shorthand.fun/reading
+
 [_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_](https://orthic.shorthand.fun/assets/reading/Aesop's%20Fables%20in%20Orthic.pdf)
 
 ### Aesop's Fables, Abbreviated, Stevens
+https://orthic.shorthand.fun/reading
 
 Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match. [Jeremy W Sherman]
 
 
 ### The Wolf and the Lamb, Abbreviated, Stevens
+
+https://orthic.shorthand.fun/reading
 
 One hot, sultry day, a Wolf and a Lamb happened to come, just at the same time, to quench their thirst in the stream of a clear silver brook that ran tumbling down the side of a rocky mountain. The Wolf stood upon the higher ground, and the Lamb at some distance from him down the current. However, the Wolf, having a mind to pick a quarrel with him, asked him what he meant by disturbing the water, and making it so muddy that he could not drink, and, at the same time, demanded satisfaction. 
 
@@ -525,6 +559,8 @@ They never pardon who have done the wrong.
 
 ### The Lark and her Young Ones, Abbreviated, Stevens
 
+https://orthic.shorthand.fun/reading
+
 A Lark, who had Young Ones in a field of corn which was almost ripe, was under some fear lest the reapers should come to reap it before her young brood were fledged, and able to remove from their nest: wherefore, upon flying abroad to look for food, she left this charge with them — that they should take notice what they heard talked of in her absence, and tell her of it when she came back again. When she was gone, they heard the owner of the corn call to his son — " Well," says he, " I think this corn is ripe enough ; I would have you go early tomorrow, and desire our friends and neighbours to come and help us to reap it" 
 
 When the Old Lark came home, the Young Ones fell a-quivering and chirping round her, and told her what had happened, begging her to remove them as fast as she could. The mother bade them be easy ; " for," says she, "if the owner depends upon friends and neighbours, I am pretty sure the corn will not be reaped tomorrow." Next day she went out again, upon the same occasion, and left the same orders with them as before. The owner came, and stayed, expecting those he had sent to : but the sun grew hot, and nothing was done, for not a soul came to help him. "Then," says he to his son, "I perceive these friends of ours are not to be depended upon ; so that you must even go to your uncles and cousins, and tell them, I desire they would be here betimes tomorrow morning to help us to reap." Well, this the Young Ones, in a great fright, reported also to their mother. "If that be all," says she, "do not be frightened, children, for kindred and relations do not use to be so very forward to serve one another : but take particular notice what you hear said the next time, and be sure you let me know it." She went abroad the next day, as usual ; and the owner, finding his relations as slack as the rest of his neighbours, said to his son, "Hark ye, George, do you get a couple of good sickles ready against tomorrow morning, and we will even reap the corn ourselves." When the Young Ones told their mother this, "Then," says she, "we must be gone indeed ; for when a man undertakes to do his work himself, he will not be disappointed." So she removed her Young Ones immediately, and the corn was reaped the next day by the good man and his son.
@@ -540,6 +576,8 @@ Neighbours and friends are backwards. Who intends T'effect things well, must mak
 
 ### The Wolf in Sheep's Clothing, Abbreviated, Stevens
 
+https://orthic.shorthand.fun/reading
+
 A Wolf, clothing himself in the skin of a Sheep, and by this means getting in among the flock, took the opportunity to devour many of them. At last the shepherd discovered him, and, fastening a rope about his neck, tied him up to a tree which stood hard by. Some other shepherds happening to pass that way, and obaerving what he was about, drew near, and expressed their surprise at it "What," says one of them, "brother, do you hang Sheep ?" — "No," replies the other, "but I hang a Wolf whenever I catch him, though he be in Sheep's clothing." Then he showed them their mistake, and they applauded the justice of the execution.
 
 Moral. The credit got by a lie only lasts till the truth comes out.
@@ -550,6 +588,8 @@ Truth has such a face and such a mien,\
 As to be loved needs only to be seen.
 
 ### A Speech In Reporting Style, Reporting, Stevens 
+
+https://orthic.shorthand.fun/reading
 
 Key to speech: See the third column from the right, headed "ENGLAND AND THE WORLD", in the [23 May 1898 edition of the New York Sun](https://chroniclingamerica.loc.gov/lccn/sn83030272/1898-05-23/ed-1/seq-6/). Evidently the speech was given on or just before 14 May 1898, printed in the London Times that day, then part excerpted in the New York Sun a couple weeks later.  (Jeremy W Sherman)
 
@@ -672,6 +712,8 @@ They were separated by the blunder of the British Government.
 
 
 ## New Testament, Reporting, Stevens
+
+https://orthic.shorthand.fun/reading
 
 [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)\
 Key: Any authorized version of the KJV will do.

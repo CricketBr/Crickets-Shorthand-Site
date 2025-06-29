@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 103";
+    content: " css rev 104";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -39,6 +39,8 @@ body {
     line-height: 1.5;
     /* background-color: var(--accentMain); */
     /* max-width: 800px; */
+
+    background-color: var(--accentMed);
 }
 
 header {
@@ -60,7 +62,7 @@ header {
 
 article {
 
-
+    background-color: none;
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
@@ -195,40 +197,48 @@ img {
     margin-top: 2ex;
     margin-bottom: 0;
     /* overflow: scroll; */
-    border-bottom: 10px solid red;
+    border-right: 10px solid red;
 }
 
 img.man {
     max-width: min(30rem, 100%);
+    border: none;
 }
 
 img.sup {
     max-width: min(45rem, 100%);
+    border: none;
 }
 
 img.teach1 {
     max-width: min(45rem, 100%);
+    border: none;
 }
 
 img.rev {
     max-width: min(35rem, 100%);
+    border: none;
 }
 
 img.man1row {
     height: 2.3em;
+    border: none;
 }
 
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
+    border: none;
 }
 
 img.teach1-1row {
     height: 2.2em;
+    border: none;
 }
 
 img.rev1row {
     height: 2.5em;
+    border: none;
 }
 
 code,

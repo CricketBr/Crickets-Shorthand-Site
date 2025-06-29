@@ -9,14 +9,14 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revision 103
+Revision 104
 
 CSS
 {: .cssrev}
 
 Still very fluid.
 
-Canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) .
+Contact information and canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) . Comments and corrections welcome!
 
 This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, <https://creativecommons.org/licenses/by-sa/4.0/> .
 
@@ -29,6 +29,7 @@ For Learners Who Have Already Read The Manual or Revised, up to but not necessar
 {: .no_toc}
 
 * [Introduction to Orthic Consolidated](#introduction-to-orthic-consolidated)
+* [A Note About Styles, Levels and Mixing Sources](#a-note-about-styles-levels-and-mixing-sources-styles-levels)
 * [Acknowledgements](#acknowledgements)
 * [Sources / References](#sources--references)
 * [The Alphabet](#the-alphabet)
@@ -62,7 +63,7 @@ Hopefully it creates more clarity than confusion.
 
 It is organized into the following parts: 
 
-### A Note About Styles (Levels) and Mixing Sources
+### A Note About Styles, Levels, and Mixing Sources {#styles-levels}
 
 All books agree that Fully Written comes first and Reporting comes last. The middle levels are a bit fuzzy. Ordinary seems to come first. Abbreviated, Supplement and Correspondence seem to be the same. Reporting is an experimental level which varies between sources. As rules were proven safe and useful, later books moved them to the intermediate levels. This page includs only a few Reporting rules, and they are clearly marked.
 
@@ -73,10 +74,6 @@ The Manual, Supplement, and Teaching use the same rules until Reporting Style, a
 Where the same rule is in multiple books, sometimes I only included the oldest, except where a later book is better stated or easier to clip.
 
 Revised mostly uses the same rules in Fully Written, but not entirely. The differences are more significant at the higher levels, conflicting with the other books often enough that I recommend caution. Many rules that Revised says are intermediate are used so rarely that I'd consider them advanced.
-
-### Comments and Corrections
-
-Contact me in one of the ways on the first page. This document could use editing!
 
 ###  Acknowledgements
 
@@ -1800,7 +1797,7 @@ Revised: hd, manhood, widowhood, fatherhood, bachelorhood, hardihood
 
 Manhood has detatched HD in Manual, connected in Revised.
 
-#### HYPER- -- See PER.
+#### HYPER- -- See PR- Family.
 
 
 
@@ -2064,12 +2061,12 @@ There are examples of this in the Supplement, but it isn't listed as a rule. It 
 
 #### OVE, OLVE -- See VE.
 
-#### PR Family
+#### PR- Family
 
 Someone needs to dive into this a bit more, but on first glance it appears all PRv and PvR at start of word are treated the same. Super/supra differently. So why do all the books separate them? (Cricket)
 
 
-#### PER-, PRO-, PRE- maybe PRA- `^`
+#### PER-, PRO-, PRE-, PARA-, PARI-, PRI-, PUR-, maybe PRA- `^`
 ![shorthand image](assets/supp-bits/person-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/present-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/promise-s.png){: .sup1row}
@@ -2078,9 +2075,16 @@ Someone needs to dive into this a bit more, but on first glance it appears all P
 ![shorthand image](assets/supp-bits/private-s.png){: .sup1row}\
 Supplement: person, present, promise, comprehend, super, supra, private
 
+![shorthand image](assets/supp-bits/perceives-s.png){: .sup1row}
+![shorthand image](assets/supp-bits/person-s.png){: .sup1row}\
+Supplement: perceives, person
+
 ![shorthand image](assets/revised-split/per,pre,pro-r15.jpg){: .rev}\
 Revised: person, present, proclaim, persecute, promise, premise, profane, profess, superfine, supralinear.
 
+![alt shorthand image](assets/revised-split/pr-fam-r16.jpg){: .rev}\
+Revised: primary, private, purchase, purvey\
+parallel, period, perimeter
 
 Pre- and pro- are distinguished from per, if necessary, by retaining the vowels e and o. The cases, however, in which it is necessary to make the distinction are very rare. (Supplement) (Revised)
 
@@ -2096,35 +2100,7 @@ Always write O before F. (Why?) (Revised)
 
 In the prefixes super, supra, hyper, the per is expressed by writing the terminal portion of the word close above and to the right of the initial prefix. Thus superfine, supralinear. (Revised)
 
-
-![shorthand image](assets/revised-split/pri,pur-r16.jpg)
-
-
-#### PARI-, PERI `^`
-![shorthand image](assets/supp-bits/perceives-s.png){: .sup1row}
-![shorthand image](assets/supp-bits/person-s.png){: .sup1row}\
-Supplement: perceives, person
-
-![shorthand image](assets/revised-split/para,peri-r16.jpg){: .rev}\
-Revised: parallel, period, perimiter
-
-These Greek prefixes may also be expressed by supra-linear writing for the same reason. Peri is distinguished by retaining the i; it may be regarded as a special case of per. (Supplement)
-
-Only for prefixes, or quazi prefixes (Teaching 1)
-
-May be indicated in a similar manner. (Revised)
-
-#### PRI `^`
-
-![shorthand image](assets/revised-split/pri,pur-r16.jpg){: .rev}\
-Revised: primary, private, purchase, purvey
-
-Same as PRE "in many instances." (Revised)
-
-#### PUR -- See PRI.
-
-
-#### SCH -- See CH, Abbreviating Principles
+#### SCH -- See CH, Abbreviating Principles and SH
 
 #### -SHIP `.p` or `p`
 ![shorthand image](assets/supp-bits/worship-s.png){: .sup1row}\
