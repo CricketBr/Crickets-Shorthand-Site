@@ -1317,6 +1317,31 @@ The general method of abbreviating is the same as that ordinarily employed in lo
 
 ### Modes or Positions
 
+Each letter that can be replaced by a mode is listed under Joining Consonants. Their use for shortening words beyond simple letter replacement is under Abbreviating Principles. 
+
+* First Position, Raised: B, P, TH, V (Supplement calls this Supra-Linear Writing)
+  * B is only raised for the syllable B at the start of words.
+  * TH is only raised at the start of words.
+* Second Position, Normal (gap): all others
+* Third Position: Lowered: G, J, K, L, QU
+
+The Manual clearly says and shows mode is relative to the previous letter. So does Revised. Teaching is the outlier, saying clearly "below the line," but there are no examples that clearly show that vs relative to the previous letter.
+
+ thoughtfulness s  reign r17 benevolent r17
+
+![alt text](assets/manual-bits/benevolent-m031.png){: .man1row}
+
+
+
+[Jeremy: ‘Benevolent’ demonstrates how indication by mode differs from the fixed positions used in Pitman’s shorthand. While Pitman’s positions are relative to the line, Orthic’s modes are relative to the preceding character. Thus a raised n implies the prefix be-, and then an lnt raised relative to that n implies the v.]
+
+Mnemonic: The raised letters are in the front of the mouth. The lowered ones are in the back, except for L. (Cricket)
+
+
+If the last part of the word is normally indicated by mode, use a dot.
+
+tttxxx
+
 ![shorthand image](assets/supp-bits/advantage-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/arrange-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/arrive-s.png){: .sup1row}
@@ -1331,27 +1356,6 @@ The general method of abbreviating is the same as that ordinarily employed in lo
 
 Supplement: advantage, arrange, arrive, conserve, judge, knowledge, language, large, mortgage, super
 
-Each letter that can be replaced by a mode is listed under Joining Consonants. Their use for shortening words beyond simple letter replacement is under Abbreviating Principles. 
-
-* First Position, Raised: B, P, TH, V (Supplement calls this Supra-Linear Writing)
-  * B is only raised for the syllable B at the start of words.
-  * TH is only raised at the start of words.
-* Second Position, Normal (gap): all others
-* Third Position: Lowered: G, J, K, L, QU
-
-The Manual clearly says and shows mode is relative to the previous letter. So does Revised. Teaching is the outlier, saying clearly "below the line," but there are no examples that clearly show that vs relative to the previous letter.
-
-benevolent, mReporting ??  thoughtfulness s  reign r17 benevolent r17
-
-
-[Jeremy: ‘Benevolent’ demonstrates how indication by mode differs from the fixed positions used in Pitman’s shorthand. While Pitman’s positions are relative to the line, Orthic’s modes are relative to the preceding character. Thus a raised n implies the prefix be-, and then an lnt raised relative to that n implies the v.]
-
-Mnemonic: The raised letters are in the front of the mouth. The lowered ones are in the back, except for L. (Cricket)
-
-
-If the last part of the word is normally indicated by mode, use a dot.
-
-tttxxx
 
 
 ![shorthand image](assets/revised-split/g,v,middle-r17.jpg){: .rev}\

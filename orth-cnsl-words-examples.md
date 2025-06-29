@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OCWds - Orthic Word List
+title: OCWdsEx - Orthic Words from Examples
 ---
 
 This document will help you find words used as examples in the various books. It is in two parts:

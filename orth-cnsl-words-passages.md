@@ -1,3 +1,17 @@
+---
+layout: default
+title: OCWdsP - Orthic Words from Passages
+---
+
+This document will help you find words used as examples in the various books. It is in two parts:
+
+* Examples. Words that are used as examples in the instructions.
+* Passages. Words that are burried in passages
+
+Where the original document spells it in a non-standard way, I have included both standard and Orthic spelling, for ease of searching.
+
+I have indicated the writer of each document. Callendar wrote the Manual and Supplement. Stevens wrote Teaching and most of the extra material. Clarey wrote Revised. Callendar and Stevens mostly follow the same rules. Stevens has slightly different rules for S-blends. Clarey? Very different rules for S-blends, many of what he calls "compound characters," and very many more abbreviating rules.
+
 heading, title, copyright, contact, canonical copy, etc
 
 Creative Commons ... same as Jeremy's site

@@ -53,7 +53,7 @@ Hopefully it creates more clarity than confusion.
 
 Lists of words by rule, created as Cricket needs them.
 
-## [Orthic Consolidated -- Example Words](orth-cnsl-word-examples.md)
+## [Orthic Consolidated -- Example Words](orth-cnsl-words-examples.md)
 
 ## [Orthic Consolidated -- Passages](orth-cnsl-words-passages.md)
 
