@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revision 102
+Revision 103
 
 CSS
 {: .cssrev}
@@ -40,7 +40,6 @@ For Learners Who Have Already Read The Manual or Revised, up to but not necessar
 * [Phrases](#phrases)
 * [Word Lists](#word-lists)
 * [Full Table of Contents](#full-table-of-contents)
-* [Notes to Self](#notes-to-self)
 * [Contact](#contact)
 * [Revision History](#revision-history)
 
@@ -58,29 +57,22 @@ This book addresses the first deficiency, hopefully without creating too much mo
 
 [Cricket's Shorthand Course](cr-shorthand-course.md) will help with the second deficiency.
 
-When cropping images, I usually chose just the rows showing the Orthic outline. There are usually enough longhand words in the image that you can use your browser's Search feature to find the rule in the text. See Examples and Images for file name format.
-
-Many rules in the Supplement do not have images, and instead refer the large plate in the Manual for the Reporting level. Teaching sometimes improves on that. In these cases, I have only used images from Teaching. Teaching also has good examples of the ambguity some of the more complicated rules are intended to prevent. Revised is a mixed bag. It's clearly written, but some of the changes to allow more speed conflict with the earlier books and result in rules that are harder to explain. Some of its rules are only needed to accomodate Clarey's loopier style of writing. Sometimes, though, its explanations are better.
-
-The Supplement does not always put the longhand and shorthand for a word on the same line, so some images will not have the longhand.
-
-"No examples" or lack of examples with no note, means no example in the the dictionary or any of the books. If you find examples in other material, please let me know.
 
 Hopefully it creates more clarity than confusion.
 
 It is organized into the following parts: 
 
-### A Note About Reporting
+### A Note About Styles (Levels) and Mixing Sources
 
-I merged (some of) Reporting in with the rest in order to make a single comprehensive document. Skip all sections marked as Reporting until you have mastered the rest. All reporting level rules are labeled. Trust me. If you try to learn it all at once you will be overwhelmed both with volume and with contradicting rules. Some of Clarey's Reporting rules conflict with Steven's Intermediate rules, and vice versa. Even if you stick to Steven's rules, you will often have to use multiple reporting rules to decipher a single phrase.
+All books agree that Fully Written comes first and Reporting comes last. The middle levels are a bit fuzzy. Ordinary seems to come first. Abbreviated, Supplement and Correspondence seem to be the same. Reporting is an experimental level which varies between sources. As rules were proven safe and useful, later books moved them to the intermediate levels. This page includs only a few Reporting rules, and they are clearly marked.
 
-A smaller rule set, with building blocks that you use without hesitation, is faster than a larger one with rules you have to think about.
+*A smaller rule set, with building blocks that you use without hesitation, is faster than a larger one with rules you have to think about.*
 
-### A Note About Mixing Sources
+The Manual, Supplement, and Teaching use the same rules until Reporting Style, although they disagree about which level some rules apply to. In general, newer books move rules to earlier levels, as they are proven safe, useful, and easy to learn. I've highlighted the rare cases where the rules conflict.
 
-All sources except for Revised are compatible. They books disagree about which level some rules apply to, but the rules themselves are consistent. Revised, as I discovered while consolidating, has many conflicts with the others. Use the Revised rules with caution, especially if you plan to go to the Reporting Level.
+Where the same rule is in multiple books, sometimes I only included the oldest, except where a later book is better stated or easier to clip.
 
-(I had planned to include Reporting level here, but decided to master the intermediate levels myself, first.)
+Revised mostly uses the same rules in Fully Written, but not entirely. The differences are more significant at the higher levels, conflicting with the other books often enough that I recommend caution. Many rules that Revised says are intermediate are used so rarely that I'd consider them advanced.
 
 ### Comments and Corrections
 
@@ -98,8 +90,6 @@ Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
 ### Examples and Images, File Names
 
-The Manual, Supplement, Teaching 1 and Revised, all levels except Reporting, have all been searched for examples. So has the online Orthic Dictionary (as of June 2025). I mostly did not check the contents of plates or any of the external reading material. If anyone wants to provide examples from other books, especially for rules that don't have examples, it would be much appreciated.
-
 Image file names are in a few formats.
 
 `cat-t105.jpg` : The word "cat", Teaching 1, page 5.
@@ -112,6 +102,7 @@ Image file names are in a few formats.
 - Same as above, but different order. 
 
 `006.jpg` : The page number. See full link for which book.
+
 
 ### Sources / References
 
@@ -157,24 +148,18 @@ Includes a notation that will encode Orthic text into ASCII. Contains all the ex
 
 *If not stated, the rule comes from The Manual.* I have been careful to show where each rule is introduced, but less careful to show who said what. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's.
 
-### Styles or Levels
 
-The book agree that Fully Written comes first and Reporting comes last. The middle levels are a bit fuzzy. Ordinary comes after FW. Supplement, Correspondence and Abbreviated overlap.
-
-In general, newer books move rules to earlier levels, as they are proven safe, useful, and easy to learn.
-
-Where I have included a rule from the Reporting level, I have clearly marked it, unless the Supplement or Teaching moved it to an easier level. I think many words in Revised's middle level are actually Reporting level of risk, but have followed Clarey's organization.
 
 ### Discrepancies
 
 Often a writer will explain a rule, then break it on the next page. I think that happens for a few reasons:
-- They first learned Pitman, so spelling phonetically is automatic, even when they try to write orthographically.
+- They first learned Pitman, so spelling phonetically is automatic, even when they try to write orthographically (aka using standard English spelling).
 
 - They are so used to writing advanced levels that they forget the less obvious differences between that and FW.
 
-- It's often difficult to explain a rule, so they over-simplify without realizing it (or they intend to follow the rule as written but forget).
+- It's often difficult to explain a rule, so they over-simplify without realizing it (then intend to follow the rule as written but forget).
 
-- They are used to writing for expert readers who can fill in the blanks easily, and don't need perfect penmanship.
+- They are used to writing for experienced readers who can fill in the blanks easily, and don't need perfect penmanship.
 
 Don't worry about it. The only true test of shorthand quality is whether the intended reader can read it at the intended time, for the intended purpose. (I strongly suggest you define those each time you pick up the pen.)
 
@@ -553,12 +538,19 @@ Teaching 1: chlo, chro
 ![shorthand image](assets/revised-split/c-r07.jpg){: .rev}\
 Revised: cd, ch, chl, chr, aches, pitch'd, filches, pilchard, ck, cl, cm, cn, cqu, cr, cs, ct, cy
 
+![shorthand image](assets/supp-bits/transact-s.png){: sup}\
+Supplement: transact
+
 CH is a circle the same size as H. H, CH and WH are described under H. Note MCH, NCH, SCH have different rules, described with H.
 
 CHL, CHR: Put the L or R inside the larger circle. Observe the L or R lies above/below the vowel line.
 
+CT: Supplement merges them (*transact*), as for GD. Manual Ordinary does not. Manual Hints for Reporting does not. (*characters*) 
 
-CD, CT: CD blends so it looks like a C with a long, very long, bottom. This rule isn't stated, but there are many examples in the Dictionary. Search for CED. No sign of CT doing the same. (Cricket)
+CD: blends so it looks like a C with a long, very long, bottom. This rule isn't stated, but there are many examples in the Dictionary. Search for CED. No sign of CT doing the same. (Cricket)
+
+![shorthand image](assets/manual-bits/convinced-m019.png){: man1row}\
+Manual Ordinary Style: convinced
 
 TCH. See Abbreviating Principles
 
@@ -625,9 +617,12 @@ Supplement: goodness
 ![shorthand image](assets/revised-split/g-r07.jpg){: .rev}\
 Revised: G, gb, gd, gh, gl, gm, gn, gr, gs, gy
 
+GD: Note the merge.
+
+GT: No examples.
+
 Rest of the word below the line signifies G (or termination with G). (Teaching 1)
 
-No angle between G and D. (Supplement)
 
 
 
@@ -696,16 +691,19 @@ Teaching 1 (Stevens): th, who
 ![shorthand image](assets/revised-split/ch,wh-r05.jpg){: .rev}\
 Revised (Clarey): wh, whose, when, chose, chin
 
+![shorthand image](assets/revised-split/hood-r12.jpg){: .rev}\
+Revised: hd, manhood, widowhood, fatherhood, bachelorhood, hardihood
+
 ### H, Not CH and WH
 
 ![shorthand image](assets/manual-bits/ther-m016.png){: .man}\
 ther, others, ard, toward\
 
-
 ![shorthand image](assets/revised-split/h-r07.jpg){: .rev}\
 Revised: H, ch, hat, chat, hd, hg, hs, hy
 
-HR: R goes inside H.
+HR, HL: Small circle inside big circle.
+
 
 THR, THER: T can be omitted.
 
@@ -991,8 +989,10 @@ Much disagreement among the authors. (Cricket)
     </tr> 
     <tr>
       <td>SCH-      </td>
-      <td>school<br/>
+      <td>school (Manual), school (Supplement)<br/>
+        Same author, different shape.<br/>
         <img src="assets/manual-bits/school-m011.png" class="man1row">
+        <img src="assets/supp-bits/school-s.png" class="sup1row">
       </td>
       <td></td>
       <td>sch, scholar<br/>
@@ -1038,7 +1038,7 @@ Much disagreement among the authors. (Cricket)
         <img src="assets/manual-bits/sra-m011.png" class="man1row" >
         <img src="assets/manual-bits/tsiri-m011.png" class="man1row" >
       </td>
-      <td></td>
+      <td>No examples.<br/>? Same shape for SH and SHR ? </td>
       <td>disrank, misread<br/>
         <img src="assets/revised-split/disrank-r04.jpg" class="rev1row">
         <img src="assets/revised-split/misread-r09.jpg" class="rev1row">
@@ -1325,22 +1325,21 @@ Each letter that can be replaced by a mode is listed under Joining Consonants. T
 * Second Position, Normal (gap): all others
 * Third Position: Lowered: G, J, K, L, QU
 
-The Manual clearly says and shows mode is relative to the previous letter. So does Revised. Teaching is the outlier, saying clearly "below the line," but there are no examples that clearly show that vs relative to the previous letter.
+If the last part of the word is normally indicated by mode, use a dot.
 
- thoughtfulness s  reign r17 benevolent r17
+The Manual clearly says and shows mode is relative to the previous letter. So does Revised. Teaching is the outlier, saying clearly "below the line," but the only examples work for both interpretations.
 
-![alt text](assets/manual-bits/benevolent-m031.png){: .man1row}
+See below, especially:\
+Manual: benevolent (Manual)\
+Supplement: judge\
+Revised: reign, intelligence, religion
 
-
-
-[Jeremy: ‘Benevolent’ demonstrates how indication by mode differs from the fixed positions used in Pitman’s shorthand. While Pitman’s positions are relative to the line, Orthic’s modes are relative to the preceding character. Thus a raised n implies the prefix be-, and then an lnt raised relative to that n implies the v.]
+[Jeremy: ‘Benevolent’ demonstrates how indication by mode differs from the fixed positions used in Pitman’s shorthand. While Pitman’s positions are relative to the line, Orthic’s modes are relative to the preceding character. Thus a raised N implies the prefix BE-, and then an LNT raised relative to that N implies the V.]
 
 Mnemonic: The raised letters are in the front of the mouth. The lowered ones are in the back, except for L. (Cricket)
 
-
-If the last part of the word is normally indicated by mode, use a dot.
-
-tttxxx
+![alt text](assets/manual-bits/benevolent-m031.png){: .man1row}\
+Manual: benevolent
 
 ![shorthand image](assets/supp-bits/advantage-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/arrange-s.png){: .sup1row}
@@ -1402,15 +1401,14 @@ manner: `(mn)r`
 upper: `upr`
 national: `nnl`
 
-#### ABLE-, BLE- `b`
+#### -ABLE, -BLE `b`
 
 ![shorthand image](assets/revised-split/able,ble-r19.jpg){: .rev}\
-liable, payable, bibles, table, tab
+Revised: liable, payable, bibles, table, tab
 
-If there's an A, it's AB. If not, it's AB
+Tricky! `ab` = able, `ab` = ab
 
-xxx what about horr-ible? Maybe on a later page? Does ible/able ever get confused?
-
+This is only in Revised, and I don't like it. (Cricket)
 
 #### -ACITY `ct``
 ![shorthand image](assets/revised-split/acity-r19.jpg){: .rev}\
@@ -1529,8 +1527,7 @@ Supplement: cir, circumstance
 
 Written `cir` followed by a short break to represent *cum*. `circe` is the the regular longhand abbreviation for the word *circumstance*. (Supplement)
 
-#### -CITY 
-xxx ??
+#### -CITY, Doesn't exist. See -ACITY.
 
 
 
@@ -1569,7 +1566,7 @@ The prefixes in the front of the mouth are raised. C is in the back. Why isn't i
 
 No angle between C and T, so bottom of C is wider. (Supplement, Reporting)
 
-xxx check on this, might only be CD
+I thought I 
 
 
 #### -D -- See ED.
@@ -1664,7 +1661,7 @@ Probably also in ER, since there's an example.
 
 #### -ETE See -EDE
 
-#### EV, EVE, EVI `^`
+#### EV-, EVE-, EVI- `^` -- See also -VE.
 
 ![shorthand image](assets/supp-bits/every-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/evening-s.png){: .sup1row}
@@ -1697,9 +1694,6 @@ It is better to write the vowel after L and R, to show the direction. (Teaching 
 Use a raised dot if eve was the last part of the word. (Teaching 1)
 
 Note that *even* is written `een` instead of being raised, to distinguish it from *than* and *then*.
-
-
-
 
 #### EX- `x`
 
@@ -1804,9 +1798,7 @@ Manual: manhood, `man.hd`
 ![shorthand image](assets/revised-split/hood-r12.jpg){: .rev}\
 Revised: hd, manhood, widowhood, fatherhood, bachelorhood, hardihood
 
-xxx Is man-hood detactched in manual because of rule, or ease of writing?
-
-Bachelorhood : No need for tiny R, just make a bigger H! (Cricket)
+Manhood has detatched HD in Manual, connected in Revised.
 
 #### HYPER- -- See PER.
 
@@ -2058,13 +2050,14 @@ Teaching 1: round, sound, count, counter, county, country
 
 ![shorthand image](assets/revised-split/oud,out,ount,ount-r20.jpg){: .rev}\
 Revised: cloud, clout, aloud, route, astound, hound, account, recount\
-Words which may clash: mound / mount, round / rout
+Words which may clash: mound / mount, round / rout\
+Clarey wrote `klou` for cloud. I suspect he did it because it's easier to write, and, if he comes from a phonetic system it makes no difference, but he forgot to mention it as a rule.
 
 Revised warns about the clash, but doesn't say how to deal with it. Keeping the extra letters will probably work. (Cricket)
 
 Note the final E in route.
 
-xxx cloud? That's a G, not a C
+
 
 
 There are examples of this in the Supplement, but it isn't listed as a rule. It is listed as a rule in Teaching 1.
@@ -2250,22 +2243,16 @@ See also ITY, which includes ETY and IETY.
 Supplement: arrive, gives, given, selves
 
 ![shorthand image](assets/revised-split/ive,ve-r16.jpg){: .rev}\
-REvised: leave, cove, give, saves, lived, given, loving, grove, novel, movement, prove, solve, shoving, involved
-
+Revised: leave, cove, give, saves, lived, given, loving, grove, novel, movement, prove, solve, shoving, involved
 
 A dot above and to the right of the word to indicate the V. When the word is inflected the last letter of the inflection is substituted for the dot.
 
-xxx teaching 1 ever
-
-Note *loving* in Revised. *-ve-* replaced by raising *-ing*.
-
-When the word is inflected, the last letter of the inflectio is substituted for the dot. (Revised)\
+When the word is inflected, the last letter of the inflection is substituted for the dot. (Revised)\
 ...Only the last letter? (Cricket)
 
-In words ending in *ove* or *olve*, it is generally better to omit the *o* or *ol* and to write the v.
+In words ending in *ove* or *olve*, it is generally better to omit the *o* or *ol* and to write the v. (Revised)
 
 See Modes for Revised's warnings about over-use.
-
 
 
 #### WARD `ard`
@@ -2398,12 +2385,8 @@ ab, aby, abv, ac(ing1), aq, aj, a(dv), af, afnn, afd, a_s, a_t, aso, alry, a.pte
 been, before, believed, better, best, bishop, body, both, by, thy, caught, changes, church, circum, circumstance, com-, con-, come, came, command, comment, common, compound\
 
 
-^n, ^f, ^lee.d, ^ter, ^st, bp, bdy, bth, ^y, ^y, caut, ch_s, chr???, cer., cerce?? certe??, *, *, cm, cme, *nd, *n, cpou
+^n, ^f, ^lee.d, ^ter, ^st, bp, bdy, bth, ^y, ^y, caut, ch_s, chch, cer., cerce, *, *, cm, cme, *nd, *n, cpou
 {: .code}
-
-xxx Callendar explains churc as `ch-ch`
-
-xxx circumstance, not sure.
 
 comprehend, concerning, conserve, consideration, counter, country, course, court, Dear, different, difference, difficult, each, editor, else, endeavour, even (e'en), evening, event, every
 
@@ -2436,20 +2419,6 @@ estate: `este`\
 ultimate: `ulte`\
 circumstance: `circe`\
 institute: `instute`
-
-
-
-
-
-
-
-
-
-
-
-
-xxx month has fuller H
-
 
 
 ![sup pg 12](assets/supp-bits/1abb3-s13.png){: .sup}\
@@ -2493,7 +2462,6 @@ delete, erode, indeed, meet, read\
 most, must, part, point, right\
 head, hood, would, world, might, -ment
 
-xxx Is it worth cutting this? Would need to include 7 lines out of 17.
 
 #### Examples of Abbreviations, Revised page 22,23
 
@@ -2528,34 +2496,6 @@ Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, ob
 * Reddit u/CrBr
 * GitHub @CricketBr
 * [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
-
-<a id="notest-to-self"></a>
-## Notes to Self
-
-- If it's not obvious where the full description should be, choose the earlier one.
-- Abbreviation and Vocab sections assume reader knows Joins. Jeremy's notation is enough for them to make the image on their own. (Will need to add to the notation.)
-
-- The two ways of spelling are Orthic and orthographic. If I find a better word for the 2nd I can search/replace easily enough.
-
-
-- where a rule is not contradicted by later books, only the oldest is quoted, unless later books have better explanations or examples.
-
-- fix "shorthand image" everywhere -- but does this audience really need it?
-
-- how to write *today*
-
-- We definitely need a reverse dictionary for the abbreviations and abbreviating principles!! It can refer to this doc for details.
-
-- manually do the links in each heading, I think, so V in joins and V in abbreviating aren't just V1 and V2.
-
-- code should be a serif font (i,l,I,O,0), preferably monospaced to make it stand out
-
-- try {#myID} instead of anchors
-
-
-- xxx means a section needs to be fixed
-
-- go through man, sup for jeremy's notes
 
 <a id="revision-history"></a>
 ## Revision History

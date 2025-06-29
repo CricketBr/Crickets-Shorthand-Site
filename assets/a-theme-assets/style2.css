@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 102";
+    content: " css rev 103";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -192,66 +192,43 @@ tr:nth-child(even) {
 
 img {
     max-width: min(50rem, 100%);
+    margin-top: 2ex;
     margin-bottom: 0;
     /* overflow: scroll; */
-    border: 10px solid red;
+    border-bottom: 10px solid red;
 }
 
 img.man {
     max-width: min(30rem, 100%);
-    border-width: 3px 3px 0 3px;
-    border-style: solid;
-    border-color: var(--accentMain)
 }
 
 img.sup {
     max-width: min(45rem, 100%);
-    border-width: 3px 3px 0 3px;
-    border-style: dashed;
-    border-color: var(--accentMed);
 }
 
 img.teach1 {
     max-width: min(45rem, 100%);
-    border-width: 3px 3px 0 3px;
-    border-style: dotted;
-    border-color: darkolivegreen;
 }
 
 img.rev {
     max-width: min(35rem, 100%);
-    border-width: 3px 3px 0 3px;
-    border-style: double;
-    border-color: rosybrown;
 }
 
 img.man1row {
     height: 2.3em;
-    border-width: 3px 3px 0 3px;
-    border-style: solid;
-    border-color: var(--accentMain)
 }
 
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
-    border-width: 3px 3px 0 3px;
-    border-style: dashed;
-    border-color: var(--accentMed);
 }
 
 img.teach1-1row {
     height: 2.2em;
-    border-width: 3px 3px 0 3px;
-    border-style: dotted;
-    border-color: darkolivegreen;
 }
 
 img.rev1row {
     height: 2.5em;
-    border-width: 3px 3px 0 3px;
-    border-style: double;
-    border-color: rosybrown;
 }
 
 code,
@@ -263,8 +240,6 @@ code,
     overflow: scroll;
     font-size: 100%;
     background-color: var(--accentLight);
-
-
 }
 
 .serif {

@@ -3,37 +3,9 @@ layout: default
 title: OCWdsP - Orthic Words from Passages
 ---
 
-This document will help you find words used as examples in the various books. It is in two parts:
+# Orthic Words From Passages
 
-* Examples. Words that are used as examples in the instructions.
-* Passages. Words that are burried in passages
-
-Where the original document spells it in a non-standard way, I have included both standard and Orthic spelling, for ease of searching.
-
-I have indicated the writer of each document. Callendar wrote the Manual and Supplement. Stevens wrote Teaching and most of the extra material. Clarey wrote Revised. Callendar and Stevens mostly follow the same rules. Stevens has slightly different rules for S-blends. Clarey? Very different rules for S-blends, many of what he calls "compound characters," and very many more abbreviating rules.
-
-heading, title, copyright, contact, canonical copy, etc
-
-Creative Commons ... same as Jeremy's site
-
-xxx See Consolidated Ref for sources, ackms
-
-----
-
-This document will help you find words used as examples in the various books, and for dictation. It is in two parts:
-
-* Examples. Words that are used as examples in the instructions.
-* Passages. Words that are burried in passages
-
-Where the original document spells it in a non-standard way, I have included both standard and Orthic spelling, for ease of searching.
-
-This document does not contain the text of the Psalms or the New Testament (both KJV), as they are very long. If you are desparate to find a word in a passage, or for more dication material, they are here:
-
-
-I have indicated the writer of each document. Callendar wrote the Manual and Supplement. Stevens wrote Teaching and most of the extra material. Clarey wrote Revised. Callendar and Stevens mostly follow the same rules. Stevens has slightly different rules for S-blends. Clarey? Very different rules for S-blends, many of what he calls "compound characters," and very many more abbreviating rules.
-
-The Bible websites all put each psalm and chapter on a separate page. I made a valient attempt to collect them into this document, but ultimately gave up.
-
+See [Orthic Consolidated Words -- From Examples](orth-cnsl-words-examples.md) for introduction and progress.
 
 *Table of Contents
 {:toc}
@@ -41,11 +13,11 @@ The Bible websites all put each psalm and chapter on a separate page. I made a v
 expected to be writing 60 WPM and reading fluently.
 
 
-# Manual, Callendar
+## Manual, Callendar
 
 All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
 
-## Specimen of Fully Written Style, Callendar
+### Specimen of Fully-Written Style, Callendar
 
 The preceding rules and examples will enable the student to read the (1) specimen of writing given on the opposite page, of which this page is a (2) key. Every word of this specimen is written in full letter for letter (3) just as it is here spelt. Nothing is left out. The small figures in (4) brackets show where each line of the shorthand ends, so that the stu-(5)dent may have no difficulty finding his place in the key, if (6) he happens to be at a loss to make out a word. (7)
 
@@ -53,7 +25,7 @@ The ability to write any word in full just as it is spelt, is (8) of the greates
 
 Even when thus written in full the system is very brief as contrasted (12) with ordinary writing. For practical purposes a still further increase (13) of brevity may be effected without any sacrifice of clearness, by (14) the use of shorter out-lines for such words as and, the, (15) for, to, etc., which occur so often in every page of English (16), and by the employment of a few other simple methods of (17) abbreviation, which are illustrated in the sections that follow, (18) and which constitute the ordinary style of Cursive.
 
-## Specimen of the Ordinary Style: Introductory Remarks, Callendar
+### Specimen of the Ordinary Style: Introductory Remarks, Callendar
 
 The present system is an adaptation of the alphabet and principles of Cursive Shorthand to the common orthography.
 
@@ -73,7 +45,7 @@ The system is strictly alphabetic. A letter is always represented by its alphabe
 
 In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen [of the fully-written style], every word of which is spelt in full.
 
-## From Macaulay's History, Callendar
+### From Macaulay's History, Callendar
 
 The State of England in the Reign of Charles II.
 
@@ -85,7 +57,7 @@ It seems clear that the wages of labour, estimated in money, were, in 1685, not 
 
 The produce of tropical countries, of mines, and of machinery, was positively dearer than at present. Among the commodities for which the labourer would have had to pay higher in 1685 than his posterity now pay, were sugar, salt, coals, candles, soap, shoes, stockings, and generally all articles of clothing and all articles of bedding. It may be added, that the old coats and blankets would have been, not only more costly, but less serviceable, than the modern fabrics.
 
-## St John II, Callendar
+### St John II, Callendar
 
 <https://www.biblegateway.com/passage/?search=John%202&version=KJV>
 
@@ -143,7 +115,7 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 
 2 The same came to Jesus by night, and said unto him, Rabbi, 
 
-## Hints for Reporting Style (Callendar)
+### Hints for Reporting Style, Callendar
 
 See <https://orthic.shorthand.fun/manual#hints-for-the-reporting-style>, transcribed by Jeremy W Sherman, for marked-up image and key.
 
@@ -237,21 +209,43 @@ adequately in the present publication, (9) but we will proceed to give a few hin
 
 
 
-## Specimen (Moderately Abbreviated), Callendar
+### Specimen (Moderately Abbreviated), Callendar
 
 From <https://orthic.shorthand.fun/manual#key-9>, transcribed by Jeremy W Sherman.
 
 Local Government.
 
-I agree with Sir Charles Dilke in attributing the utmost importance to the question of local government in the future. I agree with him in the estimate which he has formed of the high place that question will occupy in the programme of the Liberal party. Experience justifies us in the hope that the Reformed Parliament will do much in the direction of completing the work which previous Reformed Parliaments have commenced. What was the main and the material advantage which resulted from the Reform Bill of 1832? It was the concession of municipal government to our country towns — a concession which has been highly appreciated, and which has been wisely used, and which has added most materially to the comfort and the happiness of the populations concerned. And what was the greatest result of the Reform of 1867? It was the extension of the functions of local governments by the creation of a system of education national in its scope, but locally administered. And it remains for the Reformed Parliament which will meet in 1886 to complete this work and to carry it further. I can conceive of no nobler and no more congenial task for those who represent the whole people than that of extending to the counties and to the metropolis and to the sister kingdom the liberties and the institutions which have conferred so great a benefit upon us the provinces. Gentlemen, local government is important altogether beyond its usefulness. It is the best political education, and I am convinced that the welfare and the contentment of the whole population can only be secured in proportion as the whole population are called in to take a part and a share in the obligations and the responsibilities of government. But, the extension of municipal institutions is not all that we have to do in the way of local government. We have in the future to elevate our conception of the meaning of the word. It is not merely a parochial and municipal, it is not even merely a provincial question, it is a national question also. What are the great problems of the future? We have to deal with obstruction in the House of Commons. We have to deal with the system under which the greatest legislative assemblage in the world has begun to lose its usefulness, and in consequence lose its influence. And that result can never be accomplished as long as the Imperial Parliament is burdened with an ever increasing amount of petty detail with which it is incompetent to deal, and which ought to be referred to other bodies.
+I agree with Sir Charles Dilke in attributing the utmost importance to the question of local government in the future. \
+I agree with him in the estimate which he has formed of the high place that question will occupy in the programme of the Liberal \
+party. Experience justifies us in the hope that the Reformed Parliament will do much in the direction of completing the work which \
+previous Reformed Parliaments have commenced. What was the main and the material advantage which resulted from the Reform Bill of 1832? \
+It was the concession of municipal government to our country towns — a concession which has been highly appreciated, \
+and which has been wisely used, and which has added most materially to the comfort and the happiness of the populations concerned. \
+And what was the greatest result of the Reform of 1867? It was the extension of the functions of local governments by the \
+creation of a system of education national in its scope, but locally administered. And it \
+remains for the Reformed Parliament which will meet in 1886 to complete this work and to carry it further. I can conceive of no \
+nobler and no more congenial task for those who represent the whole people than that of extending to the counties and \
+to the metropolis and to the sister kingdom the liberties and the institutions which have conferred so great a benefit upon us the \
+provinces. Gentlemen, local government is important altogether beyond its usefulness. It is the best political education, \
+and I am convinced that the welfare and the contentment of the whole population can only be secured in proportion as the \
+whole population are called in to take a part and a share in the obligations and the responsibilities of government. But, the \
+extension of municipal institutions is not all that we have to do in the way of local government. We have in the \
+future to elevate our conception of the meaning of the word. It is not merely a parochial and \
+municipal, it is not even merely a provincial question, it is a national question also. What are the great problems \
+of the future? We have to deal with obstruction in the House of Commons. We have to deal with the system under which \
+the greatest legislative assemblage in the world has begun to lose its usefulness, and in consequence lose its influence. \
+And that result can never be accomplished as long as the Imperial Parliament is burdened with an ever increasing amount of \
+petty detail with which it is incompetent to deal, and which ought to be referred to other bodies.
 
-What are the two greatest and most pressing needs of our time? I think most men would say the provision of healthy decent dwellings in our large towns at fair rents, and in the country facilities for the labourer to obtain a small plot of land which he may be able to work.
+What are the two greatest and most pressing needs of our time? I think most men would say the \
+provision of healthy decent dwellings in our large towns at fair rents, and in the country facilities for the \
+labourer to obtain a small plot of land which he may be able to work.
 
-# Supplement, Callendar
+## Supplement, Callendar
 
 All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
 
-## Specimen: Ordinary Style, Abbreviated, plate 1, Callendar
+### Specimen: Ordinary Style, Abbreviated, plate 1, Callendar
 
 Advantages of the Orthographic Basis
 
@@ -274,7 +268,7 @@ A phonetic system is quite unable to cope with any peculiarities of spelling, or
 Longhand abbreviations directly usable
 Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.
 
-## Specimen: Ordinary Style, Abbreviated, plate 2, Callendar
+### Specimen: Ordinary Style, Abbreviated, plate 2, Callendar
 
 The majority of the examples given in the list of ‘Examples of Abbreviations’ are simply transliterations of those in common use, and being already familiar require no learning.
 
@@ -291,7 +285,7 @@ It is much more difficult to find sufficient stenographic material for a complet
 As early as 1887 the author fully recognised the advantages of an orthographic basis in point of simplicity, and had made many unsuccessful attempts to construct such a system; but at the time of writing the introduction of the Manual he did not fully realise the difficulties that phonetic spelling presents to the majority of students. He was therefore content to abandon his orthographic labours, and to acquiesce in the generally prevailing opinion (as expressed in the Manual, p. 19) that a system of shorthand to be simple, consistent and complete must be phonetic, since it is almost impossible to make a system represent consistently and simply the endless variety of combinations in the common spelling. A correction in the above passage suggested by two 
 
 
-## Specimen: Ordinary Style, Abbreviated, plate 3, Callendar
+### Specimen: Ordinary Style, Abbreviated, plate 3, Callendar
 
 or three eminent shorthand authorities, conducted in striking out the word ‘almost’ before impossible. The author however, having at length succeeded in solving the problem to his own satisfaction, is now of the opinion that he had somewhat over-rated the impossibility.
 
@@ -307,7 +301,7 @@ Ordinary Style
 
 The Ordinary Style of Orthic is intended for general use and for purposes of correspondence and communication between different writers of the system. The rules have been made as simple and definite as possible, so that any word can be correctly written in one way only. It is particularly desirable that writers should keep as far as possible to the ordinary style in correspondence, and that they should not introduce reporting abbreviations of their own devising. In reporting or taking notes for private use much greater latitude may be naturally allowed.
 
-## Specimen: Notes on Reporting, Callendar
+### Specimen: Notes on Reporting, Callendar
 
 From <https://orthic.shorthand.fun/supplement#key>, transcribed by Jeremy W Sherman.
 
@@ -356,7 +350,7 @@ _rel<sub>n</sub>_ = religion
 
 
 
-## Specimen: Notes of a Speech by Lord Dufferin an St Andrews, Probably Reporting
+### Specimen: Notes of a Speech by Lord Dufferin an St Andrews, Probably Reporting
 
 Key to Page 1
 
@@ -377,7 +371,7 @@ With regard to public speaking, the first essential principle was undoubtedly pr
 
 His Lordship concluded by mentioning two further rules of conduct — namely, the cultivation of the spirit of justice, and, of the sentiment of chivalry. The secret of lifelong happiness was not, as was generally said, to keep one’s illusions as long as possible, but to preserve the conviction that one’s “illusions” were the only realities, and that their destruction was tantamount to their becoming the victims of a vain and empty dream. But with knightly purity and white-robed justice for their companions, the magic light would neither waver nor fade from their path.
 
-## Specimen: Verbatim Report of a Speech, Probably Reporting
+### Specimen: Verbatim Report of a Speech, Probably Reporting
 
 Key: Lord Salisbury at the Mansion House
 
@@ -389,19 +383,19 @@ With respect to our foreign affairs, there is always a certain difficulty and re
 
 But, at all events, whatever we may think of domestic affairs, with respect to Foreign affairs I will speak only of the present what I know; and with respect to the present I will say that there is not on the horizon a single speck of a cloud which contains within it anything injurious to the prospects of peace. In fact, it seems to me that the warfare of nations, if you are to judge by the interest they take in the subject, is slowly changing its object and its field, and that it is the industrial competition which chiefly occupies in these days the chancellaries and diplomacies. The great subjects of consideration are those Treaties of Commerce which are to expire next year; the great question is what tariffs will the various nations adopt with regard to each other. And though, with respect to material warfare, I think we can hold out to you the most promising anticipations, as far as our present prospects go, with respect to this industrial warfare, which has for its weapons protective legislation, and has for its prize the markets of various countries, I am afraid we must be content to occupy for a time a peculiar and isolated position.
 
-# Teaching Part One, Stevens
+## Teaching Part One, Stevens
 
 No long passages.
 
-# Teaching Part Two, Stevens
+## Teaching Part Two, Stevens
 
 https://orthic.shorthand.fun/teaching-pt2
 
-## The Lord's Prayer, Reporting, Stevens
+### The Lord's Prayer, Reporting, Stevens
 
 Our Father who art in Heaven, hallowed be ty name. They kingdom come, they will be done, on Earth as it is in Heaven. Give us this day our daily bread and forgive us our trespasses, as we forgive them who trespass against us and dead us not into temptaion but deliver us from evil, for thine is the kindgom, the power and the glory, for ever and ever, Amen.
 
-## Mr Gladstone at Liverpool, Reporting, Stevens
+### Mr Gladstone at Liverpool, Reporting, Stevens
 
 I have listened, My Lord Mayor, with the warmest sympathy to the speeches of those who have gone before me, and I desire to associate \
 myself with them in the closest manner, it is true, Ladies and Gentlemen, that I have lived a long political life, and that I have borne \
@@ -418,13 +412,13 @@ easy to perform. I, for my part, entertain not only a lively hope, but a strong 
 of time we are made more largely acquainted with the inter-relations of Governments in the transactions \
 of the last two years, we shall find that the present deplorable situation, to whomsoever it may be due, is not due either to the act of defaults of the Government of the great country. Now my Lord Mayor, I come to the resolution which I have undertaken to move. There are certain subjects which I should wish, if I may, to deal with. There are most important distinctions to be drawn in this matter, especially on the ground that the sufferers under the present misrule, and under the horribly accumulated outrages of the last two years, the sufferers under this misrule and these outrages are our fellow Christians; and permit me to say seconding that which has been said already, we do not prosecute the cause we have in hand upon the ground that they are our fellow Christians. This is no Crusade against Mohammedanism Nay more, I will say it is no declaration of universal condemnation of the Mohammedans and the Turkish Empire. On the contrary, amidst the dismal and heartrending reports one of the rare touches of relief has been that we have seen that, in spite of the perpetration of massacre by the agents of the Government, yet there have been good, and generous Mohammedans who have resisted these misdeeds to the uttermost of their power and who have established for themselves a claim to our sympathy and admiration.
 
-# Revised, Clarey
+## Revised, Clarey
 
 All the specimens of shorthand have been taken from "The Idle Thoughts of an Idle Fellow," by Jerome K Jerome.
 
 https://www.gutenberg.org/files/849/
 
-## On Being Idle, p10, Fully Written, Clarey
+### On Being Idle, p10, Fully Written, Clarey
 
 I think myself that I could keep out of bed all right if I once got out. It is the wrenching away of the head from the pillow that I find so hard, and no amount of over-night determination makes it easier. I say to myself, after having wasted the whole evening, "Well, I won't do any more work to-night; I'll get up early to-morrow morning;" and I am thoroughly resolved to do so—then. In the morning, however, I feel less enthusiastic about the idea, and reflect that it would have been much better if I had stopped up last night. And then there is the trouble of dressing, and the more one thinks about that the more one wants to put it off.
 
@@ -433,11 +427,11 @@ It is a strange thing this bed, this mimic grave, where we stretch our tired lim
 Our trouble is sore indeed when you turn away and will not comfort us. How long the dawn seems coming when we cannot sleep! Oh! those hideous nights when we toss and turn in fever and pain, when we lie, like living men among the dead,
 
 
-## On Cats and Dogs, p14, Intermediate, Before Modes, Clarey
+### On Cats and Dogs, p14, Intermediate, Before Modes, Clarey
 
 Can you remember, reader, when you and I felt something of the same sort of thing? Can you remember those glorious days of fresh young manhood—how, when coming home along the moonlit road, we felt too full of life for sober walking, and had to spring and skip, and wave our arms, and shout till belated farmers' wives thought—and with good reason, too—that we were mad, and kept close to the hedge, while we stood and laughed aloud to see them scuttle off so fast and made their blood run cold with a wild parting whoop, and the tears came, we knew not why? Oh, that magnificent young LIFE! that crowned us kings of the earth; that rushed through every tingling vein till we seemed to walk on air; that thrilled through our throbbing brains and told us to go forth and conquer the whole world; that welled up in our young hearts till we longed to stretch out our arms and gather all the toiling men and women and the little children to our breast and love them all—all. Ah! they were grand days, those deep, full days, when our coming life, like an unseen organ, pealed strange, yearnful music in our ears, and our young blood cried out like a war-horse for the battle. Ah, our pulse beats slow and steady now, and our old joints are rheumatic, and we love our easy-chair and pipe and sneer at boys' enthusiasm. But oh for one brief moment of that god-like life again!
 
-## On Being Hard Up, p17, Intermediate, After Modes, Clarey
+### On Being Hard Up, p17, Intermediate, After Modes, Clarey
 
 It is a most remarkable thing. I sat down with the full intention of writing something clever and original; but for the life of me I can't think of anything clever and original—at least, not at this moment. The only thing I can think about now is being hard up. I suppose having my hands in my pockets has made me think about this. I always do sit with my hands in my pockets except when I am in the company of my sisters, my cousins, or my aunts; and they kick up such a shindy—I should say expostulate so eloquently upon the subject—that I have to give in and take them out—my hands I mean. The chorus to their objections is that it is not gentlemanly. I am hanged if I can see why. I could understand its not being considered gentlemanly to put your hands in other people's pockets (especially by the other people), but how, O ye sticklers for what looks this and what looks that, can putting his hands in his own pockets make a man less gentle? Perhaps you are right, though. Now I come to think of it, I have heard some people grumble most savagely when doing it. But they were mostly old gentlemen. We young fellows, as a rule, are never quite at ease unless we have our hands in our pockets. We are awkward and shifty. We are like what a music-hall Lion Comique would be without his opera-hat, if such a thing can be imagined. But let us put our hands in our trousers pockets, and let there be some small change in the right-hand one and a bunch of keys in the left, and we will face a female post-office clerk.
 
@@ -445,7 +439,7 @@ It is a little difficult to know what to do with your hands, even in your pocket
 
 I can speak with authority on the subject of being hard up. I have been a provincial actor.
 
-## On Being In The Blues, p24, After General Method of Abbreviation, Clarey
+### On Being In The Blues, p24, After General Method of Abbreviation, Clarey
 
 By the way, it never does come except in the evening. In the sun-time, when the world is bounding forward full of life, we cannot stay to sigh and sulk. The roar of the working day drowns the voices of the elfin sprites that are ever singing their low-toned miserere in our ears. In the day we are angry, disappointed, or indignant, but never "in the blues" and never melancholy. When things go wrong at ten o'clock in the morning we—or rather you—swear and knock the furniture about; but if the misfortune comes at ten P.M., we read poetry or sit in the dark and think what a hollow world this is.
 
@@ -455,7 +449,7 @@ I am not sneering. I would not for a moment sneer at anything that helps to keep
 
 I am glad when I see Regret walked with as a friend—glad because I know the saltness has been washed from out the tears, and that the sting must have been plucked from the beautiful face of Sorrow ere we dare press her pale lips to ours. Time has laid his healing hand upon the wound when we can look back upon the pain we once fainted under and no bitterness or despair rises in our hearts. The burden is no longer heavy when we have for our past troubles only the same sweet mingling of pleasure and pity that we feel when old knight-hearted Colonel Newcome answers "adsum" to the great roll-call, 
 
-## On Memory, Reporting, Clarey
+### On Memory, Reporting, Clarey
 
 A friend came to me the other day and urged me very eloquently to learn some wonderful system by which you never forgot anything. I don't know why he was so eager on the subject, unless it be that I occasionally borrow an umbrella and have a knack of coming out, in the middle of a game of whist, with a mild "Lor! I've been thinking all along that clubs were trumps." I declined the suggestion, however, in spite of the advantages he so attractively set forth. I have no wish to remember everything. There are many things in most men's lives that had better be forgotten. There is that time, many years ago, when we did not act quite as honorably, quite as uprightly, as we perhaps should have done—that unfortunate deviation from the path of strict probity we once committed, and in which, more unfortunate still, we were found out—that act of folly, of meanness, of wrong. Ah, well! we paid the penalty, suffered the maddening hours of vain remorse, the hot agony of shame, the scorn, perhaps, of those we loved. Let us forget. Oh, Father Time, lift with your kindly hands those bitter memories from off our overburdened hearts, for griefs are ever coming to us with the coming hours, and our little strength is only as the day.
 
@@ -484,7 +478,7 @@ And then comes school life, with its bitter little sorrows and its joyous shouti
 
 
 
-# Psalms, KJV, Supplement to Teaching 1 and 2, Stevens
+## Psalms, KJV, Supplement to Teaching 1 and 2, Stevens
 
 Change of Plans. There is a lot of material in the Psalms. If you're desparate for an example or dictation material, you can find them all in one place here:\
 https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=2190116
@@ -504,16 +498,16 @@ Psalms 66–83 in reporting style [PDF](https://orthic.shorthand.fun/assets/read
 
 
 
-# Aesop's Fables (Abbreviated) and A Speech In Reporting Style, Stevens
+## Aesop's Fables (Abbreviated) and A Speech In Reporting Style, Stevens
 
 [_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_](https://orthic.shorthand.fun/assets/reading/Aesop's%20Fables%20in%20Orthic.pdf)
 
-## Aesop's Fables, Abbreviated, Stevens
+### Aesop's Fables, Abbreviated, Stevens
 
 Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match. [Jeremy W Sherman]
 
 
-## The Wolf and the Lamb, Abbreviated, Stevens
+### The Wolf and the Lamb, Abbreviated, Stevens
 
 One hot, sultry day, a Wolf and a Lamb happened to come, just at the same time, to quench their thirst in the stream of a clear silver brook that ran tumbling down the side of a rocky mountain. The Wolf stood upon the higher ground, and the Lamb at some distance from him down the current. However, the Wolf, having a mind to pick a quarrel with him, asked him what he meant by disturbing the water, and making it so muddy that he could not drink, and, at the same time, demanded satisfaction. 
 
@@ -529,7 +523,7 @@ Forgiveness to the injured doth belong ; \
 They never pardon who have done the wrong.
 
 
-## The Lark and her Young Ones, Abbreviated, Stevens
+### The Lark and her Young Ones, Abbreviated, Stevens
 
 A Lark, who had Young Ones in a field of corn which was almost ripe, was under some fear lest the reapers should come to reap it before her young brood were fledged, and able to remove from their nest: wherefore, upon flying abroad to look for food, she left this charge with them — that they should take notice what they heard talked of in her absence, and tell her of it when she came back again. When she was gone, they heard the owner of the corn call to his son — " Well," says he, " I think this corn is ripe enough ; I would have you go early tomorrow, and desire our friends and neighbours to come and help us to reap it" 
 
@@ -544,7 +538,7 @@ Neighbours and friends are backwards. Who intends T'effect things well, must mak
 
 
 
-## The Wolf in Sheep's Clothing, Abbreviated, Stevens
+### The Wolf in Sheep's Clothing, Abbreviated, Stevens
 
 A Wolf, clothing himself in the skin of a Sheep, and by this means getting in among the flock, took the opportunity to devour many of them. At last the shepherd discovered him, and, fastening a rope about his neck, tied him up to a tree which stood hard by. Some other shepherds happening to pass that way, and obaerving what he was about, drew near, and expressed their surprise at it "What," says one of them, "brother, do you hang Sheep ?" — "No," replies the other, "but I hang a Wolf whenever I catch him, though he be in Sheep's clothing." Then he showed them their mistake, and they applauded the justice of the execution.
 
@@ -555,7 +549,7 @@ Application. He adds to his fault who would conceal it by hypocrisy, Evil, which
 Truth has such a face and such a mien,\
 As to be loved needs only to be seen.
 
-## A Speech In Reporting Style, Reporting, Stevens 
+### A Speech In Reporting Style, Reporting, Stevens 
 
 Key to speech: See the third column from the right, headed "ENGLAND AND THE WORLD", in the [23 May 1898 edition of the New York Sun](https://chroniclingamerica.loc.gov/lccn/sn83030272/1898-05-23/ed-1/seq-6/). Evidently the speech was given on or just before 14 May 1898, printed in the London Times that day, then part excerpted in the New York Sun a couple weeks later.  (Jeremy W Sherman)
 
@@ -677,7 +671,7 @@ They were separated by the blunder of the British Government.
 
 
 
-# New Testament, Reporting, Stevens
+## New Testament, Reporting, Stevens
 
 [The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)\
 Key: Any authorized version of the KJV will do.

@@ -23,7 +23,8 @@ Teaching also has good examples of the ambguity some of the more complicated rul
 
 Revised? It's mixed bag. It's clearly written, but some of the changes to allow more speed conflict with the earlier books and result in rules that are harder to explain. Some of its rules are only needed to accomodate Clarey's loopier style of writing. Sometimes, though, its explanations are better.
 
-"No examples" means no example in the instructions. If you find examples in other material, please let me know.
+"No examples" means no example in the explanation of the rules, up to but not including Reporting. Let me know if you find any! ([Orthic Consolidated Example Words](orth-cnsl-words-examples.md) and [Orthic Consolidated Passages](orth-cnsl-words-passages.md) ) are useful resources, but do not include Reporting, Psalms, or the New Testament.
+
 
 Many thanks to Jeremy W Sherman and xxxjackmo?? , on whose work this is based.
 

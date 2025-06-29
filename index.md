@@ -5,7 +5,7 @@ title: CSW Homepage
 
 # Still Under Construction
 
-## [Colour Testing (Part of Construction)](css-test.md)
+## [css Testing (Part of Construction)](css-test.md)
 
 Nothing to see.
 
@@ -49,15 +49,13 @@ Hopefully it creates more clarity than confusion.
 
 ## Orthic Consolidated Study Lists -- Not Started
 
-
-
 Lists of words by rule, created as Cricket needs them.
 
-## [Orthic Consolidated -- Example Words](orth-cnsl-words-examples.md)
+## [Orthic Consolidated -- Words from Examples](orth-cnsl-words-examples.md)
 
-## [Orthic Consolidated -- Passages](orth-cnsl-words-passages.md)
+## [Orthic Consolidated -- Words from Passages](orth-cnsl-words-passages.md)
 
-All the words used as examples. All the text from all the plates. Includes Aesops and Speech, but not Psalms or New Testament. With images.
+All the words used as examples and in longer passages, up to but only sometimes including Reporting. Includes Aesops and Dufferin's Speech, but not Psalms or New Testament.
 
 ## Orthic Consolidated Reverse Rules -- Not Started
 
