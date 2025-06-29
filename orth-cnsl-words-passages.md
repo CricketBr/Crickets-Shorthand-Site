@@ -29,7 +29,7 @@ expected to be writing 60 WPM and reading fluently.
 
 # Manual, Callendar
 
-All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Note Jeremy added 
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
 
 ## Specimen of Fully Written Style, Callendar
 
