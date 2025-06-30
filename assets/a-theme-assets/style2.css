@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 104";
+    content: " css rev 105";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -62,7 +62,7 @@ header {
 
 article {
 
-    background-color: none;
+    background-color: white;
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
