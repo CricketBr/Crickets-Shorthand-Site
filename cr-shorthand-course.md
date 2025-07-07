@@ -830,7 +830,7 @@ Often a study buddy, penpal, or mentor a few levels above you can make a big dif
 
 Thanks to:
 Shorthand Discord V2, especially @vevrik, @stenophile, @richard for ideas and review.
-Reddit Shorthand, especially u/BerylPratt whose site has excellent advice (which I have not always followed)
+Reddit Shorthand, especially u/BerylPratt whose site has excellent advice.
 
 
 

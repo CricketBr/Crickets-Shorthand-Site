@@ -598,7 +598,7 @@ F is joined without an angle after vowels.
 
 FR: Vowel comes off the top to save time and going around the circle twice. See R for rule. Examples: afraid (above) and fray (Manual, L)
 
-FS: S curves upwards to the left. See S.
+FS: S curves upwards to the left. (Revised)
 
 ### G
 
@@ -628,9 +628,137 @@ Rest of the word below the line signifies G (or termination with G). (Teaching 1
 
 ### H, CH, and WH
 
-Manual (H): cha, hat, chat, what, which
+Much disagreement among authors. (Cricket)
+
+See S for more about SH, SR, SCH.
+
+<table tabindex="0">
+  <thead>
+    <caption>
+      Compare H Joins by Different Writers
+    </caption>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Callendar<br/>Manual, Supplement</th>
+      <th>Stevens<br/>Teaching, Psalms,<br/>Aesop's Fables</th>
+      <th>Clarey<br/>Revised</th>
+    </tr>
+    <tr>
+      <td>H</td>
+      <td>hat, ahead</br>
+        <img src="assets/manual-bits/hat-m008.png" class="man1row" >
+        <img src="assets/manual-bits/ahead-m007.png" class="man1row" >
+      </td>
+      <td>ha<br/>
+        <img src="assets/teach-1-bits/ha-t105.jpg" class="rev1row">
+      </td>
+      <td></td>
+    </tr> 
+    <tr>
+      <td>CH</td>
+      <td>ache, chair, chat, chief, Christ, which</br>
+        <img src="assets/manual-bits/ache-m007.png" class="man1row" >
+        <img src="assets/manual-bits/chair-m007.png" class="man1row" >
+        <img src="assets/manual-bits/chat-m008.png" class="man1row" >
+        <img src="assets/manual-bits/chief-m008.png" class="man1row" >
+        <img src="assets/manual-bits/christ-m007.png" class="man1row" >
+        <img src="assets/manual-bits/which-fw-m008.png" class="man1row" >
+      </td>
+      <td>cho, chlo, chro</br>
+        <img src="assets/teach-1-bits/cho-1word-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/chlo-orthic-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/chlo-std-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/chro-orthic-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/chro-std-t105.jpg" class="teach1-1row" >        
+      </td>
+      <td>sc<br/>
+        <img src="" class="rev1row">
+      </td>
+    </tr> 
+    <tr>
+      <td>WH</td>
+      <td>what, which, who</br>
+        <img src="assets/manual-bits/what-fw-m008.png" class="man1row" >
+        <img src="assets/manual-bits/which-fw-m008.png" class="man1row" >
+        <img src="assets/manual-bits/who-m012.png" class="man1row" >
+      </td>
+      <td>who</br>
+        <img src="assets/teach-1-bits/who-t106.jpg" class="teach1-1row" >
+      </td>
+      <td><br/>
+        <img src="assets/revised-split/sxxx-r09.jpg" class="rev1row">
+      </td>
+    </tr> 
+        <tr>
+      <td>SCH-      </td>
+      <td>school (Manual), school (Supplement)<br/>
+        Same author, different shape.<br/>
+        <img src="assets/manual-bits/school-m011.png" class="man1row">
+        <img src="assets/supp-bits/school-s.png" class="sup1row">
+      </td>
+      <td></td>
+      <td>sch, scholar<br/>
+        <img src="assets/revised-split/sch-r09.jpg" class="rev1row">
+        <img src="assets/revised-split/scholar-r04.jpg" class="rev1row">
+      </td>
+    </tr>
+    <tr>
+      <td>SH-</td>
+      <td>
+        sha, shed<br/>
+          <img src="assets/manual-bits/sha-m011.png" class="man1row" >
+          <img src="assets/manual-bits/shed-m011.png" class="man1row" >
+      </td>
+      <td>sho <br/>
+        <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
+      </td>
+      <td>shop<br/>
+        <img src="assets/revised-split/shop-r04.jpg" class="rev1row">        
+      </td>
+    </tr> 
+    <tr>
+      <td>PH-</td>
+      <td>ph, phrase, phlegm, depth, phth<br/>
+        <img src="assets/manual-bits/ph-m010.png" class="man1row" >
+        <img src="assets/manual-bits/phrase-m010.png" class="man1row" >
+        <img src="assets/manual-bits/phlegm-m010.png" class="man1row" >
+        <img src="assets/manual-bits/depth-m010.png" class="man1row" >
+        <img src="assets/manual-bits/phth-m010.png" class="man1row" >
+      </td>
+      <td>ph, phar, phy <br/>
+        <img src="assets/teach-1-bits/ph-1word-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/phar-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/phy-t105.jpg" class="teach1-1row" >
+      </td>
+      <td>shop<br/>
+        <img src="assets/revised-split/shop-r04.jpg" class="rev1row">        
+      </td>
+    </tr> 
+    <tr>
+      <td>RH</td>
+      <td></td>
+      <td>rh, rh <br/>
+        <img src="assets/teach-1-bits/rh-1word-t105.jpg" class="teach1-1row" >
+        <img src="assets/teach-1-bits/rh-1word-2-t105.jpg" class="teach1-1row" >
+      </td>
+      <td>shop<br/>
+        <img src="assets/revised-split/shop-r04.jpg" class="rev1row">        
+      </td>
+    </tr> 
+    
+  </tbody>
+</table>
+
+
+
+
+
+
 
 ![shorthand image](assets/manual-bits/h-m008.png){: .man}\
+Manual (H): ha, cha, hat, chat, what, which
 
 See below for Revised.
 
@@ -1098,7 +1226,7 @@ S is vertical when written alone, to differentiate from E.
 
 AYS/OYS: works better with Clarey's writing, whose Y goes down more steeply, than for Callendar. (See Vowels, AY, says)
 
-FS, KS: See KS. S curves up to the left. This may work better with Clarey's writing style than the others.
+FS, KS: S curves up to the left. This may work better with Clarey's writing style than the others. See F and K.
 
 MBS, MPS: See M.
 
