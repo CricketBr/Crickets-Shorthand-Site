@@ -992,7 +992,7 @@ To clearly state the spelling, two ideas come to mind:
 
 - If written normally, it's QU. To remove the U draw an X across the bottom loop, or close to it. To confirm that yes, you checked the spelling and the U belongs, draw a checkmark in the same place.
 
- - Otherwise, do what some phonetic writers do: Write the correct spelling and the outline inline, in the margin, or the back of your notebook. I recommend margin (visible) and back of book (findable). (Other phonetic writers write the letters phonetically. C would be `ce`.)
+ - Otherwise, do what some phonetic writers do: Write the shorthand outline during dictation and mark it to confirm spelling later. Then write the standard spelling in a gap left after the shorthand outline,  in the margin, or the back of your notebook. I recommend margin (fast and visible) and back of book (findable).
 
 
 
@@ -2266,9 +2266,9 @@ The only case of a word written above the line and not presupposing initial Th i
 #### -THER `(ther)`
 
 ![shorthand image](assets/manual-bits/ther-m016.png){: .man}\
-ther, others, ard, toward
+Manual: ther, others, ard, toward
 
-![shorthand image](assets/revised-split/ther-r12.jpg)
+![shorthand image](assets/revised-split/ther-r12.jpg){: .rev}\
 Revised: ther, hr, other, mother, rather, either
 
 ![shorthand image](assets/teach-1-bits/ther-t109.jpg){: .teach1}\
@@ -2318,8 +2318,8 @@ See Modes for Revised's warnings about over-use.
 
 
 #### WARD `ard`
-![shorthand image](<assets/manual-bits/ward-with-ther-m016 copy.png>)\
-Manual: hr, others, ward, twoards
+![shorthand image](<assets/manual-bits/ward-with-ther-m016 copy.png>){: .rev}\
+Manual: hr, others, ward, towards
 
 ![shorthand image](assets/teach-1-bits/ward-t109.jpg){: .teach1}\
 Teaching 1: forward
@@ -2384,7 +2384,7 @@ Time is frequently saved and legibility increased by joining words togethre in p
 
 This is a powerful method of abbreviation in the hands of experienced writers, and is specially appliable in the case of Orthic owing to its lineality and facility of joining. A reckless use of phraseography, however, is strongly to be condemned. Experience ahs shown that beginners are apt to run riot with all sorts of impossible and useless phrases, to the greeat detriment of the speed and legiblity of their writing. The student shoudl therefore exercise the greatest caution at the outset i his use of phraseolgraphy.
 
-He must remeber that:
+He must remember that:
 - abbreviated words canot be freely joined wihtout danger of clashing;
 - time is not saved by joinig words which join awkwardly or indistinctly; and
 - phrases which are so long that they cannot be written easily without shifting the hand can be written more clearly and quickly if divided.

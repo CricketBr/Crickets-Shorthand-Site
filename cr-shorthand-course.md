@@ -396,7 +396,7 @@ Most text reader programs (aka test to speech) are too fast for early dictation,
 * [http://qwertysteno.com/Dictation/](http://qwertysteno.com/Dictation/)  
 It doesn’t sound as nice as a human dictator, but it’s a lot more patient.  
 * [https://www.naturalreaders.com/online/](https://www.naturalreaders.com/online/)  
-This one is reported to sound better, and may do other languages.
+This one is reported to sound better, and may do other languages. Its slowest is 50wpm, which is a bit fast for new writers.
 
 ### Slow Dictation
 

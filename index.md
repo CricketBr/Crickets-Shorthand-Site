@@ -69,6 +69,10 @@ A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written t
 
 A crowd-sourced version of The Hobbit, written in whatever styles the contributors prefer. (Contributions welcome!)
 
+## Papers and Word Lists
+* [Oxford 3000, Format Rev 1.](<paper/oxford 3000 Rev 1.pdf>) 3 columns, 8mm (and a bit) spacing. (Getting exact spacing is fiddley.)
+
+
 ## Licencing
 
 Unless otherwise stated, all my work is licenced under ...
