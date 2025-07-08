@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 110";
+    content: " css rev 111";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -197,49 +197,50 @@ img {
     margin-top: 2ex;
     margin-bottom: 0;
     /* overflow: scroll; */
-    border-left: 10px solid red;
+    border-top: 10px solid red;
 }
 
 img.man {
     max-width: min(30rem, 100%);
     border-right: none;
-    border-left: 5px solid var(--accentMain);
-}
-
-img.sup {
-    max-width: min(45rem, 100%);
-    border-left: 5px dashed var(--accentMain);
-}
-
-img.teach1 {
-    max-width: min(45rem, 100%);
-    border-left: 5px dotted var(--accentMain);
-}
-
-img.rev {
-    max-width: min(35rem, 100%);
-    border-left: 5px double var(--accentMain);
+    border-top: 5px solid var(--accentMain);
 }
 
 img.man1row {
     height: 2.3em;
-    border-left: 5px solid var(--accentMain);
+    border-top: 5px solid var(--accentMain);
+}
+
+img.sup {
+    max-width: min(45rem, 100%);
+    border-top: 5px dashed var(--accentMain);
 }
 
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
-    border-left: 5px dashed var(--accentMain);
+    border-top: 5px dashed var(--accentMain);
+}
+
+img.teach1 {
+    max-width: min(45rem, 100%);
+    border-top: 7px double var(--accentMain);
+
 }
 
 img.teach1-1row {
     height: 2.2em;
-    border-left: 5px dotted var(--accentMain);
+    border-top: 7px double var(--accentMain);
+}
+
+img.rev {
+    max-width: min(35rem, 100%);
+    border-top: 5px dotted var(--accentMain);
 }
 
 img.rev1row {
     height: 2.5em;
-    border-left: 5px double var(--accentMain);
+    border-top: 5px dotted var(--accentMain);
 }
 
 code,
@@ -259,7 +260,7 @@ code,
 
 blockquote {
     margin-left: 2ex;
-    border-left: 0.5ex solid var(--accentMed);
+    border-top: 0.5ex solid var(--accentMed);
     padding-left: 2ex
 }
 

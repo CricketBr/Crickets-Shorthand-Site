@@ -755,7 +755,7 @@ MCH: Teaching Part 1 Common Words (below)
 
 NCH and SCH can be written without an angle or break – ie in the other direction, still below the line. (Supplement) 
 
-This might mean changing direction. The Supplement also shows MCH doing the same. (Cricket)
+NCH and SCH without angle might mean changing direction. The Supplement also shows MCH doing the same. (Cricket)
 
 I don't see why it has to turn ccw in the first place. It doesn't change the look in most cases. Perhaps it's a mnemonic (C), or a way to keep it a circle instead of a loop, or to ensure the preceeding letter doesn't curve. (Cricket)
 
@@ -763,7 +763,7 @@ Revised gives even more options, including writing above the line.
 
 #### H: WH
 
-Each writer has a slightly different way to write WH.
+Each writer has a slightly different way to write WH. I leave out the H. It's easy to read without. (Cricket)
 
 ![shorthand image](assets/manual-bits/h-m012.png){: .man}\
 Manual (W) (Callendar): who, ha (have)
