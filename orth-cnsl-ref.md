@@ -626,16 +626,14 @@ Rest of the word below the line signifies G (or termination with G). (Teaching 1
 
 
 
-### H, CH, and WH
+### H: CH and WH
 
-Much disagreement among authors. (Cricket)
-
-See S for more about SH, SR, SCH.
+Most letters combine with H in "interesting" ways. CH, WH, and combinations starting with H, are here. Other combinations are under the starting letter. Of special note: SH, SCH, SR, P, PH, PTH, and TH.
 
 <table tabindex="0">
   <thead>
     <caption>
-      Compare H Joins by Different Writers
+      Compare H, CH, WH by Different Writers
     </caption>
   </thead>
   <tbody>
@@ -652,9 +650,12 @@ See S for more about SH, SR, SCH.
         <img src="assets/manual-bits/ahead-m007.png" class="man1row" >
       </td>
       <td>ha<br/>
-        <img src="assets/teach-1-bits/ha-t105.jpg" class="rev1row">
+        <img src="assets/teach-1-bits/ha-t105.jpg" class="teach1-1row">
       </td>
-      <td></td>
+      <td>h, hat</br>
+        <img src="assets/revised-split/h-r07.png" class="rev1row" >
+        <img src="assets/revised-split/hat-r07.png" class="rev1row" >
+      </td>
     </tr> 
     <tr>
       <td>CH</td>
@@ -673,8 +674,28 @@ See S for more about SH, SR, SCH.
         <img src="assets/teach-1-bits/chro-orthic-t105.jpg" class="teach1-1row" >
         <img src="assets/teach-1-bits/chro-std-t105.jpg" class="teach1-1row" >        
       </td>
-      <td>sc<br/>
-        <img src="" class="rev1row">
+      <td>ch, aches, arch, chat, chin, chl, chl, chloric, chose, chr, Christ, filch, filches, pilchard, pitch'd, richly, speecless, scheme, scholar, such<br/>
+        <img src="assets/revised-split/ch-1word-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/aches-1word-orthic-r07.jpg" class="rev1row">
+        <img src="assets/revised-split/aches-1word-std-r07.jpg" class="rev1row">
+        <img src="assets/revised-split/arch-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/chat-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/chin-r05.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/chl1-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/chl2-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/chloric-r04.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/chose-r05.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/chr-r07.jpg" class="rev1row">
+        <img src="assets/revised-split/christ-r04.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/filch-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/filches-r07.jpg" class="rev1row">
+        <img src="assets/revised-split/pilchard-r07.jpg" class="rev1row">
+        <img src="assets/revised-split/pitched-r07.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/richly-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/speechless-r04.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/scheme-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/scholar-r04.jpg" class="rev1row">
+        <img src="assets/revised-split/such-r04.jpg" class="rev1row">
       </td>
     </tr> 
     <tr>
@@ -687,74 +708,14 @@ See S for more about SH, SR, SCH.
       <td>who</br>
         <img src="assets/teach-1-bits/who-t106.jpg" class="teach1-1row" >
       </td>
-      <td><br/>
-        <img src="assets/revised-split/sxxx-r09.jpg" class="rev1row">
-      </td>
-    </tr> 
-        <tr>
-      <td>SCH-      </td>
-      <td>school (Manual), school (Supplement)<br/>
-        Same author, different shape.<br/>
-        <img src="assets/manual-bits/school-m011.png" class="man1row">
-        <img src="assets/supp-bits/school-s.png" class="sup1row">
-      </td>
-      <td></td>
-      <td>sch, scholar<br/>
-        <img src="assets/revised-split/sch-r09.jpg" class="rev1row">
-        <img src="assets/revised-split/scholar-r04.jpg" class="rev1row">
+      <td>wh, whose, when<br/>
+        <img src="assets/revised-split/wh-r05.jpg" class="rev1row">
+        <img src="assets/revised-split/whose-r05.jpg" class="rev1row">
+        <img src="assets/revised-split/when-r05.jpg" class="rev1row">
       </td>
     </tr>
-    <tr>
-      <td>SH-</td>
-      <td>
-        sha, shed<br/>
-          <img src="assets/manual-bits/sha-m011.png" class="man1row" >
-          <img src="assets/manual-bits/shed-m011.png" class="man1row" >
-      </td>
-      <td>sho <br/>
-        <img src="assets/teach-1-bits/sho-t106.jpg" class="teach1-1row" >
-      </td>
-      <td>shop<br/>
-        <img src="assets/revised-split/shop-r04.jpg" class="rev1row">        
-      </td>
-    </tr> 
-    <tr>
-      <td>PH-</td>
-      <td>ph, phrase, phlegm, depth, phth<br/>
-        <img src="assets/manual-bits/ph-m010.png" class="man1row" >
-        <img src="assets/manual-bits/phrase-m010.png" class="man1row" >
-        <img src="assets/manual-bits/phlegm-m010.png" class="man1row" >
-        <img src="assets/manual-bits/depth-m010.png" class="man1row" >
-        <img src="assets/manual-bits/phth-m010.png" class="man1row" >
-      </td>
-      <td>ph, phar, phy <br/>
-        <img src="assets/teach-1-bits/ph-1word-t105.jpg" class="teach1-1row" >
-        <img src="assets/teach-1-bits/phar-t105.jpg" class="teach1-1row" >
-        <img src="assets/teach-1-bits/phy-t105.jpg" class="teach1-1row" >
-      </td>
-      <td>shop<br/>
-        <img src="assets/revised-split/shop-r04.jpg" class="rev1row">        
-      </td>
-    </tr> 
-    <tr>
-      <td>RH</td>
-      <td></td>
-      <td>rh, rh <br/>
-        <img src="assets/teach-1-bits/rh-1word-t105.jpg" class="teach1-1row" >
-        <img src="assets/teach-1-bits/rh-1word-2-t105.jpg" class="teach1-1row" >
-      </td>
-      <td>shop<br/>
-        <img src="assets/revised-split/shop-r04.jpg" class="rev1row">        
-      </td>
-    </tr> 
-    
   </tbody>
 </table>
-
-
-
-
-
 
 
 ![shorthand image](assets/manual-bits/h-m008.png){: .man}\
@@ -785,7 +746,7 @@ Manual: school
 ![shorthand image](assets/supp-bits/school-s.png){: .sup1row}\
 Supplement: inch, such, much, school
 
-![shorthand image](assets/revised-split/ch-r03.jpg){: .rev}\
+![shorthand image](assets/revised-split/ch-r04.jpg){: .rev}\
 Revised: ch, Christ, arch, filch, chat, such, scholar, scheme, chl, chloric, richly, speechless
 
 ![shorthand image](assets/revised-split/c-r07.jpg){: .rev}\
@@ -819,7 +780,7 @@ Revised (Clarey): wh, whose, when, chose, chin
 ![shorthand image](assets/revised-split/hood-r12.jpg){: .rev}\
 Revised: hd, manhood, widowhood, fatherhood, bachelorhood, hardihood
 
-### H, Not CH and WH
+### H, Not CH or WH
 
 ![shorthand image](assets/manual-bits/ther-m016.png){: .man}\
 ther, others, ard, toward\
