@@ -9,7 +9,7 @@ Being an Improved and Expanded Consolidation of Various Books with Clarification
 
 ---
 
-Revision 109
+Revision 110
 
 CSS
 {: .cssrev}
@@ -22,7 +22,7 @@ This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 In
 
 Based on works listed below under [Sources](#sources--references) .
 
-For Learners Who Have Already Read The Manual or Revised, up to but not necessarily including Reporting.
+For learners who have already read the Manual or Revised, up to but not necessarily including Reporting.
 {: .box}
 
 ## Table of Contents (Short)
@@ -535,7 +535,7 @@ Teaching 1: chlo, chro
 ![shorthand image](assets/revised-split/c-r07.jpg){: .rev}\
 Revised: cd, ch, chl, chr, aches, pitch'd, filches, pilchard, ck, cl, cm, cn, cqu, cr, cs, ct, cy
 
-![shorthand image](assets/supp-bits/transact-s.png){: sup}\
+![shorthand image](assets/supp-bits/transact-s.png){: .sup}\
 Supplement: transact
 
 CH is a circle the same size as H. H, CH and WH are described under H. Note MCH, NCH, SCH have different rules, described with H.
@@ -546,7 +546,7 @@ CT: Supplement merges them (*transact*), as for GD. Manual Ordinary does not. Ma
 
 CD: blends so it looks like a C with a long, very long, bottom. This rule isn't stated, but there are many examples in the Dictionary. Search for CED. No sign of CT doing the same. (Cricket)
 
-![shorthand image](assets/manual-bits/convinced-m019.png){: man1row}\
+![shorthand image](assets/manual-bits/convinced-m019.png){: .man1row}\
 Manual Ordinary Style: convinced
 
 TCH. See Abbreviating Principles
@@ -645,21 +645,20 @@ Most letters combine with H in "interesting" ways. CH, WH, and combinations star
     </tr>
     <tr>
       <td>H</td>
-      <td>hat, ahead</br>
+      <td>hat, ahead<br/>
         <img src="assets/manual-bits/hat-m008.png" class="man1row" >
         <img src="assets/manual-bits/ahead-m007.png" class="man1row" >
       </td>
       <td>ha<br/>
         <img src="assets/teach-1-bits/ha-t105.jpg" class="teach1-1row">
       </td>
-      <td>h, hat</br>
-        <img src="assets/revised-split/h-r07.png" class="rev1row" >
-        <img src="assets/revised-split/hat-r07.png" class="rev1row" >
+      <td>hat<br/>
+        <img src="assets/revised-split/hat-r07.jpg" class="rev1row" >
       </td>
     </tr> 
     <tr>
       <td>CH</td>
-      <td>ache, chair, chat, chief, Christ, which</br>
+      <td>ache, chair, chat, chief, Christ, which<br/>
         <img src="assets/manual-bits/ache-m007.png" class="man1row" >
         <img src="assets/manual-bits/chair-m007.png" class="man1row" >
         <img src="assets/manual-bits/chat-m008.png" class="man1row" >
@@ -667,7 +666,7 @@ Most letters combine with H in "interesting" ways. CH, WH, and combinations star
         <img src="assets/manual-bits/christ-m007.png" class="man1row" >
         <img src="assets/manual-bits/which-fw-m008.png" class="man1row" >
       </td>
-      <td>cho, chlo, chro</br>
+      <td>cho, chlo, chro<br/>
         <img src="assets/teach-1-bits/cho-1word-t105.jpg" class="teach1-1row" >
         <img src="assets/teach-1-bits/chlo-orthic-t105.jpg" class="teach1-1row" >
         <img src="assets/teach-1-bits/chlo-std-t105.jpg" class="teach1-1row" >
@@ -680,19 +679,19 @@ Most letters combine with H in "interesting" ways. CH, WH, and combinations star
         <img src="assets/revised-split/aches-1word-std-r07.jpg" class="rev1row">
         <img src="assets/revised-split/arch-r04.jpg" class="rev1row">
         <img src="assets/revised-split/chat-r04.jpg" class="rev1row">
-        <img src="assets/revised-split/chin-r05.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/chin-r05.jpg" class="rev1row"><br/>
         <img src="assets/revised-split/chl1-r04.jpg" class="rev1row">
         <img src="assets/revised-split/chl2-r04.jpg" class="rev1row">
-        <img src="assets/revised-split/chloric-r04.jpg" class="rev1row"></br>
-        <img src="assets/revised-split/chose-r05.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/chloric-r04.jpg" class="rev1row"><br/>
+        <img src="assets/revised-split/chose-r05.jpg" class="rev1row"><br/>
         <img src="assets/revised-split/chr-r07.jpg" class="rev1row">
-        <img src="assets/revised-split/christ-r04.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/christ-r04.jpg" class="rev1row"><br/>
         <img src="assets/revised-split/filch-r04.jpg" class="rev1row">
         <img src="assets/revised-split/filches-r07.jpg" class="rev1row">
         <img src="assets/revised-split/pilchard-r07.jpg" class="rev1row">
-        <img src="assets/revised-split/pitched-r07.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/pitched-r07.jpg" class="rev1row"><br/>
         <img src="assets/revised-split/richly-r04.jpg" class="rev1row">
-        <img src="assets/revised-split/speechless-r04.jpg" class="rev1row"></br>
+        <img src="assets/revised-split/speechless-r04.jpg" class="rev1row"><br/>
         <img src="assets/revised-split/scheme-r04.jpg" class="rev1row">
         <img src="assets/revised-split/scholar-r04.jpg" class="rev1row">
         <img src="assets/revised-split/such-r04.jpg" class="rev1row">
@@ -700,12 +699,12 @@ Most letters combine with H in "interesting" ways. CH, WH, and combinations star
     </tr> 
     <tr>
       <td>WH</td>
-      <td>what, which, who</br>
+      <td>what, which, who<br/>
         <img src="assets/manual-bits/what-fw-m008.png" class="man1row" >
         <img src="assets/manual-bits/which-fw-m008.png" class="man1row" >
         <img src="assets/manual-bits/who-m012.png" class="man1row" >
       </td>
-      <td>who</br>
+      <td>who<br/>
         <img src="assets/teach-1-bits/who-t106.jpg" class="teach1-1row" >
       </td>
       <td>wh, whose, when<br/>
@@ -1029,15 +1028,15 @@ PR: It is usual to write a vowel following R attached to an upright letter from 
 
 Teaching gives the example PRA, doesn't say here that it doesn't apply to S (see SH), and doesn't say which the other upright letters are. My best guess follows. (Cricket)
 
-![alt text](assets/manual-bits/bray-m006.png){: .man1row}
-![alt text](assets/manual-bits/bread-m009.png){: .man1row}
-![alt text](assets/manual-bits/brought-m016.png){: .man1row}
+![alt text](assets/manual-bitsbr/ay-m006.png){: .man1row}
+![alt text](assets/manual-bitsbr/ead-m009.png){: .man1row}
+![alt text](assets/manual-bitsbr/ought-m016.png){: .man1row}
 ![alt text](assets/manual-bits/afraid-m008.png){: .man1row}
 ![alt text](assets/manual-bits/fro-m009.png){: .man1row}\
 Manual: bray, bread, brought, afraid, fro
 
 ![alt text](assets/revised-split/zebra-r02.jpg){: .rev1row}
-![alt text](assets/revised-split/briar-r06.jpg){: .rev1row}
+![alt text](assets/revised-splitbr/iar-r06.jpg){: .rev1row}
 ![alt text](assets/revised-split/frowsy-r05.jpg){: .rev1row}\
 Revised: zebra, briar, frowsy
 
@@ -1064,7 +1063,7 @@ Much disagreement among the authors. (Cricket)
     </tr>
     <tr>
       <td>SC-</td>
-      <td>scent, scarcely (abbr)</br>
+      <td>scent, scarcely (abbr)<br/>
         <img src="assets/manual-bits/scent-m011.png" class="man1row" >
         <img src="assets/supp-bits/scarcely-s.png" class="man1row">
       </td>
@@ -2287,8 +2286,6 @@ Supplement: transact
 
 ![shorthand image](assets/revised-split/trans-r11.jpg){: .rev}\
 Revised: trans, transfer, transmit, transcript
-
-Written trs, as in longhand. [E.g. transact.] (Manual? Supplement?)
 
 #### -TY `y ??`
 
