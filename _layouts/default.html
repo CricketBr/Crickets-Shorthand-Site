@@ -36,17 +36,22 @@
 <body>
   <header>
     <a href="{{site.url}}" class="sitename">Cricket's Shorthand Website</a>
-    <p class="nav">
+    <nav id="main_nav">
       <a href="{{site.url}}">Main Page</a> 
       <a href="{{site.url}}/#licencing">Licencing</a> 
       <a href="{{site.url}}/#contact">Contact</a>
     </p>
   </header>
-  <article>
+  <main>
     <h1>{{page.fulltitle}}</h1>
 
     {{ content }}
-  </article>
+
+    Page Rev. {{page.rev}} xxx code in default.html
+    html Rev. 123
+    <span class="cssrev">CSS rev </span>
+  </main>
+
 </body>
 
 </html>

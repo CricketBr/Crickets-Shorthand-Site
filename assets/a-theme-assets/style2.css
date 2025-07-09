@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: "2025-07-09, 122";
+    content: "2025-07-09, 123";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -62,13 +62,14 @@ header {
 
 }
 
-.nav {
+nav {
     font-size: 1.5rem;
     font-weight: bold;
-    margin: 0 2ex 0 2ex;
+    background-color: yellow;
 }
 
-article {
+
+main {
 
     background-color: green;
     padding: 0 2ch 0 2ch;
@@ -86,10 +87,10 @@ h1 a {
     text-decoration: none;
 }
 
-header a {
+nav a {
         text-decoration: none;
-        margin-left: 5ex;
-        margin-right: 5ex;
+        margin-left: 2ex;
+        margin-right: 2ex;
     
 }
 
@@ -119,7 +120,6 @@ a:hover {
 .subtitle {
     font-size: 1.5rem;
     text-align: center;
-    /* font-weight: bold; */
     font-style: italic;
 }
 
@@ -136,9 +136,6 @@ padding: 2rex;
 
 
 
-.subtitle {
-    text-align: center;
-}
 
 h1,
 h2,
