@@ -70,7 +70,7 @@ Written in Shorthand by Cricket. Starts with Fully Written Style and progresses.
 
 Future Project. Word lists nicely formatted with room for shorthand, to make a dictionary, and some with Orthic.
 
-## Licensing
+## License
 
 Unless otherwise stated, all my work is licensed under ...
 ``` probably creative commons share alike ```

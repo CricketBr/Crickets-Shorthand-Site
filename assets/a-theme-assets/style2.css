@@ -1,12 +1,5 @@
-/* Reminders
-
-HTML details hides content until asked for
-https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
-
-*/
-
 .cssrev::after {
-    content: " 2025-07-09, 132";
+    content: " 2025-07-09, 133";
 }
 
 :root {
@@ -40,6 +33,7 @@ body {
     padding-top: 1ex;
     max-width: 800px;
     /* background-color: var(--accentMed); */
+    background-color: green;
 }
 
 header {
@@ -188,9 +182,9 @@ h6 {
     font-size: 1rem;
 }
 
-p {
+/* p {
     margin-top: 0.5em;
-}
+} */
 
 
 
@@ -297,3 +291,11 @@ footer {
     border-top: medium solid var(--accentMain);
     padding: 1ch 2ch 0 2ch;
 }
+
+
+/* Reminders
+
+HTML details hides content until asked for
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
+
+*/
