@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 121 {{page.rev}}";
+    content: "2025-07-09, 122";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -36,11 +36,6 @@ body {
     margin: auto;
     margin-top: 1ex;
     max-width: 800px;
-
-    line-height: 1.5;
-    /* background-color: var(--accentMain); */
-    /* max-width: 800px; */
-
     background-color: var(--accentMed);
 }
 
@@ -50,7 +45,8 @@ header {
     border: 1rex solid var(--accentMain);
 
     text-align: center;
-    background-color: var(--accentMed);
+    /* background-color: var(--accentMed); */
+    background-color: red;
 
     line-height: normal;
 
@@ -74,7 +70,7 @@ header {
 
 article {
 
-    background-color: white;
+    background-color: green;
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
