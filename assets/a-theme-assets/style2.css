@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " 2025-07-09, 127";
+    content: " 2025-07-09, 128";
 }
 
 :root {
@@ -69,7 +69,7 @@ nav {
 
 main {
 
-    /* background-color: green; */
+    background-color: white;
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
@@ -99,13 +99,16 @@ nav a {
 }
 
 a:hover {
-    border-bottom: medium solid var(--accentMain);
+    border-bottom: thin solid var(--accentMain);
     background-color: var(--accentMed);
 
 
 }
 
-
+hr {
+    height: 2px;
+    color: var(--accentMain)
+}
 
 
 .box {
@@ -116,13 +119,15 @@ a:hover {
     text-align: center;
     font-weight: bold;
     font-style: italic;
-    padding: 0 1ch
+    padding: 0 1ch;
+    margin: 1ex;
 }
 
 .subtitle {
     font-size: 1.5rem;
     text-align: center;
     font-style: italic;
+    border-bottom: medium solid var(--accentMain)
 }
 
 /* 

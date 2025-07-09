@@ -1,18 +1,12 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
+rev: 128
 ---
 # Orthic Consolidated – Reference DRAFT
 
 Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
 {: .subtitle}
-
----
-
-Revision 110
-
-CSS
-{: .cssrev}
 
 Still very fluid.
 
