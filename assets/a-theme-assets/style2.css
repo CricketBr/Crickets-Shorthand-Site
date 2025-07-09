@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 111";
+    content: " css rev 111411";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -58,6 +58,16 @@ header {
 
     color: var(--accentMain);
 
+}
+
+.bigheader {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.nav {
+    font-size: 100%;
+    font-weight: bold;
 }
 
 article {
@@ -263,4 +273,3 @@ blockquote {
     border-top: 0.5ex solid var(--accentMed);
     padding-left: 2ex
 }
-

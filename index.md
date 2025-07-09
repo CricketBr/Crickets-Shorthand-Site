@@ -3,13 +3,8 @@ layout: default
 title: CSW Homepage
 ---
 
-# Still Under Construction
 
-## [css Testing (Part of Construction)](css-test.md)
-
-Nothing to see.
-
-# Table of Contents
+## Table of Contents
 {: .no_toc}
 * toc
 {:toc}
@@ -67,19 +62,21 @@ Rules sorted by Orthic spelling.
 
 No promises about accuracy. Let me know if you find a mistake and I'll fix it or at least note it.
 
-### [The Cat Who Walked By Himself, Rudyard Kipling](reading-material/catwalked-orthic-rev01.pdf)
-Written by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
+* [The Cat Who Walked By Himself, Rudyard Kipling, Orthic](reading-material/cat-walked-orthic/cat-main.md)\
+Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
 
-### Orthic Hobbit (Crowd Sourced) and Hobbit Learns Orthic
-Cancelled. I'm too worried about copyright takedown to enjoy it.
+* Carry On Jeeves, PG Wodehouse. Humour.\
+Written in Shorthand by Cricket.
 
-### [Reading Material On orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
+
+* [Reading Material On orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
+
+* Orthic Hobbit (Crowd Sourced) and Hobbit Learns Orthic\
+Cancelled.
 
 ## Papers and Word Lists
 
-* [Oxford Word Lists](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)\
-Some day I'll set it up to print nicely for a dictionary. Maybe. Or another list. The 3000 one has too many words I rarely use.
-
+Future Project. Word lists nicely formatted with room for shorthand, to make a dictionary, and some with Orthic.
 
 ## Licencing
 
@@ -87,9 +84,11 @@ Unless otherwise stated, all my work is licenced under ...
 ``` probably creative commons share alike ```
 xxx todo
 
-You are welcome to copy and share the files. All the files include a revision date and a link to this source, so readers can check for updates.
+You are welcome to copy and share the files exactly as presented here. All the files include a revision date, copyright notice, and a link to this source.
 
 See individual pages for extra restrictions, especially those inherited from the sources.
+
+Rev 114, 2025-07-09
 
 
 
