@@ -1,5 +1,5 @@
 .cssrev::after {
-    content: " 2025-07-09, 137";
+    content: " 2025-07-09, 138";
 }
 
 :root {
@@ -12,7 +12,20 @@
 
 
     box-sizing: content-box;
-    /* not inherited; default is content-box; this line is a reminder */
+    /* not inherited; default is content-box for most elements; this line is a reminder 
+    width: 100px = 100px width of content, not including border or padding
+    border-box: 100px = content, padding and border together
+    
+    https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+    Note: It is often useful to set box-sizing to border-box to lay out elements. 
+    This makes dealing with the sizes of elements much easier, and generally 
+    eliminates a number of pitfalls you can stumble on while laying out your content. 
+    On the other hand, when using position: relative or position: absolute, use of 
+    box-sizing: content-box allows the positioning values to be relative to the 
+    content, and independent of changes to border and padding sizes, which is 
+    sometimes desirable.
+    
+    */
 
     font-family: Helvetica, sans-serif;
     font-size: 16px;
@@ -40,6 +53,7 @@ header {
     color: var(--accentDark);
     text-align: center;
     background-color: var(--accentMed);
+    padding:0
     /* background-color: red; */
 }
 
@@ -48,11 +62,13 @@ main {
     text-align: left;
     border-left: thick solid var(--accentDark);
     border-right: thick solid var(--accentDark);
+    padding:2ex;
 }
 
 footer {
     border: thick solid var(--accentDark);
     background-color: white;
+    padding: 0 2ex 0 2ex;
 }
 
 .sitename {
