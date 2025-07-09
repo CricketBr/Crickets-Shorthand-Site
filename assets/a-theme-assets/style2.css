@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 111411";
+    content: " css rev 115";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -45,15 +45,12 @@ body {
 
 header {
     margin: 0;
-    padding: 2rex;
+    padding: 2rex 2rex 0 2rex;
     border: 1rex solid var(--accentMain);
 
     text-align: center;
     background-color: var(--accentMed);
 
-
-    font-size: 200%;
-    font-weight: bold;
     line-height: normal;
 
     color: var(--accentMain);
@@ -68,6 +65,7 @@ header {
 .nav {
     font-size: 100%;
     font-weight: bold;
+    margin: 0;
 }
 
 article {
@@ -84,9 +82,15 @@ a {
     overflow-wrap: anywhere;
 }
 
-header a,
 h1 a {
     text-decoration: none;
+}
+
+header a {
+        text-decoration: none;
+        padding-left: 5ex;
+        padding-right: 5ex;
+    
 }
 
 a:hover {

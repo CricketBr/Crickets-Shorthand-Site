@@ -13,13 +13,6 @@ Finally! All in one place and with human-readable URLs.
 
 Still a work in progress. Plans will probably change.
 
-You can reach me at:
-* cricket@onebit.ca
-* Discord International Shorthand Society @cricket
-* Reddit u/CrBr
-* GitHub @CricketBr
-* [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
-
 Comments and corrections are more than welcome.
 
 ## [Cricket's Shorthand Tips](cr-shorthand-tips.md)
@@ -87,6 +80,15 @@ xxx todo
 You are welcome to copy and share the files exactly as presented here. All the files include a revision date, copyright notice, and a link to this source.
 
 See individual pages for extra restrictions, especially those inherited from the sources.
+
+## Contact
+
+You can reach me at:
+* cricket@onebit.ca
+* Discord International Shorthand Society @cricket
+* Reddit u/CrBr
+* GitHub @CricketBr
+* [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
 Rev 114, 2025-07-09
 
