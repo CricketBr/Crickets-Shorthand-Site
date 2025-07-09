@@ -2,6 +2,7 @@
 layout: default
 title: CSW Cat Orthic
 ---
+
 # The Cat That Walked By Himself, Rudyard Kipling, Just So Stories
 
 Written by Cricket. Rev 2025-07-09 . See above for Contact Information.

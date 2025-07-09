@@ -1,5 +1,5 @@
 .cssrev::after {
-    content: " 2025-07-09, 133";
+    content: " 2025-07-09, 134";
 }
 
 :root {
@@ -37,16 +37,17 @@ body {
 }
 
 header {
-    margin: 0;
+    margin: 2rex 0 0 0;
     padding: 0;
     border: thick solid var(--accentMain);
+    color: var(--accentMain);
 
     text-align: center;
-    /* background-color: var(--accentMed); */
+    background-color: var(--accentMed);
     /* background-color: red; */
 
 
-    color: var(--accentMain);
+
 
 }
 
@@ -68,7 +69,7 @@ nav {
 main {
 
     background-color: white;
-    padding: 0 2ch 0 2ch;
+    padding: 2ex 2ex 0 2ex;
     text-align: left;
 }
 
@@ -118,7 +119,7 @@ hr {
     text-align: center;
     font-weight: bold;
     font-style: italic;
-    padding: 0 1ch;
+    padding: 0 1ex;
     margin: 1ex;
 }
 
@@ -204,7 +205,7 @@ table {
 
 th,
 td {
-    padding: 1ch;
+    padding: 1ex;
     border: light solid var(--accentMain);
     border-collapse: collapse;
     vertical-align: top;
@@ -289,7 +290,7 @@ blockquote {
 
 footer {
     border-top: medium solid var(--accentMain);
-    padding: 1ch 2ch 0 2ch;
+    padding: 1ex 2ex 0 2ex;
 }
 
 
