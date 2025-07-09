@@ -64,8 +64,7 @@ Written in Shorthand by Cricket. Starts with Fully Written Style and progresses.
 
 * [Reading Material On orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
 
-* Orthic Hobbit (Crowd Sourced) and Hobbit Learns Orthic\
-Cancelled.
+
 
 ## Papers and Word Lists
 
