@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-09, 122
+rev: 2025-07-09, 127
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -91,11 +91,6 @@ You can reach me at:
 * Reddit u/CrBr
 * GitHub @CricketBr
 * [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
-
-Rev {{page.rev}}
-
-CSS Rev 
-{: .cssrev}
 
 
 

@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " 2025-07-09, 126";
+    content: " 2025-07-09, 127";
 }
 
 :root {
@@ -24,6 +24,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 
     font-family: Helvetica, sans-serif;
     font-size: 16px;
+    line-height: 1.5;
+    background-color: --var(--accentMed);
 
 
 }
@@ -45,7 +47,6 @@ header {
     /* background-color: var(--accentMed); */
     /* background-color: red; */
 
-    line-height: 1.5;
 
     color: var(--accentMain);
 
@@ -108,7 +109,7 @@ a:hover {
 
 
 .box {
-    border: 2px solid var(--accentMain);
+    border: medium solid var(--accentMain);
     background-color: var(--accentMed);
     color: var(--accentMain);
     font-size: 150%;
@@ -186,7 +187,7 @@ caption {
 
 
 table {
-    border: 2px solid var(--accentMain);
+    border: light solid var(--accentMain);
     border-collapse: collapse;
     overflow: auto
 }
@@ -194,7 +195,7 @@ table {
 th,
 td {
     padding: 1ch;
-    border: 1px solid var(--accentMain);
+    border: light solid var(--accentMain);
     border-collapse: collapse;
     vertical-align: top;
 
@@ -272,10 +273,10 @@ code,
 
 blockquote {
     margin-left: 2ex;
-    border-top: 0.5ex solid var(--accentMed);
+    border-top: light solid var(--accentMed);
     padding-left: 2ex
 }
 
 footer {
-    border-top: 2px solid var(--accentMain)
+    border-top: medium solid var(--accentMain)
 }
