@@ -10,7 +10,7 @@ Last updated 2025-07-09.
 
 Contact and license at {{site.url}}. xxx
 
-Text from [Project Gutenberg](https://www.gutenberg.org/ebooks/65974) . license statement at end.
+Text from [Project Gutenberg](https://www.gutenberg.org/ebooks/65974) . License statement at end.
 
 
 All Comments Welcome.
@@ -23,6 +23,6 @@ Cricket
 
 
 
-## Project Gutenberg license
+## Project Gutenberg License
 
-This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](www.gutenberg.org). If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+< This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](www.gutenberg.org). If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
