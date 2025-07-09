@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-09, 127
+rev: 2025-07-09, 130
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -15,12 +15,6 @@ Comments and corrections are more than welcome.
 * toc
 {:toc}
 
-
-
-## [Cricket's Shorthand Tips](cr-shorthand-tips.md)
-
-A collection of tips I've accumulated over the years. Replaced by Cricket's Shorthand Course.
-
 ## [Cricket's Shorthand Course](cr-shorthand-course.md)
 
 A series of steps for learning shorthand, especially if you don't have a teacher to guide you.
@@ -28,6 +22,10 @@ A series of steps for learning shorthand, especially if you don't have a teacher
 ## Cricket's Shorthand Course Summary -- Not Started
 
 Because the first one, with all the reasons and references, is too long.
+
+## [Cricket's Shorthand Tips](cr-shorthand-tips.md)
+
+A collection of tips I've accumulated over the years. Replaced by Cricket's Shorthand Course.
 
 ## [Orthic Consolidated Reference  -- In Progress](orth-cnsl-ref.md)
 
@@ -60,8 +58,8 @@ No promises about accuracy. Let me know if you find a mistake and I'll fix it or
 * [The Cat Who Walked By Himself, Rudyard Kipling, Orthic](reading-material/cat-walked-orthic/cat-main.md)\
 Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
 
-* [Carry On Jeeves, PG Wodehouse. Humour.](reading-material/carry-on-jeeves-orthic/carry-on-main.md)\
-Written in Shorthand by Cricket.
+* [Carry On Jeeves, PG Wodehouse. Humour, Orthic](reading-material/carry-on-jeeves-orthic/carry-on-main.md)\
+Written in Shorthand by Cricket. Starts with Fully Written Style and progresses.
 
 
 * [Reading Material On orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
