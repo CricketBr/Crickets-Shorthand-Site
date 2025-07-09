@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: "2025-07-09, 123";
+    content: "2025-07-09, 124";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -36,7 +36,7 @@ body {
     margin: auto;
     margin-top: 1ex;
     max-width: 800px;
-    background-color: var(--accentMed);
+    /* background-color: var(--accentMed); */
 }
 
 header {
@@ -46,7 +46,7 @@ header {
 
     text-align: center;
     /* background-color: var(--accentMed); */
-    background-color: red;
+    /* background-color: red; */
 
     line-height: normal;
 
@@ -65,13 +65,13 @@ header {
 nav {
     font-size: 1.5rem;
     font-weight: bold;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 
 main {
 
-    background-color: green;
+    /* background-color: green; */
     padding: 0 2ch 0 2ch;
     text-align: left;
 }
@@ -98,7 +98,7 @@ a:hover {
     /* text-decoration: underline; */
     border-bottom: 2px solid var(--accentMain);
     /* border: 1px solid var(--accentMain); */
-    background-color: var(--accentMed);
+    /* background-color: var(--accentMed); */
 
 
 }
