@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " 2025-07-09, 128";
+    content: " 2025-07-09, 129";
 }
 
 :root {
@@ -35,13 +35,13 @@ body {
     margin: auto;
     margin-top: 1ex;
     max-width: 800px;
-    /* background-color: var(--accentMed); */
+    background-color: var(--accentMed);
 }
 
 header {
     margin: 0;
     padding: 0;
-    border: 1rex solid var(--accentMain);
+    border: thick solid var(--accentMain);
 
     text-align: center;
     /* background-color: var(--accentMed); */
@@ -183,6 +183,12 @@ h6 {
     font-size: 1rem;
 }
 
+p {
+    margin-top: 0.5em;
+}
+
+
+
 caption {
     caption-side: top;
     text-align: left;
@@ -283,5 +289,6 @@ blockquote {
 }
 
 footer {
-    border-top: medium solid var(--accentMain)
+    border-top: medium solid var(--accentMain);
+    padding: 1ch 2ch 0 2ch;
 }

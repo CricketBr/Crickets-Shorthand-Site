@@ -73,9 +73,9 @@ Cancelled.
 
 Future Project. Word lists nicely formatted with room for shorthand, to make a dictionary, and some with Orthic.
 
-## Licencing
+## Licensing
 
-Unless otherwise stated, all my work is licenced under ...
+Unless otherwise stated, all my work is licensed under ...
 ``` probably creative commons share alike ```
 xxx todo
 

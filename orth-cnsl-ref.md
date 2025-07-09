@@ -12,7 +12,7 @@ Still very fluid.
 
 Contact information and canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) . Comments and corrections welcome!
 
-This document is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence, <https://creativecommons.org/licenses/by-sa/4.0/> .
+This document is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license, <https://creativecommons.org/licenses/by-sa/4.0/> .
 
 Based on works listed below under [Sources](#sources--references) .
 

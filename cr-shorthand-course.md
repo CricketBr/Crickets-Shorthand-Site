@@ -8,7 +8,7 @@
 
 2025-06-26: removed speed goals for each level; replaced them with accuracy of first dictation;
 
-Canonical copy, contact and licence at 
+Canonical copy, contact and license at 
 <https://cricketbr.github.io/Crickets-Shorthand-Site>
 
 ## Table of Contents (Short)
