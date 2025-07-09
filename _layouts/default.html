@@ -35,23 +35,27 @@
 
 <body>
   <header>
-    <a href="{{site.url}}" class="sitename">Cricket's Shorthand Website</a>
-    <nav id="main_nav">
-      <a href="{{site.url}}">Main Page</a> 
-      <a href="{{site.url}}/#licencing">Licencing</a> 
-      <a href="{{site.url}}/#contact">Contact</a>
+    <p>
+      <a href="{{site.url}}" class="sitename">Cricket's Shorthand Website</a>
     </p>
+    <nav id="main_nav">
+      <a href="{{site.url}}">Main Page</a>
+      <a href="{{site.url}}/#licencing">Licencing</a>
+      <a href="{{site.url}}/#contact">Contact</a>
+    </nav>
   </header>
   <main>
     <h1>{{page.fulltitle}}</h1>
 
     {{ content }}
 
-    <hr/>
 
-    Page Rev. {{page.rev}} xxx code in default.html
-    html Rev. 124
-    <span class="cssrev">CSS rev </span>
+    <p class="box">
+      Page Rev. {{page.rev}} xxx code in default.html<br />
+      html Rev. 125<br />
+      <span class="cssrev">CSS Rev. </span>
+    </p>
+
   </main>
 
 </body>
