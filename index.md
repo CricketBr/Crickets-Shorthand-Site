@@ -9,8 +9,10 @@ title: CSW Homepage
 
 Nothing to see.
 
-## Still Under Construction
-
+# Table of Contents
+{: .no_toc}
+* toc
+{:toc}
 
 Finally! All in one place and with human-readable URLs.
 
@@ -61,16 +63,22 @@ All the words used as examples and in longer passages, up to but only sometimes 
 
 Rules sorted by Orthic spelling.
 
-## The Hobbit Learns Orthic -- Not started
+## Orthic Reading Material
 
-A set of lessons based on Tolkein's The Hobbit, progressing from Fully Written to Supplement/Correspondence Style. The order of presentation will be "as needed." In theory that will cover most of the useful rules at a reasonable pace.
+No promises about accuracy. Let me know if you find a mistake and I'll fix it or at least note it.
 
-## [The Orthic Hobbit -- Barely started](orth-hobbit.md)
+### [The Cat Who Walked By Himself, Rudyard Kipling](reading-material/catwalked-orthic-rev01.pdf)
+Written by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
 
-A crowd-sourced version of The Hobbit, written in whatever styles the contributors prefer. (Contributions welcome!)
+### Orthic Hobbit (Crowd Sourced) and Hobbit Learns Orthic
+Cancelled. I'm too worried about copyright takedown to enjoy it.
+
+### [Reading Material On orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
 
 ## Papers and Word Lists
-* [Oxford 3000, Format Rev 1.](<paper/oxford 3000 Rev 1.pdf>) 3 columns, 8mm (and a bit) spacing. (Getting exact spacing is fiddley.)
+
+* [Oxford Word Lists](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)\
+Some day I'll set it up to print nicely for a dictionary. Maybe. Or another list. The 3000 one has too many words I rarely use.
 
 
 ## Licencing

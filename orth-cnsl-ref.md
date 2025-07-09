@@ -299,7 +299,7 @@ Revised: Jew, Wales, England, S.E., L.S.W.R.\
 Note that Revised often intersects the word.
 
 ![alt text](assets/revised-split/apthorpe-r04.jpg){: .rev1row}
-![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}
+![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}\ 
 Revised: Apthorpe, Tay
 
 ## Joining Vowels Sounded Individually and Diphthongs
@@ -510,7 +510,8 @@ Manual: and
 Manual: bd, rob'd, bj, object, bl, able, br, bray, bs, absurd, bt, subtract, bv, subvent
 
 ![shorthand image](assets/revised-split/b-r04.jpg){: .rev}\
-Revised: black, sensible, bleak, trebly
+Revised: black, sensible, bleak, trebly\
+Reversed B is only in Revised.
 
 ![shorthand image](assets/revised-split/b-r07.jpg){: .rev}\
 Revised: bd, bf, bg, bh, abhor, bj, bk, bl, bl, bl, bm, bn, bp, bq, br, brain, bs, bt, bv, by, bz
@@ -519,12 +520,14 @@ Revised: bd, bf, bg, bh, abhor, bj, bk, bl, bl, bl, bm, bn, bp, bq, br, brain, b
 
 BE-: See Abbreviating Principles.
 
-BL can be shown by reversing the direction of the B loop, and optionally writing the L inside the B. (Revised, pg 4, Compound Characters)
+BL can be shown by reversing the direction of the B loop, and optionally writing the L inside the B. (Only in Revised)(Revised, pg 4, Compound Characters)
 
 
 
 
 ### C
+
+CH is included here because it's presented with C. Further details are under H.
 
 ![shorthand image](assets/manual-bits/c-m007.png){: .man}\
 Manual: ck, suckle, cl, close, cr, crutch, ct
@@ -541,6 +544,8 @@ Supplement: transact
 CH is a circle the same size as H. H, CH and WH are described under H. Note MCH, NCH, SCH have different rules, described with H.
 
 CHL, CHR: Put the L or R inside the larger circle. Observe the L or R lies above/below the vowel line.
+
+I think CHL and CHR turn in different directions, so the small circle just continues the motion. (Cricket)
 
 CT: Supplement merges them (*transact*), as for GD. Manual Ordinary does not. Manual Hints for Reporting does not. (*characters*) 
 
@@ -710,7 +715,8 @@ Most letters combine with H in "interesting" ways. CH, WH, and combinations star
       <td>wh, whose, when<br/>
         <img src="assets/revised-split/wh-r05.jpg" class="rev1row">
         <img src="assets/revised-split/whose-r05.jpg" class="rev1row">
-        <img src="assets/revised-split/when-r05.jpg" class="rev1row">
+        <img src="assets/revised-split/when-r05.jpg" class="rev1row"><br/>
+        See below for the full image, comparing whose/chose to when/chin. (under H: WH, not all the way down to WH).
       </td>
     </tr>
   </tbody>

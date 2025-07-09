@@ -43,7 +43,7 @@ Graduates of this course are encouraged to start [Swem's Systematic Course for A
 
 ## Introduction
 
-Most modern shorthand students do not have the luxury of a teacher, or even a good self-instruction book (especially those of us who prefer older systems).
+Most modern shorthand learners do not have the luxury of a teacher, or even a good self-instruction book (especially those of us who prefer older systems).
 
 A good book will:
 - introduce the material in an order that allows for natural language and interesting material as early as possible.
