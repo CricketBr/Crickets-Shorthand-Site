@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
 */
 
 .cssrev::after {
-    content: " css rev 118";
+    content: " css rev 119";
     font-size: 3;
     color: var(--accentMain);
     font-weight: bold;
@@ -45,7 +45,7 @@ body {
 
 header {
     margin: 0;
-    padding: 2rex 2rex 0 2rex;
+    padding: 2rex;
     border: 1rex solid var(--accentMain);
 
     text-align: center;
@@ -57,7 +57,7 @@ header {
 
 }
 
-.bigheader {
+.sitename {
     font-size: 250%;
     font-weight: bold;
     padding-bottom: 2rex;
@@ -91,13 +91,13 @@ h1 a {
 
 header a {
         text-decoration: none;
-        padding-left: 5ex;
-        padding-right: 5ex;
+        margin-left: 5ex;
+        margin-right: 5ex;
     
 }
 
 a:hover {
-    text-decoration: underline;
+    /* text-decoration: underline; */
     border-bottom: 2px solid var(--accentMain);
     /* border: 1px solid var(--accentMain); */
     background-color: var(--accentMed);
