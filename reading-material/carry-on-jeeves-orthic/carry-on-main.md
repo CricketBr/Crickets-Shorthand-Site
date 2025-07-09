@@ -1,3 +1,7 @@
+---
+layout: default
+title: CSW Carry On Orthic
+---
 # Carry On Jeeves in Orthic
 
 Written in Orthic Shorthand by Cricket.

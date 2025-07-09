@@ -3,17 +3,18 @@ layout: default
 title: CSW Homepage
 ---
 
+Finally! All in one place and with human-readable URLs.
+
+Still a work in progress. Plans will probably change.
+
+Comments and corrections are more than welcome.
 
 ## Table of Contents
 {: .no_toc}
 * toc
 {:toc}
 
-Finally! All in one place and with human-readable URLs.
 
-Still a work in progress. Plans will probably change.
-
-Comments and corrections are more than welcome.
 
 ## [Cricket's Shorthand Tips](cr-shorthand-tips.md)
 
