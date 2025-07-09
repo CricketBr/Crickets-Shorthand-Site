@@ -1,5 +1,5 @@
 .cssrev::after {
-    content: " 2025-07-09, 134";
+    content: " 2025-07-09, 135";
 }
 
 :root {
@@ -24,7 +24,7 @@
 }
 
 html {
-    background-color: red;
+    background-color: var(--accentMed);
 }
 
 body {
@@ -32,8 +32,9 @@ body {
     margin: auto;
     padding-top: 1ex;
     max-width: 800px;
-    /* background-color: var(--accentMed); */
-    background-color: green;
+    background-color: var(--accentMed);
+    border: thick solid var(--accentMain);
+
 }
 
 header {
@@ -41,7 +42,6 @@ header {
     padding: 0;
     border: thick solid var(--accentMain);
     color: var(--accentMain);
-
     text-align: center;
     background-color: var(--accentMed);
     /* background-color: red; */
@@ -71,6 +71,8 @@ main {
     background-color: white;
     padding: 2ex 2ex 0 2ex;
     text-align: left;
+    border-top: thick solid var(--accentMain);
+    border-bottom: thick solid var(--accentMain);
 }
 
 a {
@@ -86,6 +88,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a,
+.toc-list,
 #markdown-toc a {
     text-decoration: none;
 }
@@ -99,10 +102,8 @@ nav a {
 }
 
 a:hover {
-    border-bottom: thin solid var(--accentMain);
+    border-bottom: medium solid var(--accentMain);
     background-color: var(--accentMed);
-
-
 }
 
 hr {

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-09, 130
+rev: 2025-07-09, 135
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -55,10 +55,10 @@ Rules sorted by Orthic spelling.
 
 No promises about accuracy. Let me know if you find a mistake and I'll fix it or at least note it.
 
-* [The Cat Who Walked By Himself, Rudyard Kipling, Orthic](reading-material/cat-walked-orthic/cat-main.md)\
+* [The Cat Who Walked By Himself, Rudyard Kipling, Orthic](cat-main.md)\
 Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
 
-* [Carry On Jeeves, PG Wodehouse. Humour, Orthic](reading-material/carry-on-jeeves-orthic/carry-on-main.md)\
+* [Carry On Jeeves, PG Wodehouse. Humour, Orthic](carry-on-main.md)\
 Written in Shorthand by Cricket. Starts with Fully Written Style and progresses.
 
 

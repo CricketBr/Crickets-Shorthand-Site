@@ -2,7 +2,7 @@
 
 ## Recent Revisions
 
-2025-07-07: Linked to more of Beryl's advice on Reddit, 
+2025-07-07: Linked to more of Beryl's advice on Reddit. 
 
 2025-06-28: added link to Beryl Pratt's advice on Reddit for building endurance.
 
@@ -35,6 +35,7 @@ Canonical copy, contact and license at
 * [Acknowledgements](#acknowledgements)
 * [Full Table of Contents](#full-table-of-contents)
 * [Revision History](#revision-history)
+{: .toc-list}
 
 
 This course will (hopefully) work with any shorthand system and any book. Options are given to accommodate different types of systems and quality of books.
