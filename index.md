@@ -58,7 +58,7 @@ No promises about accuracy. Let me know if you find a mistake and I'll fix it or
 * [The Cat Who Walked By Himself, Rudyard Kipling, Orthic](reading-material/cat-walked-orthic/cat-main.md)\
 Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
 
-* Carry On Jeeves, PG Wodehouse. Humour.\
+* [Carry On Jeeves, PG Wodehouse. Humour.](reading-material/carry-on-jeeves-orthic/carry-on-main.md)\
 Written in Shorthand by Cricket.
 
 
