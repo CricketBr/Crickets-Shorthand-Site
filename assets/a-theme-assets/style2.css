@@ -1,11 +1,11 @@
 .cssrev::after {
-    content: " 2025-07-09, 135";
+    content: " 2025-07-09, 136";
 }
 
 :root {
     --kortrightblue: #1062a9;
     /* --accent1: hsl(208, 75%, 40%); */
-    --accentMain: #196bb3;
+    --accentDark: #196bb3;
     --accentMed: hsl(209, 49%, 90%);
     --accentLight: hsl(209, 41%, 95%);
     --contrastMain: #B32B19;
@@ -33,15 +33,15 @@ body {
     padding-top: 1ex;
     max-width: 800px;
     background-color: var(--accentMed);
-    border: thick solid var(--accentMain);
+
 
 }
 
 header {
     margin: 2rex 0 0 0;
     padding: 0;
-    border: thick solid var(--accentMain);
-    color: var(--accentMain);
+    border: thick solid var(--accentDark);
+    color: var(--accentDark);
     text-align: center;
     background-color: var(--accentMed);
     /* background-color: red; */
@@ -71,12 +71,12 @@ main {
     background-color: white;
     padding: 2ex 2ex 0 2ex;
     text-align: left;
-    border-top: thick solid var(--accentMain);
-    border-bottom: thick solid var(--accentMain);
+    border-left: thick solid var(--accentDark);
+    border-right: thick solid var(--accentDark);
 }
 
 a {
-    color: var(--accentMain);
+    color: var(--accentDark);
     text-decoration: underline;
     /* font-weight: bold; */
     overflow-wrap: anywhere;
@@ -102,20 +102,20 @@ nav a {
 }
 
 a:hover {
-    border-bottom: medium solid var(--accentMain);
+    border-bottom: medium solid var(--accentDark);
     background-color: var(--accentMed);
 }
 
 hr {
     height: 2px;
-    color: var(--accentMain)
+    color: var(--accentDark)
 }
 
 
 .box {
-    border: medium solid var(--accentMain);
+    border: medium solid var(--accentDark);
     background-color: var(--accentMed);
-    color: var(--accentMain);
+    color: var(--accentDark);
     font-size: 150%;
     text-align: center;
     font-weight: bold;
@@ -128,7 +128,7 @@ hr {
     font-size: 1.5rem;
     text-align: center;
     font-style: italic;
-    border-bottom: medium solid var(--accentMain)
+    border-bottom: medium solid var(--accentDark)
 }
 
 /* 
@@ -136,7 +136,7 @@ article {
 padding: 2rex;
     border-width: 1rex;
     border-style: solid;
-    border-color: var(--accentMain); 
+    border-color: var(--accentDark); 
 
 
 }
@@ -152,7 +152,7 @@ h4,
 h5,
 h6,
 .subtitle {
-    color: var(--accentMain);
+    color: var(--accentDark);
     font-weight: bold;
     margin: 1rem 0 0 0;
     padding: 0;
@@ -199,7 +199,7 @@ caption {
 
 
 table {
-    border: light solid var(--accentMain);
+    border: light solid var(--accentDark);
     border-collapse: collapse;
     overflow: auto
 }
@@ -207,7 +207,7 @@ table {
 th,
 td {
     padding: 1ex;
-    border: light solid var(--accentMain);
+    border: light solid var(--accentDark);
     border-collapse: collapse;
     vertical-align: top;
 
@@ -228,44 +228,44 @@ img {
 img.man {
     max-width: min(30rem, 100%);
     border-right: none;
-    border-top: 5px solid var(--accentMain);
+    border-top: 5px solid var(--accentDark);
 }
 
 img.man1row {
     height: 2.3em;
-    border-top: 5px solid var(--accentMain);
+    border-top: 5px solid var(--accentDark);
 }
 
 img.sup {
     max-width: min(45rem, 100%);
-    border-top: 5px dashed var(--accentMain);
+    border-top: 5px dashed var(--accentDark);
 }
 
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
-    border-top: 5px dashed var(--accentMain);
+    border-top: 5px dashed var(--accentDark);
 }
 
 img.teach1 {
     max-width: min(45rem, 100%);
-    border-top: 7px double var(--accentMain);
+    border-top: 7px double var(--accentDark);
 
 }
 
 img.teach1-1row {
     height: 2.2em;
-    border-top: 7px double var(--accentMain);
+    border-top: 7px double var(--accentDark);
 }
 
 img.rev {
     max-width: min(35rem, 100%);
-    border-top: 5px dotted var(--accentMain);
+    border-top: 5px dotted var(--accentDark);
 }
 
 img.rev1row {
     height: 2.5em;
-    border-top: 5px dotted var(--accentMain);
+    border-top: 5px dotted var(--accentDark);
 }
 
 code,
@@ -290,7 +290,7 @@ blockquote {
 }
 
 footer {
-    border-top: medium solid var(--accentMain);
+    border: thick solid var(--accentDark);
     padding: 1ex 2ex 0 2ex;
 }
 
