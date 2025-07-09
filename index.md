@@ -90,7 +90,10 @@ You can reach me at:
 * GitHub @CricketBr
 * [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
-Rev 114, 2025-07-09
+Rev 117, 2025-07-09
+
+CSS Rev 
+{: .cssrev}
 
 
 
