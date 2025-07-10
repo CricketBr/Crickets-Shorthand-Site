@@ -1,16 +1,23 @@
 ---
 layout: default
 title: CSW Cat Orthic
-rev: 2025-07-09, 139
+rev: 2025-07-09, 141
 ---
 
 # The Cat That Walked By Himself, Rudyard Kipling, Just So Stories
 
 Rev 01
 
-Written in shorthand by Cricket. Rev 2025-07-09 . See above for Contact Information.
+Written in Orthic shorthand by Cricket. Rev 2025-07-09 .
 
 Left side is mostly Fully Written, with a few abbreviations to save my sanity. Right side is Abbreviated.
+
+Canonical copy, contact and license at 
+<https://cricketbr.github.io/Crickets-Shorthand-Site>
+
+Key at https://www.gutenberg.org/ebooks/32488 .
+
+This page must be included in all shared copies.
 
 Corrections:
 
