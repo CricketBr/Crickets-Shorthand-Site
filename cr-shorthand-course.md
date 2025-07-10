@@ -1,6 +1,14 @@
+---
+layout: default
+title: CSW - Shorthand Course
+rev: 2025-07-09, 140
+---
+
 # Cricket’s Shorthand Course
 
 ## Recent Revisions
+
+2025-07-09: Added Rev to hidden codes.
 
 2025-07-07: Linked to more of Beryl's advice on Reddit. 
 

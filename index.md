@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-09, 135
+rev: 2025-07-09, 140
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -31,9 +31,9 @@ A collection of tips I've accumulated over the years. Replaced by Cricket's Shor
 
 *Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment*
 
-An attempt to organize the all the Orthic rules into a single document for reference. The four Orthic books were written by three different authors on two continents. Instead of issuing a revised manual, books 2 and 3 (Supplement and Teaching) only show changes to the system. They move rules around, add some, and change others. The 4th (Revised) is the complete system but has some significant differences.
+The four Orthic books were written by three different authors on two continents. Instead of issuing a revised manual, books 2 and 3 (Supplement and Teaching) only show changes to the system. They move rules around, add some, and change others. The 4th (Revised), written many years later, is the complete system but has some significant differences.
 
-This book combines all the rules from all the earlier books, except some that are only in the Reporting Style. It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.)
+This book combines all the rules from all the, except most that are only in the Reporting Style. It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.)
 
 Hopefully it creates more clarity than confusion.
 

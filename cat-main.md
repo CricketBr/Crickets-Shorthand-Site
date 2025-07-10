@@ -10,6 +10,8 @@ Rev 01
 
 Written in shorthand by Cricket. Rev 2025-07-09 . See above for Contact Information.
 
+Left side is mostly Fully Written, with a few abbreviations to save my sanity. Right side is Abbreviated.
+
 Corrections:
 
 - WH at start of words is often written CH.

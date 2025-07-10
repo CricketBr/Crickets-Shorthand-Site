@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 128
+rev: 140
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -37,6 +37,7 @@ For learners who have already read the Manual or Revised, up to but not necessar
 * [Full Table of Contents](#full-table-of-contents)
 * [Contact](#contact)
 * [Revision History](#revision-history)
+{: .toc-list}
 
 ## Introduction to Orthic Consolidated 
 
@@ -48,7 +49,7 @@ In keeping with tradition, I'll begin with deficiencies of previous books:
 
 Callendar wrote the Manual in 1891, then, instead of updating it, he published the Supplement in 1982. This booklet moved some rules from advanced to intermediate, and even changed a few. Stevens wrote The Teaching of Orthic Shorthand in 1896, and, again, instead of writing a complete book, he told the readers to refer to the previous two publications. He also moved rules between levels, added some, and, I suspect, changed a few. Finally, in 1911, Clarey wrote Orthic Shorthand: Revised, Extended and Improved. That book brought together all the rules, changed a few, and added many rules for prefixes and terminations.
 
-This book addresses the first deficiency, hopefully without creating too much more confusion. It does so by consolidating all the rules from all the earlier books, except some that are only in the Reporting Style. It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.) It assumes you have read the Manual or Revised. 
+This book addresses the first deficiency, hopefully without creating too much more confusion. It does so by consolidating all the rules from all the earlier books, except some that are only in the Reporting Style. It is *not* intended as an introduction to Orthic. The Manual or Revised is best for that. (I recommend the Manual, and anything Revised does differently just feels wrong to anyone who started with the Manual.)
 
 [Cricket's Shorthand Course](cr-shorthand-course.md) will help with the second deficiency.
 

@@ -101,7 +101,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a,
-.toc-list,
+.toc-list a,
 #markdown-toc a {
     text-decoration: none;
 }
@@ -134,7 +134,6 @@ hr {
     font-weight: bold;
     font-style: italic;
     padding: 0 1ex;
-    margin: 1ex;
 }
 
 .subtitle {
