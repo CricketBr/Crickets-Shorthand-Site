@@ -1,54 +1,53 @@
 ---
 layout: default
 title: CSW Cat Orthic
+rev: 2025-07-09, 139
 ---
 
 # The Cat That Walked By Himself, Rudyard Kipling, Just So Stories
 
-Written by Cricket. Rev 2025-07-09 . See above for Contact Information.
+Rev 01
+
+Written in shorthand by Cricket. Rev 2025-07-09 . See above for Contact Information.
 
 Corrections:
 
 - WH at start of words is often written CH.
 
-This page is a set of images instead of a single PDF to make it easy to add corrections. A PDF without corrections is at the end.
-
-![Cat Walked Orthic page 01](cat-001.jpg)
-![Cat Walked Orthic page 02](cat-002.jpg)
-![Cat Walked Orthic page 03](cat-003.jpg)
-![Cat Walked Orthic page 04](cat-004.jpg)
-![Cat Walked Orthic page 05](cat-005.jpg)
-![Cat Walked Orthic page 06](cat-006.jpg)
-![Cat Walked Orthic page 07](cat-007.jpg)
-![Cat Walked Orthic page 08](cat-008.jpg)
-![Cat Walked Orthic page 09](cat-009.jpg)
-![Cat Walked Orthic page 10](cat-010.jpg)
-![Cat Walked Orthic page 11](cat-011.jpg)
-![Cat Walked Orthic page 12](cat-012.jpg)
-![Cat Walked Orthic page 13](cat-013.jpg)
-![Cat Walked Orthic page 14](cat-014.jpg)
-![Cat Walked Orthic page 15](cat-015.jpg)
-![Cat Walked Orthic page 16](cat-016.jpg)
-![Cat Walked Orthic page 17](cat-017.jpg)
-![Cat Walked Orthic page 18](cat-018.jpg)
-![Cat Walked Orthic page 19](cat-019.jpg)
-![Cat Walked Orthic page 20](cat-020.jpg)
-![Cat Walked Orthic page 21](cat-021.jpg)
-![Cat Walked Orthic page 22](cat-022.jpg)
-![Cat Walked Orthic page 24](cat-024.jpg)
-![Cat Walked Orthic page 25](cat-025.jpg)
-![Cat Walked Orthic page 26](cat-026.jpg)
-![Cat Walked Orthic page 27](cat-027.jpg)
-![Cat Walked Orthic page 28](cat-028.jpg)
-![Cat Walked Orthic page 29](cat-029.jpg)
-![Cat Walked Orthic page 30](cat-030.jpg)
-![Cat Walked Orthic page 31](cat-031.jpg)
-![Cat Walked Orthic page 32](cat-032.jpg)
-![Cat Walked Orthic page 33](cat-033.jpg)
-![Cat Walked Orthic page 34](cat-034.jpg)
-![Cat Walked Orthic page 35](cat-035.jpg)
-![Cat Walked Orthic page 36](cat-036.jpg)
-![Cat Walked Orthic page 37](cat-037.jpg)
-<br/>
-
-[Cat Walked Orthic](cat-who-walked-orthic-rev01.pdf)
+![Cat page 01](assets/cat-walked-orthic/cat-001.jpg){: .def}
+![Cat page 02](assets/cat-walked-orthic/cat-002.jpg){: .def}
+![Cat page 03](assets/cat-walked-orthic/cat-003.jpg){: .def}
+![Cat page 04](assets/cat-walked-orthic/cat-004.jpg){: .def}
+![Cat page 05](assets/cat-walked-orthic/cat-005.jpg){: .def}
+![Cat page 06](assets/cat-walked-orthic/cat-006.jpg){: .def}
+![Cat page 07](assets/cat-walked-orthic/cat-007.jpg){: .def}
+![Cat page 08](assets/cat-walked-orthic/cat-008.jpg){: .def}
+![Cat page 09](assets/cat-walked-orthic/cat-009.jpg){: .def}
+![Cat page 10](assets/cat-walked-orthic/cat-010.jpg){: .def}
+![Cat page 11](assets/cat-walked-orthic/cat-011.jpg){: .def}
+![Cat page 12](assets/cat-walked-orthic/cat-012.jpg){: .def}
+![Cat page 13](assets/cat-walked-orthic/cat-013.jpg){: .def}
+![Cat page 14](assets/cat-walked-orthic/cat-014.jpg){: .def}
+![Cat page 15](assets/cat-walked-orthic/cat-015.jpg){: .def}
+![Cat page 16](assets/cat-walked-orthic/cat-016.jpg){: .def}
+![Cat page 17](assets/cat-walked-orthic/cat-017.jpg){: .def}
+![Cat page 18](assets/cat-walked-orthic/cat-018.jpg){: .def}
+![Cat page 19](assets/cat-walked-orthic/cat-019.jpg){: .def}
+![Cat page 20](assets/cat-walked-orthic/cat-020.jpg){: .def}
+![Cat page 21](assets/cat-walked-orthic/cat-021.jpg){: .def}
+![Cat page 22](assets/cat-walked-orthic/cat-022.jpg){: .def}
+![Cat page 23](assets/cat-walked-orthic/cat-023.jpg){: .def}
+![Cat page 24](assets/cat-walked-orthic/cat-024.jpg){: .def}
+![Cat page 25](assets/cat-walked-orthic/cat-025.jpg){: .def}
+![Cat page 26](assets/cat-walked-orthic/cat-026.jpg){: .def}
+![Cat page 27](assets/cat-walked-orthic/cat-027.jpg){: .def}
+![Cat page 28](assets/cat-walked-orthic/cat-028.jpg){: .def}
+![Cat page 29](assets/cat-walked-orthic/cat-029.jpg){: .def}
+![Cat page 30](assets/cat-walked-orthic/cat-030.jpg){: .def}
+![Cat page 31](assets/cat-walked-orthic/cat-031.jpg){: .def}
+![Cat page 32](assets/cat-walked-orthic/cat-032.jpg){: .def}
+![Cat page 33](assets/cat-walked-orthic/cat-033.jpg){: .def}
+![Cat page 34](assets/cat-walked-orthic/cat-034.jpg){: .def}
+![Cat page 35](assets/cat-walked-orthic/cat-035.jpg){: .def}
+![Cat page 36](assets/cat-walked-orthic/cat-036.jpg){: .def}
+![Cat page 37](assets/cat-walked-orthic/cat-037.jpg){: .def}
