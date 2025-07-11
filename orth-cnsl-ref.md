@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 144
+rev: 2025-07-11 145
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -297,7 +297,8 @@ Note that Revised often intersects the word.
 ![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}\ 
 Revised: Apthorpe, Tay
 
-## Fully Written: Joining Vowels Sounded Individually and Diphthongs{#fw-vowels}
+<a id="fw-vowels"></a>
+## Fully Written: Joining Vowels Sounded Individually and Diphthongs
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
@@ -485,9 +486,9 @@ Teaching 1: ye, obey
 
 
 
-
+<a id="fw-consonants"></a>
 ## Fully Written: Joining Consonants
-{#fw-consonants}
+
 
 Some concepts are under a letter other than the first, if the other letter is sounded more strongly, or it makes for a more sensible explanation.
 
@@ -785,7 +786,6 @@ Revised: H, ch, hat, chat, hd, hg, hs, hy
 
 HR, HL: Small circle inside big circle.
 
-
 THR, THER: T can be omitted.
 
 See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
@@ -794,6 +794,7 @@ See SH and TH for those joins. Sometimes H is smaller or not completed.
 
 CHL:   `cl`\
 (Supplement, Notes on Reporting, no examples)\
+Probably chose to go phonetic instead of dealing with the CH circle. (Cricket)
 
 
 

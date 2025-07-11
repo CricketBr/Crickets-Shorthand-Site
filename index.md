@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-11, 143
+rev: 2025-07-11, 145
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -25,7 +25,7 @@ A series of steps for learning shorthand, especially if you don't have a teacher
 
 Because the first one, with all the reasons and references, is too long.
 
-### [Tips](cr-shorthand-tips.md)
+### [Tips - Deprecated](cr-shorthand-tips.md)
 
 A collection of tips I've accumulated over the years. Replaced by Cricket's Shorthand Course.
 
@@ -93,6 +93,8 @@ You can reach me at:
 * GitHub @CricketBr
 * [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
+## Temporary Construction Tools
+[css test](css-test.md)
 
 
 
