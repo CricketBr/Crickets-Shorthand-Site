@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 151
+rev: 2025-07-11 152
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -1025,15 +1025,15 @@ PR: It is usual to write a vowel following R attached to an upright letter from 
 
 Teaching gives the example PRA, doesn't say here that it doesn't apply to S (see SH), and doesn't say which the other upright letters are. My best guess follows. (Cricket)
 
-![alt text](assets/manual-bits/ay-m006.png){: .man1row}
-![alt text](assets/manual-bits/ead-m009.png){: .man1row}
-![alt text](assets/manual-bits/ought-m016.png){: .man1row}
+![alt text](assets/manual-bits/bray-m006.png){: .man1row}
+![alt text](assets/manual-bits/bread-m009.png){: .man1row}
+![alt text](assets/manual-bits/brought-m016.png){: .man1row}
 ![alt text](assets/manual-bits/afraid-m008.png){: .man1row}
 ![alt text](assets/manual-bits/fro-m009.png){: .man1row}\
 Manual: bray, bread, brought, afraid, fro
 
 ![alt text](assets/revised-split/zebra-r02.jpg){: .rev1row}
-![alt text](assets/revised-split/iar-r06.jpg){: .rev1row}
+![alt text](assets/revised-split/briar-r06.jpg){: .rev1row}
 ![alt text](assets/revised-split/frowsy-r05.jpg){: .rev1row}\
 Revised: zebra, briar, frowsy
 
