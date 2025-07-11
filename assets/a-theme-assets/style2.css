@@ -1,5 +1,5 @@
 .cssrev::after {
-    content: " 2025-07-09, 149";
+    content: " 2025-07-09, 151";
 }
 
 :root {
@@ -175,14 +175,7 @@ h1 {
     font-size: 2rem;
     text-align: center;
     margin: 0;
-}
-
-h1::before {
-    content: " --- ";
-}
-
-h1::after {
-    content: " --- ";
+    border-bottom: solid thick var(--accentDark)
 }
 
 h2 {

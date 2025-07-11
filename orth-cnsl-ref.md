@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 146
+rev: 2025-07-11 151
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -294,7 +294,7 @@ Revised: Jew, Wales, England, S.E., L.S.W.R.\
 Note that Revised often intersects the word.
 
 ![alt text](assets/revised-split/apthorpe-r04.jpg){: .rev1row}
-![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}\ 
+![alt text](assets/revised-split/tay-r05.jpg){: .rev1row} \ 
 Revised: Apthorpe, Tay
 
 <a id="fw-vowels"></a>
