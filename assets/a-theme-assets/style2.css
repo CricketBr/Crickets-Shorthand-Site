@@ -178,7 +178,7 @@ h1 {
 }
 
 h1::before {
-    content: " ~~~ ";
+    content: " --- ";
 }
 
 h1::after {

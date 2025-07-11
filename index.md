@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-11, 145
+rev: 2025-07-11, 150
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -10,10 +10,24 @@ Still a work in progress. Plans will probably change.
 
 Comments and corrections are more than welcome.
 
-## Table of Contents
-{: .no_toc}
-* toc
-{:toc}
+## Site Map
+
+* Cricket’s Shorthand Course
+  * [Course](cr-shorthand-course.md)
+  * Course Summary – Not Started
+  * [Tips - Deprecated](cr-shorthand-tips.md)
+* Orthic Consolidated
+  * [Reference – Final Edit Stage](orth-cnsl-ref.md)
+  * Study Lists – Not Started
+  * [Words from Examples](orth-cnsl-words-examples.md)
+  * [Words from Passages](orth-cnsl-words-passages.md)
+  * Orthic Consolidated Reverse Rules – Not Started
+  * [Orthic Reading Material](#reading)
+* [Papers and Word Lists](#papers-lists)
+* [License](#license)
+* [Contact](#contact)
+
+## Details
 
 ## Cricket's Shorthand Course
 
@@ -55,6 +69,8 @@ All the words used as examples and in longer passages, up to but only sometimes 
 
 Rules sorted by Orthic spelling.
 
+<a id="reading">
+
 ## Orthic Reading Material
 
 No promises about accuracy. Let me know if you find a mistake and I'll fix it or at least note it.
@@ -69,10 +85,13 @@ Written in Shorthand by Cricket. Starts with Fully Written Style and adds rules 
 * [Reading Material on orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
 
 
+<a id="papers-lists">
 
 ## Papers and Word Lists
 
 Future Project. Word lists nicely formatted with room for shorthand, to make a dictionary, and some with Orthic.
+
+<a id="licence">
 
 ## License
 
@@ -83,6 +102,8 @@ xxx todo
 You are welcome to copy and share the files exactly as presented here. All the files include a revision date, copyright notice, and a link to this source.
 
 See individual pages for extra restrictions, including those inherited from other sources and references.
+
+<a id="contact">
 
 ## Contact
 
