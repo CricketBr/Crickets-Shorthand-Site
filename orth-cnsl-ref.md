@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 141
+rev: 2025-07-11 142
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -297,7 +297,7 @@ Note that Revised often intersects the word.
 ![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}\ 
 Revised: Apthorpe, Tay
 
-## Joining Vowels Sounded Individually and Diphthongs
+## Fully Written: Joining Vowels Sounded Individually and Diphthongs
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
@@ -486,7 +486,7 @@ Teaching 1: ye, obey
 
 
 
-## Joining Consonants
+## Fully Written: Joining Consonants
 
 Some concepts are under a letter other than the first, if the other letter is sounded more strongly, or it makes for a more sensible explanation.
 
@@ -605,12 +605,6 @@ FS: S curves upwards to the left. (Revised)
 ![shorthand image](assets/manual-bits/g-m008.png){: .man}\
 Manual: gh, high, gl, glory, gr, agree, gn, sign
 
-![shorthand image](assets/teach-1-bits/g-lowered-t114.jpg){: .teach1}\
-Teaching 1: gn, foreign, age, magnify
-
-![shorthand image](assets/supp-bits/goodness-s.png){: .sup1row}\
-Supplement: goodness
-
 ![shorthand image](assets/revised-split/g-r07.jpg){: .rev}\
 Revised: G, gb, gd, gh, gl, gm, gn, gr, gs, gy
 
@@ -618,7 +612,7 @@ GD: Note the merge.
 
 GT: No examples.
 
-Rest of the word below the line signifies G (or termination with G). (Teaching 1)
+
 
 
 
@@ -1815,7 +1809,15 @@ Beautiful shows one reason for retaining the Y in the inflected word. (Teaching 
 
 
 
+#### -G-
 
+![shorthand image](assets/supp-bits/goodness-s.png){: .sup1row}\
+Supplement: goodness
+
+![shorthand image](assets/teach-1-bits/g-lowered-t114.jpg){: .teach1}\
+Teaching 1: gn, foreign, age, magnify
+
+Rest of the word below the line signifies G (or termination with G) omitted. (Teaching 1)
 
 #### -GE, -DGE, -AGE, -GE, -KE, -AKE `_*`
 

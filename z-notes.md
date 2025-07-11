@@ -4,7 +4,7 @@
 
 - change full page image structure -- keep orig in folder named orig, and put cropped full page in -bits.
     - rename split -> bits ??
-    - clip page edges better
+    - clip page edges better for "all the word" page.
 
 - how to write *today*
 
@@ -12,15 +12,19 @@
 
 - try {#myID} instead of anchors
 
-
-
 - go through man, sup for jeremy's notes
 
 - Move source to front of paragraph
 
+- ph to H
+
+- label section Joining -- Fully Written
+
+- 
 
 
-## Reminders of Decisions
+
+## Reminders of Decisions and Tips
 
 Site pdf to go , to extract original scans from pdf
 
