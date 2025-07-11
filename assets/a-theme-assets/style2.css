@@ -138,8 +138,11 @@ hr {
 
 .subtitle {
     font-size: 1rem;
-    text-align: center;
+    font-weight: bold;
+    color: var(--accentDark);
     font-style: italic;
+    text-align: center;
+    margin: 1rem 0 0 0;
     border-bottom: medium solid var(--accentDark);
     padding-bottom: 0.5rem;
 }
@@ -163,8 +166,7 @@ h2,
 h3,
 h4,
 h5,
-h6,
-.subtitle {
+h6 {
     color: var(--accentDark);
     font-weight: bold;
     margin: 1rem 0 0 0;
