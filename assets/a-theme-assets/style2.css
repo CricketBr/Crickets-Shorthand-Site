@@ -1,5 +1,5 @@
 .cssrev::after {
-    content: " 2025-07-11, 152";
+    content: " 2025-07-11, 153";
 }
 
 :root {
@@ -137,7 +137,7 @@ hr {
 }
 
 .subtitle {
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-align: center;
     font-style: italic;
     border-bottom: medium solid var(--accentDark)

@@ -1,11 +1,12 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 152
+rev: 2025-07-11 153
 ---
 # Orthic Consolidated – Reference DRAFT
 
-Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment
+Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment<br/>
+For those who have already read the Manual or Revised, not including Reporting.
 {: .subtitle}
 
 Still very fluid.
@@ -16,8 +17,7 @@ This document is licensed under a Creative Commons Attribution-ShareAlike 4.0 In
 
 Based on works listed below under [Sources](#sources--references) .
 
-For learners who have already read the Manual or Revised, not including Reporting.
-{: .box}
+
 
 ## Table of Contents (Short)
 {: .no_toc}
