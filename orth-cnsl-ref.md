@@ -1,11 +1,11 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 153
+rev: 2025-07-11 154
 ---
 # Orthic Consolidated – Reference DRAFT
 
-Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment<br/>
+Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment.<br/>
 For those who have already read the Manual or Revised, not including Reporting.
 {: .subtitle}
 
@@ -2126,7 +2126,7 @@ Revised: explosion, lotion
 #### -OUD, -OUT, -OUND, -OUNT -- See -OUND, -OUNT
 
 #### -OUGH `o`
-![shorthand image](assets/manual-bits/ough-m016.png){: .man}\
+![shorthand image](assets/manual-bits/ough,ought-m016.png){: .man}\
 Manual: ought, brought
 
 ![shorthand image](assets/teach-1-bits/ought-t109.jpg){: .teach1}\

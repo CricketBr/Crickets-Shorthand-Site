@@ -140,7 +140,8 @@ hr {
     font-size: 1rem;
     text-align: center;
     font-style: italic;
-    border-bottom: medium solid var(--accentDark)
+    border-bottom: medium solid var(--accentDark);
+    padding-bottom: 0.5rem;
 }
 
 /* 
@@ -168,6 +169,14 @@ h6,
     font-weight: bold;
     margin: 1rem 0 0 0;
     padding: 0;
+}
+
+h2::after,
+h3::after,
+h4::after,
+h5::after,
+h6::after {
+    content: "<a href='test'>testing</a>"
 }
 
 /* Only One h1 Per Page! */
@@ -247,23 +256,23 @@ img.def {
 img.man {
     max-width: min(30rem, 100%);
     border-right: none;
-    border-top: 5px solid var(--accentDark);
+    border-top: 4px solid var(--accentDark);
 }
 
 img.man1row {
     height: 2.3em;
-    border-top: 5px solid var(--accentDark);
+    border-top: 4px solid var(--accentDark);
 }
 
 img.sup {
     max-width: min(45rem, 100%);
-    border-top: 5px dashed var(--accentDark);
+    border-top: 4px dashed var(--accentDark);
 }
 
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
-    border-top: 5px dashed var(--accentDark);
+    border-top: 4px dashed var(--accentDark);
 }
 
 img.teach1 {
