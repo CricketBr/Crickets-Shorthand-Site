@@ -171,13 +171,13 @@ h6,
     padding: 0;
 }
 
-h2::after,
+/* h2::after,
 h3::after,
 h4::after,
 h5::after,
 h6::after {
     content: "<a href='test'>testing</a>"
-}
+} */
 
 /* Only One h1 Per Page! */
 h1 {

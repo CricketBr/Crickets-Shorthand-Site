@@ -23,7 +23,7 @@ Based on works listed below under [Sources](#sources--references) .
 {: .no_toc}
 
 * [Introduction to Orthic Consolidated](#introduction-to-orthic-consolidated)
-* [A Note About Styles, Levels and Mixing Sources](#a-note-about-styles-levels-and-mixing-sources-styles-levels)
+* [A Note About Styles, Levels and Mixing Sources](#styles-levels)
 * [Acknowledgements](#acknowledgements)
 * [Sources / References](#sources--references)
 * [The Alphabet](#the-alphabet)
