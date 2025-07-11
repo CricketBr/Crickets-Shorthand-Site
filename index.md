@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-09, 140
+rev: 2025-07-11, 143
 ---
 
 Finally! All in one place and with human-readable URLs.
@@ -15,23 +15,23 @@ Comments and corrections are more than welcome.
 * toc
 {:toc}
 
-## Learning Shorthand
+## Cricket's Shorthand Course
 
-### [Cricket's Shorthand Course](cr-shorthand-course.md)
+### [Course](cr-shorthand-course.md)
 
 A series of steps for learning shorthand, especially if you don't have a teacher to guide you.
 
-### Cricket's Shorthand Course Summary -- Not Started
+### Course Summary -- Not Started
 
 Because the first one, with all the reasons and references, is too long.
 
-### [Cricket's Shorthand Tips](cr-shorthand-tips.md)
+### [Tips](cr-shorthand-tips.md)
 
 A collection of tips I've accumulated over the years. Replaced by Cricket's Shorthand Course.
 
 ## Orthic Consolidated
 
-### [Orthic Consolidated Reference  -- In Progress](orth-cnsl-ref.md)
+### [Reference  -- Final Edit Stage](orth-cnsl-ref.md)
 
 *Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment*
 
@@ -41,13 +41,13 @@ This page combines all the rules from all the books, except Reporting Style. It 
 
 Hopefully it creates more clarity than confusion.
 
-### Orthic Consolidated Study Lists -- Not Started
+### Study Lists -- Not Started
 
 Lists of words by rule, created as Cricket needs them.
 
-### [Orthic Consolidated -- Words from Examples](orth-cnsl-words-examples.md)
+### [Words from Examples](orth-cnsl-words-examples.md)
 
-### [Orthic Consolidated -- Words from Passages](orth-cnsl-words-passages.md)
+### [Words from Passages](orth-cnsl-words-passages.md)
 
 All the words used as examples and in longer passages, up to but only sometimes including Reporting. Includes Aesops and Dufferin's Speech, but not Psalms or New Testament.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 142
+rev: 2025-07-11 143
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -28,8 +28,8 @@ For learners who have already read the Manual or Revised, up to but not necessar
 * [Sources / References](#sources--references)
 * [The Alphabet](#the-alphabet)
 * [General Rules for Fully Written Style](#general-rules-for-fully-written-style)
-* [Joining Vowels](#joining-vowels-sounded-individually-and-diphthongs)
-* [Joining Consonants](#joining-consonants)
+* [Fully Written: Joining Vowels](#fw-vowels)
+* [Fully Written: Joining Consonants](#fw-consonants)
 * [General Methods of Abbreviation, Including Ordinary Style](#general-methods-of-abbreviation-including-ordinary-style)
 * [Abbreviating Principles](#abbreviating-principles)
 * [Phrases](#phrases)
@@ -298,6 +298,7 @@ Note that Revised often intersects the word.
 Revised: Apthorpe, Tay
 
 ## Fully Written: Joining Vowels Sounded Individually and Diphthongs
+{#fw-vowels}
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
@@ -487,6 +488,7 @@ Teaching 1: ye, obey
 
 
 ## Fully Written: Joining Consonants
+{#fw-consonants}
 
 Some concepts are under a letter other than the first, if the other letter is sounded more strongly, or it makes for a more sensible explanation.
 
