@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 143
+rev: 2025-07-11 144
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -16,7 +16,7 @@ This document is licensed under a Creative Commons Attribution-ShareAlike 4.0 In
 
 Based on works listed below under [Sources](#sources--references) .
 
-For learners who have already read the Manual or Revised, up to but not necessarily including Reporting.
+For learners who have already read the Manual or Revised, not including Reporting.
 {: .box}
 
 ## Table of Contents (Short)
@@ -297,8 +297,7 @@ Note that Revised often intersects the word.
 ![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}\ 
 Revised: Apthorpe, Tay
 
-## Fully Written: Joining Vowels Sounded Individually and Diphthongs
-{#fw-vowels}
+## Fully Written: Joining Vowels Sounded Individually and Diphthongs{#fw-vowels}
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
