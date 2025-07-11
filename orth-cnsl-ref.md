@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OCRef - Orthic Consolidated Reference
-rev: 2025-07-11 145
+rev: 2025-07-11 146
 ---
 # Orthic Consolidated – Reference DRAFT
 
@@ -298,7 +298,7 @@ Note that Revised often intersects the word.
 Revised: Apthorpe, Tay
 
 <a id="fw-vowels"></a>
-## Fully Written: Joining Vowels Sounded Individually and Diphthongs
+## Fully Written: Joining Vowels
 
 Some concepts are under the prominent letter, instead of the first in the group.
 
@@ -790,7 +790,7 @@ THR, THER: T can be omitted.
 
 See P for PH, PHTH and PTH. Sometimes the H turns in the opposite direction.
 
-See SH and TH for those joins. Sometimes H is smaller or not completed.
+See RH, SH and TH for those joins. Sometimes H is smaller or not completed.
 
 CHL:   `cl`\
 (Supplement, Notes on Reporting, no examples)\
@@ -1231,6 +1231,8 @@ TH-initial: See Abbreviating Principles for raised mode. Optional.
 THER: H with R inside. Omit the T. (Same as HR.)
 
 See Abbreviating Principles, TH- for TH at the beginning of a word.
+
+PTH: See P.
 
 
 
