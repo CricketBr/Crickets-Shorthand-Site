@@ -22,13 +22,13 @@ Reporting Level is only included for some books.
 ## The Manual
 
 ### Alphabet
-![alt text](assets/manual-original/003.png){: .man}
+![alt text](assets/manual-cropped/m003.png){: .man}
 
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
 ### Doubled Letters, General Rules, ...
 
-![alt text](assets/manual-original/004.png){: .man}
+![alt text](assets/manual-cropped/m004.png){: .man}
 
 Manual: odd, too, sleep, sup, re-enter, \
 Oölite, Deä, create, Leo, fiasco, serious, fuel, poem\
@@ -38,7 +38,7 @@ Jack, Clay, S.E., L.S.W.R.
 
 ### How to Write and Join the Characters
 
-![alt text](assets/manual-original/006.png){: .man}
+![alt text](assets/manual-cropped/m006.png){: .man}
 
 Manual: 
 
@@ -48,7 +48,7 @@ B: bd, rob’d, robbed, bj, object, bl, able, br, bray, bs, absurd, bt, subtract
 
 C: chair, Christ, ache, ahead, ck, suckle, cl, close, cr, crutch, ct, act
 
-![alt text](assets/manual-original/007.png){: .man}
+![alt text](assets/manual-cropped/m007.png){: .man}
 
 Manual: 
 
@@ -56,7 +56,7 @@ D: dge, judge, dj, dle, fiddle, dr, dread, dv, dw, dwell
 
 E: thus  seat, seas, eat, real, pearl, years, seat, seas, eat, real, pearl, years
 
-![alt text](assets/manual-original/008.png){: .man}
+![alt text](assets/manual-cropped/m008.png){: .man}
 
 Manual: 
 
@@ -72,7 +72,7 @@ J:
 
 K:
 
-![alt text](assets/manual-original/009.png){: .man}
+![alt text](assets/manual-cropped/m009.png){: .man}
 
 Manual: 
 
@@ -83,7 +83,7 @@ M: mp, imply, mb, limb, ms
 
 N: ng, singer, nsp, inspect, nc, since, nch, inches, nd, India, nf, infer, nj, injury, nl, unless, ns, sense, nt, sent, nk, sink, nqu, inquest, nv, invent
 
-![alt text](assets/manual-original/010.png){: .man}
+![alt text](assets/manual-cropped/m010.png){: .man}
 
 Manual: 
 
@@ -95,7 +95,7 @@ Q: esquire
 
 R: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv 
 
-![alt text](assets/manual-original/011.png){: .man}
+![alt text](assets/manual-cropped/m011.png){: .man}
 
 Manual: 
 
@@ -103,7 +103,7 @@ S: S.E., shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere
 
 T: with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 
-![alt text](assets/manual-original/012.png){: .man}
+![alt text](assets/manual-cropped/m012.png){: .man}
 
 Manual: 
 
@@ -119,11 +119,11 @@ Y: yacht, yet, yore, yule
 
 Z: daze, Fitz, puzzle
 
-![alt text](assets/manual-original/013.png){: .man}
+![alt text](assets/manual-cropped/m013.png){: .man}
 
 Manual: 
 
-![alt text](assets/manual-original/014.png){: .man}
+![alt text](assets/manual-cropped/m014.png){: .man}
 
 Manual: 
 
@@ -131,7 +131,7 @@ Manual:
 
 ### Abbreviations
 
-![alt text](assets/manual-original/015.png){: .man}
+![alt text](assets/manual-cropped/m015.png){: .man}
 
 Manual: 
 
@@ -143,7 +143,7 @@ applied, tries, easiest, happiest
 
 ### Abbreviate Common Endings
 
-![alt text](assets/manual-original/016.png){: .man}
+![alt text](assets/manual-cropped/m016.png){: .man}
 
 Manual: 
 
@@ -164,7 +164,7 @@ ward, ard, towards
 
 ### General Method
 
-![alt text](assets/manual-original/017.png){: .man}
+![alt text](assets/manual-cropped/m017.png){: .man}
 
 Manual: 
 
@@ -176,7 +176,7 @@ able to do, as it is, I am not, I have had, I shall be very, to be, ought to hav
 
  ### Abbreviations for Common Words
 
-![alt text](assets/manual-original/018.png){: .man}
+![alt text](assets/manual-cropped/m018.png){: .man}
 
 Manual: ab(ou)t, about, al(way)s, always, (a)m, am, I’m, am(oun)t, amount, an, a, and, a(n)y, any, ar(e), are, wer(e), were, b(e), be, b(ee)n, been, bec(ause), because, betw(een), between, b(u)t, but, ca(n), can, ca(n)-b(e), can be, ch(il)d, child, c(oul)d, could, d(o), do, d(oe)s, does, d(ow)n, down, ever, f(or), for, f(or)m, form, f(rien)d, friend, g(oo)d, good, gr(ea)t, great, ha(ve), have, h(a)d, had, m(a)de, made, m(igh)t, might, mo(re), more, m(o)st, most, n(o)t, not, c(a)n’t, can't n(oth)ing, nothing, o(f), of, o(f-th)e, of the, (o)n, on, (o)nly, only, (o)ne, one, (o)nce, once, pe(r)h(aps), perhaps, r(igh)t, right, rou(nd), round, se(l)f, self, s(el)v(e)s, selves, sha(ll), shall, she, sh(oul)d, should, thems(el)ves, themselves, theref(ore), therefore, thing, thing, thro’out, throughout, t(o), to, int(o), into, u(nder), under, w(ee)k, week, w(oul)d, would, wh(ich), which, (wi)th, with, y(ou), you, y(ou)rs, yours 
 
