@@ -31,38 +31,37 @@ Rendered into Markdown and annotated by Jeremy W Sherman.
 
 xxx license
 
-![alt text](assets/manual-cropped/_cover.png){: .man}
+![alt text](assets/manual-cropped/_cover.png){: .def}
 
-![alt text](assets/manual-cropped/_intro2.png){: .man}\
+![alt text](assets/manual-cropped/_intro2.png){: .def}\
 This is an artifact of the pdf-extractor used to get the images.
 
-![alt text](assets/manual-cropped/_intro1.png){: .man}
+![alt text](assets/manual-cropped/_intro1.png){: .def}
 
-![alt text](assets/manual-cropped/m001.png){: .man}
+![alt text](assets/manual-cropped/m001.png){: .def}
 
-![alt text](assets/manual-cropped/m002.png){: .man}
+![alt text](assets/manual-cropped/m002.png){: .def}
 
-![alt text](assets/manual-cropped/m003.png){: .man}
+![alt text](assets/manual-cropped/m003.png){: .def}
 
 ### Alphabet
 
 ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
-![alt text](assets/manual-cropped/m004.png){: .man}
+![alt text](assets/manual-cropped/m004.png){: .def}
 
-### Doubled Letters, General Rules, Etc
+### General Rules for Writing
 
 odd, too, sleep, sup, re-enter, \
 Oölite, Deä, create, Leo, fiasco, serious, fuel, poem,
 
-![alt text](assets/manual-cropped/m005.png){: .man}
+![alt text](assets/manual-cropped/m005.png){: .def}
 
 ins, ins, against, epitaph\
 lawsuit, Woolwich, virgin\
 Jack, Clay, S.E., L.S.W.R.
 
-![alt text](assets/manual-cropped/m006.png){: .man}
-
+![alt text](assets/manual-cropped/m006.png){: .def}
 
 
 ### How to Write and Join the Characters
@@ -73,14 +72,14 @@ B: bd, rob’d, robbed, bj, object, bl, able, br, bray, bs, absurd, bt, subtract
 
 C: chair, Christ, ache, ahead, ck, suckle, cl, close, cr, crutch, ct, act
 
-![alt text](assets/manual-cropped/m007.png){: .man}
+![alt text](assets/manual-cropped/m007.png){: .def}
 
 
 D: dge, judge, dj, dle, fiddle, dr, dread, dv, dw, dwell
 
 E: thus  seat, seas, eat, real, pearl, years, seat, seas, eat, real, pearl, years
 
-![alt text](assets/manual-cropped/m008.png){: .man}
+![alt text](assets/manual-cropped/m008.png){: .def}
 
 
 F: if, ft, soft, fd, puff’d, fl, rifle, fr, afraid, fs, skiffs 
@@ -95,7 +94,7 @@ J:
 
 K:
 
-![alt text](assets/manual-cropped/m009.png){: .man}
+![alt text](assets/manual-cropped/m009.png){: .def}
 
 L:  black, bread, 	clay, crow, 	addle, dry, 	flow, fro, 	glad, grade, 	play, pray, 	little, litre, 	slay, Israël, 	held, herd, 	world, already, \
     lf, half, lk, walk, lp, help, lt, wilt, lv, salve,
@@ -104,7 +103,7 @@ M: mp, imply, mb, limb, ms
 
 N: ng, singer, nsp, inspect, nc, since, nch, inches, nd, India, nf, infer, nj, injury, nl, unless, ns, sense, nt, sent, nk, sink, nqu, inquest, nv, invent
 
-![alt text](assets/manual-cropped/m010.png){: .man}
+![alt text](assets/manual-cropped/m010.png){: .def}
 
 O: oar, or, oak, oi, toil, ou, out, oy, boys, 
 
@@ -114,13 +113,13 @@ Q: esquire
 
 R: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv 
 
-![alt text](assets/manual-cropped/m011.png){: .man}
+![alt text](assets/manual-cropped/m011.png){: .def}
 
 S: S.E., shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
 
 T: with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 
-![alt text](assets/manual-cropped/m012.png){: .man}
+![alt text](assets/manual-cropped/m012.png){: .def}
 
 U: seen, sun, ua, guard, ui, suit, 
 
@@ -134,9 +133,9 @@ Y: yacht, yet, yore, yule
 
 Z: daze, Fitz, puzzle
 
-![alt text](assets/manual-cropped/m013.png){: .man}
+![alt text](assets/manual-cropped/m013.png){: .def}
 
-![alt text](assets/manual-cropped/m014.png){: .man}
+![alt text](assets/manual-cropped/m014.png){: .def}
 
 ### Specimen of Fully Written Style
 
@@ -147,7 +146,7 @@ The ability to write any word in full just as it is spelt, is (8) of the greates
 Even when thus written in full the system is very brief as contrasted (12) with ordinary writing. For practical purposes a still further increase (13) of brevity may be effected without any sacrifice of clearness, by (14) the use of shorter out-lines for such words as and, the, (15) for, to, etc., which occur so often in every page of English (16), and by the employment of a few other simple methods of (17) abbreviation, which are illustrated in the sections that follow, (18) and which constitute the ordinary style of Cursive.
 
 
-![alt text](assets/manual-cropped/m015.png){: .man}
+![alt text](assets/manual-cropped/m015.png){: .def}
 
 ### Abbreviations
 
@@ -157,7 +156,7 @@ applied, tries, easiest, happiest
 
 ### Abbreviate Common Endings
 
-![alt text](assets/manual-cropped/m016.png){: .man}
+![alt text](assets/manual-cropped/m016.png){: .def}
 
 
 ed, used, us'd, kissed, kiss'd, stirred, stirr'd\
@@ -177,7 +176,7 @@ ward, ard, towards
 
 ### General Method
 
-![alt text](assets/manual-cropped/m017.png){: .man}
+![alt text](assets/manual-cropped/m017.png){: .def}
 
 Manual: 
 
@@ -189,11 +188,11 @@ able to do, as it is, I am not, I have had, I shall be very, to be, ought to hav
 
  ### Abbreviations for Common Words
 
-![alt text](assets/manual-cropped/m018.png){: .man}
+![alt text](assets/manual-cropped/m018.png){: .def}
 
 Manual: ab(ou)t, about, al(way)s, always, (a)m, am, I’m, am(oun)t, amount, an, a, and, a(n)y, any, ar(e), are, wer(e), were, b(e), be, b(ee)n, been, bec(ause), because, betw(een), between, b(u)t, but, ca(n), can, ca(n)-b(e), can be, ch(il)d, child, c(oul)d, could, d(o), do, d(oe)s, does, d(ow)n, down, ever, f(or), for, f(or)m, form, f(rien)d, friend, g(oo)d, good, gr(ea)t, great, ha(ve), have, h(a)d, had, m(a)de, made, m(igh)t, might, mo(re), more, m(o)st, most, n(o)t, not, c(a)n’t, can't n(oth)ing, nothing, o(f), of, o(f-th)e, of the, (o)n, on, (o)nly, only, (o)ne, one, (o)nce, once, pe(r)h(aps), perhaps, r(igh)t, right, rou(nd), round, se(l)f, self, s(el)v(e)s, selves, sha(ll), shall, she, sh(oul)d, should, thems(el)ves, themselves, theref(ore), therefore, thing, thing, thro’out, throughout, t(o), to, int(o), into, u(nder), under, w(ee)k, week, w(oul)d, would, wh(ich), which, (wi)th, with, y(ou), you, y(ou)rs, yours 
 
-![alt text](assets/manual-cropped/m019.png){: .man}
+![alt text](assets/manual-cropped/m019.png){: .def}
 
 ### Specimen of Ordinary Style
 
@@ -211,7 +210,7 @@ With the exception that the method of spelling adopted is orthographic instead o
 
 The characters of the alphabet are for the most part the same as in Phonetic Cursive; but the change of spelling has made it necessary to rearrange some of them.
 
-![alt text](assets/manual-cropped/m020.png){: .man}
+![alt text](assets/manual-cropped/m020.png){: .def}
 
 Advantage has been taken of this rearrangement to introduce several improvements in matters of detail, which have been suggested by the experience of teachers. The general style of the writing has been made even more flowing and lineal than before. The awkward backslope \ has been eliminated from the alphabet, and restricted to use in terminations, where it is comparatively harmless. [Jeremy: It’s used for -ing.]
 
@@ -221,7 +220,7 @@ The system is strictly alphabetic. A letter is always represented by its alphabe
 
 In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen [of the fully-written style], every word of which is spelt in full.
 
-![alt text](assets/manual-cropped/m021.png){: .man}
+![alt text](assets/manual-cropped/m021.png){: .def}
 
 ### Specimen of Ordinary Style, From Macaulay's History
 
@@ -233,7 +232,7 @@ It is time that this description of the England which Charles the Second governe
 
 The great criterion of the state of the common people is the amount of their wages; and as four-fifths of the common people were, in the seventeenth century, employed in agriculture, it is especially important to ascertain what were then the wages of the agricultural 
 
-![alt text](assets/manual-cropped/m022.png){: .man}
+![alt text](assets/manual-cropped/m022.png){: .def}
 
 industry. On this subject we have the means of arriving at conclusions sufficiently exact for our purpose.
 
@@ -241,10 +240,10 @@ It seems clear that the wages of labour, estimated in money, were, in 1685, not 
 
 The produce of tropical countries, of mines, and of machinery, was positively dearer than at present. Among the commodities for which the labourer would have had to pay higher in 1685 than his posterity now pay, were sugar, salt, coals, candles, soap, shoes, stockings, and generally all articles of clothing and all articles of bedding. It may be added, that the old coats and blankets would have been, not only more costly, but less serviceable, than the modern fabrics.
 
-![alt text](assets/manual-cropped/m023.png){: .man}
+![alt text](assets/manual-cropped/m023.png){: .def}
 
 
-![alt text](assets/manual-cropped/m024.png){: .man}
+![alt text](assets/manual-cropped/m024.png){: .def}
 
 ### St John II
 
@@ -280,7 +279,7 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 
 
 
-![alt text](assets/manual-cropped/m025.png){: .man}
+![alt text](assets/manual-cropped/m025.png){: .def}
 
 
 14 And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
@@ -311,19 +310,19 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 
 2 The same came to Jesus by night, and said unto him, Rabbi, 
 
-![alt text](assets/manual-cropped/m026.png){: .man}
+![alt text](assets/manual-cropped/m026.png){: .def}
 
-![alt text](assets/manual-cropped/m027.png){: .man}
-
-Foreign languages not done.
-
-![alt text](assets/manual-cropped/m028.png){: .man}
-
-![alt text](assets/manual-cropped/m029.png){: .man}
+![alt text](assets/manual-cropped/m027.png){: .def}
 
 Foreign languages not done.
 
-![alt text](assets/manual-cropped/m030.png){: .man}
+![alt text](assets/manual-cropped/m028.png){: .def}
+
+![alt text](assets/manual-cropped/m029.png){: .def}
+
+Foreign languages not done.
+
+![alt text](assets/manual-cropped/m030.png){: .def}
 
 
 
@@ -369,7 +368,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
    - shtnd = shorthand,
    - chil = which will.
 
-![alt text](assets/manual-cropped/m031.png){: .man}
+![alt text](assets/manual-cropped/m031.png){: .def}
 
 
 
@@ -423,7 +422,7 @@ adequately in the present publication, (9) but we will proceed to give a few hin
      - <sup>n<sup>lnt</sup></sup> = benevolent,
      - f<sup>ry</sup> = for every.
 
-![alt text](assets/manual-cropped/m032.png){: .man}
+![alt text](assets/manual-cropped/m032.png){: .def}
 
 
 
@@ -461,7 +460,7 @@ What are the two greatest and most pressing needs of our time? I think most men 
 provision of healthy decent dwellings in our large towns at fair rents, and in the country facilities for the \
 labourer to obtain a small plot of land which he may be able to work.
 
-![alt text](assets/manual-cropped/m033.png){: .man}
+![alt text](assets/manual-cropped/m033.png){: .def}
 
 ## Supplement
 

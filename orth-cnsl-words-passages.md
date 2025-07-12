@@ -12,36 +12,12 @@ See [Orthic Consolidated Words -- From Examples](orth-cnsl-words-examples.md) fo
 
 
 
-## Manual, Callendar
-
-
-### Specimen of Fully-Written Style, Callendar
-
-
-
-### Specimen of the Ordinary Style: Introductory Remarks, Callendar
-
-
-
-### From Macaulay's History, Callendar
-
-
-
-
-### Hints for Reporting Style, Callendar
-
-
-
-
-### Specimen (Moderately Abbreviated), Callendar
-
- 
 
 ## Supplement, Callendar
 
 All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
 
-### Specimen: Ordinary Style, Abbreviated, plate 1, Callendar
+### Specimen: Ordinary Style, Abbreviated, plate 1
 
 Advantages of the Orthographic Basis
 
@@ -64,9 +40,7 @@ A phonetic system is quite unable to cope with any peculiarities of spelling, or
 Longhand abbreviations directly usable
 Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.
 
-### Specimen: Ordinary Style, Abbreviated, plate 2, Callendar
-
-All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
+### Specimen: Ordinary Style, Abbreviated, plate 2
 
 The majority of the examples given in the list of ‘Examples of Abbreviations’ are simply transliterations of those in common use, and being already familiar require no learning.
 
@@ -83,9 +57,7 @@ It is much more difficult to find sufficient stenographic material for a complet
 As early as 1887 the author fully recognised the advantages of an orthographic basis in point of simplicity, and had made many unsuccessful attempts to construct such a system; but at the time of writing the introduction of the Manual he did not fully realise the difficulties that phonetic spelling presents to the majority of students. He was therefore content to abandon his orthographic labours, and to acquiesce in the generally prevailing opinion (as expressed in the Manual, p. 19) that a system of shorthand to be simple, consistent and complete must be phonetic, since it is almost impossible to make a system represent consistently and simply the endless variety of combinations in the common spelling. A correction in the above passage suggested by two 
 
 
-### Specimen: Ordinary Style, Abbreviated, plate 3, Callendar
-
-All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
+### Specimen: Ordinary Style, Abbreviated, plate 3
 
 or three eminent shorthand authorities, conducted in striking out the word ‘almost’ before impossible. The author however, having at length succeeded in solving the problem to his own satisfaction, is now of the opinion that he had somewhat over-rated the impossibility.
 
