@@ -2,6 +2,8 @@
 
 ## To Do Or Consider
 
+- check all files have licence statement and links to orig files, not just link to a page that has them.
+
 - change full page image structure -- keep orig in folder named orig, and put cropped full page in -bits.
     - rename split -> bits ??
     - clip page edges better for "all the word" page.
