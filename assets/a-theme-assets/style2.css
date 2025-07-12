@@ -280,12 +280,14 @@ img.sup1row {
 img.teach1 {
     max-width: min(45rem, 100%);
     border-top: 7px double var(--accentDark);
+    padding-top:1ex;
 
 }
 
 img.teach1-1row {
     height: 2.2em;
     border-top: 7px double var(--accentDark);
+        padding-top:1ex;
 }
 
 img.rev {

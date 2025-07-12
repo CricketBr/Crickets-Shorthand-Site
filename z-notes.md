@@ -20,9 +20,7 @@
 
 - fix css -- make it absolute path
 
-
-
-
+- move Sources to sep file and include it? Or just link to it? Do I need to force people to download it if they save the page?
 
 - ```### My Great Heading {#custom-id}```
 

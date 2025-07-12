@@ -16,21 +16,22 @@ I have indicated the writer of each document. Callendar wrote the Manual and Sup
 
 Reporting Level is only included for some books.
 
-*Table of Contents
+* Table of Contents
 {:toc}
 
 ## The Manual
 
 ### Alphabet
-![alt text](assets/manual-cropped/m003.png){: .man}
+![alt text](assets/manual-cropped/m003.png)
 
 Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
 ### Doubled Letters, General Rules, ...
 
-![alt text](assets/manual-cropped/m004.png){: .man}
+![alt text](assets/manual-cropped/m004.png)
 
-Manual: odd, too, sleep, sup, re-enter, \
+Manual: \
+odd, too, sleep, sup, re-enter, \
 Oölite, Deä, create, Leo, fiasco, serious, fuel, poem\
 ins, ins, against, epitaph\
 lawsuit, Woolwich, virgin\
@@ -38,7 +39,7 @@ Jack, Clay, S.E., L.S.W.R.
 
 ### How to Write and Join the Characters
 
-![alt text](assets/manual-cropped/m006.png){: .man}
+![alt text](assets/manual-cropped/m006.png)
 
 Manual: 
 
@@ -48,7 +49,7 @@ B: bd, rob’d, robbed, bj, object, bl, able, br, bray, bs, absurd, bt, subtract
 
 C: chair, Christ, ache, ahead, ck, suckle, cl, close, cr, crutch, ct, act
 
-![alt text](assets/manual-cropped/m007.png){: .man}
+![alt text](assets/manual-cropped/m007.png)
 
 Manual: 
 
@@ -56,7 +57,7 @@ D: dge, judge, dj, dle, fiddle, dr, dread, dv, dw, dwell
 
 E: thus  seat, seas, eat, real, pearl, years, seat, seas, eat, real, pearl, years
 
-![alt text](assets/manual-cropped/m008.png){: .man}
+![alt text](assets/manual-cropped/m008.png)
 
 Manual: 
 
@@ -72,7 +73,7 @@ J:
 
 K:
 
-![alt text](assets/manual-cropped/m009.png){: .man}
+![alt text](assets/manual-cropped/m009.png)
 
 Manual: 
 
@@ -83,7 +84,7 @@ M: mp, imply, mb, limb, ms
 
 N: ng, singer, nsp, inspect, nc, since, nch, inches, nd, India, nf, infer, nj, injury, nl, unless, ns, sense, nt, sent, nk, sink, nqu, inquest, nv, invent
 
-![alt text](assets/manual-cropped/m010.png){: .man}
+![alt text](assets/manual-cropped/m010.png)
 
 Manual: 
 
@@ -95,7 +96,7 @@ Q: esquire
 
 R: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv 
 
-![alt text](assets/manual-cropped/m011.png){: .man}
+![alt text](assets/manual-cropped/m011.png)
 
 Manual: 
 
@@ -103,7 +104,7 @@ S: S.E., shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere
 
 T: with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 
-![alt text](assets/manual-cropped/m012.png){: .man}
+![alt text](assets/manual-cropped/m012.png)
 
 Manual: 
 
@@ -119,11 +120,11 @@ Y: yacht, yet, yore, yule
 
 Z: daze, Fitz, puzzle
 
-![alt text](assets/manual-cropped/m013.png){: .man}
+![alt text](assets/manual-cropped/m013.png)
 
 Manual: 
 
-![alt text](assets/manual-cropped/m014.png){: .man}
+![alt text](assets/manual-cropped/m014.png)
 
 Manual: 
 
@@ -131,22 +132,18 @@ Manual:
 
 ### Abbreviations
 
-![alt text](assets/manual-cropped/m015.png){: .man}
+![alt text](assets/manual-cropped/m015.png)
 
-Manual: 
-
-can, con, alone, woman, band, bond
-
-the, they, this, them, tho', that, a
-
+Manual: \
+can, con, alone, woman, band, bond\
+the, they, this, them, tho', that, a\
 applied, tries, easiest, happiest
 
 ### Abbreviate Common Endings
 
-![alt text](assets/manual-cropped/m016.png){: .man}
+![alt text](assets/manual-cropped/m016.png)
 
-Manual: 
-
+Manual: \
 ed, used, us'd, kissed, kiss'd, stirred, stirr'd\
 ful, useful, beautifully, beautyfully\
 hd, manhood\
@@ -164,7 +161,7 @@ ward, ard, towards
 
 ### General Method
 
-![alt text](assets/manual-cropped/m017.png){: .man}
+![alt text](assets/manual-cropped/m017.png)
 
 Manual: 
 
@@ -176,7 +173,7 @@ able to do, as it is, I am not, I have had, I shall be very, to be, ought to hav
 
  ### Abbreviations for Common Words
 
-![alt text](assets/manual-cropped/m018.png){: .man}
+![alt text](assets/manual-cropped/m018.png)
 
 Manual: ab(ou)t, about, al(way)s, always, (a)m, am, I’m, am(oun)t, amount, an, a, and, a(n)y, any, ar(e), are, wer(e), were, b(e), be, b(ee)n, been, bec(ause), because, betw(een), between, b(u)t, but, ca(n), can, ca(n)-b(e), can be, ch(il)d, child, c(oul)d, could, d(o), do, d(oe)s, does, d(ow)n, down, ever, f(or), for, f(or)m, form, f(rien)d, friend, g(oo)d, good, gr(ea)t, great, ha(ve), have, h(a)d, had, m(a)de, made, m(igh)t, might, mo(re), more, m(o)st, most, n(o)t, not, c(a)n’t, can't n(oth)ing, nothing, o(f), of, o(f-th)e, of the, (o)n, on, (o)nly, only, (o)ne, one, (o)nce, once, pe(r)h(aps), perhaps, r(igh)t, right, rou(nd), round, se(l)f, self, s(el)v(e)s, selves, sha(ll), shall, she, sh(oul)d, should, thems(el)ves, themselves, theref(ore), therefore, thing, thing, thro’out, throughout, t(o), to, int(o), into, u(nder), under, w(ee)k, week, w(oul)d, would, wh(ich), which, (wi)th, with, y(ou), you, y(ou)rs, yours 
 
@@ -223,8 +220,7 @@ ye, obey
 
 ![alt text](assets/teach-1-bits/005.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 bl\
 pl, br, fl, fr, ml, mr\
 pra\
@@ -238,8 +234,7 @@ ph, sh
 
 ![alt text](assets/teach-1-bits/006.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 who\
 sp, ps, sps\
 wo, ow\
@@ -251,8 +246,7 @@ cow, cows\
 
 ![alt text](assets/teach-1-bits/007.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 command, son, soon\
 it\
 the\
@@ -260,8 +254,7 @@ although
 
 ![alt text](assets/teach-1-bits/008.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 and\
 used, us'd\
 useful, beautiful\
@@ -274,8 +267,7 @@ useful, beautiful\
 
 ![alt text](assets/teach-1-bits/009.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 -ness\
 -ment\
 -ough, ought, thought\
@@ -288,8 +280,7 @@ ever
 
 ![alt text](assets/teach-1-bits/010.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 round, sound, count, counter, county, country
 
 aso, also, ea, each, ay, any, because, cause, child, children, from, for, form, great, much, that, already, acing, according, after, bth, both, el, els, e'en, even, except, lp, help, kn, know, lile, little, let, letter, pt, part, s, sir, rk, work, rd, would, world
@@ -300,14 +291,12 @@ party
 
 ![alt text](assets/teach-1-bits/011.jpg){: .teach1}
 
-Teaching 1: 
-
-although\
+Teaching 1: \
+although
 
 ![alt text](assets/teach-1-bits/012.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 eve, given loved, evident, conceived, ever, give, love, rove\
 be-, be (dot), behold, been, better, best, by, bring, thing\
 per-, pre-, pri-, pro-, peri-, para-
@@ -316,14 +305,12 @@ per-, pre-, pri-, pro-, peri-, para-
 
 ![alt text](assets/teach-1-bits/013.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 I commend, different, differnce, ultimo, interest
 
 ![alt text](assets/teach-1-bits/014.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 ight, foreign, age, magnify, take, taking, sake
 
 ### Lesson Eight
@@ -333,8 +320,7 @@ man\
 
 ![alt text](assets/teach-1-bits/015.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 count, county\
 final, upper
 
@@ -342,8 +328,7 @@ final, upper
 
 ![alt text](assets/teach-1-bits/016.jpg){: .teach1}
 
-Teaching 1: 
-
+Teaching 1: \
 I should have been, with a view to, able to do so, as soon as
 
 ## Revised
@@ -356,8 +341,7 @@ Revised: absent, opera, back, bib, centre, mimic, dirty, wind, enter, line, fast
 
 ### Doubling and General Rules
 
-Revised: 
-
+Revised: \
 odd, coo, peep, pup\
 
 ![alt text](assets/revised-split/done/003 bw.jpg){: .rev}
@@ -371,8 +355,7 @@ Jew, Wales, England, S.E., L.S.W.R.
 
 ![alt text](assets/revised-split/done/004 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 BL: black, sensible, bleak, trebly\
 CH: Christ, arch, filch, chat, such, scholar, scheme, chloric, richly, speechless\
 DV: advert, avert\
@@ -386,10 +369,9 @@ SCR: scrap, shrink, push, wash\
 SW: swam, swear, answer\
 TH: this, threw, worth, faith\
 
-![alt text](assets/revised-split/done/005 bw.jpg){: .rev}
+![alt text](assets/revised-split/done/005-bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 WH: whose, when, chose, chin\
 WR: wring, thing\
 WS: poews, rows, frowsy\
@@ -412,8 +394,7 @@ sneak, seas, peat, beauty
 
 ![alt text](assets/revised-split/done/006 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 peel, pull, rein, run\
 grief, gruff\
 briar, denial\
@@ -514,8 +495,7 @@ z,
 
 ![alt text](assets/revised-split/done/011 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 bank, common, alone, woman\
 band, bond, dame, dome, gang, gong\
 tame, tome, wander, wonder\
@@ -533,8 +513,7 @@ trans, trs, transfer, transmit, transcript
 
 ![alt text](assets/revised-split/done/012 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 asion, abrasion, relation\
 ed, tired, faced\
 ful, fl, useful, wonderful, geautiful\
@@ -559,8 +538,7 @@ tch, ch, fetch, match, crutch
 
 ![alt text](assets/revised-split/done/013 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 a, an, able, about, above, after, already, also, always, am, amount, anger, answer, any, anyone, are, are not, be, beg, big, body, but, both, came, come, can, can’t, child, could, course, court, dear, do, does, down, even, for, form, forthwithy, found, friend, from, further, general, gentleman, gentlemen, good, great, had, half, have, having, into, like, made, might, more, most, much, must, never, not, note, nothing, of, on, once, one, out, over, perhaps, right, rightful, round, same, some, self, shall, she, sould, something, state, to, under, very, verify, weak, week, were, what, which, whom, with, without, would, young, youngster, you, yours, youth
 
 ![alt text](assets/revised-split/done/014 bw.jpg){: .rev}
@@ -571,8 +549,7 @@ Revised:
 
 ![alt text](assets/revised-split/done/015 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 than, that, the, them, there, this, those, though, thus, thy, thing\
 a\
 I think they knew him then.\
@@ -602,8 +579,7 @@ magnanimity, magnetic, magnify
 
 ![alt text](assets/revised-split/done/017 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 passage, awake, dredge, wage, strike, urged, taken, change, linger, cake, flake, rake, wake\
 sign, impugn\
 diagram\
@@ -619,8 +595,7 @@ Revised:
 
 ![alt text](assets/revised-split/done/019 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 acknowledge, especially, reference, regulation, extraordinary, ordinary, representative
 delete, erode, indeed, meet, read
 most, must, part, point, right
@@ -634,8 +609,7 @@ capacity, pertinacity, veracity
 
 ![alt text](assets/revised-split/done/020 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 elementary, contrary, conservatory\
 ability, affability, insensibility\
 influence, residence, confidence\
@@ -658,9 +632,7 @@ conveying, crying, dying, flying
 
 ![alt text](assets/revised-split/done/021 bw.jpg){: .rev}
 
-Revised: 
-
-
+Revised: \
 made, date\
 decade, deprecate, fade, fate, brigade, gate, hate, obviate, cockade, Kate, glade, late, spade, trade, rate, crusade, wade
 collate, calculate, stimulate\
@@ -677,8 +649,7 @@ impeded, sided, eroded, concluded, secreted, indited, voted
 
 ![alt text](assets/revised-split/done/022 bw.jpg){: .rev}
 
-Revised: 
-
+Revised: \
 accord, according, advantage, afraid, afternoon, announce, apparent, appropriate, arrange, back, background, baptise, baptist, beautiful, believe, bishop, boy, breech, breach, bread, caught, command, commence, comment, common, commonwealth, concerning, consideration, consult, consultation, counter, country, county, dark, darkness, difference, different, difficult, each, eat, else, where, endeaor, except, exception, executor, exercise, expect, favor, female, foreign, forgive, glorify, grade, hand, happy, help, high, him, his, horrify, importance, important, individual, insult, interest, joy, just, justice, king, kingdom, know, known, knowledge, lady, ladyship, language, large, largest, laughter, lead, least, letter, little, lord, mad, male, make, meek, member, morning, mortgage, nearest, necessary
 
 ![alt text](assets/revised-split/done/023 bw.jpg){: .rev}

@@ -125,6 +125,7 @@ Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
 Hugh L Callendar, 1892.\
 [Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/supplement)\
 [Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf)\
+[Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]
 Rendered into Markdown and annotated by Jeremy W Sherman.
 
 **Teaching (Parts 1 and 2)**\
@@ -132,6 +133,7 @@ The Teaching of Orthic Shorthand: A series of lessons for the use of teachers an
 W Stevens, 1896\
 [Teaching 1, Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/teaching-pt1)\
 [Teaching 2, Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/teaching-pt2)\
+[Teaching 1&2 in same file, Scanned at google books](https://www.google.ca/books/edition/The_teaching_of_orthic_shorthand/lGJlvMiWQfUC)\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
@@ -140,6 +142,8 @@ Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporti
 Orthographic Cursive Shorthand (Orthic); The Cambridge System; Revised, Extended and Improved\
 Hugh L Callendar; E Clarey, 1911\
 [Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
+[Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)
+
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
 
 **Dictionary**\
