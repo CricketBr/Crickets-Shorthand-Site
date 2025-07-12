@@ -1,13 +1,14 @@
 <!DOCTYPE html>
+<html lang="en-US">
 
 <head>
   <title>{{page.title}}</title>
+
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Jeremy rec'd viewport to solve image scaling prob on phones -->
 
-  <!-- or is it page.title ?? -->
 
-  <!-- <link rel="stylesheet" type="text/css" href="style1.css"> works!!  -->
 
   <!-- egs from Jeremy's site
 {% assign M = site.url | append: site.baseurl | append: "/manual" %}
@@ -16,10 +17,10 @@
 {%- endcapture %} 
 -->
 
-  <link rel="stylesheet" type="text/css" href="assets/a-theme-assets/style2.css">
+  <!-- works <link rel="stylesheet" type="text/css" href="assets/a-theme-assets/style2.css"> -->
 
 
-
+<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/a-theme-assets/style2.css">
 
 
   <!-- works
@@ -44,6 +45,8 @@
   </header>
   <main>
     <!-- <h1>{{page.fulltitle}}</h1> -->
+
+    <p>test link <a href="test" >tt</a></p>
 
     {{ content }}
 
