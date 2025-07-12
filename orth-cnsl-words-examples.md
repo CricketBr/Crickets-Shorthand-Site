@@ -5,10 +5,7 @@ title: OCWdsEx - Orthic Words from Examples
 
 # Orthic Words From Examples
 
-This document will help you find words used as examples in the various books. It is in two parts:
-
-* Examples. Words that are used as examples in the instructions.
-* Passages. Words that are burried in passages
+This document will help you find words used as examples in the various books.
 
 Where the original document spells it in a non-standard way, I have included both standard and Orthic spelling, for ease of searching.
 
@@ -16,32 +13,59 @@ I have indicated the writer of each document. Callendar wrote the Manual and Sup
 
 Reporting Level is only included for some books.
 
+
+xxx sources and license
+
 * Table of Contents
 {:toc}
 
 ## The Manual
 
+**The Manual**\
+A Manual of Orthographic Shorthand: The Cambridge System,\
+Hugh L Callendar, 1891.\
+[Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/manual)\
+[Scanned at google books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ)\
+Rendered into Markdown and annotated by Jeremy W Sherman.
+
+
+xxx license
+
+![alt text](assets/manual-cropped/_cover.png){: .man}
+
+![alt text](assets/manual-cropped/_intro2.png){: .man}\
+This is an artifact of the pdf-extractor used to get the images.
+
+![alt text](assets/manual-cropped/_intro1.png){: .man}
+
+![alt text](assets/manual-cropped/m001.png){: .man}
+
+![alt text](assets/manual-cropped/m002.png){: .man}
+
+![alt text](assets/manual-cropped/m003.png){: .man}
+
 ### Alphabet
-![alt text](assets/manual-cropped/m003.png)
 
-Manual: ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
+ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, know, proof, plate, query, roller, sort, trust, upper, wavy, wow, exit, eyes, size
 
-### Doubled Letters, General Rules, ...
+![alt text](assets/manual-cropped/m004.png){: .man}
 
-![alt text](assets/manual-cropped/m004.png)
+### Doubled Letters, General Rules, Etc
 
-Manual: \
 odd, too, sleep, sup, re-enter, \
-Oölite, Deä, create, Leo, fiasco, serious, fuel, poem\
+Oölite, Deä, create, Leo, fiasco, serious, fuel, poem,
+
+![alt text](assets/manual-cropped/m005.png){: .man}
+
 ins, ins, against, epitaph\
 lawsuit, Woolwich, virgin\
 Jack, Clay, S.E., L.S.W.R.
 
+![alt text](assets/manual-cropped/m006.png){: .man}
+
+
+
 ### How to Write and Join the Characters
-
-![alt text](assets/manual-cropped/m006.png)
-
-Manual: 
 
 A: days, quay; cp.  says, hay, 
 
@@ -49,17 +73,15 @@ B: bd, rob’d, robbed, bj, object, bl, able, br, bray, bs, absurd, bt, subtract
 
 C: chair, Christ, ache, ahead, ck, suckle, cl, close, cr, crutch, ct, act
 
-![alt text](assets/manual-cropped/m007.png)
+![alt text](assets/manual-cropped/m007.png){: .man}
 
-Manual: 
 
 D: dge, judge, dj, dle, fiddle, dr, dread, dv, dw, dwell
 
 E: thus  seat, seas, eat, real, pearl, years, seat, seas, eat, real, pearl, years
 
-![alt text](assets/manual-cropped/m008.png)
+![alt text](assets/manual-cropped/m008.png){: .man}
 
-Manual: 
 
 F: if, ft, soft, fd, puff’d, fl, rifle, fr, afraid, fs, skiffs 
 
@@ -73,9 +95,7 @@ J:
 
 K:
 
-![alt text](assets/manual-cropped/m009.png)
-
-Manual: 
+![alt text](assets/manual-cropped/m009.png){: .man}
 
 L:  black, bread, 	clay, crow, 	addle, dry, 	flow, fro, 	glad, grade, 	play, pray, 	little, litre, 	slay, Israël, 	held, herd, 	world, already, \
     lf, half, lk, walk, lp, help, lt, wilt, lv, salve,
@@ -84,9 +104,7 @@ M: mp, imply, mb, limb, ms
 
 N: ng, singer, nsp, inspect, nc, since, nch, inches, nd, India, nf, infer, nj, injury, nl, unless, ns, sense, nt, sent, nk, sink, nqu, inquest, nv, invent
 
-![alt text](assets/manual-cropped/m010.png)
-
-Manual: 
+![alt text](assets/manual-cropped/m010.png){: .man}
 
 O: oar, or, oak, oi, toil, ou, out, oy, boys, 
 
@@ -96,17 +114,13 @@ Q: esquire
 
 R: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv 
 
-![alt text](assets/manual-cropped/m011.png)
-
-Manual: 
+![alt text](assets/manual-cropped/m011.png){: .man}
 
 S: S.E., shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
 
 T: with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 
-![alt text](assets/manual-cropped/m012.png)
-
-Manual: 
+![alt text](assets/manual-cropped/m012.png){: .man}
 
 U: seen, sun, ua, guard, ui, suit, 
 
@@ -120,30 +134,32 @@ Y: yacht, yet, yore, yule
 
 Z: daze, Fitz, puzzle
 
-![alt text](assets/manual-cropped/m013.png)
+![alt text](assets/manual-cropped/m013.png){: .man}
 
-Manual: 
+![alt text](assets/manual-cropped/m014.png){: .man}
 
-![alt text](assets/manual-cropped/m014.png)
+### Specimen of Fully Written Style
 
-Manual: 
+The preceding rules and examples will enable the student to read the (1) specimen of writing given on the opposite page, of which this page is a (2) key. Every word of this specimen is written in full letter for letter (3) just as it is here spelt. Nothing is left out. The small figures in (4) brackets show where each line of the shorthand ends, so that the stu-(5)dent may have no difficulty finding his place in the key, if (6) he happens to be at a loss to make out a word. (7)
+
+The ability to write any word in full just as it is spelt, is (8) of the greatest value, especially for the correct spelling of proper (9) names and foreign words, which is often a serious matter, (10) and is quite impossible in any phonetic system. (11)
+
+Even when thus written in full the system is very brief as contrasted (12) with ordinary writing. For practical purposes a still further increase (13) of brevity may be effected without any sacrifice of clearness, by (14) the use of shorter out-lines for such words as and, the, (15) for, to, etc., which occur so often in every page of English (16), and by the employment of a few other simple methods of (17) abbreviation, which are illustrated in the sections that follow, (18) and which constitute the ordinary style of Cursive.
 
 
+![alt text](assets/manual-cropped/m015.png){: .man}
 
 ### Abbreviations
 
-![alt text](assets/manual-cropped/m015.png)
-
-Manual: \
 can, con, alone, woman, band, bond\
 the, they, this, them, tho', that, a\
 applied, tries, easiest, happiest
 
 ### Abbreviate Common Endings
 
-![alt text](assets/manual-cropped/m016.png)
+![alt text](assets/manual-cropped/m016.png){: .man}
 
-Manual: \
+
 ed, used, us'd, kissed, kiss'd, stirred, stirr'd\
 ful, useful, beautifully, beautyfully\
 hd, manhood\
@@ -161,7 +177,7 @@ ward, ard, towards
 
 ### General Method
 
-![alt text](assets/manual-cropped/m017.png)
+![alt text](assets/manual-cropped/m017.png){: .man}
 
 Manual: 
 
@@ -173,9 +189,279 @@ able to do, as it is, I am not, I have had, I shall be very, to be, ought to hav
 
  ### Abbreviations for Common Words
 
-![alt text](assets/manual-cropped/m018.png)
+![alt text](assets/manual-cropped/m018.png){: .man}
 
 Manual: ab(ou)t, about, al(way)s, always, (a)m, am, I’m, am(oun)t, amount, an, a, and, a(n)y, any, ar(e), are, wer(e), were, b(e), be, b(ee)n, been, bec(ause), because, betw(een), between, b(u)t, but, ca(n), can, ca(n)-b(e), can be, ch(il)d, child, c(oul)d, could, d(o), do, d(oe)s, does, d(ow)n, down, ever, f(or), for, f(or)m, form, f(rien)d, friend, g(oo)d, good, gr(ea)t, great, ha(ve), have, h(a)d, had, m(a)de, made, m(igh)t, might, mo(re), more, m(o)st, most, n(o)t, not, c(a)n’t, can't n(oth)ing, nothing, o(f), of, o(f-th)e, of the, (o)n, on, (o)nly, only, (o)ne, one, (o)nce, once, pe(r)h(aps), perhaps, r(igh)t, right, rou(nd), round, se(l)f, self, s(el)v(e)s, selves, sha(ll), shall, she, sh(oul)d, should, thems(el)ves, themselves, theref(ore), therefore, thing, thing, thro’out, throughout, t(o), to, int(o), into, u(nder), under, w(ee)k, week, w(oul)d, would, wh(ich), which, (wi)th, with, y(ou), you, y(ou)rs, yours 
+
+![alt text](assets/manual-cropped/m019.png){: .man}
+
+### Specimen of Ordinary Style
+
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
+
+Introductory Remarks
+
+The present system is an adaptation of the alphabet and principles of Cursive Shorthand to the common orthography.
+
+Two and a half years’ experience in teaching Cursive has convinced me that the difficulties which beginners find in learning to spell correctly by sound are much greater than I had previously imagined; and that it is unadvisable to attempt to introduce a phonetic system of shorthand at an early stage in education.
+
+I have every reason to believe that the present adaptation of Cursive to the common spelling will be found much more simple and easy to learn than any of the phonetic systems at present in vogue. There is very little to learn beyond an alphabet of 26 characters, and the method of joining them. In fact many students have succeeded in reading and writing the present system with nothing but the bare alphabet to guide them.
+
+With the exception that the method of spelling adopted is orthographic instead of phonetic, no changes has been made in the fundamental principles of the system. These have been already discussed and explained in the introduction to the Manual of Cursive Shorthand. It is needless therefore to repeat them here.
+
+The characters of the alphabet are for the most part the same as in Phonetic Cursive; but the change of spelling has made it necessary to rearrange some of them.
+
+![alt text](assets/manual-cropped/m020.png){: .man}
+
+Advantage has been taken of this rearrangement to introduce several improvements in matters of detail, which have been suggested by the experience of teachers. The general style of the writing has been made even more flowing and lineal than before. The awkward backslope \ has been eliminated from the alphabet, and restricted to use in terminations, where it is comparatively harmless. [Jeremy: It’s used for -ing.]
+
+The writing requires no great niceties of penmanship. No distinction is made, as in other systems, between thin strokes and thick. Only two sizes of character are employed, instead of three or four. The vowel characters are connecting strokes joined in their natural order together with the consonants. The great majority of the signs are written on the ordinary slope of longhand, and the forms and distinctions between the characters are such as are already familiar to every one who has learnt to write in the ordinary style.
+
+The system is strictly alphabetic. A letter is always represented by its alphabetic character. There are no alternative hooks and loops, or halving and doubling principles, to puzzle and distract the student. A word can be written in one way only. The rules are consequently very few, definite, and easy to apply.
+
+In learning the system the student should work straight through the alphabet and following pages, writing and analysing every example as he comes to it. By the time he reaches [the end of the joining rules] he will thus have become thoroughly familiar with the alphabet. He will then be able to read through the specimen [of the fully-written style], every word of which is spelt in full.
+
+![alt text](assets/manual-cropped/m021.png){: .man}
+
+### Specimen of Ordinary Style, From Macaulay's History
+
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy W Sherman. Jeremy added reference numbers and comments to some passages.
+
+The State of England in the Reign of Charles II.
+
+It is time that this description of the England which Charles the Second governed should draw to a close. Yet one subject of the highest moment still remains untouched. Nothing has yet been said of the great body of the people, of those who held the ploughs, who tended the oxen, who toiled at the looms of Norwich, and squared the Portland stone for St Paul’s. Nor can very much be said. The most numerous class is precisely the class respecting which we have the most meagre information. In those times philanthropists did not yet regard it a sacred duty, not had demagogues yet found it a lucrative trade, to talk and write about the distress of the labourer. History was too much occupied with the Courts and camps to spare a line for the hut of the peasant, or the garret of the mechanic. The press now often sends forth in a day a greater quantity of discussion and declamation about the condition of the working man than was published during the twenty-eight years which elapsed between the Restoration and the Revolution. But it would be a great error to infer from the increase of complaint that there has been any increase of misery.
+
+The great criterion of the state of the common people is the amount of their wages; and as four-fifths of the common people were, in the seventeenth century, employed in agriculture, it is especially important to ascertain what were then the wages of the agricultural 
+
+![alt text](assets/manual-cropped/m022.png){: .man}
+
+industry. On this subject we have the means of arriving at conclusions sufficiently exact for our purpose.
+
+It seems clear that the wages of labour, estimated in money, were, in 1685, not more than half of what they now are; and there were few articles important to the working man of which the price was not, in 1685, more than half of what it now is. Beer was undoubtedly much cheaper in that age than at present. Meat was also cheaper, but was still so dear that hundreds of thousands of families scarcely knew the taste of it. In the cost of wheat there has been very little change. The average price of the quarter, during the last 12 years of Charles the Second, was fifty shillings. Bread, therefore, such as is now given to the inmates of a workhouse, was then seldom seen, even on the trencher of a yeoman or of a shopkeeper. The great majority of the nation lived entirely on rye, barley, and oats.
+
+The produce of tropical countries, of mines, and of machinery, was positively dearer than at present. Among the commodities for which the labourer would have had to pay higher in 1685 than his posterity now pay, were sugar, salt, coals, candles, soap, shoes, stockings, and generally all articles of clothing and all articles of bedding. It may be added, that the old coats and blankets would have been, not only more costly, but less serviceable, than the modern fabrics.
+
+![alt text](assets/manual-cropped/m023.png){: .man}
+
+
+![alt text](assets/manual-cropped/m024.png){: .man}
+
+### St John II
+
+<https://www.biblegateway.com/passage/?search=John%202&version=KJV>
+
+2:1 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
+
+2 And both Jesus was called, and his disciples, to the marriage.
+
+3 And when they wanted wine, the mother of Jesus saith unto him, They have no wine.
+
+4 Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.
+
+5 His mother saith unto the servants, Whatsoever he saith unto you, do it.
+
+6 And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
+
+7 Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
+
+8 And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it.
+
+9 When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
+
+10 And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now.
+
+11 This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
+
+12 After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
+
+13 And the Jews' passover was at hand, and Jesus went up to Jerusalem.
+
+
+
+
+
+![alt text](assets/manual-cropped/m025.png){: .man}
+
+
+14 And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
+
+15 And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
+
+16 And said unto them that sold doves, Take these things hence; make not my Father's house an house of merchandise.
+
+17 And his disciples remembered that it was written, The zeal of thine house hath eaten me up.
+
+18 Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?
+
+19 Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.
+
+20 Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
+
+21 But he spake of the temple of his body.
+
+22 When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.
+
+23 Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.
+
+24 But Jesus did not commit himself unto them, because he knew all men,
+
+25 And needed not that any should testify of man: for he knew what was in man.
+
+3:1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+
+2 The same came to Jesus by night, and said unto him, Rabbi, 
+
+![alt text](assets/manual-cropped/m026.png){: .man}
+
+![alt text](assets/manual-cropped/m027.png){: .man}
+
+Foreign languages not done.
+
+![alt text](assets/manual-cropped/m028.png){: .man}
+
+![alt text](assets/manual-cropped/m029.png){: .man}
+
+Foreign languages not done.
+
+![alt text](assets/manual-cropped/m030.png){: .man}
+
+
+
+
+See <https://orthic.shorthand.fun/manual#hints-for-the-reporting-style>, transcribed by Jeremy W Sherman, for marked-up image and key.
+
+The reporting style differs from the ordinary style only in the more extensive use of (2) abbreviation and phrasing.
+
+Words are abbreviated as in longhand by the application (3) of the general principle given in §10.
+
+This method is so simple that with a little (4) practice any reporter can easily extemporise suitable abbreviations for himself, according to the (5) context of the subject upon which he is engaged. In order however to secure the greatest possible (6) uniformity of style among writers of-the system, it’s intended shortly to publish (7) a standard list of abbreviations for common words in the form of a vocabulary.
+
+(8) It’s impossible to treat the subject of reporting
+adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10)
+
+1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and inflexions which are evidently required (12) by the context may be omitted.
+   Mere initials may be largely used for repeated names (13) and titles.
+   Examples
+
+   - s = sir,
+   - l = lord,
+   - p = page,
+   - q = question,
+   - pr = principle,
+   - rep = (14) represent,
+   - imp = important,
+   - fou = found,
+   - ea = each,
+   - mu = much.
+
+   (15) In the case of short words it’s often better to join the last letter;
+
+   - pt = part,
+   - (16) sht = short,
+   - tn = town,
+   - ler = letter,
+   - ld = world,
+   - ming = morning.
+
+   (17) Letters which are weakly sounded, such as GH in STRAIT = straight, may often be left (18) out in abbreviating; initial H in such words as HIM HAS HAD especially in (19) phrases and compounds;
+
+   - chas = which has,
+   - shtnd = shorthand,
+   - chil = which will.
+
+![alt text](assets/manual-cropped/m031.png){: .man}
+
+
+
+2. (1) SLURRING. This method of abbreviation is largely used in Gurney’s and in the (2) script systems which are universally employed in Germany.
+   In hurried writing it is not (3) always possible to preserve the exact forms of-the characters, but it’s important to keep as far as (4) possible THE GENERAL OUTLINE of a word.
+   Examples of common slurs are:
+
+   - (5) double-width D = DD or TD,
+   - deep double-width D = DV,
+   - UUN = USION or UTION. (6)
+
+   The larger and more characteristic signs should be retained, but the smaller signs such as L R (7) may be slurred; examples
+
+   - expeec = experience,
+   - beev = believe,
+   - aso = also,
+   - gt (8) = grt,
+   - mter = matter,
+   - eduun = education,
+   - nstuun = institution. (9)
+
+3. MODES. If the larger signs are omitted in abbreviating, their omission should (10) be indicated by mode, that is by bringing the outline and writing the termination close (11) to the first part of-the word.
+
+   - The omission of B P or V is indicated by (12) mode I, that is by writing the termination above; thus
+
+     - which<sup>r</sup> = whichever,
+     - g<sup>n</sup> = given.
+
+   - (13) The omission of G K J or QU is shown by writing the termination below, called (14) mode III; thus
+
+     - s<sub>n</sub> = sign,
+     - s<sub>t</sub> = sight,
+     - t<sub>n</sub> = taken,
+     - wa<sub>.</sub> = wage,
+     - wa<sub>s</sub> = wages
+
+   - (15) The omission of other characters and syllables may be shown by mode II, that is by (16) writing the termination on the same level; thus
+
+     - dif-ce = difference,
+     - a-plish = accomplish.
+
+     (17) Some common words and prefixes, especially _b_ and _con_ or _com,_ may (18) also be expressed by modes, but this method must be applied with caution; --
+
+     - (19) un-n = uncommon,
+     - i-c<sup>.</sup> = i-c(o)nceive,
+     - isha<sup>.</sup> = ishabe (i shall be),
+     - chas<sup>n</sup> = (whi)ch has b(ee)n,
+     - (20) <sup>yd</sup> = bey(on)d,
+     - <sup>f</sup> = before,
+     - <sup>ter</sup> = better,
+     - <sup>n<sup>lnt</sup></sup> = benevolent,
+     - f<sup>ry</sup> = for every.
+
+![alt text](assets/manual-cropped/m032.png){: .man}
+
+
+
+
+
+
+
+From <https://orthic.shorthand.fun/manual#key-9>, transcribed by Jeremy W Sherman.
+
+Local Government.
+
+I agree with Sir Charles Dilke in attributing the utmost importance to the question of local government in the future. \
+I agree with him in the estimate which he has formed of the high place that question will occupy in the programme of the Liberal \
+party. Experience justifies us in the hope that the Reformed Parliament will do much in the direction of completing the work which \
+previous Reformed Parliaments have commenced. What was the main and the material advantage which resulted from the Reform Bill of 1832? \
+It was the concession of municipal government to our country towns — a concession which has been highly appreciated, \
+and which has been wisely used, and which has added most materially to the comfort and the happiness of the populations concerned. \
+And what was the greatest result of the Reform of 1867? It was the extension of the functions of local governments by the \
+creation of a system of education national in its scope, but locally administered. And it \
+remains for the Reformed Parliament which will meet in 1886 to complete this work and to carry it further. I can conceive of no \
+nobler and no more congenial task for those who represent the whole people than that of extending to the counties and \
+to the metropolis and to the sister kingdom the liberties and the institutions which have conferred so great a benefit upon us the \
+provinces. Gentlemen, local government is important altogether beyond its usefulness. It is the best political education, \
+and I am convinced that the welfare and the contentment of the whole population can only be secured in proportion as the \
+whole population are called in to take a part and a share in the obligations and the responsibilities of government. But, the \
+extension of municipal institutions is not all that we have to do in the way of local government. We have in the \
+future to elevate our conception of the meaning of the word. It is not merely a parochial and \
+municipal, it is not even merely a provincial question, it is a national question also. What are the great problems \
+of the future? We have to deal with obstruction in the House of Commons. We have to deal with the system under which \
+the greatest legislative assemblage in the world has begun to lose its usefulness, and in consequence lose its influence. \
+And that result can never be accomplished as long as the Imperial Parliament is burdened with an ever increasing amount of \
+petty detail with which it is incompetent to deal, and which ought to be referred to other bodies.
+
+What are the two greatest and most pressing needs of our time? I think most men would say the \
+provision of healthy decent dwellings in our large towns at fair rents, and in the country facilities for the \
+labourer to obtain a small plot of land which he may be able to work.
+
+![alt text](assets/manual-cropped/m033.png){: .man}
 
 ## Supplement
 
@@ -324,7 +610,7 @@ Teaching 1: \
 count, county\
 final, upper
 
-#### Lesson Nine
+### Lesson Nine
 
 ![alt text](assets/teach-1-bits/016.jpg){: .teach1}
 

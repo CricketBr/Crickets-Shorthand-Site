@@ -89,7 +89,7 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 `t202-ws.jpg` : Teaching 2, page 2, "ws".
 - Same as above, but different order. 
 
-`006.jpg` : The page number. See full link for which book.
+`006.jpg` : The page number. The full path includes the folder with the book name.
 
 **Heading Format**
 
