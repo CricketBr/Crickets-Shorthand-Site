@@ -72,7 +72,7 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 
 ###  Acknowledgements
 
-**Jeremy W Sherman** : Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, transcribed, clipped, and re-assembled the Manual and Supplement. He also programmed and made the database for the online dictionary, including diving into several large blocks of shorthand. He also helped with Consolidated by finding examples of rules burried in the shorthand samples.
+**Jeremy W Sherman** : Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, transcribed, clipped, and re-assembled the Manual and Supplement; programmed and made the database for the online dictionary, including diving into several large blocks of shorthand; and helped with Consolidated by finding examples of rules buried in the shorthand samples.
 
 **Jacob Moena** : Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
@@ -315,7 +315,7 @@ Revised: Jew, Wales, England, S.E., L.S.W.R.\
 Note that Revised often intersects the word.
 
 ![alt text](assets/revised-split/apthorpe-r04.jpg){: .rev1row}
-![alt text](assets/revised-split/tay-r05.jpg){: .rev1row} \ 
+![alt text](assets/revised-split/tay-r05.jpg){: .rev1row}\
 Revised: Apthorpe, Tay
 
 <a id="fw-vowels"></a>

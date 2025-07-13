@@ -36,3 +36,5 @@ If it's not obvious where the full description should be, choose the earlier one
 Where a rule is not contradicted by later books, only the oldest is quoted, unless later books have better explanations or examples.
 
 xxx means a section needs to be fixed
+
+<!-- #codespell:ignore pblm --> splg pblm
