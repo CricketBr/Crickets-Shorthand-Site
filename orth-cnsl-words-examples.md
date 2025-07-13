@@ -5,12 +5,11 @@ title: OCWdsEx - Orthic Words from Examples
 
 # Orthic Words From Examples
 
-This document will help you find words used as examples in the various books.
+This document will help you find words used as examples in the various books. It is *not* a substitute for reading the books. Often the text around an example will highlight possible conflicts.
 
 Where the original document spells it in a non-standard way, I have included both standard and Orthic spelling, for ease of searching.
 
-Reporting Level is only finished for some books.
-
+It does not include searchable text of the Psalms or New Testament, but does have links to sites that do.
 
 xxx sources and license
 
@@ -158,7 +157,7 @@ applied, tries, easiest, happiest
 
 
 ed, used, us'd, kissed, kiss'd, stirred, stirr'd\
-ful, useful, beautifully, beautyfully\
+ful, useful, beautifully\
 hd, manhood\
 ing, using, saying, seeming, king, sing, singing\
 ight, night, light\
@@ -167,7 +166,7 @@ ity, ability, abilities, peculiarity\
 les, thankless, fearlessness\
 ly, nearly, easily, dailies\
 ment, mt, comment, arrangement\
-ness, ns, happyness, happiness, thoughtfulness\
+ness, ns, happiness, thoughtfulness\
 ough, o', ought, brought\
 ther, hr, others\
 ward, ard, towards
@@ -178,7 +177,7 @@ ward, ard, towards
 
 Manual: 
 
-dif(feren)t, different, dif(feren)ce, difference, ack(nowledge), acknowledge, esp(eciall)y, especially, cir(cumstan)ce, circumstance, extr(aordinar)y, extraordinary, rep(resentati)ve, representative
+different, different, difference, acknowledge, especially, circumstance, extraordinary, representative
 
  ### Phrases
 
@@ -188,7 +187,7 @@ able to do, as it is, I am not, I have had, I shall be very, to be, ought to hav
 
 ![alt text](assets/manual-cropped/m018.png){: .def}
 
-Manual: ab(ou)t, about, al(way)s, always, (a)m, am, I’m, am(oun)t, amount, an, a, and, a(n)y, any, ar(e), are, wer(e), were, b(e), be, b(ee)n, been, bec(ause), because, betw(een), between, b(u)t, but, ca(n), can, ca(n)-b(e), can be, ch(il)d, child, c(oul)d, could, d(o), do, d(oe)s, does, d(ow)n, down, ever, f(or), for, f(or)m, form, f(rien)d, friend, g(oo)d, good, gr(ea)t, great, ha(ve), have, h(a)d, had, m(a)de, made, m(igh)t, might, mo(re), more, m(o)st, most, n(o)t, not, c(a)n’t, can't n(oth)ing, nothing, o(f), of, o(f-th)e, of the, (o)n, on, (o)nly, only, (o)ne, one, (o)nce, once, pe(r)h(aps), perhaps, r(igh)t, right, rou(nd), round, se(l)f, self, s(el)v(e)s, selves, sha(ll), shall, she, sh(oul)d, should, thems(el)ves, themselves, theref(ore), therefore, thing, thing, thro’out, throughout, t(o), to, int(o), into, u(nder), under, w(ee)k, week, w(oul)d, would, wh(ich), which, (wi)th, with, y(ou), you, y(ou)rs, yours 
+Manual: about, always, am, I’m,  amount, an, a, and, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever,  for,  form, friend, good, great, have, had, made, might, more, most, not, can't, nothing, of, of the, on,  only, one, once, perhaps, right, round,  self, selves, shall, she, should,  themselves, therefore, thing, thing, throughout, to, into, under, week, would, which,  with, you, yours 
 
 ![alt text](assets/manual-cropped/m019.png){: .def}
 
@@ -469,7 +468,7 @@ Rendered into Markdown and annotated by Jeremy W Sherman.
 
 ### Examples of Abbreviations
 
-Supplement: able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, approp(ria)te, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being, been, before, believed, better, best, bishop, (bp), body, (bdy), both, (bth), by, thy, caught, changes, ch(ur)ch, church, circum-, circumstance, com-, con-, come, came, command, comment, common, compound, comprehend, concerning, conserve, consideration, counter-, country, course, (crs), court, (crt), dear, (dr), different, -ce, difference, difficult, each, (ea), editor, else, endeavour, even, (e’en), evening, event, every, 
+Supplement: able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being, been, before, believed, better, best, bishop, (bp), body, (bdy), both, (bth), by, thy, caught, changes, ch(ur)ch, church, circum-, circumstance, com-, con-, come, came, command, comment, common, compound, comprehend, concerning, conserve, consideration, counter-, country, course, (crs), court, (crt), dear, (dr), different, -ce, difference, difficult, each, (ea), editor, else, endeavour, even, (e’en), evening, event, every, 
 
 ![alt text](assets/supp-cropped/s12.png){: .def}
 
@@ -479,7 +478,7 @@ Supplement: evident, evil, executor, except, (ex), exercise, (exe), extraordinar
 ![alt text](assets/supp-cropped/s13.png){: .def}
 
 
-Supplement: notwithstanding, number, obedient, opportunity, over, (o’er), page, pages, paper, part, party, particular, peculiar, people, perceives, person, philo-, philosophy, plaintiff, point, (pnt), practice, practical, preconceived, present, private, promise, property, public,  publish, quite, religion, report, resp(ective)ly, respectively, satisfy, satisfactory, saviour, scarcely, school, scribe, script, selves, serves, servant, sev(eral), several, sir, sirs, -ship, worship, short, shorthand, sign, signify, solicitor, some, sometimes, s(ou)rce, source, special, spirit, state, strength, strong, such, such-as, super, supra, superior, take, taken, transact, tr(ust)ee, trustee, very, verify, -wise, otherwise, wis(d)om, wisdom, word, work, world, (wd), young 
+Supplement: notwithstanding, number, obedient, opportunity, over, (o’er), page, pages, paper, part, party, particular, peculiar, people, perceives, person, philo-, philosophy, plaintiff, point, practice, practical, preconceived, present, private, promise, property, public,  publish, quite, religion, report, respectively, satisfy, satisfactory, saviour, scarcely, school, scribe, script, selves, serves, servant, several, sir, sirs, -ship, worship, short, shorthand, sign, signify, solicitor, some, sometimes, source, special, spirit, state, strength, strong, such, such-as, super, supra, superior, take, taken, transact, trustee, very, verify, -wise, otherwise, wisdom, word, work, world, young 
 
 
 
@@ -508,6 +507,7 @@ Easily represents names and foreign languages
 A phonetic system is quite unable to cope with any peculiarities of spelling, or to give any adequate representation of proper names. It is also very difficult to adapt to the pronunciation of a foreign language. Orthic, as shown in the Manual, can be used, almost without change, for writing any foreign language that is spelt with the common alphabet.
 
 Longhand abbreviations directly usable
+
 Another very practical advantage of Orthic is that all the familiar longhand abbreviations can be at once utilised.
 
 ![alt text](assets/supp-cropped/s15.png){: .def}
@@ -551,9 +551,9 @@ The Ordinary Style of Orthic is intended for general use and for purposes of cor
 
 ### Specimen: Notes on Reporting, Callendar
 
-From <https://orthic.shorthand.fun/supplement#key>, transcribed by Jeremy W Sherman.
+From <https://orthic.shorthand.fun/supplement#key>, transcribed by Jeremy W Sherman, brackets to show omitted letters removed by Cricket.
 
-(page 1, line 1) The reporting style of Orthic is in no way essent(ial)ly dif(ferent) fr(om) the ord(inar)y (line 2) style. There-is li(tt)le n(e)w t(o) learn and n(oth)ing to unlearn. It’s simply an extension of-the same (l. 3) pr(inciple)s and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) qu(estion) of prac(tice).
+(page 1, line 1) The reporting style of Orthic is in no way essentially different from the ordinary (line 2) style. There is little new to learn and nothing to unlearn. It’s simply an extension of-the same (l. 3) principles and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) question of practice.
 
 Freely yet judiciously abbreviate
 
@@ -590,13 +590,13 @@ Slurring
 * double-wide M and y = many
 * (16) w and double-wide M = woman
 * u and double-wide M = human
-* double-wide M and uf = manuf(acture)
+* double-wide M and uf = manufacture
 * double-wide M and ey = money
 * (17) ct-blend = ct
 * f hooked up at end = fs
 * k hooked up at end like initial w = ks
 * cl = chl
-* clofm = chloroform [J: I originally thought this was “chroroform”, and expected the L to be inside the CH to stay below the line of exit. In fact, this “chl” together with “fr(anything)” underscores that Callendar considered the direction the circle is traced rather than whether the circle is above or below the exiting line that distinguishes R from L.]
+* clofm = chloroform [J: I originally thought this was “chloroform”, and expected the L to be inside the CH to stay below the line of exit. In fact, this “chl” together with “fr(anything)” underscores that Callendar considered the direction the circle is traced rather than whether the circle is above or below the exiting line that distinguishes R from L.]
 
 Short Vowels
 
@@ -722,7 +722,7 @@ W Stevens, 1896\
 [Teaching 1&2 in same file, Scanned at google books](https://www.google.ca/books/edition/The_teaching_of_orthic_shorthand/lGJlvMiWQfUC)\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
-Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
+Teaching Part One is Fully Written, Ordinary and abbreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
 
 ![alt text](assets/teach-1-cropped/t100a.jpg){: .def}
 ![alt text](assets/teach-1-cropped/t100b.jpg){: .def}
@@ -826,7 +826,7 @@ be-, be (dot), behold, been, better, best, by, bring, thing\
 
 ### Lesson Seven
 
-I commend, different, differnce, ultimo, interest, ight, 
+I commend, different, difference, ultimo, interest, ight, 
 
 ![alt text](assets/teach-1-bits/014.jpg){: .def}
 
@@ -912,7 +912,7 @@ probably, fully, fully\
 taught, daughter, fraught, laughter\
 able, table, liable, terrible, ignoble, probable\
 teach, preach, reaches, preacher\
-any, acompany, many\
+any, accompany, many\
 according, accord, record, recording\
 tomorrow, follow, narrow, borrow, sorrow\
 under
@@ -941,7 +941,7 @@ anvil, endure, infirm
 
 ### The Lord's Prayer, Reporting, Stevens
 
-Our Father who art in Heaven, hallowed be ty name. They kingdom come, they will be done, on Earth as it is in Heaven. Give us this day our daily bread and forgive us our trespasses, as we forgive them who trespass against us and dead us not into temptaion but deliver us from evil, for thine is the kindgom, the power and the glory, for ever and ever, Amen.
+Our Father who art in Heaven, hallowed be ty name. They kingdom come, they will be done, on Earth as it is in Heaven. Give us this day our daily bread and forgive us our trespasses, as we forgive them who trespass against us and dead us not into temptation but deliver us from evil, for thine is the kingdom, the power and the glory, for ever and ever, Amen.
 
 ![alt text](assets/teach-2-cropped/t214.jpg){: .def}
 ![alt text](assets/teach-2-cropped/t215.jpg){: .def}
@@ -1005,7 +1005,7 @@ TH: this, threw, worth, faith\
 
 WH: whose, when, chose, chin\
 WR: wring, thing\
-WS: poews, rows, frowsy\
+WS: pews, rows, frowsy\
 XC: excel, exclaim\
 XH: exhale, xch\
 XP: expel, export\
@@ -1137,7 +1137,7 @@ tame, tome, wander, wonder\
 income, close\
 is, if, in, it, apply, assist\
 cotton, fiddle\
-flys, trys, sayd, dryr, flies, tries, said, drier
+flies, tries, said, drier
 
 ### Prefixes
 
@@ -1150,7 +1150,7 @@ trans, trs, transfer, transmit, transcript
 
 asion, abrasion, relation\
 ed, tired, faced\
-ful, fl, useful, wonderful, geautiful\
+ful, fl, useful, wonderful, beautiful\
 hood, hd, manhood, widowhood, fatherhood, bachelorhood, hardihood\
 ing, leasing, placing, praying, coming\
 king, bring, bringing, sing, singing\
@@ -1174,7 +1174,7 @@ tch, ch, fetch, match, crutch
 
 ### Abbreviations for Common Words
 
-a, an, able, about, above, after, already, also, always, am, amount, anger, answer, any, anyone, are, are not, be, beg, big, body, but, both, came, come, can, can’t, child, could, course, court, dear, do, does, down, even, for, form, forthwithy, found, friend, from, further, general, gentleman, gentlemen, good, great, had, half, have, having, into, like, made, might, more, most, much, must, never, not, note, nothing, of, on, once, one, out, over, perhaps, right, rightful, round, same, some, self, shall, she, sould, something, state, to, under, very, verify, weak, week, were, what, which, whom, with, without, would, young, youngster, you, yours, youth
+a, an, able, about, above, after, already, also, always, am, amount, anger, answer, any, anyone, are, are not, be, beg, big, body, but, both, came, come, can, can’t, child, could, course, court, dear, do, does, down, even, for, form, forthwith, found, friend, from, further, general, gentleman, gentlemen, good, great, had, half, have, having, into, like, made, might, more, most, much, must, never, not, note, nothing, of, on, once, one, out, over, perhaps, right, rightful, round, same, some, self, shall, she, should, something, state, to, under, very, verify, weak, week, were, what, which, whom, with, without, would, young, youngster, you, yours, youth
 
 ![alt text](assets/revised-cropped/r14.jpg){: .def}
 
@@ -1186,42 +1186,43 @@ Can you remember, reader, when you and I felt something of the same sort of thin
 
 ### Mode 1, Prefixes
 
-than, that, the, them, there, this, those, though, thus, thy, thing\
+th, than, that, the, them, there, this, those, though, thus, thy, thing\
 a\
 I think they knew him then.\
-evening, event, ever, every, evident, evil, even\
-before, because, befall, beset, be, been, being, better, best, by\
-person, present, proclaim, persecute, prosecute, promise, premise, profane, profess, superfine, supralinear\
+eve, evi, evening, event, ever, every, evident, evil, even\
+be, before, because, befall, beset, be, been, being, than, better, best, by\
+per, pre, pro, person, present, proclaim, persecute, prosecute, promise, premise, profane, profess, \
+super, supra, hyper, superfine, supralinear\
 
 ![alt text](assets/revised-cropped/r16.jpg){: .def}
 
-primary, private, purchase, purvey\
-parallel, period, perimeter
+pri, pur, primary, private, purchase, purvey\
+para, peri, parallel, period, perimeter
 
-### Mode 1
+### Mode 1, Terminations
 
-leave, cove, give, saves, lived, given, loving, grove, novel, movement, prove, solve, shoving, involved\
-entirety, society, insanity, piety, pity
+ive, ev, leave, cove, give, saves, lived, given, loving, grove, novel, movement, prove, solve, shoving, involved\
+ety, iety, ity, entirety, society, insanity, piety, pity
 
 ### Mode 2
 
-compose, comparative, comprehend, preconceived, I conceive, incompetent, reconsider, circumvent, camphor, candid, the campaign, to cancel
+com, con, compose, comparative, comprehend, preconceived, I conceive, incompetent, reconsider, circumvent, camphor, candid, the campaign, to cancel
 
-### Mode 3
+### Mode 3, Prefixes
 
-magnanimity, magnetic, magnify
+magna, mague, magni, magnanimity, magnetic, magnify
 
 ![alt text](assets/revised-cropped/r17.jpg){: .def}
 
 
-### Mode 3
+### Mode 3, Terminations
 
-passage, awake, dredge, wage, strike, urged, taken, change, linger, cake, flake, rake, wake\
-sign, impugn\
-diagram\
-sight, alight\
-lowly, finely, fearfully, nearly, only, lovely, hugely\
-severe, reign, design, benevolent, benevolent, perogative, regular, reverend, several, alleviate, elevate, intelligence, religion
+age, ake, dge, ge, ke, passage, awake, dredge, wage, strike, urged, taken, change, linger, cake, flake, rake, wake\
+gn, sign, impugn\
+gram, diagram\
+ight, sight, alight\
+ly, lowly, finely, fearfully, nearly, only, lovely, hugely\
+severe, reign, design, benevolent, benevolent, prerogative, regular, reverend, several, alleviate, elevate, intelligence, religion
 
 ### On Being Hard Up
 
@@ -1235,56 +1236,53 @@ It is a little difficult to know what to do with your hands, even in your pocket
 
 I can speak with authority on the subject of being hard up. I have been a provincial actor.
 
-
-
 ![alt text](assets/revised-cropped/r19.jpg){: .def}
 
-
-### General Method of Abbreviation, p19
+### General Method of Abbreviation
 
 acknowledge, especially, reference, regulation, extraordinary, ordinary, representative
 delete, erode, indeed, meet, read
 most, must, part, point, right
 head, hood, would, world, might, -ment
 
-### Terminations
+### General Method of Abbreviation, Terminations
 
-liable, payable, bibles, table, tab\
-curacy, diplomacy, embassy, easy\
-capacity, pertinacity, veracity
+able, ble, liable, payable, bibles, table, tab\
+acy, asy, curacy, diplomacy, embassy, easy\
+acity, capacity, pertinacity, veracity
 
 ![alt text](assets/revised-cropped/r20.jpg){: .def}
 
-elementary, contrary, conservatory\
-ability, affability, insensibility\
-influence, residence, confidence\
-clemency, competency, emergency\
-opponent, provident, agent\
-affection, defection, perfection\
-fortification, modificaiton\
-lithograph, paragraph, geography\
-league, prologue, rogue, tongue\
-indignant, indignity, dignity\
-idealism, conservatism, socialism\
-inject, project, reject\
-explosion, lotion\
-cloud, clout, aloud, route, astound, hound, account, recount\
+ary, ory, elementary, contrary, conservatory\
+bility, ability, affability, insensibility\
+ence, influence, residence, confidence\
+ency, clemency, competency, emergency\
+ent, opponent, provident, agent\
+fection, affection, defection, perfection\
+fication, fortification, modification\
+graph, lithograph, paragraph, geography\
+gue, league, prologue, rogue, tongue\
+ignant, ignity, indignant, indignity, dignity\
+ism, idealism, conservatism, socialism\
+ject, inject, project, reject\
+osion, otion, explosion, lotion\
+oud, out, ound, ount, cloud, clout, aloud, route, astound, hound, account, recount\
 mound, mount, round, rout\
-fellowship, friendship, worship\
-instruct, obstructing, destructive\
-likewise, otherwise, unwise\
-conveying, crying, dying, flying
+ship, fellowship, friendship, worship\
+struct, instruct, obstructing, destructive\
+wise, likewise, otherwise, unwise\
+ying, conveying, crying, dying, flying
 
 ![alt text](assets/revised-cropped/r21.jpg){: .def}
 
-made, date\
+ade, ate, made, date\
 decade, deprecate, fade, fate, brigade, gate, hate, obviate, cockade, Kate, glade, late, spade, trade, rate, crusade, wade
 collate, calculate, stimulate\
 immolate, emulate, insolate, insulate\
-concede, impede, effete, obsolete\
-confide, reside, smite, write\
-explode, strode, promote, wrote\
-absolute, denude, mute\
+ede, ete, concede, impede, effete, obsolete\
+ide, ite, confide, reside, smite, write\
+ode, ote, explode, strode, promote, wrote\
+olute, ude, ute,, absolute, denude, mute\
 incide, incite, rede, ride, rite, side, site, mode, mote, rode, rote, delude, dilute, illude, elude\
 deprecated, depreciate, fated, faded, forded, hated, headed, hooded, elated, waded\
 impeded, sided, eroded, concluded, secreted, indited, voted\
@@ -1294,11 +1292,13 @@ dd, td
 
 ### Examples of Abbreviations
 
-accord, according, advantage, afraid, afternoon, announce, apparent, appropriate, arrange, back, background, baptise, baptist, beautiful, believe, bishop, boy, breech, breach, bread, caught, command, commence, comment, common, commonwealth, concerning, consideration, consult, consultation, counter, country, county, dark, darkness, difference, different, difficult, each, eat, else, where, endeaor, except, exception, executor, exercise, expect, favor, female, foreign, forgive, glorify, grade, hand, happy, help, high, him, his, horrify, importance, important, individual, insult, interest, joy, just, justice, king, kingdom, know, known, knowledge, lady, ladyship, language, large, largest, laughter, lead, least, letter, little, lord, mad, male, make, meek, member, morning, mortgage, nearest, necessary
+exception, except, adjust, as just, remember, member, party, particular, part, county, country, count, each, eat, beach, teach, beat, heat, peach, pea, preach
+
+accord, according, advantage, afraid, afternoon, announce, apparent, appropriate, arrange, back, background, baptise, baptist, beautiful, believe, bishop, boy, breech, breach, bread, caught, command, commence, comment, common, commonwealth, concerning, consideration, consult, consultation, counter, country, county, dark, darkness, difference, different, difficult, each, eat, else, where, endeavor, except, exception, executor, exercise, expect, favor, female, foreign, forgive, glorify, grade, hand, happy, help, high, him, his, horrify, importance, important, individual, insult, interest, joy, just, justice, king, kingdom, know, known, knowledge, lady, ladyship, language, large, largest, laughter, lead, least, letter, little, lord, mad, male, make, meek, member, morning, mortgage, nearest, necessary
 
 ![alt text](assets/revised-cropped/r23.jpg){: .def}
 
-neighbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade, particular, party, partly, peculiar, people, pupil, philo-, philosophy, plaintiff, pracice, practice-ical-ise, preach-er, property, public-ish, quiet-ness, report, result, satisfy, satisfactory, saviour, scaredly, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, soliciter, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
+neighbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade, particular, party, partly, peculiar, people, pupil, philo-, philosophy, plaintiff, practice, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, such as, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
 ### Phraseology
 
@@ -1323,44 +1323,156 @@ I am glad when I see Regret walked with as a friend—glad because I know the sa
 
 ### Notes on Reporting
 
+heptahexahedral, sesquipedalian, trinitarianism
+
+bl, bl, block, bullock, blow, below, billow, black, bulk, blast, ballast\
+de, di, deformity, deformity, defendant, difficult, delude, dilute\
+dev, div, devote, divulge, develop, devil, dive, divide\
+e, i, inter, enter, illude, elude\
+ing, bring, singing, mingle\
+x, axiom, excite, export, extent
+
 ![alt text](assets/revised-cropped/r27.jpg){: .def}
+
+h, hasten, hospital, heat, home, adhere, adhesion, addition, had, history\
+silent letters, straight, eight, taught, phthisic, rhyme, buy, blackguard\
+ect, ict, detect, afflict, adject, adjust, affected, afraid, collect, cool, collected, cold, select, sell, strict, strong
 
 #### Slurring
 
+dead, did, dedicate, deduct, candidate, fitted, raided, detach, detain, determine, detriment, advent, transact, enacts, exacted, action, monomania, money, many, memory, animal, economy\
+experience, experiment, great, fellow, pillow, follow, tomorrow, to-morrow, sorrow, swallow, tallow, to allow, fall off, far off, solar, narrow, sparrow, coral, alcohol, chloroform, confusion, deputy, duty, instead, until
+
 ![alt text](assets/revised-cropped/r28.jpg){: .def}
+
+t, th, heath, pith, month, wealth, hearth, mirth\
+short vowels, earnest, forest, meadow, modesty, remedy, shadow, caper, manner, national, nominal, personal, upper\
+en, in, inaccurate, enamel, inbred, include, inertia, infer, enhance, initiate, enmity, inmate, enrich, infect, effect,\
+un, une, uni, unfair, unreal, unusual, unequivocal, uniform, un, under,
+l, element, illegal, telegraph, illimitable, inimitable\
+r, brick, drink, frank, grand, proof, sprinkle, tranquil, strangle,\
+kept, insert, said
+
+#### Terminations
+
+arian, ician, librarian, grammarian, patrician, academician, academian\
+arity, erity, evity, icity, idity, ivity, hilarity, celerity, brevity, felicity, solidity, activity\
+parity, pity, polarity, polity, privity, principality
 
 ![alt text](assets/revised-cropped/r29.jpg){: .def}
 
-#### Terminations
+ector, essor, ictor, itor, utor, collector, assessor, victor, editor, persecutor, coadjutor\
+efy, ify, humefy, gratify, defy, defend, glorify, signify, magnify\
+ereal, erial, icial, etherial, imperial, official\
+estic, etic, istic, itic, majestic, pathetic, artistic, critic, cosmetic, cosmic, phonetic, phonic, phrenetic, phrenic, prophetic, paragraphic, spenetic, splenic\
+ish, rubbish, famish, vanish, bearish\
+rior, inferior, warrior\
+titude, titute, attitude, institute\
+tribute, attribute, contributor\
+ion, tion, ection, ession, etion, recollection, secession, secretion\
+iction, ision, ition, restriction, excision, tradition, collision, collection, concision, concession, elision, election, emiction, emission, exesion, exsection, precession, precision, recession, recision, session, section\
+usion, ution\
+uction, reduction, construction\
+ulsion, emulsion, repulsion\
+unction, junction, inunction\
+usrion, excursion, incursion\
+compulsion, compunction, discursion, discussion, expulsion, expunction, fusion, function, solution, suction
 
 ![alt text](assets/revised-cropped/r30.jpg){: .def}
 
 #### Intersection
 
+ceous, cious, herbaceous, audacious\
+ctious, ctuous, infectious, unctuous\
+dious, duous, tedious, arduous\
+geous, gious, outrageous, religious\
+ptious, ptous, exceptious, sumptuous\scious, seous, suous, luscious, gaseous, sensuous\
+teous, tious, tuous, beauteous, contentious, impetuous\
+xious, anxious, influxious\
+caseous, capitious, deciduous, deceptious, fatuous, factious, innocuous, innoxious, prescious, precious, tortuous, torious\
+easance, escence, icence, isance, ittance, iscence, istance, istence, malfeasance, excrescence, reticence, nuisance, quittance, reminiscence, distance, existence\
+defeasance, defiance
+
 ![alt text](assets/revised-cropped/r31.jpg){: .def}
+
+but I can't, there isn't, I shall, we should, Irish descent\
+coalescent, rapturous, and shall, so we can't
 
 #### Phraseography
 
+it is, it was, it were, it would, 'tis, 'twas, 'twer, 'twill, 'twould\
+was, I was wrong, nothing was easier, but so it was, it was better so, he was disliked, I was not hurt, it was full, he was late, the way was long, as was, this was, it was well, he was wasteful\
+has, have, he has seen him, it has risen, I have done it\
+I had to tell him, he called to see, we had to do it, able to make, able to do, about to do\
+I was impressed, it is concluded, I am astounded, could be placed\
+which will, he will, we will,  much will\
+let us, you will, you are, he is, they will, as soon as, so as, those
+
+
 ![alt text](assets/revised-cropped/r32.jpg){: .def}
+who are, in every respect, never more, for evermore\
+it is said, if further, they are right, it will last, good-day, goodday, many years' standing\
+I took, it took, I tried, it tried, could do, did do, good reasons\
+as a matter of course, again and again, more and more, worse and worse, in support of, point of view, for the sake of glory, for the sake of the, sooner or later, in relation to, with regard to, with reference to, face to face, place to place, time to time, in comparison with\
+whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report
+
 
 #### Modes
 
+they, if they say so they but tell the truth
+
 ![alt text](assets/revised-cropped/r33.jpg){: .def}
+
+have, has, you will have heard, what have we said, he has sent it, why has he done it\
+be, when will he be ready, he will be here\
+he must have changed, he must have changed, if he have lost, if he be lost\
+des, dis, dys, to disappoint, I am desperate, he had dysentery, deserve, dissever, design\
+who, which, the man who did so, the outing which we had, that discourse which we heard\
+give me, take him, the judge said\
+could be seen, would be done, to be put, we have had\
+who are they who say this, they have said, if they be put, they disappointed us, if they have disagreed, if they be disallowed, that which they say
 
 ![alt text](assets/revised-cropped/r34.jpg){: .def}
 
 ### Figures
+hundred, hundred thousand, million, hundred million, 100, 100,000, 1,000,000, 100,000,000\
+Bible verses, 2 Kings 3rd ch 5th v , II kings 3:5, I John 4:6
+
 
 ### List of Abbreviations
+
+abbreviate, abrupt, abstract, absurd, accomplish, acquaint, acquiesce, acquisition, adequate, advertisement, affair, aggress, agree, agriculture, agricultural, alternative, ambiguity, ambiguous, ambition, animadvert, anniversary, antagonism, antagonist, antagonistic, appear, appearance, appertain, application, appreciate, apprehension, arbitrary, arbitrate, archbishop, assault, assimilate, astonishment, atmosphere, attainment, attention, attentive, attract, audience, auxiliary, average, avoid, balance, bankrupt, bankruptcy
+
 ![alt text](assets/revised-cropped/r35.jpg){: .def}
+
+battalion, benefit, between, beyond, bitter, brag, brig, breechloader, british, budget, business, biz, christian, cabinet capable, capital, captain, careful, catechise, catechism, catholic, cavalry, celebrate, celebrity, celibacy, celibate, century, certain, certainty, challenge, character, chemical, chemist, christ, christen, congregate, consecutive, consequence, consequent, contingency, contingent, controversy, controversial, convenient, co-operate, cooperate, corporation, corrupt, council, counsel, convenant, creak, creek, credit, cross-examine, crouch, cultivate, culture, cushion, custody, decent, decree, default, defence, definite, degree, delinquency, delinquent, democrat, democratic, describe, description, diabolical, digress, diminish, distinct, distract, district, domestic, domesticate, doubt, dozen, drag, dress, duct
+
 ![alt text](assets/revised-cropped/r36.jpg){: .def}
+
+dwell, dynamite, dynasty, ecclesiastic, ecclesiastical, educate, embrace, enormous, entertain, entertainment, enthusiasm, enthusiastic, episcopal, episcopalian, equal, esquire, essential, establish, exaggerate, example, exhaust, expenditure, extemporaneous, extempore, extemporise, extinct, extinguish, extract, extravagance, extravagant, extreme, facilitate, facility, fact, faculty, familiar, farce, farcical, feminine, finance, financial, free, frequent, frequency, fulfil, funeral, furnish, furniture, future, futurition, generation, genuine, grace, gradual, graduate, grave, gravely, gravy, greek, growth, harass, hazard, health, hedge, hesitate, hold, holy, hope, horizon, ignore, ignorance, ignorant, immediate, imperturbable, impregnable, incidence, incognito, indefatigable, independence, independent, indispensable, inevitable, inexcusable, inexorable, inscription, insistance, insistant, instinct, insurmountable, integrated, integrity, intelligence, intelligent, interrupt, introduction, kill, knight
+
+
+
 ![alt text](assets/revised-cropped/r37.jpg){: .def}
+
+last, latest, latin, latitude. laudanum, legible, legislate, liberal, liberty, license, licentiate, lieutenant, literal, literary, literature, local, localise, magazine, majesty, major, manufacture, manuscript, market, marksman, mathematics, mathematical, meanwhile, measure, melody, memorandum, meteor, method, metropolis, metropolitan, microscope, microscopical, military, militia, mischief, mischievous, modern, monopoly, monopolise, moreover, municipal, mutilate, mystery, nature, navigate, necessity, necessitate, obscure, obvious, occupy, omit, omnipotence, omnipotent, opposite, organize, original, originate, orthodox, parliament, parochial, parody, paroxysm, passenger, path, pension, perpendicular, perpetual, perpetuate, philanthropy, philanthropic, pysiognomy, please, pleasure, plenipotentiary, policy, political, popular, populate, population, position, possess, possible, post-office, postoffice, post office, poverty, prejudice, preliminary, preserve press, principal, principle, privilege, prize, probable, 
+
+
 ![alt text](assets/revised-cropped/r38.jpg){: .def}
+
+purpose, purport, put, qualify, quality, quarter, question, questionable, reason, reasons, recent, reciprocate, recognise, refer, reference, regard, regular, regulate, relate, relinquish, remain, remark, remunerate, repugnance, repugnant, return, revenue, reverberate, routine, rule, science, separate, shown, seek, sick, significance, significant, similar, simple, singular, situate, skill, small, spasm, speculate, speculation, strange, stranger, strychnine, subordinate, subsequent, success, suffice, sufficient, suppose, supposition, surprise, suspicion, suspicious, sympathy, sympathise, system, systematic, tabernacle, tantamount, teetotal, temper, temperate, temperature, temporary, thanksgiving, town, transmission, treasure, treason, unanimity, unanimous, uninfluential, university, upon, utilise, utility, valuable, vapor, variety, various, vary, vegetable, vegetate, velvet, vengeance, venom, verbatim, vice versa, vice-versa, visible, visit, wait, warfare, welfare, wholesale, worth, yesterday, yield
+
+![alt text](assets/revised-cropped/r39.jpg){: .def}
 
 ### Some Phrases
 
-![alt text](assets/revised-cropped/r39.jpg){: .def}
+able to put, absolutely necessary, and are, and as if, and by, and in, and is not, and the, and the contrary, as far as, as it is, as many as are, as many as possible, as soon as possible, as to the, as well as, be able to, because it is, by a, by and by, by the by, by means of, by which they are, chancellor of the exchequer, christ jesus, everywhere else, for my own part, for the purpose of, having regard to, her majesty, his majesty, his own, his own sake, house of commons, house of lords, house of parliament, house of representatives, how many, in a , in all, in all respects, inasmuch as, in as much as, in order to do , in other words, in proportion, in the first place, in the next place, in the second place, leader of hte house, local government, may the, may be so, might have the, must see, my own, of a, of our, of course it is not expected, on the contrary, peculiar circumstances, per annum, reform bill, right on baronet, right or wrong, secretary for home affairs
+
+
 ![alt text](assets/revised-cropped/r40.jpg){: .def}
+
+secretary of state, shall give shall go, should be able to, so far as , so much, that is not so, that it was, that it was not, that they, that which, that you can, there was, there were, there would, they are, to be able to say, to give him, to give them, to you, what are, what was, what were, what were the, what were the reasons, what were their reasons, which he, which he did, which he is , which he says, which he could, which he could do, which he would, which he would do, which they, with a view to, with respect to, would have
+
 
 ### On Memory
 
@@ -1399,38 +1511,42 @@ And then comes school life, with its bitter little sorrows and its joyous shouti
 
 https://orthic.shorthand.fun/reading
 
+Too much to include here. If you're desperate for an example or dictation material, [you can find all the Psalms in one place here].(https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=2190116)
 
-Change of Plans. There is a lot of material in the Psalms. If you're desparate for an example or dictation material, you can find them all in one place here:\
-https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=2190116
+[biblegateway.com](biblegateway.com) is a useful site for searching for text within the Bible and comparing different translations, but it does one chapter or Psalm per page.
 
-Several other sites have the same text, but a new page for each chapter.
+[Psalms 1–20 in full style PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%201-20%20(Full%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for the completion of Lessons 1 through 3. (1896; 16 pages of shorthand)\
 
+[Psalms 21–39 in ordinary style PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2021-39%20(Ordinary%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for Lessons 4 through 5. (1896; 16 pages of shorthand)
 
-Psalms 1–20 in full style [PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%201-20%20(Full%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for the completion of Lessons 1 through 3. (1896; 16 pages of shorthand)\
+[Psalms 40–65 in abbreviated style PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2040-65%20(Abbreviated%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for Lessons 6 through 8, at which point you’re expected to be writing 60 WPM and reading fluently.
 
-Psalms 21–39 in ordinary style [PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2021-39%20(Ordinary%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for Lessons 4 through 5. (1896; 16 pages of shorthand)
-
-Psalms 40–65 in abbreviated style [PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2040-65%20(Abbreviated%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for Lessons 6 through 8, at which point you’re expected to be writing 60 WPM and reading fluently.
-
-Psalms 66–83 in reporting style [PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2066-83%20(Reporting%20Style)%201897%20Stevens.pdf) serves as both exercise book and exam for the second volume of The Teaching of Orthic Shorthand. (1897; 16 pages of shorthand).
+[Psalms 66–83 in reporting style PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2066-83%20(Reporting%20Style)%201897%20Stevens.pdf) serves as both exercise book and exam for the second volume of The Teaching of Orthic Shorthand. (1897; 16 pages of shorthand).
 
 
 
-## Aesop's Fables (Abbreviated) and A Speech In Reporting Style, Stevens
 
-https://orthic.shorthand.fun/reading
+xxx get link to another copy
 
-[_Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II_](https://orthic.shorthand.fun/assets/reading/Aesop's%20Fables%20in%20Orthic.pdf)
 
-### Aesop's Fables, Abbreviated, Stevens
-https://orthic.shorthand.fun/reading
+
+
+
+
+## Aesop's Fables (Abbreviated) and a Speech in Reporting Style: 'Orthic' Shorthand, Reading Book, Part II, Stevens
+
+* [Link to Orthic.shorthand.fun Reading page](https://orthic.shorthand.fun/reading)
+
+* [Link to pdf on Orthic.shorthand.fun](https://orthic.shorthand.fun/assets/reading/Aesop's%20Fables%20in%20Orthic.pdf)
+
+* [Link to archive.org](https://archive.org/details/orthic-shorthand-reading-book.-part-ii.-aesops-fables-abbreviated-and-a-speech-i)
+
+
+### Aesop's Fables
 
 Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match. [Jeremy W Sherman]
 
-
 ### The Wolf and the Lamb, Abbreviated, Stevens
-
-https://orthic.shorthand.fun/reading
 
 One hot, sultry day, a Wolf and a Lamb happened to come, just at the same time, to quench their thirst in the stream of a clear silver brook that ran tumbling down the side of a rocky mountain. The Wolf stood upon the higher ground, and the Lamb at some distance from him down the current. However, the Wolf, having a mind to pick a quarrel with him, asked him what he meant by disturbing the water, and making it so muddy that he could not drink, and, at the same time, demanded satisfaction. 
 
@@ -1448,7 +1564,7 @@ They never pardon who have done the wrong.
 
 ### The Lark and her Young Ones, Abbreviated, Stevens
 
-https://orthic.shorthand.fun/reading
+See above for link to shorthand.
 
 A Lark, who had Young Ones in a field of corn which was almost ripe, was under some fear lest the reapers should come to reap it before her young brood were fledged, and able to remove from their nest: wherefore, upon flying abroad to look for food, she left this charge with them — that they should take notice what they heard talked of in her absence, and tell her of it when she came back again. When she was gone, they heard the owner of the corn call to his son — " Well," says he, " I think this corn is ripe enough ; I would have you go early tomorrow, and desire our friends and neighbours to come and help us to reap it" 
 
@@ -1456,7 +1572,7 @@ When the Old Lark came home, the Young Ones fell a-quivering and chirping round 
 
 Moral. He who would have things well done, must do them himself.
 
-Application. Never depend upon the assistance of friends and relations in any thing which you are able to do yourself. He alone will prosper in life who looks to his own exertions and perseverance as the sources of his success. To stand by ourselves as much as possible, and to employ our own strength and industry, is god-like, being the result of a most noble and highly exalted reason. But they who procrastinate and defer the business of life by an idle dependence upon others, in things which it is in their own power to effect, sink down in the world, and show themselves unworthy of the talents with which they are intrusted. This fable inculcates the duty of self-reliance. The proverb says, "The soil on a farrmer's shoe is the most fertile soil on his farm."
+Application. Never depend upon the assistance of friends and relations in any thing which you are able to do yourself. He alone will prosper in life who looks to his own exertions and perseverance as the sources of his success. To stand by ourselves as much as possible, and to employ our own strength and industry, is god-like, being the result of a most noble and highly exalted reason. But they who procrastinate and defer the business of life by an idle dependence upon others, in things which it is in their own power to effect, sink down in the world, and show themselves unworthy of the talents with which they are entrusted. This fable inculcates the duty of self-reliance. The proverb says, "The soil on a farmer's shoe is the most fertile soil on his farm."
 
 Neighbours and friends are backwards. Who intends T'effect things well, must make his hands his friends.
 
@@ -1465,9 +1581,9 @@ Neighbours and friends are backwards. Who intends T'effect things well, must mak
 
 ### The Wolf in Sheep's Clothing, Abbreviated, Stevens
 
-https://orthic.shorthand.fun/reading
+See above for link to shorthand.
 
-A Wolf, clothing himself in the skin of a Sheep, and by this means getting in among the flock, took the opportunity to devour many of them. At last the shepherd discovered him, and, fastening a rope about his neck, tied him up to a tree which stood hard by. Some other shepherds happening to pass that way, and obaerving what he was about, drew near, and expressed their surprise at it "What," says one of them, "brother, do you hang Sheep ?" — "No," replies the other, "but I hang a Wolf whenever I catch him, though he be in Sheep's clothing." Then he showed them their mistake, and they applauded the justice of the execution.
+A Wolf, clothing himself in the skin of a Sheep, and by this means getting in among the flock, took the opportunity to devour many of them. At last the shepherd discovered him, and, fastening a rope about his neck, tied him up to a tree which stood hard by. Some other shepherds happening to pass that way, and observing what he was about, drew near, and expressed their surprise at it "What," says one of them, "brother, do you hang Sheep ?" — "No," replies the other, "but I hang a Wolf whenever I catch him, though he be in Sheep's clothing." Then he showed them their mistake, and they applauded the justice of the execution.
 
 Moral. The credit got by a lie only lasts till the truth comes out.
 
@@ -1478,7 +1594,7 @@ As to be loved needs only to be seen.
 
 ### A Speech In Reporting Style, Reporting, Stevens 
 
-https://orthic.shorthand.fun/reading
+See above for link to shorthand.
 
 Key to speech: See the third column from the right, headed "ENGLAND AND THE WORLD", in the [23 May 1898 edition of the New York Sun](https://chroniclingamerica.loc.gov/lccn/sn83030272/1898-05-23/ed-1/seq-6/). Evidently the speech was given on or just before 14 May 1898, printed in the London Times that day, then part excerpted in the New York Sun a couple weeks later.  (Jeremy W Sherman)
 
@@ -1495,7 +1611,7 @@ when the Government - any Government - may have to appeal to the patriotism of t
 people as a whole, and if that time should come I hope \
 it will not find us, as it has found other nations in \
 less happy circumstances than we are, divided among ourselves and wasting \
-in party recriminiation energies that we shall want for the defence of the \
+in party recrimination energies that we shall want for the defence of the \
 national interests. I must say this, at any rate. I do not think it is \
 wise or patriotic for certain party leaders, who have been playing to the \
 fiery zeal of some of our own supporters, to \
@@ -1504,16 +1620,16 @@ which are in his hands, with the anxiety which is cast upon him to represent \
 the interests of this country in the presence of foreign nations -- I \
 do not think it is wise or patriotic at such a juncture to \
 assert that he is discredited and defeated, to gloat over \
-the alleged humiliation of the country, and to say on every occassion \
-that the Goverment as a whole is weak and vacillating. If those \
+the alleged humiliation of the country, and to say on every occasion \
+that the Government as a whole is weak and vacillating. If those \
 statements were believed in foreign countries, if they were acted \
 upon by foreign Governments, they would make a great mistake. \
 They would find that courteous diplomacy, and moderate language, and \
 even graceful concessions, are not incompatible with a firm maintenance \
 of the honor and the essential interests of the country. And if \
 they were to presume upon this false interpretation of the mind \
-of the Foreign Minister andthe mind of the Government, the difficutly \
-of preserving peace woudl be very much increased. Now I \
+of the Foreign Minister and the mind of the Government, the difficulty \
+of preserving peace would be very much increased. Now I \
 want, according ot my manner, to submit to you a plain \
 statement of the situation as it appears to me. Ours is a \
 democratic Government. We gain all our strength from the confidence \
@@ -1527,7 +1643,7 @@ tell you all the details of secret negotiations. That, of course, \
 would be absolutely absurd, and would make negotiations \
 impossible. But the plain issue and the main principles \
 and the particulars of the problems with which we have to deal -- those might \
-be stated in laguage to be understanded of the people, \
+be stated in language to be understanded of the people, \
 and I would take the judgement of the people just as soon upon them as \
 I would take that of the wisest diplomatist in the world. Now the \
 first point I want to impress upon you is this. It is the \
@@ -1570,9 +1686,9 @@ What is the first duty of a Government under these circumstances? \
 I say, without hesitation, that the first duty is to draw all \
 parts of the empire closer together, to infuse into them a \
 spirit of united and of imperial patriotism. We have not \
-neglected our primary duty. We have pursused it steadfastly \
+neglected our primary duty. We have  it steadfastly \
 and with results that are patent to all the world. Never before \
-in the history of the British Empire have th eties which connected us with \
+in the history of the British Empire have the ties which connected us with \
 our great colonies and dependencies been stronger, never before has \
 the sense of common interests in trade and in defence and in \
 peace and war -- never before has the sense of these interests been \
@@ -1582,7 +1698,7 @@ bonds of permanent amity with our kinsmen across \
 the Atlantic. They are a powerful and a generous nation. They speak \
 our language, they are bred of our race. Their laws, their \
 literature, their standpoint upon every question are the same as ours; their \
-feeling, their interest in the cause of humanity and the peacefull development \
+feeling, their interest in the cause of humanity and the peaceful development \
 of the world are identical with ours. I do not know what \
 arrangements may be possible with ours, but this I know and feel -- that the \
 closer, the more cordial, the fuller, and the more definite these \
@@ -1597,18 +1713,13 @@ better than they have ever done since more than a century ago. \
 They were separated by the blunder of the British Government.
 
 
+## The New Testament: Authorised Version: written in Orthic Shorthand, Reporting, Stevens
 
+* [Link to archive.org](https://archive.org/details/the-new-testament-authorized-version-written-in-orthic-shorthand-by-w.-stevens)
 
-
-## New Testament, Reporting, Stevens
-
-https://orthic.shorthand.fun/reading
-
-[The New Testament: Authorised Version: written in Orthic Shorthand](https://cdm15457.contentdm.oclc.org/digital/collection/p15457coll1/id/195/rec/1), written by W. Stevens around 1896ish (i + 170 pages)\
 Key: Any authorized version of the KJV will do.
 
-The Bible websites all put each chapter on a separate page. Cricket made a valient attempt to collect the entire NT in a single document, but ultimately gave up.
-
+[biblegateway.com](biblegateway.com) is a useful site for searching for text within the Bible and comparing different translations, but it does one chapter or Psalm per page. Let me know if you find a site that's easier to use.
 
 
 
