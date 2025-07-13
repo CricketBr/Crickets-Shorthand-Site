@@ -15,7 +15,7 @@ Contact information and canonical copy of this document is at [Cricket's Shortha
 
 This document is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license, <https://creativecommons.org/licenses/by-sa/4.0/> .
 
-Based on works listed below under [Sources](#sources--references) .
+Based on works listed below under [Sources](#sources) .
 
 
 
@@ -25,7 +25,7 @@ Based on works listed below under [Sources](#sources--references) .
 * [Introduction to Orthic Consolidated](#introduction-to-orthic-consolidated)
 * [A Note About Styles, Levels and Mixing Sources](#styles-levels)
 * [Acknowledgements](#acknowledgements)
-* [Sources / References](#sources--references)
+* [Sources / References / Licenses](#sources)
 * [The Alphabet](#the-alphabet)
 * [General Rules for Fully Written Style](#general-rules-for-fully-written-style)
 * [Fully Written: Joining Vowels](#fw-vowels)
@@ -95,7 +95,7 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 
 -xx- : beginning, middle, or end of word. Text will clarify if cannot use in all 3 positions.
 -xx : only at the end of a word.
-xx- : only at the begining of a word.
+xx- : only at the beginning of a word.
 (Probably some mistakes.)
 
 All headings (should) have the dashes, so you can use the browser Find function.
@@ -105,28 +105,33 @@ xxx, : All words from images end with a comma, for ease of finding the exact wor
 xxx yyy; All phrases (should) end with a semi-colon.
 
 
-### Sources / References
+### Sources / References / Licenses {#sources}
 
 **Phonetic Cursive**\
 A Manual of Phonetic Cursive Shorthand\
 Hugh L Callendar, 1889.\
 [Scanned at archive.org](https://archive.org/details/manualofcursives00calliala/manualofcursives00calliala)\
-This is the precursor to Orthographic Cursive, and is included for historical reasons only. The introduction discusses "other, inferior systems" and is a fun read.
+This is the precursor to Orthographic Cursive, and is included for historical reasons only. The introduction discusses "other, inferior systems" and is a fun read.\
+This work has aged into the Public Domain.
 
 **The Manual**\
 A Manual of Orthographic Shorthand: The Cambridge System,\
 Hugh L Callendar, 1891.\
 [Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/manual)\
 [Scanned at google books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ)\
-Rendered into Markdown and annotated by Jeremy W Sherman.
+Rendered into Markdown and annotated by Jeremy W Sherman.\
+The Manual has aged into Public Domain.\
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **The Supplement**\
 Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
 Hugh L Callendar, 1892.\
 [Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/supplement)\
 [Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf)\
-[Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]
-Rendered into Markdown and annotated by Jeremy W Sherman.
+[Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]\
+The Supplement has aged into Public Domain.\
+Rendered into Markdown and annotated by Jeremy W Sherman.\
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
@@ -136,24 +141,27 @@ W Stevens, 1896\
 [Teaching 1&2 in same file, Scanned at google books](https://www.google.ca/books/edition/The_teaching_of_orthic_shorthand/lGJlvMiWQfUC)\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
-Teaching Part One is Fully Written, Ordinary and Abreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
+Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
+Rendered into Markdown and annotated by Jacob Moena.\
+Teaching has aged into Public Domain.
 
 **Revised, Extended and Improved**\
 Orthographic Cursive Shorthand (Orthic); The Cambridge System; Revised, Extended and Improved\
 Hugh L Callendar; E Clarey, 1911\
 [Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
-[Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)
-
+[Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)\ 
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
+Revised has aged into Public Domain.
 
 **Dictionary**\
 [orthic.shorthand.fun](https://orthic.shorthand.fun/dictionary)\
 Clipped, assembled and programmed by Jeremy W. Sherman\
 Includes a notation that will encode Orthic text into ASCII. Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
 
-*If not stated, the rule comes from The Manual.* I have been careful to show where each rule is introduced, but less careful to show who said what. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's.
+**License for Orthic Consolidated**\
+Orthic Consolidated is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Links to all sources are included, and licenses noted where available.
 
-
+*If not stated, the rule comes from The Manual.* I have been careful to show where each rule is introduced, but less careful to show who said what. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's. (Cricket)
 
 ### Discrepancies
 

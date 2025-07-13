@@ -11,22 +11,31 @@ Where the original document spells it in a non-standard way, I have included bot
 
 It does not include searchable text of the Psalms or New Testament, but does have links to sites that do.
 
-xxx sources and license
-
 * Table of Contents
 {:toc}
 
+## License for Orthic Consolidated
+
+Canonical copy at [Cricket's Shorthand Site](cricketbr.github.io/Crickets-Shorthand-Site) .
+
+Orthic Consolidated is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Links to all sources are included, and licenses noted where available.
+
+Use what you like, give credit where credit is due, and not where it's not due. Respect the work of those whose shoulders I stood on.
+
+## Dictionary
+[orthic.shorthand.fun](https://orthic.shorthand.fun/dictionary)\
+Clipped, assembled and programmed by Jeremy W. Sherman\
+Includes a notation that will encode Orthic text into ASCII. Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
+
 ## The Manual, Written by Callendar
 
-Source:\
 A Manual of Orthographic Shorthand: The Cambridge System,\
 Hugh L Callendar, 1891.\
 [Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/manual)\
 [Scanned at google books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ)\
-Rendered into Markdown and annotated by Jeremy &nbsp; W &nbsp; Sherman.
-
-
-xxx license
+Rendered into Markdown and annotated by Jeremy W Sherman.\
+The Manual has aged into Public Domain.\
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ![alt text](assets/manual-cropped/0cover.png){: .def}
 
@@ -460,9 +469,10 @@ Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
 Hugh L Callendar, 1892.\
 [Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/supplement)\
 [Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf)\
-[Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]
-
-Rendered into Markdown and annotated by Jeremy W Sherman.
+[Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]\
+The Supplement has aged into Public Domain.\
+Rendered into Markdown and annotated by Jeremy W Sherman.\
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ![alt text](assets/supp-cropped/s11.png){: .def}
 
@@ -722,7 +732,9 @@ W Stevens, 1896\
 [Teaching 1&2 in same file, Scanned at google books](https://www.google.ca/books/edition/The_teaching_of_orthic_shorthand/lGJlvMiWQfUC)\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
-Teaching Part One is Fully Written, Ordinary and abbreviated. Part Two is Reporting. It has many examples of what happens if you don't follow the rules.
+Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
+Rendered into Markdown and annotated by Jacob Moena.\
+Teaching has aged into Public Domain.
 
 ![alt text](assets/teach-1-cropped/t100a.jpg){: .def}
 ![alt text](assets/teach-1-cropped/t100b.jpg){: .def}
@@ -847,7 +859,7 @@ count, county, final, upper
 I should have been, with a view to, able to do so, as soon as
 
 
-## Teaching Part Two, Stevens
+## Teaching Part Two, Written by Stevens
 
 See Teaching Part One for Sources and Licenses.
 
@@ -956,8 +968,9 @@ I have listened, My Lord Mayor, with the warmest sympathy to the speeches of tho
 Orthographic Cursive Shorthand (Orthic); The Cambridge System; Revised, Extended and Improved\
 Hugh L Callendar; E Clarey, 1911\
 [Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
-[Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)
-
+[Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)\ 
+Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
+Revised has aged into Public Domain.
 
 All the specimens of shorthand have been taken from "The Idle Thoughts of an Idle Fellow," by Jerome K Jerome.
 
@@ -1720,6 +1733,7 @@ They were separated by the blunder of the British Government.
 Key: Any authorized version of the KJV will do.
 
 [biblegateway.com](biblegateway.com) is a useful site for searching for text within the Bible and comparing different translations, but it does one chapter or Psalm per page. Let me know if you find a site that's easier to use.
+
 
 
 

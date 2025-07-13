@@ -20,14 +20,11 @@ Comments and corrections are more than welcome.
   * [Reference – Final Edit Stage](orth-cnsl-ref.md)
   * Study Lists – Not Started
   * [Words from Examples](orth-cnsl-words-examples.md)
-  * [Words from Passages](orth-cnsl-words-passages.md)
   * Orthic Consolidated Reverse Rules – Not Started
   * [Orthic Reading Material](#reading)
 * [Papers and Word Lists](#papers-lists)
 * [License](#license)
 * [Contact](#contact)
-
-## Details
 
 ## Cricket's Shorthand Course
 
@@ -61,9 +58,7 @@ Lists of words by rule, created as Cricket needs them.
 
 ### [Words from Examples](orth-cnsl-words-examples.md)
 
-### [Words from Passages](orth-cnsl-words-passages.md)
-
-All the words used as examples and in longer passages, up to but only sometimes including Reporting. Includes Aesops and Dufferin's Speech, but not Psalms or New Testament.
+All the words used as examples and in longer passages. Includes Aesop's Fables and Dufferin's Speech, but not Psalms or New Testament. Useful to look up examples.
 
 ### Orthic Consolidated Reverse Rules -- Not Started
 
@@ -80,7 +75,6 @@ Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly)
 
 * [Carry On Jeeves, PG Wodehouse. Humour, Orthic](carry-on-main.md)\
 Written in Shorthand by Cricket. Starts with Fully Written Style and adds rules a bit at a time.
-
 
 * [Reading Material on orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
 
