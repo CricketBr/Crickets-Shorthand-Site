@@ -92,7 +92,7 @@ a {
     color: var(--accentDark);
     text-decoration: underline;
     /* font-weight: bold; */
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
 }
 
 h1 a,
