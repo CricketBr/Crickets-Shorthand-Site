@@ -6,7 +6,7 @@ rev: 2025-07-11 146
 spellchecker testing
 
 
-<-- cspell:disable-next-line -->
+<!-- cspell:disable-next-line -->
 bdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrdsbdly spld wrds
 
 

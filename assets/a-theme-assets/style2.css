@@ -54,11 +54,14 @@ header {
     text-align: center;
     background-color: var(--accentMed);
     padding-left: 2rem;
-    padding-right: 2rem
+    padding-right: 2rem;
+    padding-bottom: 1rem;
 
 }
 
-header p {margin-bottom:0}
+header p {
+    margin-bottom: 0
+}
 
 main {
     background-color: white;
@@ -117,7 +120,7 @@ header a {
 nav a {
     text-decoration: none;
 
-    padding-left:2em;
+    padding-left: 2em;
     padding-right: 2em;
 }
 
@@ -289,14 +292,14 @@ img.sup1row {
 img.teach1 {
     max-width: min(45rem, 100%);
     border-top: 7px double var(--accentDark);
-    padding-top:1ex;
+    padding-top: 1ex;
 
 }
 
 img.teach1-1row {
     height: 2.2em;
     border-top: 7px double var(--accentDark);
-        padding-top:1ex;
+    padding-top: 1ex;
 }
 
 img.rev {
