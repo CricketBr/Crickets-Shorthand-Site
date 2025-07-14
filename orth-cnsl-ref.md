@@ -119,7 +119,7 @@ Hugh L Callendar, 1891.\
 [Scanned at google books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ)\
 Rendered into Markdown and annotated by Jeremy W Sherman.\
 The Manual has aged into Public Domain.\
-Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).{: .man}
 
 **The Supplement**\
 Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
@@ -129,7 +129,7 @@ Hugh L Callendar, 1892.\
 [Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]\
 The Supplement has aged into Public Domain.\
 Rendered into Markdown and annotated by Jeremy W Sherman.\
-Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).{: .sup}
 
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
@@ -141,7 +141,7 @@ W Stevens, 1896\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
 <!-- cspell:disable-next-line -->Rendered into Markdown and annotated by Jacob Moena.\
-Teaching has aged into Public Domain.
+Teaching has aged into Public Domain.{: .teach1}
 
 **Revised, Extended and Improved**\
 Orthographic Cursive Shorthand (Orthic); The Cambridge System; Revised, Extended and Improved\
@@ -149,7 +149,7 @@ Hugh L Callendar; E Clarey, 1911\
 [Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 [Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)\ 
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
-Revised has aged into Public Domain.
+Revised has aged into Public Domain.{: .rev}
 
 **Dictionary**\
 [orthic.shorthand.fun](https://orthic.shorthand.fun/dictionary)\
@@ -157,7 +157,7 @@ Clipped, assembled and programmed by Jeremy W. Sherman\
 Includes a notation that will encode Orthic text into ASCII. Contains all the example words from the Manual and the Supplement, and several examples from writing specimens in the Manual. 
 
 **License for Orthic Consolidated**\
-Orthic Consolidated is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Links to all sources are included, and licenses noted where available.
+Orthic Consolidated is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Links to all sources are included, and licenses noted where available. Canonical copy is at [Cricket's Shorthand Website]({{site.url}}).
 
 *If not stated, the rule comes from The Manual.* I have been careful to show where each rule is introduced, but less careful to show who said what. Note that, since it's difficult not to pick up the original accent, you cannot rely on that to separate my words from any other author's. (Cricket)
 
@@ -595,11 +595,9 @@ Revised: ea, ee, ei, eu, ew, few,
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
--EC-, -ENC-, -IC-, -INC-: This is often tricky, but fortunately the word is usually clear from context. There are no rules, but many examples in the dictionary. (Cricket)
+-EC-, -ENC-, -IC-, -INC-: This is often tricky, but fortunately the word is usually clear from context. There are no rules, but many examples in the dictionary. EC: Make sure you do not go down as I changes to C. The first part of the C retraces part of the I. ENC: Make sure that you do a full N. The first part of the C does not retrace any part of the N.  See N for examples. (Cricket)
 
--EC-: Make sure you do not go down as I changes to C. The first part of the C retraces part of the I. There are many examples in the dictionary, but they're all buried in a large plate. (Cricket)
-
--ENC-: Make sure that you do a full N. The first part of the C does not retrace any part of the N.  (Cricket)
+Revised recommends using K for hard-C after I. (See -K-.) 
 
 
 
@@ -1030,11 +1028,14 @@ Manual: See also proof (alphabet), present (P) -- to show -PR-.
 
 See L for details and contrasting examples.
 
--RCE-: Written like lower-case E, according to the Manual. As near as I can tell, Callendar makes a slight angle at just before the R, so your pen goes to the right and the R is closer to being a circle. If you're happy making R a loop instead of a circle, this complexity can be avoided. (Cricket)
+-RCE-: Written like lower-case E, according to the Manual. Not in modern cursive! Finish the R and go a bit more to the right, then go left to start the C. Revised skips this, and it looks like LCE or WL. (Cricket)
 
 -RH-: The R can lie just outside, or curl within, the H circle. (Teaching 1)
 
 -PR-: It is usual to write a vowel following R attached to an upright letter from the top, as in PRA, to save time, and to avoid going round the circle twice. (Teaching 1, Lesson 3, L and R)
+
+-RCH-: I don't like Revised's method. H looks like it is first. (Cricket)
+
 
 Teaching gives the example PRA, doesn't say here that it doesn't apply to S (see SH), and doesn't say which the other upright letters are. My best guess follows. (Cricket)
 
