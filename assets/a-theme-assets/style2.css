@@ -53,7 +53,8 @@ header {
     color: var(--accentDark);
     text-align: center;
     background-color: var(--accentMed);
-    padding: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem
 
 }
 
@@ -80,7 +81,7 @@ footer {
 }
 
 nav {
-    font-size: 1.0rem;
+    font-size: 1.5 rem;
     font-weight: bold;
     /* background-color: yellow; */
 }
@@ -113,6 +114,7 @@ header a {
 
 nav a {
     text-decoration: none;
+
     padding-left:2em;
     padding-right: 2em;
 }
