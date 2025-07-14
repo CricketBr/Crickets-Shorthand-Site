@@ -89,13 +89,14 @@ Future Project. Word lists nicely formatted with room for shorthand, to make a d
 
 ## License
 
-Unless otherwise stated, all my work is licensed under ...
-``` probably creative commons share alike ```
-xxx todo
+Contact information and canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) . Comments and corrections welcome!
+
+Unless otherwise stated, all material on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license, <https://creativecommons.org/licenses/by-sa/4.0/> .
+
+Based on works listed on each page under [Sources](#sources), which may have additional licensing requirements.
 
 You are welcome to copy and share the files exactly as presented here. All the files include a revision date, copyright notice, and a link to this source.
 
-See individual pages for extra restrictions, including those inherited from other sources and references.
 
 <a id="contact">
 

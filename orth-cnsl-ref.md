@@ -3,19 +3,17 @@ layout: default
 title: OCRef - Orthic Consolidated Reference
 rev: 2025-07-11 154
 ---
-# Orthic Consolidated – Reference DRAFT
+# Orthic Consolidated – Reference
 
 Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment.<br/>
 For those who have already read the Manual or Revised, not including Reporting.
 {: .subtitle}
 
-Still very fluid.
-
 Contact information and canonical copy of this document is at [Cricket's Shorthand Site](https://cricketbr.github.io/Crickets-Shorthand-Site/) . Comments and corrections welcome!
 
-This document is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license, <https://creativecommons.org/licenses/by-sa/4.0/> .
+This document is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) .
 
-Based on works listed below under [Sources](#sources) .
+Based on works listed below under [Sources](#sources), which may have additional licensing requirements.
 
 
 
@@ -60,7 +58,7 @@ It is organized into the following parts:
 
 ### A Note About Styles, Levels, and Mixing Sources {#styles-levels}
 
-All books agree that Fully Written comes first and Reporting comes last. The middle levels are a bit fuzzy. Ordinary seems to come first. Abbreviated, Supplement and Correspondence seem to be the same. Reporting is an experimental level which varies between sources. As rules were proven safe and useful, later books moved them to the intermediate levels. This page includs only a few Reporting rules, and they are clearly marked.
+All books agree that Fully Written comes first and Reporting comes last. The middle levels are a bit fuzzy. Ordinary seems to come first. Abbreviated, Supplement and Correspondence seem to be the same. Reporting is an experimental level which varies between sources. As rules were proven safe and useful, later books moved them to the intermediate levels. This page includes only a few Reporting rules, and they are clearly marked.
 
 *A smaller rule set, with building blocks that you use without hesitation, is faster than a larger one with rules you have to think about.*
 
@@ -74,7 +72,7 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 
 **Jeremy W Sherman** : Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, transcribed, clipped, and re-assembled the Manual and Supplement; programmed and made the database for the online dictionary, including diving into several large blocks of shorthand; and helped with Consolidated by finding examples of rules buried in the shorthand samples.
 
-**Jacob Moena** : Transcriber, clipper, and assembler of Teaching Part 1 and 2.
+<-- cspell:disable-next-line -->**Jacob Moena** : Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
 ### Conventions
 
@@ -142,7 +140,7 @@ W Stevens, 1896\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
-Rendered into Markdown and annotated by Jacob Moena.\
+<-- cspell:disable-next-line -->Rendered into Markdown and annotated by Jacob Moena.\
 Teaching has aged into Public Domain.
 
 **Revised, Extended and Improved**\
@@ -192,7 +190,7 @@ Letters in brackets are compound letters or slurs.
 * () indicates a compound letter.
 * vowels are listed in order written.
 
-Where there is more than one way to write a letter or compound, I added extra characeters. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : `(ing1)` = straight, `(ing2)` = curved, chosen because 1 is straight and 2 is curved. `(ph-b)` is the PH that looks like the letter b. (Cricket)
+Where there is more than one way to write a letter or compound, I added extra characters. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : `(ing1)` = straight, `(ing2)` = curved, chosen because 1 is straight and 2 is curved. `(ph-b)` is the PH that looks like the letter b. (Cricket)
 
 ## The Alphabet
 ![shorthand image](assets/manual-bits/1alphabet-m003.png){: .man}\
@@ -232,7 +230,7 @@ In the Manual, Callendar claims the first letter sits on the line, then on the s
 
 In Teaching 1, Stevens says nothing, but on the first page of the Preface to the New Testament <https://orthic.shorthand.fun/reading> *it* starts below the line and T sits on the line. In Teaching 2 he has more fun and uses starting position to indicate an entire omitted word.
 
-In Revised, Clarey says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceeding downstrokes." (Revised, General Rules, p3)
+In Revised, Clarey says, "The first letter of a word generally begins or ends on the line, but A, E and O may be raised when preceding downstrokes." (Revised, General Rules, p3)
 
 It looks like Stevens is the outlier, but since they wrote the majority of the reading material, we cannot just ignore them.
 
@@ -269,14 +267,14 @@ A short connecting tick maybe used after ER, TH, etc, and when they are followed
 This rule is only in Revised. Clarey may need this more than the other writers due to his different style of writing. Sometimes it's because there isn't space between loops. Sometimes it's because he wants an R to remain round, not looped as in Gregg. (Cricket)
 
 ![shorthand image](assets/revised-split/1connecting-tick-r03.jpg){: .rev}\
-Revised: er, th, G, P, S, dirg, faiths, serpent
+<-- cspell:disable-next-line -->Revised: er, th, G, P, S, dirg, faiths, serpent
 
 #### Dividing Words
 
 You can divide a word to keep it on the line. Beware that this might be confused with writing by mode. (Cricket)
 
 ![shorthand image](assets/manual-bits/1divide-line-m005.png){: .man}\
-Manual: lawsuit, Woolwich, virgin
+<-- cspell:disable-next-line -->Manual: lawsuit, Woolwich, virgin
 
 ![shorthand image](assets/revised-split/1divide-r03.jpg){: .rev}\
 Revised: lawsuit, bagpipes
@@ -302,7 +300,7 @@ Revised: hyphen, dash
 
 #### Initial Capitals 
 
-Indicated in a few ways. See S to distinguish intial S from initial P. (S is vertical.)
+Indicated in a few ways. See S to distinguish initial S from initial P. (S is vertical.)
 
 ![shorthand image](assets/manual-bits/1capitals-m005.png){: .man}\
 Manual: Jack, Clay, S.E., L.S.W.R. (London and South West Rail Company)
@@ -331,10 +329,10 @@ Leave the angle between the vowels. For ao/oa, leave a gap.
 Check both orders of vowels to see all example words.
 
 ![shorthand image](assets/manual-bits/1vow-sep-m004.png){: .man}\
-Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
+<-- cspell:disable-next-line -->Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
 
 ![shorthand image](assets/teach-1-bits/1vowindiv-t104.jpg){: .teach1}\
-Teaching 1: oar, Laon
+<-- cspell:disable-next-line -->Teaching 1: oar, Laon
 
 ![shorthand image](assets/revised-split/1vow-indiv-r03.jpg){: .rev}\
 Revised: re-enter, boa, chaos, co-operate, Leo, fiasco, fuel, poem, serious
@@ -357,7 +355,7 @@ Manual: ai, oy, ou, eau
 ![shorthand image](assets/revised-split/1dipth-r03.jpg){: .rev}\
 Revised: ai, oy, ou, eau
 
-An upstroke vowel following or preceeding Y is written with an angle. (Teaching 1)
+An upstroke vowel following or preceding Y is written with an angle. (Teaching 1)
 
 ![shorthand image](assets/teach-1-bits/ye,obey-t104.jpg){: .teach1-1row}\
 Teaching 1: ye, obey
@@ -380,7 +378,7 @@ Manual: ai, au, ay, days, quay, says, hay,
 ![shorthand image](assets/teach-1-bits/dear-t104.jpg){: .teach1-1row}
 ![shorthand image](assets/teach-1-bits/dear-wrong-t104.jpg){: .teach1-1row}
 ![shorthand image](assets/teach-1-bits/demr-t104.jpg){: .teach1-1row}\
-Teaching 1: dear, dear(wrong), demr,
+<-- cspell:disable-next-line -->Teaching 1: dear, dear(wrong), demr,
 
 ![shorthand image](assets/teach-1-bits/meal-t104.jpg){: .teach1-1row}
 ![shorthand image](assets/teach-1-bits/mail-t104.jpg){: .teach1-1row}\
@@ -411,7 +409,7 @@ Teaching 1 recommends that AI always be written in AI order, regardless of surro
 #### -AO-, -OA-, -AU-
 
 ![shorthand image](assets/teach-1-bits/oar,laon-t104.jpg){: .teach1}\
-Teaching 1: oar, Laon,
+<-- cspell:disable-next-line -->Teaching 1: oar, Laon,
 
 ![shorthand image](assets/revised-split/au-r05.jpg){: .teach1}\
 Revised: au, audit, landau,
@@ -431,7 +429,7 @@ Manual: ee, ei, ie, steep, stupid, eu, ew, new,
 Manual: seen, sun,
 
 ![shorthand image](assets/manual-bits/ea-diphth-m007.png){: .man}\
-Manual: ea, seat, seas, reat, real, pearl, years,
+Manual: ea, seat, seas, real, real, pearl, years,
 
 ![shorthand image](assets/revised-split/ea-r05.jpg){: .rev}\
 Revised: \
@@ -468,7 +466,7 @@ Revised: i, e, ia, ie,
 Manual: oar, or, oak, oi, toil, ou, out, oy, boys,
 
 ![shorthand image](assets/revised-split/oe-r06.jpg){: .rev}\
-Revised: oe, oedema, toe, woesome,
+<-- cspell:disable-next-line -->Revised: oe, oedema, toe, woesome,
 
 ![shorthand image](assets/revised-split/oi-r06.jpg){: .rev}\
 Revised: oi, oil, ointment, foil, coin,
@@ -552,7 +550,7 @@ CH is included here because it's presented with C. Further details are under H.
 Manual: ck, suckle, cl, close, cr, crutch, ct,
 
 ![shorthand image](assets/teach-1-bits/chl,chr-t105.jpg){: .teach1}\
-Teaching 1: chlo, chro,
+<-- cspell:disable-next-line -->Teaching 1: chlo, chro,
 
 ![shorthand image](assets/revised-split/c-r07.jpg){: .rev}\
 Revised: cd, ch, chl, chr, aches, pitch'd, filches, pilchard, ck, cl, cm, cn, cqu, cr, cs, ct, cy,
@@ -584,7 +582,7 @@ Manual: student,
 ![shorthand image](assets/revised-split/d-r07.jpg){: .rev}\
 Revised: d, t, df, dge, dh, dj, dk, dle, dm, dn, dre, ds, dt, dv, dw, dy, dz,
 
--DEN- series. In DN the letters form a wave. The end of one letter and the beginning of the next share a line. In DEN, the combination begins and ends on the same line. In DEEN, there is actually a line This is what most beginning writers think DEN should look like. I cannot find anywhere this is stated clearly, but it is consistent across all 4 books. (Cricket)
+-DEN- series. In DN the letters form a wave. The end of one letter and the beginning of the next share a line. In DEN, the combination begins and ends on the same line. In <-- cspell:disable -->DEEN<-- cspell:enable -->, there is actually a line This is what most beginning writers think DEN should look like. I cannot find anywhere this is stated clearly, but it is consistent across all 4 books. (Cricket)
 
 DD, DT and TD can be written as a double-wide D. See Abbreviating Principles.
 
@@ -599,7 +597,7 @@ All examples from the Manual are under Joining Vowels with Vowels.
 
 -EC-, -ENC-, -IC-, -INC-: This is often tricky, but fortunately the word is usually clear from context. There are no rules, but many examples in the dictionary. (Cricket)
 
--EC-: Make sure you do not go down as I changes to C. The first part of the C retraces part of the I. There are many examples in the dictionary, but they're all burried in a large plate. (Cricket)
+-EC-: Make sure you do not go down as I changes to C. The first part of the C retraces part of the I. There are many examples in the dictionary, but they're all buried in a large plate. (Cricket)
 
 -ENC-: Make sure that you do a full N. The first part of the C does not retrace any part of the N.  (Cricket)
 
@@ -640,6 +638,8 @@ Revised: G, gb, gd, gh, gl, gm, gn, gr, gs, gy,
 Most letters combine with H in "interesting" ways. CH, WH, and combinations starting with H, are here. Other combinations are under the starting letter. Of special note: SH, SCH, SR, P, PH, PTH, and TH.
 
 See S for S+H+R combinations, including SH, SCH, SHR, SR
+
+<-- cspell:disable -->
 
 <table tabindex="0">
   <thead>
@@ -727,7 +727,7 @@ See S for S+H+R combinations, including SH, SCH, SHR, SR
     </tr>
   </tbody>
 </table>
-
+<-- cspell:disable -->
 
 ![shorthand image](assets/manual-bits/h-m008.png){: .man}\
 Manual (H): ha, cha, hat, chat, what, which,
