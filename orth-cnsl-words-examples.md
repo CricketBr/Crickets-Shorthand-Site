@@ -59,12 +59,12 @@ ab, act, bad, cabby, adder, fed, left, get, hit, city, jug, luck, like, melt, kn
 ### General Rules for Writing
 
 odd, too, sleep, sup, re-enter, \
-<-- cspell:disable-next-line -->Oölite, Deä, create, Leo, fiasco, serious, fuel, poem,
+<!-- cspell:disable-next-line -->Oölite, Deä, create, Leo, fiasco, serious, fuel, poem,
 
 ![alt text](assets/manual-cropped/m005.png){: .def}
 
 ins, ins, against, epitaph\
-<-- cspell:disable-next-line -->lawsuit, Woolwich, virgin\
+<!-- cspell:disable-next-line -->lawsuit, Woolwich, virgin\
 Jack, Clay, S.E., L.S.W.R.
 
 ![alt text](assets/manual-cropped/m006.png){: .def}
@@ -102,7 +102,7 @@ K:
 
 ![alt text](assets/manual-cropped/m009.png){: .def}
 
-<-- cspell:disable-next-line -->L:  black, bread, 	clay, crow, 	addle, dry, 	flow, fro, 	glad, grade, 	play, pray, 	little, litre, 	slay, Israël, 	held, herd, 	world, already, \
+<!-- cspell:disable-next-line -->L:  black, bread, 	clay, crow, 	addle, dry, 	flow, fro, 	glad, grade, 	play, pray, 	little, litre, 	slay, Israël, 	held, herd, 	world, already, \
     lf, half, lk, walk, lp, help, lt, wilt, lv, salve,
 
 M: mp, imply, mb, limb, ms 
@@ -113,7 +113,7 @@ N: ng, singer, nsp, inspect, nc, since, nch, inches, nd, India, nf, infer, nj, i
 
 O: oar, or, oak, oi, toil, ou, out, oy, boys, 
 
-<-- cspell:disable-next-line -->P: sp, spear, ps, cusps, ph, phrase, phlegm, pl, place, pr, present, pt, depth, phth 
+<!-- cspell:disable-next-line -->P: sp, spear, ps, cusps, ph, phrase, phlegm, pl, place, pr, present, pt, depth, phth 
 
 Q: esquire
 
@@ -121,7 +121,7 @@ R: fierce, rd, rt, rf, rk, work, rn, learn, rp, rs, rv
 
 ![alt text](assets/manual-cropped/m011.png){: .def}
 
-<-- cspell:disable-next-line -->S: S.E., shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
+<!-- cspell:disable-next-line -->S: S.E., shed, Tisri, shred, school, sc, scent, sk, sl, slew, sm, sn, sp, sphere, squ, square, st, still, sw, answer
 
 T: with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 
@@ -129,7 +129,7 @@ T: with, both, tch, sketch, tle, turtle, tr, truth, tw, two
 
 U: seen, sun, ua, guard, ui, suit, 
 
-<-- cspell:disable-next-line -->V: minster, Minver, stew, view
+<!-- cspell:disable-next-line -->V: minster, Minver, stew, view
 
 W: way, woe, wet, write, who, ha, sews, cows, laws, wk, hawk, wl, owls, wn, dawn
 
@@ -164,7 +164,7 @@ applied, tries, easiest, happiest
 
 ![alt text](assets/manual-cropped/m016.png){: .def}
 
-<-- cspell:disable -->
+<!-- cspell:disable -->
 ed, used, us'd, kissed, kiss'd, stirred, stirr'd\
 ful, useful, beautifully\
 hd, manhood\
@@ -180,7 +180,7 @@ ough, o', ought, brought\
 ther, hr, others\
 ward, ard, towards
 
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 ### General Method
 
@@ -202,7 +202,7 @@ about, always, am, I’m,  amount, an, a, and, any, are, were, be, been, because
 
 ### Specimen of Ordinary Style
 
-All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy &nbsp; W &nbsp; Sherman. Jeremy added reference numbers and comments to some passages.
+All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy&nbsp;W&nbsp;Sherman. Jeremy added reference numbers and comments to some passages.
 
 Introductory Remarks
 
@@ -230,7 +230,7 @@ In learning the system the student should work straight through the alphabet and
 
 ### Specimen of Ordinary Style, From Macaulay's History
 
-All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy &nbsp; W &nbsp; Sherman. Jeremy added reference numbers and comments to some passages.
+All text from [Orthic Shorthand Site](https://orthic.shorthand.fun/manual) , typed or transcribed by Jeremy&nbsp;W&nbsp;Sherman. Jeremy added reference numbers and comments to some passages.
 
 The State of England in the Reign of Charles II.
 
@@ -253,9 +253,9 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 
 ### St John II
 
-<https://www.biblegateway.com/passage/?search=John%202&version=KJV>
+[Bible Gateway John 2, KJV](https://www.biblegateway.com/passage/?search=John%202&version=KJV)
 
-<-- cspell:disable -->
+<!-- cspell:disable -->
 
 2:1 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 
@@ -318,7 +318,7 @@ The produce of tropical countries, of mines, and of machinery, was positively de
 
 2 The same came to Jesus by night, and said unto him, Rabbi, 
 
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 ![alt text](assets/manual-cropped/m026.png){: .def}
 
@@ -337,7 +337,7 @@ Foreign languages not done.
 
 
 
-See <https://orthic.shorthand.fun/manual#hints-for-the-reporting-style>, transcribed by Jeremy &nbsp; W &nbsp; Sherman, for marked-up image and key.
+See [Orthic Shorthand Site, Manual, Hints for the Reporting Style](https://orthic.shorthand.fun/manual#hints-for-the-reporting-style), transcribed by Jeremy&nbsp;W&nbsp;Sherman, for marked-up image and key.
 
 The reporting style differs from the ordinary style only in the more extensive use of (2) abbreviation and phrasing.
 
@@ -348,10 +348,10 @@ This method is so simple that with a little (4) practice any reporter can easily
 (8) It’s impossible to treat the subject of reporting
 adequately in the present publication, (9) but we will proceed to give a few hints which will be of use to students. (10)
 
-1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and <-- cspell:disable -->inflexions which are evidently <-- cspell:enable -->required (12) by the context may be omitted.
+1. In abbreviating a common word it’s generally sufficient to write the first 2 (11) or 3 letters of the termination, but terminations and <!-- cspell:disable -->inflexions which are evidently <!-- cspell:enable -->required (12) by the context may be omitted.
    Mere initials may be largely used for repeated names (13) and titles.
    Examples
-<-- cspell:disable -->
+<!-- cspell:disable -->
    - s = sir,
    - l = lord,
    - p = page,
@@ -432,13 +432,13 @@ adequately in the present publication, (9) but we will proceed to give a few hin
      - <sup>n<sup>lnt</sup></sup> = benevolent,
      - f<sup>ry</sup> = for every.
 
-     <-- cspell:enable -->
+     <!-- cspell:enable -->
 
 ![alt text](assets/manual-cropped/m032.png){: .def}
 
 ### Reporting Style (Moderately Abbreviated)
-From <https://orthic.shorthand.fun/manual#key-9>, transcribed by Jeremy &nbsp; W &nbsp; Sherman.
-<-- cspell:disable -->
+From [Orthic Shorthand Site, Manual, key-9](https://orthic.shorthand.fun/manual#key-9), transcribed by Jeremy&nbsp;W&nbsp;Sherman.
+<!-- cspell:disable -->
 Local Government.
 
 I agree with Sir Charles Dilke in attributing the utmost importance to the question of local government in the future. \
@@ -466,7 +466,7 @@ petty detail with which it is incompetent to deal, and which ought to be referre
 What are the two greatest and most pressing needs of our time? I think most men would say the \
 provision of healthy decent dwellings in our large towns at fair rents, and in the country facilities for the \
 labourer to obtain a small plot of land which he may be able to work.
-<-- cspell:enable -->
+<!-- cspell:enable -->
 ![alt text](assets/manual-cropped/m033.png){: .def}
 
 ## Supplement, Written by Callendar
@@ -475,7 +475,7 @@ Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
 Hugh L Callendar, 1892.\
 [Typed at orthic.shorthand.fun](https://orthic.shorthand.fun/supplement)\
 [Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/supplement/Orthic%20Supplement%201892%20Callendar.pdf)\
-[Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]\
+[Scanned at archive.org](https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar)\
 The Supplement has aged into Public Domain.\
 Rendered into Markdown and annotated by Jeremy W Sherman.\
 Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -484,12 +484,12 @@ Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 I
 
 ### Examples of Abbreviations
 
-<-- cspell:disable-next-line -->Supplement: able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being, been, before, believed, better, best, bishop, (bp), body, (bdy), both, (bth), by, thy, caught, changes, ch(ur)ch, church, circum-, circumstance, com-, con-, come, came, command, comment, common, compound, comprehend, concerning, conserve, consideration, counter-, country, course, (crs), court, (crt), dear, (dr), different, -ce, difference, difficult, each, (ea), editor, else, endeavour, even, (e’en), evening, event, every, 
+<!-- cspell:disable-next-line -->Supplement: able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being, been, before, believed, better, best, bishop, (bp), body, (bdy), both, (bth), by, thy, caught, changes, ch(ur)ch, church, circum-, circumstance, com-, con-, come, came, command, comment, common, compound, comprehend, concerning, conserve, consideration, counter-, country, course, (crs), court, (crt), dear, (dr), different, -ce, difference, difficult, each, (ea), editor, else, endeavour, even, (e’en), evening, event, every, 
 
 ![alt text](assets/supp-cropped/s12.png){: .def}
 
 
-<-- cspell:disable-next-line -->Supplement: evident, evil, executor, except, (ex), exercise, (exe), extraordinary, favour, -fection, -fication, foreign, forgive, forth, forward, found, from, -ge, general, gives, given, -gn, -gram, half, hand, head, help, (lp), him, his, important, -ce, importance, inch, ind(ivi)dual, individual, interest, -ism, ive, judge, just, justice, king, kingdom, know, known, knowledge, lady, language, large, largest, letter, little, lord, make, makes, magnify, mb, mp, member, mis-, mistake, much, much-more, much more, month, must, morning, mortgage, nation, nearest, necessary, neighbour, -ness, goodness, nevertheless, next, (nst), 
+<!-- cspell:disable-next-line -->Supplement: evident, evil, executor, except, (ex), exercise, (exe), extraordinary, favour, -fection, -fication, foreign, forgive, forth, forward, found, from, -ge, general, gives, given, -gn, -gram, half, hand, head, help, (lp), him, his, important, -ce, importance, inch, ind(ivi)dual, individual, interest, -ism, ive, judge, just, justice, king, kingdom, know, known, knowledge, lady, language, large, largest, letter, little, lord, make, makes, magnify, mb, mp, member, mis-, mistake, much, much-more, much more, month, must, morning, mortgage, nation, nearest, necessary, neighbour, -ness, goodness, nevertheless, next, (nst), 
 
 ![alt text](assets/supp-cropped/s13.png){: .def}
 
@@ -500,7 +500,7 @@ Supplement: notwithstanding, number, obedient, opportunity, over, (o’er), page
 
 ![alt text](assets/supp-cropped/s14.png){: .def}
 
-All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
+All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , typed or transcribed by Jeremy W Sherman.
 
 ### Specimen: Ordinary Style, Abbreviated, plate 1
 
@@ -534,7 +534,7 @@ The majority of the examples given in the list of ‘Examples of Abbreviations�
 
 Equal to any phonetic system
 
-It is commonly urged in favour of phonetic spelling that so much is gained in point of shortness by the omission of mute and silent letters, and by using simple signs for diphthongs and other compound sounds. This argument as applied to shorthand is somewhat misleading. All phonetic methods of abbreviation, such as tho for though, <-- cspell:disable -->brot<-- cspell:enable --> for brought etc., in so far as they are convenient and clear, are naturally utilised in any orthographic system. Common diphthongs and combinations are also naturally represented by simple curves. The characters of the orthographic alphabet can also be grouped on the principle of representing similar sounds by similar signs, thus securing whatever advantages a phonetic system may claim in this respect.
+It is commonly urged in favour of phonetic spelling that so much is gained in point of shortness by the omission of mute and silent letters, and by using simple signs for diphthongs and other compound sounds. This argument as applied to shorthand is somewhat misleading. All phonetic methods of abbreviation, such as tho for though, <!-- cspell:disable -->brot<!-- cspell:enable --> for brought etc., in so far as they are convenient and clear, are naturally utilised in any orthographic system. Common diphthongs and combinations are also naturally represented by simple curves. The characters of the orthographic alphabet can also be grouped on the principle of representing similar sounds by similar signs, thus securing whatever advantages a phonetic system may claim in this respect.
 
 Solves the harder problems
 
@@ -567,7 +567,7 @@ The Ordinary Style of Orthic is intended for general use and for purposes of cor
 
 ### Specimen: Notes on Reporting, Callendar
 
-From <https://orthic.shorthand.fun/supplement#key>, transcribed by Jeremy W Sherman, brackets to show omitted letters removed by Cricket.
+From [Orthic Shorthand Site, Supplement, Key](https://orthic.shorthand.fun/supplement#key), transcribed by Jeremy W Sherman, brackets to show omitted letters removed by Cricket.
 
 (page 1, line 1) The reporting style of Orthic is in no way essentially different from the ordinary (line 2) style. There is little new to learn and nothing to unlearn. It’s simply an extension of-the same (l. 3) principles and methods of abbreviation, and-the acquirement of speed and facility is merely a (4) question of practice.
 
@@ -612,12 +612,12 @@ Slurring
 * f hooked up at end = fs
 * k hooked up at end like initial w = ks
 * cl = chl
-* <-- cspell:disable -->clofm<-- cspell:enable --> = chloroform [J: I originally thought this was “chloroform”, and expected the L to be inside the CH to stay below the line of exit. In fact, this “chl” together with “fr(anything)” underscores that Callendar considered the direction the circle is traced rather than whether the circle is above or below the exiting line that distinguishes R from L.]
+* <!-- cspell:disable -->clofm<!-- cspell:enable --> = chloroform [J: I originally thought this was “chloroform”, and expected the L to be inside the CH to stay below the line of exit. In fact, this “chl” together with “fr(anything)” underscores that Callendar considered the direction the circle is traced rather than whether the circle is above or below the exiting line that distinguishes R from L.]
 
 Short Vowels
 
 (18) Short vowels may often be slurred especially in terminations,
-<-- cspell:disable -->
+<!-- cspell:disable -->
 * double-wide M and r = manner
 * (19) upr = upper
 * n-nl = national.
@@ -680,14 +680,14 @@ The method however is not to be generally recommended.
 Lastly
 
 (17) The most important rule of all in reporting practice is never to use a mode or an (18) abbreviation that causes hesitation or waste of time, not to worry about trifles; and to practise (19) writing from dictation and transcribing till your notes become perfectly fluent and cursive and legible. (20) A study of-the examples which follow will probably be more useful than many pages of hints.
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 ![alt text](assets/supp-cropped/s20.png){: .def}
 
-<-- cspell:disable-next-line -->
+<!-- cspell:disable-next-line -->
 ### Specimen: Notes of a Speech by Lord Dufferin an St Andrews, Probably Reporting
 
-All text from https://orthic.shorthand.fun/supplement , transcribed by Jeremy W Sherman.
+All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , transcribed by Jeremy W Sherman.
 
 Key to Page 1
 
@@ -706,7 +706,7 @@ Key to Page 2
 
 most diverse and admirable possessed by any European community except their own, but it had long been accepted as the common channel of communication between European nations.
 
-<-- cspell:disable-next-line -->But far more important than the acquisition of any foreign tongue was the art of skilfully handling their own. Already Providence had issued its decree that English should be the predominant language of the globe — in other words, the man who wrote a good book, or made a good speech in English, would command for all time what was already the greatest audience known to history, and which eventually would cover the better part of three of the five continents of the world. There was one golden rule which he would venture to insist upon — namely, that in the first place, before putting pen to paper, they should compel their own mind to hammer out an absolutely clear and distinct conception of the thought they wished to express, and that then they should put it into the simplest and least Latinised words that came to hand, without giving a thought to what was called style, and confining their attention to the attainment of only two objects — conciseness and lucidity. There was one other useful rule which he would also recommend to all young writers, no matter what might be the nature of their composition, whether books, speeches, sermons, lectures, or addresses — namely, that after they had written them they should cut them down by about one-third. Probably there were few books, fewer still sermons, and certainly no speeches, that had ever been produced or delivered which would not have been much improved by being considerably curtailed.
+<!-- cspell:disable-next-line -->But far more important than the acquisition of any foreign tongue was the art of skilfully handling their own. Already Providence had issued its decree that English should be the predominant language of the globe — in other words, the man who wrote a good book, or made a good speech in English, would command for all time what was already the greatest audience known to history, and which eventually would cover the better part of three of the five continents of the world. There was one golden rule which he would venture to insist upon — namely, that in the first place, before putting pen to paper, they should compel their own mind to hammer out an absolutely clear and distinct conception of the thought they wished to express, and that then they should put it into the simplest and least Latinised words that came to hand, without giving a thought to what was called style, and confining their attention to the attainment of only two objects — conciseness and lucidity. There was one other useful rule which he would also recommend to all young writers, no matter what might be the nature of their composition, whether books, speeches, sermons, lectures, or addresses — namely, that after they had written them they should cut them down by about one-third. Probably there were few books, fewer still sermons, and certainly no speeches, that had ever been produced or delivered which would not have been much improved by being considerably curtailed.
 
 With regard to public speaking, the first essential principle was undoubtedly practice. He had often heard experienced members of the House of Commons remark on the extraordinary improvement which practice had produced amongst those whom necessary circumstances or their own courage and ambition had induced to persevere in imposing themselves upon a long-suffering audience. He adverted to their writing an extempore speech beforehand, and said they should not send it to the reporters, before it had been delivered, as once was done by an acquaintance of his, who, after all, never got an opportunity of speaking.
 
@@ -716,7 +716,7 @@ His Lordship concluded by mentioning two further rules of conduct — namely, th
 
 ### Specimen: Verbatim Report of a Speech, Probably Reporting
 
-All text from https://orthic.shorthand.fun/supplement , typed or transcribed by Jeremy W Sherman.
+All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , typed or transcribed by Jeremy W Sherman.
 
 Key: Lord Salisbury at the Mansion House
 
@@ -726,7 +726,7 @@ We are quite satisfied with the result of our policy in Ireland. And we think th
 
 With respect to our foreign affairs, there is always a certain difficulty and responsibility, because the speaker is apt to be suspected of intending to assume the mantle of a prophet. I desire entirely to disclaim that intention. We have had a good deal of prophecy of late — they call it meteorology. We are told of things that are certainly to happen in a year’s time. Well, I am not here to discuss those prophecies, but I think confident predictions when they are to the advantage of the predictor are sometimes a mistake, for fortune is fond of flouting such confidence.
 
-<-- cspell:disable-next-line -->But, at all events, whatever we may think of domestic affairs, with respect to Foreign affairs I will speak only of the present what I know; and with respect to the present I will say that there is not on the horizon a single speck of a cloud which contains within it anything injurious to the prospects of peace. In fact, it seems to me that the warfare of nations, if you are to judge by the interest they take in the subject, is slowly changing its object and its field, and that it is the industrial competition which chiefly occupies in these days the chancellaries and diplomacies. The great subjects of consideration are those Treaties of Commerce which are to expire next year; the great question is what tariffs will the various nations adopt with regard to each other. And though, with respect to material warfare, I think we can hold out to you the most promising anticipations, as far as our present prospects go, with respect to this industrial warfare, which has for its weapons protective legislation, and has for its prize the markets of various countries, I am afraid we must be content to occupy for a time a peculiar and isolated position.
+<!-- cspell:disable-next-line -->But, at all events, whatever we may think of domestic affairs, with respect to Foreign affairs I will speak only of the present what I know; and with respect to the present I will say that there is not on the horizon a single speck of a cloud which contains within it anything injurious to the prospects of peace. In fact, it seems to me that the warfare of nations, if you are to judge by the interest they take in the subject, is slowly changing its object and its field, and that it is the industrial competition which chiefly occupies in these days the chancellaries and diplomacies. The great subjects of consideration are those Treaties of Commerce which are to expire next year; the great question is what tariffs will the various nations adopt with regard to each other. And though, with respect to material warfare, I think we can hold out to you the most promising anticipations, as far as our present prospects go, with respect to this industrial warfare, which has for its weapons protective legislation, and has for its prize the markets of various countries, I am afraid we must be content to occupy for a time a peculiar and isolated position.
 
 ![alt text](assets/supp-cropped/s25.png){: .def}
 
@@ -741,7 +741,7 @@ W Stevens, 1896\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
-Rendered into Markdown and annotated by Jacob <-- cspell:disable-next-line -->Moena.\
+Rendered into Markdown and annotated by Jacob <!-- cspell:disable-next-line -->Moena.\
 Teaching has aged into Public Domain.
 
 ![alt text](assets/teach-1-cropped/t100a.jpg){: .def}
@@ -756,7 +756,7 @@ Teaching has aged into Public Domain.
 ![alt text](assets/teach-1-cropped/t103.jpg){: .def}
 
 ### Lesson Two
-<-- cspell:disable -->
+<!-- cspell:disable -->
 foot, reed, reid
 
 ![alt text](assets/teach-1-cropped/t104.jpg){: .def}
@@ -817,7 +817,7 @@ useful, beautiful\
 -ough, ought, thought\
 -ther, other\
 -ward, for'ard, forward
-<-- cspell:enable -->
+<!-- cspell:enable -->
 ### Lesson Five
 
 ever
@@ -826,7 +826,7 @@ ever
 
 round, sound, count, counter, county, country
 
-<-- cspell:disable-next-line -->aso, also, ea, each, ay, any, because, cause, child, children, from, for, form, great, much, that, already, acing, according, after, bth, both, el, els, e'en, even, except, lp, help, kn, know, lile, little, let, letter, pt, part, s, sir, rk, work, rd, would, world
+<!-- cspell:disable-next-line -->aso, also, ea, each, ay, any, because, cause, child, children, from, for, form, great, much, that, already, acing, according, after, bth, both, el, els, e'en, even, except, lp, help, kn, know, lile, little, let, letter, pt, part, s, sir, rk, work, rd, would, world
 
 party
 
@@ -846,7 +846,7 @@ be-, be (dot), behold, been, better, best, by, bring, thing\
 
 ### Lesson Seven
 
-<-- cspell:disable-next-line -->I commend, different, difference, ultimo, interest, ight, 
+<!-- cspell:disable-next-line -->I commend, different, difference, ultimo, interest, ight, 
 
 ![alt text](assets/teach-1-bits/014.jpg){: .def}
 
@@ -871,7 +871,7 @@ I should have been, with a view to, able to do so, as soon as
 
 See Teaching Part One for Sources and Licenses.
 
-https://orthic.shorthand.fun/teaching-pt2
+[Orthic Shorthand Site, Teaching Part Two](https://orthic.shorthand.fun/teaching-pt2)
 
 ![alt text](assets/teach-2-cropped/t200front.jpg){: .def}
 
@@ -899,7 +899,7 @@ declare, digress, disciple, descend, indisputable
 
 who, what, who was\
 did you say which it was, which might have been, they might have been, might have been, which might have been,\
-<-- cspell:disable-next-line -->logical, diate, tiate\
+<!-- cspell:disable-next-line -->logical, diate, tiate\
 flourishing, polishing, varnishing
 
 ![alt text](assets/teach-2-cropped/t205.jpg){: .def}
@@ -938,13 +938,13 @@ tomorrow, follow, narrow, borrow, sorrow\
 under
 
 ![alt text](assets/teach-2-cropped/t209.jpg){: .def}
-<-- cspell:disable -->
+<!-- cspell:disable -->
 under, understand, blunder, thunder\
 undetermined, undiminishing\
 first, best, whilst\
 cerning, concerning\
 paid, paid, laid
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 ![alt text](assets/teach-2-cropped/t210.jpg){: .def}
 
@@ -981,10 +981,7 @@ Hugh L Callendar; E Clarey, 1911\
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
 Revised has aged into Public Domain.
 
-All the specimens of shorthand have been taken from "The Idle Thoughts of an Idle Fellow," by Jerome K Jerome.
-
-https://www.gutenberg.org/files/849/
-
+All the specimens of shorthand have been taken from "The Idle Thoughts of an Idle Fellow," by Jerome K Jerome. Transcript from [Project Gutenberg](https://www.gutenberg.org/files/849/).
 
 ![alt text](assets/revised-cropped/r01.jpg){: .def}
 ![alt text](assets/revised-cropped/r02.jpg){: .def}
@@ -1001,7 +998,7 @@ odd, coo, peep, pup
 
 ### General Rules
 
-<-- cspell:disable-next-line -->re-enter, boa, chaos, co-operate, Leo, fiasco, fuel, poem, serious\
+<!-- cspell:disable-next-line -->re-enter, boa, chaos, co-operate, Leo, fiasco, fuel, poem, serious\
 dirge, faiths, serpent\
 law-suit, lawsuit, bagpipes\
 Jew, Wales, England, S.E., L.S.W.R.
@@ -1016,7 +1013,7 @@ DV: advert, avert\
 MB: timber, lumber, lamb, temper, lumper, lamp\
 NSP: inspirit, inspect, ensphere, conspire\
 PH: phrase, philter, sulphur, epitaph, phase, phlegm, physic\
-<-- cspell:disable-next-line -->PHTH: phthisis, ophthalmic\
+<!-- cspell:disable-next-line -->PHTH: phthisis, ophthalmic\
 PTH: Apthorpe, depth\
 RC: force, tierce, mercy, farcical\
 SCR: scrap, shrink, push, wash\
@@ -1050,7 +1047,7 @@ sneak, seas, peat, beauty
 peel, pull, rein, run\
 grief, gruff\
 briar, denial\
-<-- cspell:disable-next-line -->oedema, toe, woesome\
+<!-- cspell:disable-next-line -->oedema, toe, woesome\
 oil, ointment, foil, coin\
 out, count, aloud, stout\
 toy, annoy, decoy\
@@ -1061,7 +1058,7 @@ guard, dual, usual
 ays, pays, ways, says, prays\
 fs, waifs, hoofs, offspring\
 ks, looks, works, walks\
-<-- cspell:disable-next-line -->mbs, kembs, climbs, numbs\
+<!-- cspell:disable-next-line -->mbs, kembs, climbs, numbs\
 ng, ginger, hang, sting, singer\
 nk, wink, rank, sink, tinker\
 oys, cloys ,employs\
@@ -1099,7 +1096,7 @@ k, e, ea, u, like, beak, duke, kd, kg, kh, kl, kn, kr, ks, ky
 l, lair, rail, male, mare,\
 link, rink, fail, fair,\
 flay, fray, whirl, walrus,\
-<-- cspell:disable-next-line -->lb, lc, lch, lchr, ld, lf, lg, lh, lk, lm, ln, lp, lr, ls, lt, lv, ly
+<!-- cspell:disable-next-line -->lb, lc, lch, lchr, ld, lf, lg, lh, lk, lm, ln, lp, lr, ls, lt, lv, ly
 
 m, mb, mbs, md, ml, mn, mp, ms, mt, my
 
@@ -1109,7 +1106,7 @@ inhale, nj, nk, nl, nm, nqu, nr, enrich, enroll, ns, nsp, nt, nv, nw, inward, en
 
 o, oa, coat, cot, oe, oi, ou, oy
 
-<-- cspell:disable-next-line -->p, ph, ph, phl, phr, phth, pl, pr, pt, pth, pw
+<!-- cspell:disable-next-line -->p, ph, ph, phl, phr, phth, pl, pr, pt, pth, pw
 
 ![alt text](assets/revised-cropped/r09.jpg){: .def}
 
@@ -1169,7 +1166,7 @@ trans, trs, transfer, transmit, transcript
 ![alt text](assets/revised-cropped/r12.jpg){: .def}
 
 ### Terminations
-<-- cspell:disable -->
+<!-- cspell:disable -->
 asion, abrasion, relation\
 ed, tired, faced\
 ful, fl, useful, wonderful, beautiful\
@@ -1190,7 +1187,7 @@ adj, aj, adjure, adjourn\
 dge, ge, edge, lodge, budge\
 tch, ch, fetch, match, crutch
 
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 
 ![alt text](assets/revised-cropped/r13.jpg){: .def}
@@ -1204,7 +1201,7 @@ a, an, able, about, above, after, already, also, always, am, amount, anger, answ
 
 ### On Cats and Dogs
 
-Can you remember, reader, when you and I felt something of the same sort of thing? Can you remember those glorious days of fresh young manhood—how, when coming home along the moonlit road, we felt too full of life for sober walking, and had to spring and skip, and wave our arms, and shout till belated farmers' wives thought—and with good reason, too—that we were mad, and kept close to the hedge, while we stood and laughed aloud to see them scuttle off so fast and made their blood run cold with a wild parting whoop, and the tears came, we knew not why? Oh, that magnificent young LIFE! that crowned us kings of the earth; that rushed through every tingling vein till we seemed to walk on air; that thrilled through our throbbing brains and told us to go forth and conquer the whole world; that welled up in our young hearts till we longed to stretch out our arms and gather all the toiling men and women and the little children to our breast and love them all—all. Ah! they were grand days, those deep, full days, when our coming life, like an unseen organ, pealed strange, <-- cspell:disable -->yearnful<-- cspell:enable --> music in our ears, and our young blood cried out like a war-horse for the battle. Ah, our pulse beats slow and steady now, and our old joints are rheumatic, and we love our easy-chair and pipe and sneer at boys' enthusiasm. But oh for one brief moment of that god-like life again!
+Can you remember, reader, when you and I felt something of the same sort of thing? Can you remember those glorious days of fresh young manhood—how, when coming home along the moonlit road, we felt too full of life for sober walking, and had to spring and skip, and wave our arms, and shout till belated farmers' wives thought—and with good reason, too—that we were mad, and kept close to the hedge, while we stood and laughed aloud to see them scuttle off so fast and made their blood run cold with a wild parting whoop, and the tears came, we knew not why? Oh, that magnificent young LIFE! that crowned us kings of the earth; that rushed through every tingling vein till we seemed to walk on air; that thrilled through our throbbing brains and told us to go forth and conquer the whole world; that welled up in our young hearts till we longed to stretch out our arms and gather all the toiling men and women and the little children to our breast and love them all—all. Ah! they were grand days, those deep, full days, when our coming life, like an unseen organ, pealed strange, <!-- cspell:disable -->yearnful<!-- cspell:enable --> music in our ears, and our young blood cried out like a war-horse for the battle. Ah, our pulse beats slow and steady now, and our old joints are rheumatic, and we love our easy-chair and pipe and sneer at boys' enthusiasm. But oh for one brief moment of that god-like life again!
 
 ![alt text](assets/revised-cropped/r15.jpg){: .def}
 
@@ -1226,7 +1223,7 @@ para, peri, parallel, period, perimeter
 ### Mode 1, Terminations
 
 ive, ev, leave, cove, give, saves, lived, given, loving, grove, novel, movement, prove, solve, shoving, involved\
-<-- cspell:disable-next-line -->ety, iety, ity, entirety, society, insanity, piety, pity
+<!-- cspell:disable-next-line -->ety, iety, ity, entirety, society, insanity, piety, pity
 
 ### Mode 2
 
@@ -1234,7 +1231,7 @@ com, con, compose, comparative, comprehend, preconceived, I conceive, incompeten
 
 ### Mode 3, Prefixes
 
-<-- cspell:disable-next-line -->magna, mague, magni, magnanimity, magnetic, magnify
+<!-- cspell:disable-next-line -->magna, mague, magni, magnanimity, magnetic, magnify
 
 ![alt text](assets/revised-cropped/r17.jpg){: .def}
 
@@ -1244,7 +1241,7 @@ com, con, compose, comparative, comprehend, preconceived, I conceive, incompeten
 age, ake, dge, ge, ke, passage, awake, dredge, wage, strike, urged, taken, change, linger, cake, flake, rake, wake\
 gn, sign, impugn\
 gram, diagram\
-<-- cspell:disable-next-line -->ight, sight, alight\
+<!-- cspell:disable-next-line -->ight, sight, alight\
 ly, lowly, finely, fearfully, nearly, only, lovely, hugely\
 severe, reign, design, benevolent, benevolent, prerogative, regular, reverend, several, alleviate, elevate, intelligence, religion
 
@@ -1254,7 +1251,7 @@ It is a most remarkable thing. I sat down with the full intention of writing som
 
 ![alt text](assets/revised-cropped/r18.jpg){: .def}
 
-my pockets except when I am in the company of my sisters, my cousins, or my aunts; and they kick up such a shindy—I should say expostulate so eloquently upon the subject—that I have to give in and take them out—my hands I mean. The chorus to their objections is that it is not gentlemanly. I am hanged if I can see why. I could understand its not being considered gentlemanly to put your hands in other people's pockets (especially by the other people), but how, O ye sticklers for what looks this and what looks that, can putting his hands in his own pockets make a man less gentle? Perhaps you are right, though. Now I come to think of it, I have heard some people grumble most savagely when doing it. But they were mostly old gentlemen. We young fellows, as a rule, are never quite at ease unless we have our hands in our pockets. We are awkward and shifty. We are like what a music-hall Lion <-- cspell:disable --> Comique <-- cspell:enable --> would be without his opera-hat, if such a thing can be imagined. But let us put our hands in our trousers pockets, and let there be some small change in the right-hand one and a bunch of keys in the left, and we will face a female post-office clerk.
+my pockets except when I am in the company of my sisters, my cousins, or my aunts; and they kick up such a shindy—I should say expostulate so eloquently upon the subject—that I have to give in and take them out—my hands I mean. The chorus to their objections is that it is not gentlemanly. I am hanged if I can see why. I could understand its not being considered gentlemanly to put your hands in other people's pockets (especially by the other people), but how, O ye sticklers for what looks this and what looks that, can putting his hands in his own pockets make a man less gentle? Perhaps you are right, though. Now I come to think of it, I have heard some people grumble most savagely when doing it. But they were mostly old gentlemen. We young fellows, as a rule, are never quite at ease unless we have our hands in our pockets. We are awkward and shifty. We are like what a music-hall Lion <!-- cspell:disable --> Comique <!-- cspell:enable --> would be without his opera-hat, if such a thing can be imagined. But let us put our hands in our trousers pockets, and let there be some small change in the right-hand one and a bunch of keys in the left, and we will face a female post-office clerk.
 
 It is a little difficult to know what to do with your hands, even in your pockets, when there is nothing else there. Years ago, when my whole capital would occasionally come down to "what in town the people call a bob," I would recklessly spend a penny of it, merely for the sake of having the change, all in coppers, to jingle. You don't feel nearly so hard up with eleven pence in your pocket as you do with a shilling. Had I been "La-di-da," that impecunious youth about whom we superior folk are so sarcastic, I would have changed my penny for two ha'pennies.
 
@@ -1267,16 +1264,16 @@ I can speak with authority on the subject of being hard up. I have been a provin
 acknowledge, especially, reference, regulation, extraordinary, ordinary, representative
 delete, erode, indeed, meet, read
 most, must, part, point, right
-<-- cspell:disable-next-line -->head, hood, would, world, might, -ment
+<!-- cspell:disable-next-line -->head, hood, would, world, might, -ment
 
 ### General Method of Abbreviation, Terminations
 
 able, ble, liable, payable, bibles, table, tab\
 acy, asy, curacy, diplomacy, embassy, easy\
-<-- cspell:disable-next-line -->acity, capacity, pertinacity, veracity
+<!-- cspell:disable-next-line -->acity, capacity, pertinacity, veracity
 
 ![alt text](assets/revised-cropped/r20.jpg){: .def}
-<-- cspell:disable -->
+<!-- cspell:disable -->
 ary, ory, elementary, contrary, conservatory\
 bility, ability, affability, insensibility\
 ence, influence, residence, confidence\
@@ -1297,11 +1294,11 @@ struct, instruct, obstructing, destructive\
 wise, likewise, otherwise, unwise\
 ying, conveying, crying, dying, flying
 
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 ![alt text](assets/revised-cropped/r21.jpg){: .def}
 
-<-- cspell:disable -->
+<!-- cspell:disable -->
 ade, ate, made, date\
 decade, deprecate, fade, fate, brigade, gate, hate, obviate, cockade, Kate, glade, late, spade, trade, rate, crusade, wade
 collate, calculate, stimulate\
@@ -1315,7 +1312,7 @@ deprecated, depreciate, fated, faded, forded, hated, headed, hooded, elated, wad
 impeded, sided, eroded, concluded, secreted, indited, voted\
 dd, td
 
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 ![alt text](assets/revised-cropped/r22.jpg){: .def}
 
@@ -1327,7 +1324,7 @@ accord, according, advantage, afraid, afternoon, announce, apparent, appropriate
 
 ![alt text](assets/revised-cropped/r23.jpg){: .def}
 
-<-- cspell:disable-next-line -->neighbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade, particular, party, partly, peculiar, people, pupil, philo-, philosophy, plaintiff, practice, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, such as, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
+<!-- cspell:disable-next-line -->neighbor, nevertheless, next, nor, notwithstanding, number, obedient, object, owner, opportunity, paper, parade, particular, party, partly, peculiar, people, pupil, philo-, philosophy, plaintiff, practice, practice, practical, practise, preach, preacher, property, public, publish, quiet, quietness, report, result, satisfy, satisfactory, saviour, scarcely, selves, serves, serve, servant, short, shorthand, signify, signification, sir, sirs, solicitor, sometimes, source, speak, special, spirit, spect, stage, stake, strong, strength, subject, such, such as, suchas, superior, toy, treacherous, trust, trustee, voyage, wisdom, word, work, yeoman
 
 ### Phraseology
 
@@ -1345,19 +1342,19 @@ But, as a rule, it is not trouble that makes us melancholy. The actuality is too
 
 I am not sneering. I would not for a moment sneer at anything that helps to keep hearts tender in this hard old world. We men are cold and common-sensed enough for all; we would not have women the same. No, no, ladies dear, be always sentimental and soft-hearted, as you are—be the soothing butter to our coarse dry bread. Besides, sentiment is to women what fun is to us. They do not care for our humor, surely it would be unfair to deny them their grief. And who shall say that their mode of enjoyment is not as sensible as ours? Why assume that a doubled-up body, a contorted, purple face, and a gaping mouth emitting a series of ear-splitting shrieks point to a state of more intelligent happiness than a pensive face reposing upon a little white hand, and a pair of gentle tear-dimmed eyes looking back through Time's dark avenue upon a fading past?
 
-<-- cspell:disable-next-line -->I am glad when I see Regret walked with as a friend—glad because I know the saltness has been washed from out the tears, and that the sting must have been plucked from the beautiful face of Sorrow ere we dare press her pale lips to ours. Time has laid his healing hand upon the wound when we can look back upon the pain we once fainted under and no bitterness or despair rises in our hearts. The burden is no longer heavy when we have for our past troubles only the same sweet mingling of pleasure and pity that we feel when old knight-hearted Colonel Newcome answers "adsum" to the great roll-call, 
+<!-- cspell:disable-next-line -->I am glad when I see Regret walked with as a friend—glad because I know the saltness has been washed from out the tears, and that the sting must have been plucked from the beautiful face of Sorrow ere we dare press her pale lips to ours. Time has laid his healing hand upon the wound when we can look back upon the pain we once fainted under and no bitterness or despair rises in our hearts. The burden is no longer heavy when we have for our past troubles only the same sweet mingling of pleasure and pity that we feel when old knight-hearted Colonel Newcome answers "adsum" to the great roll-call, 
 
 
 ![alt text](assets/revised-cropped/r26.jpg){: .def}
 
 ### Notes on Reporting
 
-<-- cspell:disable-next-line -->heptahexahedral, sesquipedalian, trinitarianism
+<!-- cspell:disable-next-line -->heptahexahedral, sesquipedalian, trinitarianism
 
 bl, bl, block, bullock, blow, below, billow, black, bulk, blast, ballast\
 de, di, deformity, deformity, defendant, difficult, delude, dilute\
 dev, div, devote, divulge, develop, devil, dive, divide\
-<-- cspell:disable-next-line -->e, i, inter, enter, illude, elude\
+<!-- cspell:disable-next-line -->e, i, inter, enter, illude, elude\
 ing, bring, singing, mingle\
 x, axiom, excite, export, extent
 
@@ -1365,7 +1362,7 @@ x, axiom, excite, export, extent
 
 h, hasten, hospital, heat, home, adhere, adhesion, addition, had, history\
 silent letters, straight, eight, taught, phthisic, rhyme, buy, blackguard\
-<-- cspell:disable-next-line -->ect, ict, detect, afflict, adject, adjust, affected, afraid, collect, cool, collected, cold, select, sell, strict, strong
+<!-- cspell:disable-next-line -->ect, ict, detect, afflict, adject, adjust, affected, afraid, collect, cool, collected, cold, select, sell, strict, strong
 
 #### Slurring
 
@@ -1384,12 +1381,12 @@ kept, insert, said
 
 #### Terminations
 
-<-- cspell:disable-next-line -->arian, ician, librarian, grammarian, patrician, academician, academian\
+<!-- cspell:disable-next-line -->arian, ician, librarian, grammarian, patrician, academician, academian\
 arity, erity, evity, icity, idity, ivity, hilarity, celerity, brevity, felicity, solidity, activity\
 parity, pity, polarity, polity, privity, principality
 
 ![alt text](assets/revised-cropped/r29.jpg){: .def}
-<-- cspell:disable -->
+<!-- cspell:disable -->
 ector, essor, ictor, itor, utor, collector, assessor, victor, editor, persecutor, coadjutor\
 efy, ify, humefy, gratify, defy, defend, glorify, signify, magnify\
 ereal, erial, icial, etherial, imperial, official\
@@ -1406,13 +1403,13 @@ ulsion, emulsion, repulsion\
 unction, junction, inunction\
 usrion, excursion, incursion\
 compulsion, compunction, discursion, discussion, expulsion, expunction, fusion, function, solution, suction
-<-- cspell:enable -->
+<!-- cspell:enable -->
 
 
 ![alt text](assets/revised-cropped/r30.jpg){: .def}
 
 #### Intersection
-<-- cspell:disable -->
+<!-- cspell:disable -->
 ceous, cious, herbaceous, audacious\
 ctious, ctuous, infectious, unctuous\
 dious, duous, tedious, arduous\
@@ -1423,15 +1420,15 @@ xious, anxious, influxious\
 caseous, capitious, deciduous, deceptious, fatuous, factious, innocuous, innoxious, prescious, precious, tortuous, torious\
 easance, escence, icence, isance, ittance, iscence, istance, istence, malfeasance, excrescence, reticence, nuisance, quittance, reminiscence, distance, existence\
 defeasance, defiance
-<-- cspell:enable -->
+<!-- cspell:enable -->
 ![alt text](assets/revised-cropped/r31.jpg){: .def}
 
 but I can't, there isn't, I shall, we should, Irish descent\
 coalescent, rapturous, and shall, so we can't
 
-#### <-- cspell:disable-next-line -->Phraseography
+#### <!-- cspell:disable-next-line -->Phraseography
 
-<-- cspell:disable-next-line -->it is, it was, it were, it would, 'tis, 'twas, 'twer, 'twill, 'twould\
+<!-- cspell:disable-next-line -->it is, it was, it were, it would, 'tis, 'twas, 'twer, 'twill, 'twould\
 was, I was wrong, nothing was easier, but so it was, it was better so, he was disliked, I was not hurt, it was full, he was late, the way was long, as was, this was, it was well, he was wasteful\
 has, have, he has seen him, it has risen, I have done it\
 I had to tell him, he called to see, we had to do it, able to make, able to do, about to do\
@@ -1442,7 +1439,7 @@ let us, you will, you are, he is, they will, as soon as, so as, those
 
 ![alt text](assets/revised-cropped/r32.jpg){: .def}
 who are, in every respect, never more, for evermore\
-<-- cspell:disable-next-line -->it is said, if further, they are right, it will last, good-day, goodday, many years' standing\
+<!-- cspell:disable-next-line -->it is said, if further, they are right, it will last, good-day, goodday, many years' standing\
 I took, it took, I tried, it tried, could do, did do, good reasons\
 as a matter of course, again and again, more and more, worse and worse, in support of, point of view, for the sake of glory, for the sake of the, sooner or later, in relation to, with regard to, with reference to, face to face, place to place, time to time, in comparison with\
 whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report
@@ -1476,22 +1473,22 @@ abbreviate, abrupt, abstract, absurd, accomplish, acquaint, acquiesce, acquisiti
 
 ![alt text](assets/revised-cropped/r35.jpg){: .def}
 
-<-- cspell:disable-next-line -->battalion, benefit, between, beyond, bitter, brag, brig, breechloader, british, budget, business, biz, christian, cabinet capable, capital, captain, careful, catechise, catechism, catholic, cavalry, celebrate, celebrity, celibacy, celibate, century, certain, certainty, challenge, character, chemical, chemist, christ, christen, congregate, consecutive, consequence, consequent, contingency, contingent, controversy, controversial, convenient, co-operate, cooperate, corporation, corrupt, council, counsel, convenant, creak, creek, credit, cross-examine, crouch, cultivate, culture, cushion, custody, decent, decree, default, defence, definite, degree, delinquency, delinquent, democrat, democratic, describe, description, diabolical, digress, diminish, distinct, distract, district, domestic, domesticate, doubt, dozen, drag, dress, duct
+<!-- cspell:disable-next-line -->battalion, benefit, between, beyond, bitter, brag, brig, breechloader, british, budget, business, biz, christian, cabinet capable, capital, captain, careful, catechise, catechism, catholic, cavalry, celebrate, celebrity, celibacy, celibate, century, certain, certainty, challenge, character, chemical, chemist, christ, christen, congregate, consecutive, consequence, consequent, contingency, contingent, controversy, controversial, convenient, co-operate, cooperate, corporation, corrupt, council, counsel, convenant, creak, creek, credit, cross-examine, crouch, cultivate, culture, cushion, custody, decent, decree, default, defence, definite, degree, delinquency, delinquent, democrat, democratic, describe, description, diabolical, digress, diminish, distinct, distract, district, domestic, domesticate, doubt, dozen, drag, dress, duct
 
 ![alt text](assets/revised-cropped/r36.jpg){: .def}
 
-<-- cspell:disable-next-line -->dwell, dynamite, dynasty, ecclesiastic, ecclesiastical, educate, embrace, enormous, entertain, entertainment, enthusiasm, enthusiastic, episcopal, episcopalian, equal, esquire, essential, establish, exaggerate, example, exhaust, expenditure, extemporaneous, extempore, extemporise, extinct, extinguish, extract, extravagance, extravagant, extreme, facilitate, facility, fact, faculty, familiar, farce, farcical, feminine, finance, financial, free, frequent, frequency, fulfil, funeral, furnish, furniture, future, futurition, generation, genuine, grace, gradual, graduate, grave, gravely, gravy, greek, growth, harass, hazard, health, hedge, hesitate, hold, holy, hope, horizon, ignore, ignorance, ignorant, immediate, imperturbable, impregnable, incidence, incognito, indefatigable, independence, independent, indispensable, inevitable, inexcusable, inexorable, inscription, insistance, insistant, instinct, insurmountable, integrated, integrity, intelligence, intelligent, interrupt, introduction, kill, knight
+<!-- cspell:disable-next-line -->dwell, dynamite, dynasty, ecclesiastic, ecclesiastical, educate, embrace, enormous, entertain, entertainment, enthusiasm, enthusiastic, episcopal, episcopalian, equal, esquire, essential, establish, exaggerate, example, exhaust, expenditure, extemporaneous, extempore, extemporise, extinct, extinguish, extract, extravagance, extravagant, extreme, facilitate, facility, fact, faculty, familiar, farce, farcical, feminine, finance, financial, free, frequent, frequency, fulfil, funeral, furnish, furniture, future, futurition, generation, genuine, grace, gradual, graduate, grave, gravely, gravy, greek, growth, harass, hazard, health, hedge, hesitate, hold, holy, hope, horizon, ignore, ignorance, ignorant, immediate, imperturbable, impregnable, incidence, incognito, indefatigable, independence, independent, indispensable, inevitable, inexcusable, inexorable, inscription, insistance, insistant, instinct, insurmountable, integrated, integrity, intelligence, intelligent, interrupt, introduction, kill, knight
 
 
 
 ![alt text](assets/revised-cropped/r37.jpg){: .def}
 
-<-- cspell:disable-next-line -->last, latest, latin, latitude. laudanum, legible, legislate, liberal, liberty, license, licentiate, lieutenant, literal, literary, literature, local, localise, magazine, majesty, major, manufacture, manuscript, market, marksman, mathematics, mathematical, meanwhile, measure, melody, memorandum, meteor, method, metropolis, metropolitan, microscope, microscopical, military, militia, mischief, mischievous, modern, monopoly, monopolise, moreover, municipal, mutilate, mystery, nature, navigate, necessity, necessitate, obscure, obvious, occupy, omit, omnipotence, omnipotent, opposite, organize, original, originate, orthodox, parliament, parochial, parody, paroxysm, passenger, path, pension, perpendicular, perpetual, perpetuate, philanthropy, philanthropic, pysiognomy, please, pleasure, plenipotentiary, policy, political, popular, populate, population, position, possess, possible, post-office, postoffice, post office, poverty, prejudice, preliminary, preserve press, principal, principle, privilege, prize, probable, 
+<!-- cspell:disable-next-line -->last, latest, latin, latitude. laudanum, legible, legislate, liberal, liberty, license, licentiate, lieutenant, literal, literary, literature, local, localise, magazine, majesty, major, manufacture, manuscript, market, marksman, mathematics, mathematical, meanwhile, measure, melody, memorandum, meteor, method, metropolis, metropolitan, microscope, microscopical, military, militia, mischief, mischievous, modern, monopoly, monopolise, moreover, municipal, mutilate, mystery, nature, navigate, necessity, necessitate, obscure, obvious, occupy, omit, omnipotence, omnipotent, opposite, organize, original, originate, orthodox, parliament, parochial, parody, paroxysm, passenger, path, pension, perpendicular, perpetual, perpetuate, philanthropy, philanthropic, pysiognomy, please, pleasure, plenipotentiary, policy, political, popular, populate, population, position, possess, possible, post-office, postoffice, post office, poverty, prejudice, preliminary, preserve press, principal, principle, privilege, prize, probable, 
 
 
 ![alt text](assets/revised-cropped/r38.jpg){: .def}
 
-<-- cspell:disable-next-line -->purpose, purport, put, qualify, quality, quarter, question, questionable, reason, reasons, recent, reciprocate, recognise, refer, reference, regard, regular, regulate, relate, relinquish, remain, remark, remunerate, repugnance, repugnant, return, revenue, reverberate, routine, rule, science, separate, shown, seek, sick, significance, significant, similar, simple, singular, situate, skill, small, spasm, speculate, speculation, strange, stranger, strychnine, subordinate, subsequent, success, suffice, sufficient, suppose, supposition, surprise, suspicion, suspicious, sympathy, sympathise, system, systematic, tabernacle, tantamount, teetotal, temper, temperate, temperature, temporary, thanksgiving, town, transmission, treasure, treason, unanimity, unanimous, uninfluential, university, upon, utilise, utility, valuable, vapor, variety, various, vary, vegetable, vegetate, velvet, vengeance, venom, verbatim, vice versa, vice-versa, visible, visit, wait, warfare, welfare, wholesale, worth, yesterday, yield
+<!-- cspell:disable-next-line -->purpose, purport, put, qualify, quality, quarter, question, questionable, reason, reasons, recent, reciprocate, recognise, refer, reference, regard, regular, regulate, relate, relinquish, remain, remark, remunerate, repugnance, repugnant, return, revenue, reverberate, routine, rule, science, separate, shown, seek, sick, significance, significant, similar, simple, singular, situate, skill, small, spasm, speculate, speculation, strange, stranger, strychnine, subordinate, subsequent, success, suffice, sufficient, suppose, supposition, surprise, suspicion, suspicious, sympathy, sympathise, system, systematic, tabernacle, tantamount, teetotal, temper, temperate, temperature, temporary, thanksgiving, town, transmission, treasure, treason, unanimity, unanimous, uninfluential, university, upon, utilise, utility, valuable, vapor, variety, various, vary, vegetable, vegetate, velvet, vengeance, venom, verbatim, vice versa, vice-versa, visible, visit, wait, warfare, welfare, wholesale, worth, yesterday, yield
 
 ![alt text](assets/revised-cropped/r39.jpg){: .def}
 
@@ -1521,7 +1518,7 @@ Memory is a rare ghost-raiser. Like a haunted house, its walls are ever echoing 
 
 Oh, those young bright faces, so full of truth and honor, of pure, good thoughts, of noble longings, how reproachfully they look upon us with their deep, clear eyes!
 
-<-- cspell:disable-next-line -->I fear they have good cause for their sorrow, poor lads. Lies and cunning and disbelief have crept into our hearts since those preshaving days—and we meant to be so great and good.
+<!-- cspell:disable-next-line -->I fear they have good cause for their sorrow, poor lads. Lies and cunning and disbelief have crept into our hearts since those preshaving days—and we meant to be so great and good.
 
 It is well we cannot see into the future. There are few boys of fourteen who would not feel ashamed of themselves at forty.
 
@@ -1529,7 +1526,7 @@ I like to sit and have a talk sometimes with that odd little chap that was mysel
 
 We don't talk much at first, but look at one another; I down at his curly hair and little blue bow, he up sideways at me as he trots. And some-how I fancy the shy, round eyes do not altogether approve of me, and he heaves a little sigh, as though he were disappointed. But after awhile his bashfulness wears off and he begins to chat. He tells me his favorite fairy-tales, he can do up to six times, and he has a guinea-pig, and pa says fairy-tales ain't true; and isn't it a pity? 'cos he would so like to be a knight and fight a dragon and marry a beautiful princess. But he takes a more practical view of life when he reaches seven, and would prefer to grow up be a bargee, and earn a lot of money. Maybe this is the consequence of falling in love, which he does about this time with the young lady at the milk shop aet. six. (God bless her little ever-dancing feet, whatever size they may be now!) He must be very fond of her, for he gives her one day his chiefest treasure, to wit, a huge pocket-knife with four rusty blades and a corkscrew, which latter has a knack of working itself out in some mysterious manner and sticking into its owner's leg. She is an affectionate little thing, and she throws her arms round his neck and kisses him for it, then and there, outside the shop. But the stupid world (in the person of the boy at the cigar emporium next door) jeers at such tokens of love. Whereupon my young friend very properly prepares to punch the head of the boy at the cigar emporium next door; but fails in the attempt, the boy at the cigar emporium next door punching his instead.
 
-<-- cspell:disable-next-line -->And then comes school life, with its bitter little sorrows and its joyous shoutings, its jolly larks, and its hot tears falling on beastly Latin grammars and silly old copy-books. It is at school that he injures himself for life—as I firmly believe—trying to pronounce German; and it is there, too, that he learns of the importance attached by the French nation to pens, ink, and paper. "Have you pens, ink, and paper?" is the first question asked by one Frenchman of another on their meeting. The other fellow has not any of them, as a rule, but says that the uncle of his brother has got them all three. The first fellow doesn't appear to care a hang about the uncle of the other fellow's brother; what he wants to know now is, has the neighbor of the other fellow's mother got 'em? "The neighbor of my mother has no pens, no ink, and no paper," replies the other man, beginning to get wild. "Has the child of thy female gardener some pens, some ink, or some paper?" He has him there. After worrying enough about these wretched inks, pens, and paper to make everybody miserable, it turns out that the child of his own female gardener hasn't any. 
+<!-- cspell:disable-next-line -->And then comes school life, with its bitter little sorrows and its joyous shoutings, its jolly larks, and its hot tears falling on beastly Latin grammars and silly old copy-books. It is at school that he injures himself for life—as I firmly believe—trying to pronounce German; and it is there, too, that he learns of the importance attached by the French nation to pens, ink, and paper. "Have you pens, ink, and paper?" is the first question asked by one Frenchman of another on their meeting. The other fellow has not any of them, as a rule, but says that the uncle of his brother has got them all three. The first fellow doesn't appear to care a hang about the uncle of the other fellow's brother; what he wants to know now is, has the neighbor of the other fellow's mother got 'em? "The neighbor of my mother has no pens, no ink, and no paper," replies the other man, beginning to get wild. "Has the child of thy female gardener some pens, some ink, or some paper?" He has him there. After worrying enough about these wretched inks, pens, and paper to make everybody miserable, it turns out that the child of his own female gardener hasn't any. 
 
 
 ![alt text](assets/revised-cropped/r41.jpg){: .def}
@@ -1540,7 +1537,7 @@ We don't talk much at first, but look at one another; I down at his curly hair a
 
 ## Psalms, KJV, Supplement to Teaching 1 and 2, Stevens
 
-https://orthic.shorthand.fun/reading
+[Orthic Shorthand Site, Reading](https://orthic.shorthand.fun/reading)
 
 Too much to include here. If you're desperate for an example or dictation material, [you can find all the Psalms in one place here].(https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=DIV1&byte=2190116)
 
@@ -1575,7 +1572,7 @@ xxx get link to another copy
 
 ### Aesop's Fables
 
-<-- cspell:disable-next-line -->Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match. [Jeremy W Sherman]
+<!-- cspell:disable-next-line -->Key to fables: The fables and their morals and applications appear to be drawn from the 1866 publication of [_The Fables of Æsop, translated into English by Samuel Croxall, D.D., with new applications, morals, etc. by the Rev. Geo. Fyler Townsend_](https://archive.org/details/fablesosaesoptr00towngoog/page/n28/mode/2up) Croxall's translations were re-edited and republished for decades, but this version seems to be a word for word match. [Jeremy W Sherman]
 
 ### The Wolf and the Lamb, Abbreviated, Stevens
 
@@ -1666,7 +1663,7 @@ statement of the situation as it appears to me. Ours is a \
 democratic Government. We gain all our strength from the confidence \
 of the people, and we cannot gain strength or confidence unless \
 we show confidence in return, and therefore, to my mind, \
-there is no longer any room for the mysteries and the <-- cspell:disable -->reticencies<-- cspell:enable --> of the \
+there is no longer any room for the mysteries and the <!-- cspell:disable -->reticencies<!-- cspell:enable --> of the \
 diplomacy of 50 years ago. You must tell the people what you \
 mean and where you are going if you want them to \
 follow you. I do not mean to say that I can \
@@ -1674,7 +1671,7 @@ tell you all the details of secret negotiations. That, of course, \
 would be absolutely absurd, and would make negotiations \
 impossible. But the plain issue and the main principles \
 and the particulars of the problems with which we have to deal -- those might \
-be stated in language to be <-- cspell:disable -->understanded<-- cspell:enable --> of the people, \
+be stated in language to be <!-- cspell:disable -->understanded<!-- cspell:enable --> of the people, \
 and I would take the judgement of the people just as soon upon them as \
 I would take that of the wisest diplomatist in the world. Now the \
 first point I want to impress upon you is this. It is the \
@@ -1721,7 +1718,7 @@ neglected our primary duty. We have  it steadfastly \
 and with results that are patent to all the world. Never before \
 in the history of the British Empire have the ties which connected us with \
 our great colonies and dependencies been stronger, never before has \
-the sense of common interests in trade and in <-- cspell:disable -->defence<-- cspell:disable-next-enable --> and in \
+the sense of common interests in trade and in <!-- cspell:disable -->defence<!-- cspell:disable-next-enable --> and in \
 peace and war -- never before has the sense of these interests been \
 more strongly felt or more cordially expressed. \
 What is our next duty? It is to establish and maintain \

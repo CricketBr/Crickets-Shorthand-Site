@@ -74,7 +74,8 @@ No promises about accuracy. Let me know if you find a mistake and I'll fix it or
 Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
 
 * [Carry On Jeeves, PG Wodehouse. Humour, Orthic](carry-on-main.md)\
-Written in Shorthand by Cricket. Starts with Fully Written Style and adds rules a bit at a time.
+Written in Shorthand by Cricket. Starts with Fully Written Style and adds rules a bit at a time.\
+[Carry On Jeeves on Project Gutenberg](https://www.gutenberg.org/cache/epub/65974/pg65974-images.html)
 
 * [Reading Material on orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
 
