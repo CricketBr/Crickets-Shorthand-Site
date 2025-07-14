@@ -4,11 +4,6 @@ title: CSW Homepage
 rev: 2025-07-11, 151
 ---
 
-Finally! All in one place and with human-readable URLs.
-
-Still a work in progress. Plans will probably change.
-
-Comments and corrections are more than welcome.
 
 ## Site Map
 
@@ -25,6 +20,13 @@ Comments and corrections are more than welcome.
 * [Papers and Word Lists](#papers-lists)
 * [License](#license)
 * [Contact](#contact)
+
+
+Finally! All in one place and with human-readable URLs.
+
+Still a work in progress. Plans will probably change.
+
+Comments and corrections are more than welcome.
 
 ## Cricket's Shorthand Course
 
@@ -58,7 +60,7 @@ Lists of words by rule, created as Cricket needs them.
 
 ### [Words from Examples](orth-cnsl-words-examples.md)
 
-All the words used as examples and in longer passages. Includes Aesop's Fables and Dufferin's Speech, but not Psalms or New Testament. Useful to look up examples.
+All the words used as examples and in longer passages. Includes Aesop's Fables and <!-- cspell:disable --> Dufferin's Speech <!-- cspell:enable -->, but not Psalms or New Testament. Useful to look up examples.
 
 ### Orthic Consolidated Reverse Rules -- Not Started
 

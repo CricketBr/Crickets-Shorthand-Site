@@ -58,6 +58,8 @@ header {
 
 }
 
+header p {margin-bottom:0}
+
 main {
     background-color: white;
     text-align: left;

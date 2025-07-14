@@ -15,7 +15,7 @@ This page must be included in all shared copies.
 
 My intention is to begin by assuming you can read the Fully Written Style, and add a new rule every few lines. I will prioritize rules that I find the most useful, but and introduce them more frequently to save what's left of my sanity.
 
-I'll speedbuild each passage, so might also share that version.
+I'll build speed for each passage, so might also share that version.
 
 It's a plan. In pencil.
 
@@ -27,6 +27,7 @@ Page 1
 
 xxx image
 
-Fully Written, which I find painfully slow (after decades of slowly writing Gregg). "Jeeves" will probably appear many times, so he gets a brief form. I'm including all the punctuation, since in this sort of book the author's choice of pacing is adds to the fun. Hyphens -- I'm using double instead of intersected. This is the last entry I'll write the, their, etc fully. That's my stated limit of a new rule every few 
+This page is Fully Written, which I find painfully slow (after decades of slowly writing Gregg). Jeeves will probably appear many times, so he gets an abbreviation. All the punctuation is included, since in this sort of book the author's choice of pacing is adds to the fun. Hyphens are doubled instead of intersected; it's just as fast and stands out more. Agatha and Willoughby should get brief forms. They're named 27 times in the book. They'll get them when they next appear. I gave up trying to write "ghby" in Willoughby. It's an uncommon enough name that I want it written clearly once.
+
 
 
