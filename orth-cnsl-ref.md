@@ -119,7 +119,8 @@ Hugh L Callendar, 1891.\
 [Scanned at google books](https://books.google.com/books/about/A_Manual_of_Orthographic_Cursive_Shortha.html?id=kQ5SAAAAYAAJ)\
 Rendered into Markdown and annotated by Jeremy W Sherman.\
 The Manual has aged into Public Domain.\
-Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).{: .man}
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+{: .man}
 
 **The Supplement**\
 Supplement to the Manual of Orthic Shorthand (Orthographic Cursive)\
@@ -129,7 +130,8 @@ Hugh L Callendar, 1892.\
 [Scanned at archive.org][https://archive.org/details/supplement-to-the-manual-of-orthic-shorthand-orthographic-cursive-by-hugh-l.-callendar]\
 The Supplement has aged into Public Domain.\
 Rendered into Markdown and annotated by Jeremy W Sherman.\
-Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).{: .sup}
+Jeremy's work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+{: .sup}
 
 **Teaching (Parts 1 and 2)**\
 The Teaching of Orthic Shorthand: A series of lessons for the use of teachers and students of Orthographic shorthand (Callendar's system)\
@@ -141,7 +143,8 @@ W Stevens, 1896\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
 <!-- cspell:disable-next-line -->Rendered into Markdown and annotated by Jacob Moena.\
-Teaching has aged into Public Domain.{: .teach1}
+Teaching has aged into Public Domain.
+{: .teach1}
 
 **Revised, Extended and Improved**\
 Orthographic Cursive Shorthand (Orthic); The Cambridge System; Revised, Extended and Improved\
@@ -149,7 +152,8 @@ Hugh L Callendar; E Clarey, 1911\
 [Scanned at orthic.shorthand.fun under Resources](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 [Scanned at National Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=3408323)\ 
 Some of Clarey's explanations and examples are good. Some of his additions and changes are not. His penmanship style is very different, and worth experimenting with.
-Revised has aged into Public Domain.{: .rev}
+Revised has aged into Public Domain.
+{: .rev}
 
 **Dictionary**\
 [orthic.shorthand.fun](https://orthic.shorthand.fun/dictionary)\
