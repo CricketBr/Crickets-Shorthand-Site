@@ -832,23 +832,23 @@ party
 
 ### Lesson Six
 
-![alt text](assets/teach-1-bits/011.jpg){: .def}
+![alt text](assets/teach-1-bits/t111.jpg){: .def}
 
 although\
 eve, given loved, evident, conceived, ever, 
 
-![alt text](assets/teach-1-bits/012.jpg){: .def}
+![alt text](assets/teach-1-bits/t12.jpg){: .def}
 
 give, love, rove\
 be-, be (dot), behold, been, better, best, by, bring, thing\
 
-![alt text](assets/teach-1-bits/013.jpg){: .def}
+![alt text](assets/teach-1-bits/t113.jpg){: .def}
 
 ### Lesson Seven
 
 <!-- cspell:disable-next-line -->I commend, different, difference, ultimo, interest, ight, 
 
-![alt text](assets/teach-1-bits/014.jpg){: .def}
+![alt text](assets/teach-1-bits/t114.jpg){: .def}
 
 foreign, age, magnify, take, taking, sake
 
@@ -856,13 +856,13 @@ foreign, age, magnify, take, taking, sake
 
 member, man
 
-![alt text](assets/teach-1-bits/015.jpg){: .def}
+![alt text](assets/teach-1-bits/t115.jpg){: .def}
 
 count, county, final, upper
 
 ### Lesson Nine
 
-![alt text](assets/teach-1-bits/016.jpg){: .def}
+![alt text](assets/teach-1-bits/t116.jpg){: .def}
 
 I should have been, with a view to, able to do so, as soon as
 

@@ -77,7 +77,7 @@ Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly)
 Written in Shorthand by Cricket. Starts with Fully Written Style and adds rules a bit at a time.\
 [Carry On Jeeves on Project Gutenberg](https://www.gutenberg.org/cache/epub/65974/pg65974-images.html)
 
-* [Reading Material on orthic.shorthand.fun](https://orthic.shorthand.fun/reading) 
+* [Reading Material on Orthic Shorthand Site (orthic.shorthand.fun)](https://orthic.shorthand.fun/reading) 
 
 
 <a id="papers-lists">

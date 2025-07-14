@@ -23,4 +23,10 @@ All Comments Welcome.
 
 Cricket
 
+Page 1
+
+xxx image
+
+Fully Written, which I find painfully slow (after decades of slowly writing Gregg). "Jeeves" will probably appear many times, so he gets a brief form. I'm including all the punctuation, since in this sort of book the author's choice of pacing is adds to the fun. Hyphens -- I'm using double instead of intersected. This is the last entry I'll write the, their, etc fully. That's my stated limit of a new rule every few 
+
 
