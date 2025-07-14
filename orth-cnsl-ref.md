@@ -72,7 +72,7 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 
 **Jeremy W Sherman** : Creator of [www.orthic.shorthand.fun](www.orthic.shorthand.fun), who found, transcribed, clipped, and re-assembled the Manual and Supplement; programmed and made the database for the online dictionary, including diving into several large blocks of shorthand; and helped with Consolidated by finding examples of rules buried in the shorthand samples.
 
-<-- cspell:disable-next-line -->**Jacob Moena** : Transcriber, clipper, and assembler of Teaching Part 1 and 2.
+<!-- cspell:disable-next-line -->**Jacob Moena** : Transcriber, clipper, and assembler of Teaching Part 1 and 2.
 
 ### Conventions
 
@@ -140,7 +140,7 @@ W Stevens, 1896\
 [Teaching 1, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf)\
 [Teaching 2, Scanned at orthic.shorthand.fun](https://orthic.shorthand.fun/assets/teaching/pt2/Teaching%20of%20Orthic%20Pt%202%201896%20Stevens.pdf)\
 Teaching Part One is Fully Written, Ordinary and Abbreviated. Part Two is Reporting.  It has many examples of what happens if you don't follow the rules.\
-<-- cspell:disable-next-line -->Rendered into Markdown and annotated by Jacob Moena.\
+<!-- cspell:disable-next-line -->Rendered into Markdown and annotated by Jacob Moena.\
 Teaching has aged into Public Domain.
 
 **Revised, Extended and Improved**\
@@ -267,14 +267,14 @@ A short connecting tick maybe used after ER, TH, etc, and when they are followed
 This rule is only in Revised. Clarey may need this more than the other writers due to his different style of writing. Sometimes it's because there isn't space between loops. Sometimes it's because he wants an R to remain round, not looped as in Gregg. (Cricket)
 
 ![shorthand image](assets/revised-split/1connecting-tick-r03.jpg){: .rev}\
-<-- cspell:disable-next-line -->Revised: er, th, G, P, S, dirg, faiths, serpent
+<!-- cspell:disable-next-line -->Revised: er, th, G, P, S, dirg, faiths, serpent
 
 #### Dividing Words
 
 You can divide a word to keep it on the line. Beware that this might be confused with writing by mode. (Cricket)
 
 ![shorthand image](assets/manual-bits/1divide-line-m005.png){: .man}\
-<-- cspell:disable-next-line -->Manual: lawsuit, Woolwich, virgin
+<!-- cspell:disable-next-line -->Manual: lawsuit, Woolwich, virgin
 
 ![shorthand image](assets/revised-split/1divide-r03.jpg){: .rev}\
 Revised: lawsuit, bagpipes
@@ -329,10 +329,10 @@ Leave the angle between the vowels. For ao/oa, leave a gap.
 Check both orders of vowels to see all example words.
 
 ![shorthand image](assets/manual-bits/1vow-sep-m004.png){: .man}\
-<-- cspell:disable-next-line -->Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
+<!-- cspell:disable-next-line -->Manual: re-enter, Oölite, Deä, create, Leo, fiasco, serious, fuel, poem
 
 ![shorthand image](assets/teach-1-bits/1vowindiv-t104.jpg){: .teach1}\
-<-- cspell:disable-next-line -->Teaching 1: oar, Laon
+<!-- cspell:disable-next-line -->Teaching 1: oar, Laon
 
 ![shorthand image](assets/revised-split/1vow-indiv-r03.jpg){: .rev}\
 Revised: re-enter, boa, chaos, co-operate, Leo, fiasco, fuel, poem, serious
@@ -378,7 +378,7 @@ Manual: ai, au, ay, days, quay, says, hay,
 ![shorthand image](assets/teach-1-bits/dear-t104.jpg){: .teach1-1row}
 ![shorthand image](assets/teach-1-bits/dear-wrong-t104.jpg){: .teach1-1row}
 ![shorthand image](assets/teach-1-bits/demr-t104.jpg){: .teach1-1row}\
-<-- cspell:disable-next-line -->Teaching 1: dear, dear(wrong), demr,
+<!-- cspell:disable-next-line -->Teaching 1: dear, dear(wrong), demr,
 
 ![shorthand image](assets/teach-1-bits/meal-t104.jpg){: .teach1-1row}
 ![shorthand image](assets/teach-1-bits/mail-t104.jpg){: .teach1-1row}\
@@ -409,7 +409,7 @@ Teaching 1 recommends that AI always be written in AI order, regardless of surro
 #### -AO-, -OA-, -AU-
 
 ![shorthand image](assets/teach-1-bits/oar,laon-t104.jpg){: .teach1}\
-<-- cspell:disable-next-line -->Teaching 1: oar, Laon,
+<!-- cspell:disable-next-line -->Teaching 1: oar, Laon,
 
 ![shorthand image](assets/revised-split/au-r05.jpg){: .teach1}\
 Revised: au, audit, landau,
@@ -466,7 +466,7 @@ Revised: i, e, ia, ie,
 Manual: oar, or, oak, oi, toil, ou, out, oy, boys,
 
 ![shorthand image](assets/revised-split/oe-r06.jpg){: .rev}\
-<-- cspell:disable-next-line -->Revised: oe, oedema, toe, woesome,
+<!-- cspell:disable-next-line -->Revised: oe, oedema, toe, woesome,
 
 ![shorthand image](assets/revised-split/oi-r06.jpg){: .rev}\
 Revised: oi, oil, ointment, foil, coin,
@@ -550,7 +550,7 @@ CH is included here because it's presented with C. Further details are under H.
 Manual: ck, suckle, cl, close, cr, crutch, ct,
 
 ![shorthand image](assets/teach-1-bits/chl,chr-t105.jpg){: .teach1}\
-<-- cspell:disable-next-line -->Teaching 1: chlo, chro,
+<!-- cspell:disable-next-line -->Teaching 1: chlo, chro,
 
 ![shorthand image](assets/revised-split/c-r07.jpg){: .rev}\
 Revised: cd, ch, chl, chr, aches, pitch'd, filches, pilchard, ck, cl, cm, cn, cqu, cr, cs, ct, cy,
@@ -582,7 +582,7 @@ Manual: student,
 ![shorthand image](assets/revised-split/d-r07.jpg){: .rev}\
 Revised: d, t, df, dge, dh, dj, dk, dle, dm, dn, dre, ds, dt, dv, dw, dy, dz,
 
--DEN- series. In DN the letters form a wave. The end of one letter and the beginning of the next share a line. In DEN, the combination begins and ends on the same line. In <-- cspell:disable -->DEEN<-- cspell:enable -->, there is actually a line This is what most beginning writers think DEN should look like. I cannot find anywhere this is stated clearly, but it is consistent across all 4 books. (Cricket)
+-DEN- series. In DN the letters form a wave. The end of one letter and the beginning of the next share a line. In DEN, the combination begins and ends on the same line. In <!-- cspell:disable -->DEEN<!-- cspell:enable -->, there is actually a line This is what most beginning writers think DEN should look like. I cannot find anywhere this is stated clearly, but it is consistent across all 4 books. (Cricket)
 
 DD, DT and TD can be written as a double-wide D. See Abbreviating Principles.
 
@@ -639,7 +639,7 @@ Most letters combine with H in "interesting" ways. CH, WH, and combinations star
 
 See S for S+H+R combinations, including SH, SCH, SHR, SR
 
-<-- cspell:disable -->
+<!-- cspell:disable -->
 
 <table tabindex="0">
   <thead>
@@ -727,7 +727,7 @@ See S for S+H+R combinations, including SH, SCH, SHR, SR
     </tr>
   </tbody>
 </table>
-<-- cspell:disable -->
+<!-- cspell:disable -->
 
 ![shorthand image](assets/manual-bits/h-m008.png){: .man}\
 Manual (H): ha, cha, hat, chat, what, which,
@@ -842,9 +842,6 @@ Manual has no images.
 
 ![shorthand image](assets/teach-1-bits/ks-t105.jpg){: .teach1}\
 Teaching 1: ks-correct, ks-not-recommended\
-
-![shorthand image](assets/teach-1-bits/k-sublin-t114.jpg){: .teach1}\
-Teaching 1: take, taking, sake,
 
 ![shorthand image](assets/revised-split/ks-r06.jpg){: .rev}\
 Revised: ks, looks, works, walks,
@@ -1996,6 +1993,10 @@ Note piety vs pity. (Revised)
 Revised: inject, project, reject,
 
 #### -KE -- See -GE
+
+![shorthand image](assets/teach-1-bits/k-sublin-t114.jpg){: .teach1}\
+Teaching 1: take, taking, sake,
+
 
 #### -LESS `ls`
 ![shorthand image](assets/manual-bits/less-m016.png){: .man}\

@@ -17,7 +17,7 @@ Comments and corrections are more than welcome.
   * Course Summary – Not Started
   * [Tips - Deprecated](cr-shorthand-tips.md)
 * Orthic Consolidated
-  * [Reference – Final Edit Stage](orth-cnsl-ref.md)
+  * [Reference](orth-cnsl-ref.md)
   * Study Lists – Not Started
   * [Words from Examples](orth-cnsl-words-examples.md)
   * Orthic Consolidated Reverse Rules – Not Started
@@ -42,7 +42,7 @@ A collection of tips I've accumulated over the years. Replaced by Cricket's Shor
 
 ## Orthic Consolidated
 
-### [Reference  -- Final Edit Stage](orth-cnsl-ref.md)
+### [Reference](orth-cnsl-ref.md)
 
 *Being an Improved and Expanded Consolidation of Various Books with Clarifications, Additions, Warnings and Opinions of the Author and Others who Might Comment*
 
