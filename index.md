@@ -89,7 +89,9 @@ Based on works listed on each page under [Sources](#sources), which may have add
 
 You are welcome to copy and share the files exactly as presented here. All the files include a revision date, copyright notice, and a link to this source.
 
-## Site Map {#sitemap}
+<a id="sitemap">
+
+## Site Map
 
 * Cricket’s Shorthand Course
   * [Course](cr-shorthand-course.md)
