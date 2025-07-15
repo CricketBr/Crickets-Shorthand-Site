@@ -136,7 +136,7 @@ footer {
 
 
 a {
-    color: var(--accentTable);
+    color: var(--accentLinks);
     text-decoration: underline;
     /* font-weight: bold; */
     overflow-wrap: break-word;
