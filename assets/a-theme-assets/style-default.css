@@ -8,7 +8,7 @@
     --white: hsl(0, 0%, 100%);
     --accentTable: #91bbe3;
     --accentHeadLinkHover: #217ad0;
-    --accentBkg: #5495d4;
+    --accentBkg: #91bbe3;
     --accentBorders: #055aac;
     --accentLinks: #055aac;
     --accentText:black;
@@ -71,7 +71,7 @@ html {
 body {
 
     margin: auto;
-    padding: 02ex;
+    padding: 2rex;
     max-width: 800px;
     background-color: var(--accentBkg);
 }
@@ -102,14 +102,14 @@ nav {
     background-color: var(--accentBkg);
     padding-left: 2rem;
     padding-right: 2rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
     /* padding-bottom: rem; */
     /* background-color: yellow; */
 }
 
 .sitename {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-weight: bold;
     padding-bottom: 0rex;
     margin-bottom: 1rex;
@@ -136,7 +136,7 @@ footer {
 
 
 a {
-    color: var(--accentLinks);
+    color: var(--accentTable);
     text-decoration: underline;
     /* font-weight: bold; */
     overflow-wrap: break-word;
@@ -160,10 +160,14 @@ header a {
 
 nav a {
     text-decoration: none;
+    padding-right:1rex;
 }
 
 nav a:hover {
-    background-color: var(--accentHeadLinkHover);
+    /* background-color: var(--accentHeadLinkHover); */
+    border-bottom:none;
+    text-decoration: solid;
+
 }
 
 a:hover {
