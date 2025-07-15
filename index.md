@@ -13,20 +13,7 @@ Still a work in progress. Plans will probably change.
 Comments and corrections are more than welcome.
 
 
-<!-- * Cricket’s Shorthand Course
-  * [Course](cr-shorthand-course.md)
-  * Course Summary – Not Started
-  * [Tips - Deprecated](cr-shorthand-tips.md)
-* Orthic Consolidated
-  * [Reference](orth-cnsl-ref.md)
-  * Study Lists – Not Started
-  * [Words from Examples](orth-cnsl-words-examples.md)
-  * Orthic Consolidated Reverse Rules – Not Started
-  * [Orthic Reading Material](#reading)
-* [Papers and Word Lists](#papers-lists)
-* [License](#license)
-* [Contact](#contact)
- -->
+
 
 
 
@@ -101,6 +88,26 @@ Unless otherwise stated, all material on this site is licensed under a Creative 
 Based on works listed on each page under [Sources](#sources), which may have additional licensing requirements.
 
 You are welcome to copy and share the files exactly as presented here. All the files include a revision date, copyright notice, and a link to this source.
+
+## Site Map{#sitemap}
+
+* Cricket’s Shorthand Course
+  * [Course](cr-shorthand-course.md)
+  * Course Summary – Not Started
+  * [Tips - Deprecated](cr-shorthand-tips.md)
+* Orthic Consolidated
+  * [Reference](orth-cnsl-ref.md)
+  * Study Lists – Not Started
+  * [Words from Examples](orth-cnsl-words-examples.md)
+  * Orthic Consolidated Reverse Rules – Not Started
+  * [Orthic Reading Material](#reading)
+* [Papers and Word Lists](#papers-lists)
+* [License](#license)
+* [Contact](#contact)
+
+
+
+
 
 
 <a id="contact">
