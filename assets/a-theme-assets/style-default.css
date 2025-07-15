@@ -3,14 +3,14 @@
 }
 
 :root {
-
+    --test: hsl(208, 83%, 36%);
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
-    --accentTable: hsl(200, 60%, 80%);
-    --accentHeadLinkHover: hsl(200, 60%, 50%);
-    --accentBkg: hsl(200, 60%, 60%);
-    --accentBorders: hsl(200, 60%, 30%);
-    --accentLinks: hsl(200, 60%, 30%);
+    --accentTable: #91bbe3;
+    --accentHeadLinkHover: #217ad0;
+    --accentBkg: #5495d4;
+    --accentBorders: #055aac;
+    --accentLinks: #055aac;
     --accentText:black;
     --accentTxtBkg: white;
 
@@ -73,7 +73,7 @@ body {
     margin: auto;
     padding: 02ex;
     max-width: 800px;
-    background-color: var(--accentTxtBkg);
+    background-color: var(--accentBkg);
 }
 
 /* header {
