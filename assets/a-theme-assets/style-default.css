@@ -1,0 +1,377 @@
+.cssrev::after {
+    content: " 2025-07-11, 153";
+}
+
+:root {
+    --kortrightblue: #1062a9;
+    /* --accent1: hsl(208, 75%, 40%); */
+    --accentDark: #196bb3;
+    --accentMed: hsl(209, 49%, 90%);
+    --accentLight: hsl(209, 41%, 95%);
+    /* --accent1: #ff0000; */
+
+
+    box-sizing: content-box;
+    /* not inherited; default is content-box for most elements; this line is a reminder 
+    width: 100px = 100px width of content, not including border or padding
+    border-box: 100px = content, padding and border together
+    
+    https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+    Note: It is often useful to set box-sizing to border-box to lay out elements. 
+    This makes dealing with the sizes of elements much easier, and generally 
+    eliminates a number of pitfalls you can stumble on while laying out your content. 
+    On the other hand, when using position: relative or position: absolute, use of 
+    box-sizing: content-box allows the positioning values to be relative to the 
+    content, and independent of changes to border and padding sizes, which is 
+    sometimes desirable.
+    
+    */
+
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    /* background-color: --var(--accentMed); */
+
+
+}
+
+html {
+    background-color: var(--accentMed);
+}
+
+body {
+
+    margin: auto;
+    padding: 02ex;
+    max-width: 800px;
+    background-color: var(--accentMed);
+}
+
+/* header {
+    border: thick solid var(--accentDark);
+    color: var(--accentDark);
+    text-align: center;
+    background-color: var(--accentMed);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+
+} */
+
+/* header p {
+    margin-bottom: 0
+} */
+
+nav {
+
+    font-size: 1 rem;
+    font-weight: bold;
+    text-align: left;
+    color: var(--accentDark);
+
+    border: thick solid var(--accentDark);
+    background-color: var(--accentMed);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    /* background-color: yellow; */
+}
+
+.sitename {
+    font-size: 2.75rem;
+    font-weight: bold;
+    padding-bottom: 0rex;
+    margin-bottom: 1rex;
+}
+
+main {
+    background-color: white;
+    text-align: left;
+    border-left: thick solid var(--accentDark);
+    border-right: thick solid var(--accentDark);
+    padding: 2ex;
+}
+
+footer {
+    border: thick solid var(--accentDark);
+    background-color: white;
+    padding: 0 2ex 0 2ex;
+}
+
+
+
+
+
+
+
+a {
+    color: var(--accentDark);
+    text-decoration: underline;
+    /* font-weight: bold; */
+    overflow-wrap: break-word;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+.toc-list a,
+#markdown-toc a {
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
+}
+
+
+nav a {
+    text-decoration: none;
+    padding-right: 1em;
+}
+
+
+a:hover {
+    border-bottom: 0.15em solid var(--accentDark);
+    background-color: var(--accentMed);
+}
+
+hr {
+    height: 2px;
+    color: var(--accentDark)
+}
+
+
+.box {
+    border: medium solid var(--accentDark);
+    background-color: var(--accentMed);
+    color: var(--accentDark);
+    font-size: 150%;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0 1ex;
+}
+
+.subtitle {
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--accentDark);
+    font-style: italic;
+    text-align: center;
+    margin: 1rem 0 0 0;
+    border-bottom: medium solid var(--accentDark);
+    padding-bottom: 0.5rem;
+}
+
+/* 
+article {
+padding: 2rex;
+    border-width: 1rex;
+    border-style: solid;
+    border-color: var(--accentDark); 
+
+
+}
+ */
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--accentDark);
+    font-weight: bold;
+    margin: 1rem 0 0 0;
+    padding: 0;
+}
+
+/* h2::after,
+h3::after,
+h4::after,
+h5::after,
+h6::after {
+    content: "<a href='test'>testing</a>"
+} */
+
+/* Only One h1 Per Page! */
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 0;
+    border-bottom: solid thick var(--accentDark)
+}
+
+h2 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+h5 {
+    font-size: 1.15rem;
+}
+
+h6 {
+    font-size: 1rem;
+}
+
+/* p {
+    margin-top: 0.5em;
+} */
+
+
+
+caption {
+    caption-side: top;
+    text-align: left;
+}
+
+
+
+
+table {
+    border: light solid var(--accentDark);
+    border-collapse: collapse;
+    overflow: auto
+}
+
+th,
+td {
+    padding: 1ex;
+    border: light solid var(--accentDark);
+    border-collapse: collapse;
+    vertical-align: top;
+
+}
+
+tr:nth-child(even) {
+    background-color: var(--accentLight)
+}
+
+.fw::after {
+    content: "FW";
+}
+
+.fw::abbrev {
+    content: "AB";
+}
+
+.fw::reporting {
+    content: "RP";
+}
+
+
+img {
+    max-width: min(50rem, 100%);
+    margin-top: 2ex;
+    margin-bottom: 0;
+    /* overflow: scroll; */
+    border-top: 10px solid red;
+}
+
+
+img.def {
+    border-top: none
+}
+
+.man {
+    border: 4px solid var(--accentDark);
+}
+
+img.man {
+    max-width: min(30rem, 100%);
+    border-right: none;
+}
+
+img.man1row {
+    height: 2.3em;
+    border-top: 4px solid var(--accentDark);
+}
+
+.sup {
+    border: 4px dashed var(--accentDark);
+}
+
+img.sup {
+    max-width: min(45rem, 100%);
+}
+
+img.sup1row {
+    height: 2.4em;
+    /* 2.2 too small  */
+    border-top: 4px dashed var(--accentDark);
+}
+
+
+.teach1 {
+    border: 7px double var(--accentDark);
+}
+
+img.teach1 {
+    max-width: min(45rem, 100%);
+    padding-top: 1ex;
+}
+
+img.teach1-1row {
+    height: 2.2em;
+    border-top: 7px double var(--accentDark);
+    padding-top: 1ex;
+}
+
+.rev {
+    border: 5px dotted var(--accentDark);
+}
+
+img.rev {
+    max-width: min(35rem, 100%);
+}
+
+img.rev1row {
+    height: 2.5em;
+    border-top: 5px dotted var(--accentDark);
+}
+
+code,
+.code1 {
+    /* font-family: "Courier New", monospace; */
+    /* font-weight: 500; */
+    margin: auto;
+    max-width: 100%;
+    overflow: scroll;
+    font-size: 100%;
+    background-color: var(--accentLight);
+}
+
+.serif {
+    font-family: serif;
+}
+
+blockquote {
+    margin-left: 2ex;
+    border-top: light solid var(--accentMed);
+    padding-left: 2ex
+}
+
+
+
+
+/* Reminders
+
+HTML details hides content until asked for
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details 
+
+*/
