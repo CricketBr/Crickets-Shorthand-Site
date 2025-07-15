@@ -7,7 +7,7 @@
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
     --accentTable: #91bbe3;
-    --accentHeadLinkHover: hsl(209, 73%, 45%);
+    --accentNavLinkHover: hsl(209, 73%, 45%);
     --accentBkg: hsl(209, 59%, 80%);
     --accentBorders: #055aac;
     --accentLinks: #055aac;
@@ -164,7 +164,7 @@ nav a {
 
 
 nav a:hover {
-    /* background-color: var(--accentHeadLinkHover); */
+    background-color: var(--accentNavLinkHover);
     border-bottom:none;
     text-decoration: underline solid;
 
