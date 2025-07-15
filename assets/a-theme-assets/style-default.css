@@ -6,19 +6,19 @@
     --test: hsl(208, 83%, 36%);
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
-    --accentTable: #91bbe3;
-    --accentNavLinkHover: hsl(209, 73%, 45%);
-    --accentBkg: hsl(209, 59%, 80%);
-    --accentBorders: #055aac;
-    --accentLinks: #055aac;
-    --accentText:black;
-    --accentTxtBkg: white;
+    --colTable: #91bbe3;
+    --colNavLinkHover: hsl(209, 73%, 50%);
+    --colBkg: hsl(209, 60%, 80%);
+    --colBorders: #055aac;
+    --colLinks: #055aac;
+    --colText:black;
+    --colTxtBkg: white;
 
     font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     
-    background-color: var(--accentBkg);
+    background-color: var(--colBkg);
 }
 
 /*
@@ -27,18 +27,18 @@
 
   --black: #000000;
   --white: #FFFFFF;
-  --accentLight: #AFCDE9;
-  --accentMed: #69A2D3;
-  --accentMedDark: #2F7BBD;
-  --accentDark: #0059A7;
+  --colLight: #AFCDE9;
+  --colMed: #69A2D3;
+  --colMedDark: #2F7BBD;
+  --colDark: #0059A7;
 
     */
 
 /* by hand
     --kortrightblue: #1062a9;
-    --accentDark: #196bb3;
-    --accentMed: #d9e6f2;
-    --accentLight: hsl(209, 41%, 95%); 
+    --colDark: #196bb3;
+    --colMed: #d9e6f2;
+    --colLight: hsl(209, 41%, 95%); 
     */
 
 /* paletton.com   3e7db5, 1b68ae, 095293, 064277, 04325b */
@@ -61,11 +61,11 @@
 
 
 
-/* background-color: --var(--accentMed); */
+/* background-color: --var(--colMed); */
 
 
 html {
-    background-color: var(--accentBkg);
+    background-color: var(--colBkg);
 }
 
 body {
@@ -73,14 +73,14 @@ body {
     margin: auto;
     padding: 2rex;
     max-width: 800px;
-    background-color: var(--accentBkg);
+    background-color: var(--colBkg);
 }
 
 /* header {
-    border: thick solid var(--accentBorders);
+    border: thick solid var(--colBorders);
     color: ;
     text-align: center;
-    background-color: var(--accentMed);
+    background-color: var(--colMed);
     padding-left: 2rem;
     padding-right: 2rem;
     padding-bottom: 1rem;
@@ -96,10 +96,10 @@ nav {
     font-size: 1 rem;
     font-weight: bold;
     text-align: left;
-    color: var(--accentLinks);
+    color: var(--colLinks);
 
-    border: thick solid var(--accentBorders);
-    background-color: var(--accentBkg);
+    border: thick solid var(--colBorders);
+    background-color: var(--colBkg);
     padding-left: 2rem;
     padding-right: 2rem;
     padding-top: .5rem;
@@ -115,15 +115,15 @@ nav {
 }
 
 main {
-    background-color: var(--accentTxtBkg);
+    background-color: var(--colTxtBkg);
     text-align: left;
-    border-left: thick solid var(--accentBorders);
-    border-right: thick solid var(--accentBorders);
+    border-left: thick solid var(--colBorders);
+    border-right: thick solid var(--colBorders);
     padding: 2ex;
 }
 
 footer {
-    border: thick solid var(--accentBorders);
+    border: thick solid var(--colBorders);
     background-color: white;
     padding: 0 2ex 0 2ex;
 }
@@ -135,7 +135,7 @@ footer {
 
 
 a {
-    color: var(--accentLinks);
+    color: var(--colLinks);
     text-decoration: underline;
     /* font-weight: bold; */
     overflow-wrap: break-word;
@@ -164,7 +164,7 @@ nav a {
 
 
 nav a:hover {
-    background-color: var(--accentNavLinkHover);
+    background-color: var(--colNavLinkHover);
     border-bottom:none;
     text-decoration: underline solid;
 
@@ -173,19 +173,19 @@ nav a:hover {
 a:hover {
     border-bottom-width: 0.15em ;
     border-bottom-style: solid;
-    /* background-color: var(--accentBkg); */
+    /* background-color: var(--colBkg); */
 }
 
 hr {
     height: 2px;
-    color: var(--accentBorders)
+    color: var(--colBorders)
 }
 
 
 .box {
-    border: medium solid var(--accentBorders);
-    background-color: var(--accentBkg);
-    color: var(--accentLinks);
+    border: medium solid var(--colBorders);
+    background-color: var(--colBkg);
+    color: var(--colLinks);
     font-size: 150%;
     text-align: center;
     font-weight: bold;
@@ -196,11 +196,11 @@ hr {
 .subtitle {
     font-size: 1rem;
     font-weight: bold;
-    color: var(--accentLinks);
+    color: var(--colLinks);
     font-style: italic;
     text-align: center;
     margin: 1rem 0 0 0;
-    border-bottom: medium solid var(--accentBorders);
+    border-bottom: medium solid var(--colBorders);
     padding-bottom: 0.5rem;
 }
 
@@ -209,7 +209,7 @@ article {
 padding: 2rex;
     border-width: 1rex;
     border-style: solid;
-    border-color: var(--accentDark); 
+    border-color: var(--colDark); 
 
 
 }
@@ -224,7 +224,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--accentLinks);
+    color: var(--colLinks);
     font-weight: bold;
     margin: 1rem 0 0 0;
     padding: 0;
@@ -243,7 +243,7 @@ h1 {
     font-size: 2.5rem;
     text-align: center;
     margin: 0;
-    border-bottom: solid thick var(--accentBorders)
+    border-bottom: solid thick var(--colBorders)
 }
 
 h2 {
@@ -282,7 +282,7 @@ caption {
 
 
 table {
-    border: light solid var(--accentBorders);
+    border: light solid var(--colBorders);
     border-collapse: collapse;
     overflow: auto
 }
@@ -290,14 +290,14 @@ table {
 th,
 td {
     padding: 1ex;
-    border: light solid var(--accentBorders);
+    border: light solid var(--colBorders);
     border-collapse: collapse;
     vertical-align: top;
 
 }
 
 tr:nth-child(even) {
-    background-color: var(--accentTable)
+    background-color: var(--colTable)
 }
 
 .fw::after {
@@ -327,7 +327,7 @@ img.def {
 }
 
 .man {
-    border: 4px solid var(--accentBorders);
+    border: 4px solid var(--colBorders);
 }
 
 img.man {
@@ -337,11 +337,11 @@ img.man {
 
 img.man1row {
     height: 2.3em;
-    border-top: 4px solid var(--accentBorders);
+    border-top: 4px solid var(--colBorders);
 }
 
 .sup {
-    border: 4px dashed var(--accentBorders);
+    border: 4px dashed var(--colBorders);
 }
 
 img.sup {
@@ -351,12 +351,12 @@ img.sup {
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
-    border-top: 4px dashed var(--accentBorders);
+    border-top: 4px dashed var(--colBorders);
 }
 
 
 .teach1 {
-    border: 7px double var(--accentBorders);
+    border: 7px double var(--colBorders);
 }
 
 img.teach1 {
@@ -366,12 +366,12 @@ img.teach1 {
 
 img.teach1-1row {
     height: 2.2em;
-    border-top: 7px double var(--accentBorders);
+    border-top: 7px double var(--colBorders);
     padding-top: 1ex;
 }
 
 .rev {
-    border: 5px dotted var(--accentBorders);
+    border: 5px dotted var(--colBorders);
 }
 
 img.rev {
@@ -380,7 +380,7 @@ img.rev {
 
 img.rev1row {
     height: 2.5em;
-    border-top: 5px dotted var(--accentBorders);
+    border-top: 5px dotted var(--colBorders);
 }
 
 code,
@@ -391,7 +391,7 @@ code,
     max-width: 100%;
     overflow: scroll;
     font-size: 100%;
-    background-color: var(--accentTable);
+    background-color: var(--colTable);
 }
 
 .serif {
@@ -400,7 +400,7 @@ code,
 
 blockquote {
     margin-left: 2ex;
-    border-top: light solid var(--accentLinks);
+    border-top: light solid var(--colLinks);
     padding-left: 2ex
 }
 
