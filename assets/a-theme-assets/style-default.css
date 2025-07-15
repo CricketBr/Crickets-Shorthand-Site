@@ -78,7 +78,7 @@ nav {
 }
 
 .sitename {
-    font-size: 2.75rem;
+    font-size: 2.5rem;
     font-weight: bold;
     padding-bottom: 0rex;
     margin-bottom: 1rex;
@@ -134,8 +134,9 @@ nav a {
 
 
 a:hover {
-    border-bottom: 0.15em solid var(--accentDark);
+    /* border-bottom: 0.15em solid var(--accentDark); */
     background-color: var(--accentMed);
+    text-decoration:
 }
 
 hr {

@@ -4,10 +4,16 @@ title: CSW Homepage
 rev: 2025-07-11, 151
 ---
 
+# Cricket's Shorthand Site
 
-## Site Map
+Finally! All in one place and with human-readable URLs.
 
-* Cricket’s Shorthand Course
+Still a work in progress. Plans will probably change.
+
+Comments and corrections are more than welcome.
+
+
+<!-- * Cricket’s Shorthand Course
   * [Course](cr-shorthand-course.md)
   * Course Summary – Not Started
   * [Tips - Deprecated](cr-shorthand-tips.md)
@@ -20,13 +26,9 @@ rev: 2025-07-11, 151
 * [Papers and Word Lists](#papers-lists)
 * [License](#license)
 * [Contact](#contact)
+ -->
 
 
-Finally! All in one place and with human-readable URLs.
-
-Still a work in progress. Plans will probably change.
-
-Comments and corrections are more than welcome.
 
 ## Cricket's Shorthand Course
 
