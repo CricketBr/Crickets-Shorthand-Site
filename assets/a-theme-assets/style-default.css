@@ -103,9 +103,8 @@ nav {
     padding-left: 2rem;
     padding-right: 2rem;
     padding-top: .5rem;
-    padding-bottom: .5rem;
-    /* padding-bottom: rem; */
-    /* background-color: yellow; */
+    padding-bottom: 0;
+
 }
 
 .sitename {
@@ -163,10 +162,11 @@ nav a {
     padding-right:1rex;
 }
 
+
 nav a:hover {
     /* background-color: var(--accentHeadLinkHover); */
     border-bottom:none;
-    text-decoration: solid;
+    text-decoration-style: solid;
 
 }
 
