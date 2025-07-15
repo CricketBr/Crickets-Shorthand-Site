@@ -1,22 +1,23 @@
 .cssrev::after {
-    content: " 2025-07-11, 153";
+    content: " 2025-07-15, 155";
 }
 
 :root {
 
-    --black: #000000;
-    --white: #FFFFFF;
-    --accentLight: #AFCDE9;
-    --accentMed: #69A2D3;
-    --accentMedDark: #2F7BBD;
-    --accentDark: #0059A7;
+    --black: hsl(0, 0%, 0%);
+    --white: hsl(0, 0%, 100%);
+    --accentTable: hsl(200, 60%, 80%);
+    --accentHeadLinkHover: hsl(200, 60%, 50%);
+    --accentBkg: hsl(200, 60%, 60%);
+    --accentBorders: hsl(200, 60%, 30%);
+    --accentLinks: hsl(200, 60%, 30%);
+    --accentText:black;
+    --accentTxtBkg: white;
 
     font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-
-    color: var(--black);
-    background-color: var(--white);
+    background-color: var(--accentMed);
 }
 
 /*
@@ -63,7 +64,7 @@
 
 
 html {
-    background-color: var(--accentMed);
+    background-color: var(--accentBkg);
 }
 
 body {
@@ -71,12 +72,12 @@ body {
     margin: auto;
     padding: 02ex;
     max-width: 800px;
-    background-color: var(--accentMed);
+    background-color: var(--accentTxtBkg);
 }
 
 /* header {
-    border: thick solid var(--accentDark);
-    color: var(--accentDark);
+    border: thick solid var(--accentBorders);
+    color: ;
     text-align: center;
     background-color: var(--accentMed);
     padding-left: 2rem;
@@ -94,13 +95,13 @@ nav {
     font-size: 1 rem;
     font-weight: bold;
     text-align: left;
-    color: var(--accentDark);
+    color: var(--accentLinks);
 
-    border: thick solid var(--accentDark);
-    background-color: var(--accentMed);
+    border: thick solid var(--accentBorders);
+    background-color: var(--accentBkg);
     padding-left: 2rem;
     padding-right: 2rem;
-    padding-bottom: 1rem;
+    /* padding-bottom: rem; */
     /* background-color: yellow; */
 }
 
@@ -112,15 +113,15 @@ nav {
 }
 
 main {
-    background-color: white;
+    background-color: var(--accentTxtBkg);
     text-align: left;
-    border-left: thick solid var(--accentDark);
-    border-right: thick solid var(--accentDark);
+    border-left: thick solid var(--accentBorders);
+    border-right: thick solid var(--accentBorders);
     padding: 2ex;
 }
 
 footer {
-    border: thick solid var(--accentDark);
+    border: thick solid var(--accentBorders);
     background-color: white;
     padding: 0 2ex 0 2ex;
 }
@@ -132,7 +133,7 @@ footer {
 
 
 a {
-    color: var(--accentDark);
+    color: var(--accentLinks);
     text-decoration: underline;
     /* font-weight: bold; */
     overflow-wrap: break-word;
@@ -159,22 +160,25 @@ nav a {
     padding-right: 1em;
 }
 
+nav a:hover {
+    background-color: var(--accentHeadLinkHover);
+}
 
 a:hover {
-    /* border-bottom: 0.15em solid var(--accentDark); */
-    background-color: var(--accentMed);
+    border-bottom-width: 0.15em ;
+    border-bottom-style: solid;
 }
 
 hr {
     height: 2px;
-    color: var(--accentDark)
+    color: var(--accentBorders)
 }
 
 
 .box {
-    border: medium solid var(--accentDark);
-    background-color: var(--accentMed);
-    color: var(--accentDark);
+    border: medium solid var(--accentBorders);
+    background-color: var(--accentBkg);
+    color: var(--accentLinks);
     font-size: 150%;
     text-align: center;
     font-weight: bold;
@@ -185,11 +189,11 @@ hr {
 .subtitle {
     font-size: 1rem;
     font-weight: bold;
-    color: var(--accentDark);
+    color: var(--accentLinks);
     font-style: italic;
     text-align: center;
     margin: 1rem 0 0 0;
-    border-bottom: medium solid var(--accentDark);
+    border-bottom: medium solid var(--accentBorders);
     padding-bottom: 0.5rem;
 }
 
@@ -213,7 +217,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--accentDark);
+    color: var(--accentLinks);
     font-weight: bold;
     margin: 1rem 0 0 0;
     padding: 0;
@@ -232,7 +236,7 @@ h1 {
     font-size: 2.5rem;
     text-align: center;
     margin: 0;
-    border-bottom: solid thick var(--accentDark)
+    border-bottom: solid thick var(--accentBorders)
 }
 
 h2 {
@@ -271,7 +275,7 @@ caption {
 
 
 table {
-    border: light solid var(--accentDark);
+    border: light solid var(--accentBorders);
     border-collapse: collapse;
     overflow: auto
 }
@@ -279,14 +283,14 @@ table {
 th,
 td {
     padding: 1ex;
-    border: light solid var(--accentDark);
+    border: light solid var(--accentBorders);
     border-collapse: collapse;
     vertical-align: top;
 
 }
 
 tr:nth-child(even) {
-    background-color: var(--accentLight)
+    background-color: var(--accentTable)
 }
 
 .fw::after {
@@ -316,7 +320,7 @@ img.def {
 }
 
 .man {
-    border: 4px solid var(--accentDark);
+    border: 4px solid var(--accentBorders);
 }
 
 img.man {
@@ -326,11 +330,11 @@ img.man {
 
 img.man1row {
     height: 2.3em;
-    border-top: 4px solid var(--accentDark);
+    border-top: 4px solid var(--accentBorders);
 }
 
 .sup {
-    border: 4px dashed var(--accentDark);
+    border: 4px dashed var(--accentBorders);
 }
 
 img.sup {
@@ -340,12 +344,12 @@ img.sup {
 img.sup1row {
     height: 2.4em;
     /* 2.2 too small  */
-    border-top: 4px dashed var(--accentDark);
+    border-top: 4px dashed var(--accentBorders);
 }
 
 
 .teach1 {
-    border: 7px double var(--accentDark);
+    border: 7px double var(--accentBorders);
 }
 
 img.teach1 {
@@ -355,12 +359,12 @@ img.teach1 {
 
 img.teach1-1row {
     height: 2.2em;
-    border-top: 7px double var(--accentDark);
+    border-top: 7px double var(--accentBorders);
     padding-top: 1ex;
 }
 
 .rev {
-    border: 5px dotted var(--accentDark);
+    border: 5px dotted var(--accentBorders);
 }
 
 img.rev {
@@ -369,7 +373,7 @@ img.rev {
 
 img.rev1row {
     height: 2.5em;
-    border-top: 5px dotted var(--accentDark);
+    border-top: 5px dotted var(--accentBorders);
 }
 
 code,
@@ -380,7 +384,7 @@ code,
     max-width: 100%;
     overflow: scroll;
     font-size: 100%;
-    background-color: var(--accentLight);
+    background-color: var(--accentTable);
 }
 
 .serif {
@@ -389,7 +393,7 @@ code,
 
 blockquote {
     margin-left: 2ex;
-    border-top: light solid var(--accentMed);
+    border-top: light solid var(--accentLinks);
     padding-left: 2ex
 }
 
