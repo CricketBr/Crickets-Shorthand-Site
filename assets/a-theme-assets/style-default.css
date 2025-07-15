@@ -166,7 +166,7 @@ nav a {
 nav a:hover {
     /* background-color: var(--accentHeadLinkHover); */
     border-bottom:none;
-    text-decoration-style: solid;
+    text-decoration: underline solid;
 
 }
 
