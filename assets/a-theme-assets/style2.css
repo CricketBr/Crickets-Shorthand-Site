@@ -254,6 +254,19 @@ tr:nth-child(even) {
     background-color: var(--accentLight)
 }
 
+.fw::after {
+    content: "FW";
+}
+
+.fw::abbrev {
+    content: "AB";
+}
+
+.fw::reporting {
+    content: "RP";
+}
+
+
 img {
     max-width: min(50rem, 100%);
     margin-top: 2ex;
@@ -267,10 +280,13 @@ img.def {
     border-top: none
 }
 
+.man {
+    border: 4px solid var(--accentDark);
+}
+
 img.man {
     max-width: min(30rem, 100%);
     border-right: none;
-    border-top: 4px solid var(--accentDark);
 }
 
 img.man1row {
@@ -278,9 +294,12 @@ img.man1row {
     border-top: 4px solid var(--accentDark);
 }
 
+.sup {
+    border: 4px dashed var(--accentDark);
+}
+
 img.sup {
     max-width: min(45rem, 100%);
-    border-top: 4px dashed var(--accentDark);
 }
 
 img.sup1row {
@@ -289,11 +308,14 @@ img.sup1row {
     border-top: 4px dashed var(--accentDark);
 }
 
+
+.teach1 {
+    border: 7px double var(--accentDark);
+}
+
 img.teach1 {
     max-width: min(45rem, 100%);
-    border-top: 7px double var(--accentDark);
     padding-top: 1ex;
-
 }
 
 img.teach1-1row {
@@ -302,9 +324,12 @@ img.teach1-1row {
     padding-top: 1ex;
 }
 
+.rev {
+    border: 5px dotted var(--accentDark);
+}
+
 img.rev {
     max-width: min(35rem, 100%);
-    border-top: 5px dotted var(--accentDark);
 }
 
 img.rev1row {

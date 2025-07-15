@@ -2400,13 +2400,15 @@ Revised: in combination; I conceive;
 Revised: camphor, candid, the campaign, to cancel;
 
 ![shorthand image](assets/revised-split/1phraseology-r23.jpg){: .rev}\
-Revised: I say; I am not; we have had; as is; there is; to do; to be so; he does not; it should be; as it was; in the; much more; of the; should not do; I shall be very; this is; out of; it is not; as if; with a; by the; that the; to the; we are; as long as; as much as; it is not so; there is no more;
-
-![shorthand image](assets/revised-split/1phraseology-r24.jpg)
-
+Revised: I say; I am not; we have had; as is; there is; to do; to be so; he does not; it should be; as it was; in the; much more; of the; should not do; I shall be very; this is; out of; it is not; as if; with a; by the; that the; to the; we are; as long as; as much as; it is not so; there is no more;\
+\
 Time is frequently saved and legibility increased by joining words togethre in phrases without lifting the pen. This applies especially to commmon words, auxiliaries and particles.
 
-This is a powerful method of abbreviation in the hands of experienced writers, and is specially appliable in the case of Orthic owing to its lineality and facility of joining. A reckless use of phraseography, however, is strongly to be condemned. Experience ahs shown that beginners are apt to run riot with all sorts of impossible and useless phrases, to the greeat detriment of the speed and legiblity of their writing. The student shoudl therefore exercise the greatest caution at the outset i his use of phraseolgraphy.
+This is a powerful method of abbreviation in the hands of experienced writers, and is specially appliable in the case of Orthic owing to its lineality and facility of joining. A reckless use of phraseography, however, is strongly to be condemned. Experience has shown that beginners are apt to run riot with all sorts of impossible and useless phrases, to the greeat detriment of the speed and legiblity of their writing. 
+
+![shorthand image](assets/revised-split/1phraseology-r24.jpg){: .rev}
+
+The student should therefore exercise the greatest caution at the outset i his use of phraseolgraphy.
 
 He must remember that:
 - abbreviated words canot be freely joined wihtout danger of clashing;

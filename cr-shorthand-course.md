@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW - Shorthand Course
-rev: 2025-07-09, 140
+rev: 2025-07-15, 156
 ---
 
 # Cricket’s Shorthand Course
@@ -70,7 +70,7 @@ xxx links
 
 - Systematic Speed Course for Advanced Writers, CL Swem. Starts after you know the theory and can write at 80-100wpm for 5 minutes.
 
-Leslie makes a good case for delaying writing until you know most of the shapes, minimal copying (each exercise onece at home), and most of your writing in class being at the edge of your ability. That method works if the book has enough well-written shorthand, which his did, but most don't.
+Leslie makes a good case for delaying writing until you know most of the shapes, minimal copying (each exercise once at home), and most of your writing in class being at the edge of your ability. That method works if the book has enough well-written shorthand, which his did, but most don't.
 
 Adjust this program as you see fit.
 
@@ -114,7 +114,7 @@ Swem suggests tracing shorthand in the textbook. This will force you to notice s
 
 Leslie worked with Swem under JR Gregg, and recommends against tracing outlines at any stage. They were both successful teachers.
 
-Divide your penmanship time equally between tracing, penmanship exercises, and copying a recent exercise carefully -- but keep it fluid. You are writing, not drawing.
+Divide your penmanship time equally between tracing, penmanship exercises (usually repeating the same shape, or a family of similar shapes and outlines), and copying a recent exercise carefully -- but keep it fluid. You are writing, not drawing.
 
 Once you know the shapes well, add speed to this, enough to make your writing smooth but not enough to sacrifice accuracy.
 
@@ -135,7 +135,7 @@ Reading skill is as important as writing skill. Test it every few sessions.
 | Jun26 | GSF2 ch5 ex40 | 100 | Read sh, 50wpm | 30/95 | 40/95 | 50/90 | 40/95 | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jun26 | Hob ch1 L100-110 | 100 | Read txt, practice all | 40/95 | 50/95 | 60/90 | 70/90 | 60/95 | Lots of long words|
-| Jun26 | Hob ch1 L110-120 | 100 | Read txt, practice probs only |40/90 | 40/95 | 50/90| 60/90 | 50/98| Happy! |
+| Jun26 | Hob ch1 L110-120 | 100 | Read txt, practice problems only |40/90 | 40/95 | 50/90| 60/90 | 50/98| Happy! |
 | Jun26 | Hob ch1 L110-120 | 100 | Read Jn1, writing was good, reading needs practice |40/90 | 40/95 | 50/95| 60/90 | 50/98| |
 
 
@@ -156,7 +156,7 @@ This process will help lock in the shapes of each letter and combination, and th
 
 Use the key instead of struggling with a word. Leslie recommends you keep one finger on the shorthand and the other on the key. When you can read 9/10 words reasonably well, try reading the entire sentence a second time before using the key. Then spell and say as before. When you can read 19/20 words reasonably well, use the [Column Method](#column-method-to-read-difficult-words).
 
-You may want to make a chart of letters by shape, including preffixes and suffixes, so you can look them up quickly.
+You may want to make a chart of letters by shape, including prefixes and suffixes, so you can look them up quickly.
 
 Reread each passage until you can read it without referring to the key, pointing to each word so you pay attention. It is ok if you inadvertently memorize it, but be sure to look at each word as you say it.
 
@@ -198,21 +198,23 @@ As you speed up, let the shapes form groups. Think TR instead of T, then R.
 
 ### Four Column Method for Copying
 
-This method works well while you are at the copying stage, in the early stages of dictation when you should have well-written shorthand in front of you, when you cannot take dictaion, and at all stages for penmanship practice. It also helps you build hand speed separate from brain speed.
+This method works well while you are at the copying stage, in the early stages of dictation when you should have well-written shorthand in front of you, when you cannot take dictation, and at all stages for penmanship practice. It also helps you build hand speed separate from brain speed.
 
 It will not, however, help you build brain speed. I speak from experience. Only dictation will do that.
 
 Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect. If you are creating your own material, write your first attempt in the first column and leave room for corrections.
 
+The 1st column needs to be accurate, since it will be the model for the others. Accurate means readable and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
+
 Check your work and make corrections. Choose a few outlines you struggled with, copy them a few times.
+
+If your writing is still unstable, go directly to the 2nd column. Once your writing is reasonably good, wait a few days, then re-read the 1st carefully. You will see things differently after a rest.
 
 Then copy from the first column to the second, check your work, make corrections, and practice difficult sections. Then copy from the second column to the third, and the third to the forth. Check your work, make corrections, and practice difficult sections after each copy.
 
-The 1st column needs to be accurate, since it will be the model for the others. Accurate means readable and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
+Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed. 
 
-Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed.
-
-Speed up even more for the 3rd column. Go so fast that your writing is only 95% accurate.
+Speed up even more for the 3rd column. Go so fast that your writing is only 95% accurate -- unless your goal for the exercise is penmanship. In that case go slower.
 
 The 4th and final column should be slow enough for 98% accuracy, but no slower. Your hand will remember this copy most. Too slow will teach slow writing. Too fast will teach inaccurate writing.
 
@@ -226,9 +228,11 @@ Every teacher manual I've read agrees: Mark the transcript, not the shorthand.
 
 95% accurate means someone who is familiar with your penmanship, or yourself in 6 months, can read 95% of the words. You might add “uses the appropriate abbreviation for your chosen level,” but that is still a far cry from perfection.
 
+On the opposite side, if your notes are poor at slow speeds, then they will be even worse at high speed. When you copying or taking from slow dictation, aim for perfect shapes. Do a variety of penmanship drills.
+
 This course says to use speeds at which you expect a stated accuracy. Use your best guess. Your accuracy will change with the difficulty and length of a passage, and your practice with it.
 
-Progression milestones are 4 passages out of 5. Do not let the occassional difficult passage hold you back.
+Progression milestones are 4 passages out of 5. Do not let the occasional difficult passage hold you back.
 
 Your accuracy at lower speeds will increase as you increase your barely-readable speed.
 
@@ -241,6 +245,8 @@ Having said that, constantly working at barely-readable speeds will create bad h
 As you repeat a section at the same speed, your writing will improve, then plateau, then degrade. Stop when it plateaus, ***usually within 5 repetitions***. 
 
 “Anything that is dull and uninteresting is of doubtful pedagogic value. Also, excessive repetition generally results in progressive deterioration of the outlines practiced.” — Gregg Shorthand Functional Method Teachers Handbook (1936), from [stenophile.com](https://www.stenophile.com) .
+
+Having said that: You do need to build endurance. Push your ability to write more repetitions, but pay attention. Do NOT practice bad forms. Practice does not make perfect, but it does make permanent.
 
 Vary the speed. Slow helps precision. Speed helps fluency and reduces hesitation. You need both. Play with the speed and see what happens. Our brains and bodies remember the first and final repeats more than the middle ones. They should be as fast as possible without losing readability.
 
@@ -258,6 +264,12 @@ Use it for precision drills when needed, but not as a regular practice.
 Writing too small will slow your writing, since you need to be more precise. Too large will be awkward for your hand. Aim for a comfortable, flowing size. There are a few Gregg articles about size, with samples from expert writers. One fits 500 words per page, another fits only 100.
 
 To Start: Draw straight lines on paper, a full inch apart, and copy the previous paragraph, in cursive and/or print at whatever size your hand likes. Then measure the height of several letters. Typically lowercase letters are 2-3mm and uppercase letters are twice that. If your longhand is larger than average, then your shorthand will probably also be larger than average, and vice versa. Adjust a bit if needed to keep the lengths distinct.
+
+Then write your system's equivalent of Gregg B P S, S P B, B B B B P P P P S S S S -- repeat for the other shape families, including horizontal. The small letters should be as small as you can write comfortably, probably the size of lowercase longhand or smaller (since they're less complex). Large should be as large as you can write comfortable, at least 3-4 times the size of small. Medium should be between that, probably the size of your longhand capitals or bigger.
+
+[Image of Gregg Letter Family](https://greggshorthand.github.io/anunit04.html) 
+
+xxx todo make an image of the full set of shape families.
 
 Consistency is more important than exact lengths. All tall letters should be the same height.
 
@@ -570,7 +582,7 @@ After that, use the modified Swem's method.
 
 If your long-dictation speed lags more than 20wpm below your short-dictation speed, use the pyramid again to prove that you can do the higher speed, then return to Swem's method.
 
-Occassionally experiment with even longer dictations, to build more endurance.
+Occasionally experiment with even longer dictations, to build more endurance.
 
 
 ### Professional Advice for Endurance
@@ -596,7 +608,7 @@ None of them discuss dictation that changes speed, or the need to build mental e
 
 ### Blanchard's Pyramid
 
-Blanchard's example assumes students can write at 100wpm for 1 minute, proves to the students they can write for 5 minutes at 60wpm, then increases their speed to 80wpm for 5 minutese. 
+Blanchard's example assumes students can write at 100wpm for 1 minute, proves to the students they can write for 5 minutes at 60wpm, then increases their speed to 80wpm for 5 minutes. 
 
 The math gets a bit wonky if you start at a different speed. This chart assumes you have already read Blanchard's article, [Building Speed by the Pyramid Plan](https://drive.google.com/file/d/1GeggQWEI2LNYZvffXmNsf7xvwiW73sJ1/view) .
 
@@ -640,7 +652,7 @@ Blanchard is very clear that the pyramid plan is only to be used when the gap be
 
 * As above, but repeat the same 1-minute material multiple times without pausing for a total of five minutes.
 
-### Other Advice, Sometimes Contractory
+### Other Advice, Sometimes Contrary
 
 Blanchard, Factors of Shorthand Speed.
 
@@ -717,7 +729,7 @@ Swem's course is for building speed once you know the theory. The first dictatio
   <td>You will probably be able to take it even above the speed of the first attempt, and by now the hour will probably be up.</td>
 </tr>
   <td>Usually five repetitions, plus preparation.</td>
-  <td>At least four reptitions, including the first attempt.</td>
+  <td>At least four repetitions, including the first attempt.</td>
 <tr>
   <td>Finish every writing session, no matter how short, with penmanship practice. Alternate methods between sessions.</td>
   <td>Finish every session (sessions are an hour) with 5 minutes penmanship practice tracing textbook with dry pen.</td>
@@ -838,7 +850,7 @@ Often a study buddy, penpal, or mentor a few levels above you can make a big dif
 ## Acknowledgements
 
 Thanks to:
-Shorthand Discord V2, especially @vevrik, @stenophile, @richard for ideas and review.
+Shorthand Discord V2, especially @vevrik, @stenophile, @richard, for ideas and review.
 Reddit Shorthand, especially u/BerylPratt whose site has excellent advice.
 
 

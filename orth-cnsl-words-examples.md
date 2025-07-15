@@ -202,7 +202,7 @@ about, always, am, I’m,  amount, an, a, and, any, are, were, be, been, because
 
 ### Specimen of Ordinary Style
 
-All text from https://orthic.shorthand.fun/manual , typed or transcribed by Jeremy&nbsp;W&nbsp;Sherman. Jeremy added reference numbers and comments to some passages.
+All text from https://orthic.shorthand.fun/manual , transcribed by Jeremy&nbsp;W&nbsp;Sherman. Jeremy added reference numbers and comments to some passages.
 
 Introductory Remarks
 
@@ -230,7 +230,7 @@ In learning the system the student should work straight through the alphabet and
 
 ### Specimen of Ordinary Style, From Macaulay's History
 
-All text from [Orthic Shorthand Site](https://orthic.shorthand.fun/manual) , typed or transcribed by Jeremy&nbsp;W&nbsp;Sherman. Jeremy added reference numbers and comments to some passages.
+All text from [Orthic Shorthand Site](https://orthic.shorthand.fun/manual) , transcribed by Jeremy&nbsp;W&nbsp;Sherman. Jeremy added reference numbers and comments to some passages.
 
 The State of England in the Reign of Charles II.
 
@@ -500,7 +500,7 @@ Supplement: notwithstanding, number, obedient, opportunity, over, (o’er), page
 
 ![alt text](assets/supp-cropped/s14.png){: .def}
 
-All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , typed or transcribed by Jeremy W Sherman.
+All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , transcribed by Jeremy W Sherman.
 
 ### Specimen: Ordinary Style, Abbreviated, plate 1
 
@@ -716,7 +716,7 @@ His Lordship concluded by mentioning two further rules of conduct — namely, th
 
 ### Specimen: Verbatim Report of a Speech, Probably Reporting
 
-All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , typed or transcribed by Jeremy W Sherman.
+All text from [Orthic Shorthand Site, Supplement](https://orthic.shorthand.fun/supplement) , transcribed by Jeremy W Sherman.
 
 Key: Lord Salisbury at the Mansion House
 
@@ -962,7 +962,7 @@ anvil, endure, infirm
 
 ### The Lord's Prayer, Reporting, Stevens
 
-Our Father who art in Heaven, hallowed be ty name. They kingdom come, they will be done, on Earth as it is in Heaven. Give us this day our daily bread and forgive us our trespasses, as we forgive them who trespass against us and dead us not into temptation but deliver us from evil, for thine is the kingdom, the power and the glory, for ever and ever, Amen.
+Our Father who art in Heaven, hallowed be Thy name. Thy kingdom come, thy will be done, on Earth as it is in Heaven. Give us this day our daily bread and forgive us our trespasses, as we forgive them who trespass against us and lead us not into temptation but deliver us from evil, for Thine is the kingdom, the power and the glory, for ever and ever, Amen.
 
 ![alt text](assets/teach-2-cropped/t214.jpg){: .def}
 ![alt text](assets/teach-2-cropped/t215.jpg){: .def}
@@ -1332,13 +1332,17 @@ I say, I am not, we have had, as is, there is, to do, to be so, he does not, it 
 
 ![alt text](assets/revised-cropped/r24.jpg){: .def}
 
-![alt text](assets/revised-cropped/r25.jpg){: .def}
+
 
 ### On Being In The Blues
 
 By the way, it never does come except in the evening. In the sun-time, when the world is bounding forward full of life, we cannot stay to sigh and sulk. The roar of the working day drowns the voices of the elfin sprites that are ever singing their low-toned miserere in our ears. In the day we are angry, disappointed, or indignant, but never "in the blues" and never melancholy. When things go wrong at ten o'clock in the morning we—or rather you—swear and knock the furniture about; but if the misfortune comes at ten P.M., we read poetry or sit in the dark and think what a hollow world this is.
 
-But, as a rule, it is not trouble that makes us melancholy. The actuality is too stern a thing for sentiment. We linger to weep over a picture, but from the original we should quickly turn our eyes away. There is no pathos in real misery: no luxury in real grief. We do not toy with sharp swords nor hug a gnawing fox to our breast for choice. When a man or woman loves to brood over a sorrow and takes care to keep it green in their memory, you may be sure it is no longer a pain to them. However they may have suffered from it at first, the recollection has become by then a pleasure. Many dear old ladies who daily look at tiny shoes lying in lavender-scented drawers, and weep as they think of the tiny feet whose toddling march is done, and sweet-faced young ones who place each night beneath their pillow some lock that once curled on a boyish head that the salt waves have kissed to death, will call me a nasty cynical brute and say I'm talking nonsense; but I believe, nevertheless, that if they will ask themselves truthfully whether they find it unpleasant to dwell thus on their sorrow, they will be compelled to answer "No." Tears are as sweet as laughter to some natures. The proverbial Englishman, we know from old chronicler Froissart, takes his pleasures sadly, and the Englishwoman goes a step further and takes her pleasures in sadness itself.
+But, as a rule, it is not trouble that makes us melancholy. The actuality is too stern a thing for sentiment. We linger to weep over a picture, but from the original we should quickly turn our eyes away. There is no pathos in real misery: no luxury in real grief. We do not toy with sharp swords nor hug a gnawing fox to our breast for choice. When a man or woman loves to brood over a sorrow and takes care to keep it green in their memory, you may be sure it is no longer a pain to them. However they may have suffered from it at first, the recollection has become by then a pleasure. Many dear old ladies who daily look at tiny shoes lying in lavender-scented drawers, and weep as they think of the tiny feet whose toddling march is done, and sweet-faced young ones who place each night beneath their pillow some lock that once curled on a boyish head that the salt 
+
+![alt text](assets/revised-cropped/r25.jpg){: .def}
+
+waves have kissed to death, will call me a nasty cynical brute and say I'm talking nonsense; but I believe, nevertheless, that if they will ask themselves truthfully whether they find it unpleasant to dwell thus on their sorrow, they will be compelled to answer "No." Tears are as sweet as laughter to some natures. The proverbial Englishman, we know from old chronicler Froissart, takes his pleasures sadly, and the Englishwoman goes a step further and takes her pleasures in sadness itself.
 
 I am not sneering. I would not for a moment sneer at anything that helps to keep hearts tender in this hard old world. We men are cold and common-sensed enough for all; we would not have women the same. No, no, ladies dear, be always sentimental and soft-hearted, as you are—be the soothing butter to our coarse dry bread. Besides, sentiment is to women what fun is to us. They do not care for our humor, surely it would be unfair to deny them their grief. And who shall say that their mode of enjoyment is not as sensible as ours? Why assume that a doubled-up body, a contorted, purple face, and a gaping mouth emitting a series of ear-splitting shrieks point to a state of more intelligent happiness than a pensive face reposing upon a little white hand, and a pair of gentle tear-dimmed eyes looking back through Time's dark avenue upon a fading past?
 
@@ -1504,17 +1508,27 @@ secretary of state, shall give shall go, should be able to, so far as , so much,
 
 ### On Memory
 
-A friend came to me the other day and urged me very eloquently to learn some wonderful system by which you never forgot anything. I don't know why he was so eager on the subject, unless it be that I occasionally borrow an umbrella and have a knack of coming out, in the middle of a game of whist, with a mild "Lor! I've been thinking all along that clubs were trumps." I declined the suggestion, however, in spite of the advantages he so attractively set forth. I have no wish to remember everything. There are many things in most men's lives that had better be forgotten. There is that time, many years ago, when we did not act quite as honorably, quite as uprightly, as we perhaps should have done—that unfortunate deviation from the path of strict probity we once committed, and in which, more unfortunate still, we were found out—that act of folly, of meanness, of wrong. Ah, well! we paid the penalty, suffered the maddening hours of vain remorse, the hot agony of shame, the scorn, perhaps, of those we loved. Let us forget. Oh, Father Time, lift with your kindly hands those bitter memories from off our overburdened hearts, for griefs are ever coming to us with the coming hours, and our little strength is only as the day.
+A friend came to me the other day and urged me very eloquently to learn some wonderful system by which you never forgot anything. I don't know why he was so eager on the subject, unless it be that I occasionally borrow an umbrella and have a knack of coming out, in the middle of a game of whist, with a mild "Lor! I've been thinking all along that clubs were trumps." I declined the suggestion, however, in spite of the advantages he so attractively set forth. I have no wish to remember everything. There are many things in most men's lives that had better be forgotten. There is that time, many years ago, when we did not act quite as honorably, quite as uprightly, as we perhaps should have done—that unfortunate deviation from the path of strict probity we once committed, and in which, more unfortunate still, we were found out—that act of folly, of 
+
+![alt text](assets/revised-cropped/r41.jpg){: .def}
+
+meanness, of wrong. Ah, well! we paid the penalty, suffered the maddening hours of vain remorse, the hot agony of shame, the scorn, perhaps, of those we loved. Let us forget. Oh, Father Time, lift with your kindly hands those bitter memories from off our overburdened hearts, for griefs are ever coming to us with the coming hours, and our little strength is only as the day.
 
 Not that the past should be buried. The music of life would be mute if the chords of memory were snapped asunder. It is but the poisonous weeds, not the flowers, that we should root out from the garden of Mnemosyne. Do you remember Dickens' "Haunted Man"—how he prayed for forgetfulness, and how, when his prayer was answered, he prayed for memory once more? We do not want all the ghosts laid. It is only the haggard, cruel-eyed specters that we flee from. Let the gentle, kindly phantoms haunt us as they will; we are not afraid of them.
 
 Ah me! the world grows very full of ghosts as we grow older. We need not seek in dismal church-yards nor sleep in moated granges to see the shadowy faces and hear the rustling of their garments in the night. Every house, every room, every creaking chair has its own particular ghost. They haunt the empty chambers of our lives, they throng around us like dead leaves whirled in the autumn wind. Some are living, some are dead. We know not. We clasped their hands once, loved them, quarreled with them, laughed with them, told them our thoughts and hopes and aims, as they told us theirs, till it seemed our very hearts had joined in a grip that would defy the puny power of Death. They are gone now; lost to us forever. Their eyes will never look into ours again and their voices we shall never hear. Only their ghosts come to us and talk with us. We see them, dim and shadowy, through our tears. We stretch our yearning hands to them, but they are air.
 
+![alt text](assets/revised-cropped/r42.jpg){: .def}
+
 Ghosts! They are with us night and day. They walk beside us in the busy street under the glare of the sun. They sit by us in the twilight at home. We see their little faces looking from the windows of the old school-house. We meet them in the woods and lanes where we shouted and played as boys. Hark! cannot you hear their low laughter from behind the blackberry-bushes and their distant whoops along the grassy glades? Down here, through the quiet fields and by the wood, where the evening shadows are lurking, winds the path where we used to watch for her at sunset. Look, she is there now, in the dainty white frock we knew so well, with the big bonnet dangling from her little hands and the sunny brown hair all tangled. Five thousand miles away! Dead for all we know! What of that? She is beside us now, and we can look into her laughing eyes and hear her voice. She will vanish at the stile by the wood and we shall be alone; and the shadows will creep out across the fields and the night wind will sweep past moaning. Ghosts! they are always with us and always will be while the sad old world keeps echoing to the sob of long good-bys, while the cruel ships sail away across the great seas, and the cold green earth lies heavy on the hearts of those we loved.
 
 But, oh, ghosts, the world would be sadder still without you. Come to us and speak to us, oh you ghosts of our old loves! Ghosts of playmates, and of sweethearts, and old friends, of all you laughing boys and girls, oh, come to us and be with us, for the world is very lonely, and new friends and faces are not like the old, and we cannot love them, nay, nor laugh with them as we have loved and laughed with you. And when we walked together, oh, ghosts of our youth, the world was very gay and bright; but now it has grown old and we are growing weary, and only you can bring the brightness and the freshness back to us.
 
-Memory is a rare ghost-raiser. Like a haunted house, its walls are ever echoing to unseen feet. Through the broken casements we watch the flitting shadows of the dead, and the saddest shadows of them all are the shadows of our own dead selves.
+Memory is a rare ghost-raiser. Like a haunted house, its walls are ever echoing to unseen feet. Through the broken casements we watch the flitting shadows of the dead, and the saddest shadows of them all are the shadows of our own 
+
+![alt text](assets/revised-cropped/r43.jpg){: .def}
+
+dead selves.
 
 Oh, those young bright faces, so full of truth and honor, of pure, good thoughts, of noble longings, how reproachfully they look upon us with their deep, clear eyes!
 
@@ -1524,15 +1538,19 @@ It is well we cannot see into the future. There are few boys of fourteen who wou
 
 I like to sit and have a talk sometimes with that odd little chap that was myself long ago. I think he likes it too, for he comes so often of an evening when I am alone with my pipe, listening to the whispering of the flames. I see his solemn little face looking at me through the scented smoke as it floats upward, and I smile at him; and he smiles back at me, but his is such a grave, old-fashioned smile. We chat about old times; and now and then he takes me by the hand, and then we slip through the black bars of the grate and down the dusky glowing caves to the land that lies behind the firelight. There we find the days that used to be, and we wander along them together. He tells me as we walk all he thinks and feels. I laugh at him now and then, but the next moment I wish I had not, for he looks so grave I am ashamed of being frivolous. Besides, it is not showing proper respect to one so much older than myself—to one who was myself so very long before I became myself.
 
-We don't talk much at first, but look at one another; I down at his curly hair and little blue bow, he up sideways at me as he trots. And some-how I fancy the shy, round eyes do not altogether approve of me, and he heaves a little sigh, as though he were disappointed. But after awhile his bashfulness wears off and he begins to chat. He tells me his favorite fairy-tales, he can do up to six times, and he has a guinea-pig, and pa says fairy-tales ain't true; and isn't it a pity? 'cos he would so like to be a knight and fight a dragon and marry a beautiful princess. But he takes a more practical view of life when he reaches seven, and would prefer to grow up be a bargee, and earn a lot of money. Maybe this is the consequence of falling in love, which he does about this time with the young lady at the milk shop aet. six. (God bless her little ever-dancing feet, whatever size they may be now!) He must be very fond of her, for he gives her one day his chiefest treasure, to wit, a huge pocket-knife with four rusty blades and a corkscrew, which latter has a knack of working itself out in some mysterious manner and sticking into its owner's leg. She is an affectionate little thing, and she throws her arms round his neck and kisses him for it, then and there, outside the shop. But the stupid world (in the person of the boy at the cigar emporium next door) jeers at such tokens of love. Whereupon my young friend very properly prepares to punch the head of the boy at the cigar emporium next door; but fails in the attempt, the boy at the cigar emporium next door punching his instead.
+We don't talk much at first, but look at one another; I down at his curly hair and little blue bow, he up sideways at me as he trots. And some-how I fancy the shy, round eyes do not altogether approve of me, and he heaves a little sigh, as though he were disappointed. But after awhile his bashfulness wears off and he begins to chat. He tells me his favorite fairy-tales, he can do up to six times, and he has a guinea-pig, 
+
+![alt text](assets/revised-cropped/r44.jpg){: .def}
+
+and pa says fairy-tales ain't true; and isn't it a pity? 'cos he would so like to be a knight and fight a dragon and marry a beautiful princess. But he takes a more practical view of life when he reaches seven, and would prefer to grow up be a bargee, and earn a lot of money. Maybe this is the consequence of falling in love, which he does about this time with the young lady at the milk shop aet. six. (God bless her little ever-dancing feet, whatever size they may be now!) He must be very fond of her, for he gives her one day his chiefest treasure, to wit, a huge pocket-knife with four rusty blades and a corkscrew, which latter has a knack of working itself out in some mysterious manner and sticking into its owner's leg. She is an affectionate little thing, and she throws her arms round his neck and kisses him for it, then and there, outside the shop. But the stupid world (in the person of the boy at the cigar emporium next door) jeers at such tokens of love. Whereupon my young friend very properly prepares to punch the head of the boy at the cigar emporium next door; but fails in the attempt, the boy at the cigar emporium next door punching his instead.
 
 <!-- cspell:disable-next-line -->And then comes school life, with its bitter little sorrows and its joyous shoutings, its jolly larks, and its hot tears falling on beastly Latin grammars and silly old copy-books. It is at school that he injures himself for life—as I firmly believe—trying to pronounce German; and it is there, too, that he learns of the importance attached by the French nation to pens, ink, and paper. "Have you pens, ink, and paper?" is the first question asked by one Frenchman of another on their meeting. The other fellow has not any of them, as a rule, but says that the uncle of his brother has got them all three. The first fellow doesn't appear to care a hang about the uncle of the other fellow's brother; what he wants to know now is, has the neighbor of the other fellow's mother got 'em? "The neighbor of my mother has no pens, no ink, and no paper," replies the other man, beginning to get wild. "Has the child of thy female gardener some pens, some ink, or some paper?" He has him there. After worrying enough about these wretched inks, pens, and paper to make everybody miserable, it turns out that the child of his own female gardener hasn't any. 
 
 
-![alt text](assets/revised-cropped/r41.jpg){: .def}
-![alt text](assets/revised-cropped/r42.jpg){: .def}
-![alt text](assets/revised-cropped/r43.jpg){: .def}
-![alt text](assets/revised-cropped/r44.jpg){: .def}
+
+
+
+
 
 
 ## Psalms, KJV, Supplement to Teaching 1 and 2, Stevens
@@ -1592,8 +1610,6 @@ They never pardon who have done the wrong.
 
 ### The Lark and her Young Ones, Abbreviated, Stevens
 
-See above for link to shorthand.
-
 A Lark, who had Young Ones in a field of corn which was almost ripe, was under some fear lest the reapers should come to reap it before her young brood were fledged, and able to remove from their nest: wherefore, upon flying abroad to look for food, she left this charge with them — that they should take notice what they heard talked of in her absence, and tell her of it when she came back again. When she was gone, they heard the owner of the corn call to his son — " Well," says he, " I think this corn is ripe enough ; I would have you go early tomorrow, and desire our friends and neighbours to come and help us to reap it" 
 
 When the Old Lark came home, the Young Ones fell a-quivering and chirping round her, and told her what had happened, begging her to remove them as fast as she could. The mother bade them be easy ; " for," says she, "if the owner depends upon friends and neighbours, I am pretty sure the corn will not be reaped tomorrow." Next day she went out again, upon the same occasion, and left the same orders with them as before. The owner came, and stayed, expecting those he had sent to : but the sun grew hot, and nothing was done, for not a soul came to help him. "Then," says he to his son, "I perceive these friends of ours are not to be depended upon ; so that you must even go to your uncles and cousins, and tell them, I desire they would be here betimes tomorrow morning to help us to reap." Well, this the Young Ones, in a great fright, reported also to their mother. "If that be all," says she, "do not be frightened, children, for kindred and relations do not use to be so very forward to serve one another : but take particular notice what you hear said the next time, and be sure you let me know it." She went abroad the next day, as usual ; and the owner, finding his relations as slack as the rest of his neighbours, said to his son, "Hark ye, George, do you get a couple of good sickles ready against tomorrow morning, and we will even reap the corn ourselves." When the Young Ones told their mother this, "Then," says she, "we must be gone indeed ; for when a man undertakes to do his work himself, he will not be disappointed." So she removed her Young Ones immediately, and the corn was reaped the next day by the good man and his son.
@@ -1609,7 +1625,6 @@ Neighbours and friends are backwards. Who intends T'effect things well, must mak
 
 ### The Wolf in Sheep's Clothing, Abbreviated, Stevens
 
-See above for link to shorthand.
 
 A Wolf, clothing himself in the skin of a Sheep, and by this means getting in among the flock, took the opportunity to devour many of them. At last the shepherd discovered him, and, fastening a rope about his neck, tied him up to a tree which stood hard by. Some other shepherds happening to pass that way, and observing what he was about, drew near, and expressed their surprise at it "What," says one of them, "brother, do you hang Sheep ?" — "No," replies the other, "but I hang a Wolf whenever I catch him, though he be in Sheep's clothing." Then he showed them their mistake, and they applauded the justice of the execution.
 
@@ -1622,7 +1637,6 @@ As to be loved needs only to be seen.
 
 ### A Speech In Reporting Style, Reporting, Stevens 
 
-See above for link to shorthand.
 
 Key to speech: See the third column from the right, headed "ENGLAND AND THE WORLD", in the [23 May 1898 edition of the New York Sun](https://chroniclingamerica.loc.gov/lccn/sn83030272/1898-05-23/ed-1/seq-6/). Evidently the speech was given on or just before 14 May 1898, printed in the London Times that day, then part excerpted in the New York Sun a couple weeks later.  (Jeremy W Sherman)
 
