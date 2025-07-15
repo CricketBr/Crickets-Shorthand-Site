@@ -3,37 +3,64 @@
 }
 
 :root {
+
+    --black: #000000;
+    --white: #FFFFFF;
+    --accentLight: #AFCDE9;
+    --accentMed: #69A2D3;
+    --accentMedDark: #2F7BBD;
+    --accentDark: #0059A7;
+
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+
+    color: var(--black);
+    background-color: var(--white);
+}
+
+/*
+    https://www.bairesdev.com/tools/color-palette-app/editor/
+
+
+  --black: #000000;
+  --white: #FFFFFF;
+  --accentLight: #AFCDE9;
+  --accentMed: #69A2D3;
+  --accentMedDark: #2F7BBD;
+  --accentDark: #0059A7;
+
+    */
+
+/* by hand
     --kortrightblue: #1062a9;
-    /* --accent1: hsl(208, 75%, 40%); */
     --accentDark: #196bb3;
-    --accentMed: hsl(209, 49%, 90%);
-    --accentLight: hsl(209, 41%, 95%);
-    /* --accent1: #ff0000; */
+    --accentMed: #d9e6f2;
+    --accentLight: hsl(209, 41%, 95%); 
+    */
 
+/* paletton.com   3e7db5, 1b68ae, 095293, 064277, 04325b */
 
-    box-sizing: content-box;
-    /* not inherited; default is content-box for most elements; this line is a reminder 
+/* box-sizing: content-box; */
+
+/* not inherited; default is content-box for most elements; this line is a reminder 
     width: 100px = 100px width of content, not including border or padding
-    border-box: 100px = content, padding and border together
-    
-    https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+    border-box: 100px = content, padding and border together */
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
     Note: It is often useful to set box-sizing to border-box to lay out elements. 
     This makes dealing with the sizes of elements much easier, and generally 
     eliminates a number of pitfalls you can stumble on while laying out your content. 
     On the other hand, when using position: relative or position: absolute, use of 
     box-sizing: content-box allows the positioning values to be relative to the 
     content, and independent of changes to border and padding sizes, which is 
-    sometimes desirable.
-    
-    */
-
-    font-family: Helvetica, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    /* background-color: --var(--accentMed); */
+    sometimes desirable. */
 
 
-}
+
+
+/* background-color: --var(--accentMed); */
+
 
 html {
     background-color: var(--accentMed);
@@ -78,7 +105,7 @@ nav {
 }
 
 .sitename {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: bold;
     padding-bottom: 0rex;
     margin-bottom: 1rex;
@@ -136,7 +163,6 @@ nav a {
 a:hover {
     /* border-bottom: 0.15em solid var(--accentDark); */
     background-color: var(--accentMed);
-    text-decoration:
 }
 
 hr {
