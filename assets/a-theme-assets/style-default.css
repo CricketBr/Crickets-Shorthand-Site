@@ -6,9 +6,9 @@
     --test: hsl(208, 83%, 36%);
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
-    --colTable: hsl(209, 59%, 90%);
-    --colNavLinkHover: hsl(209, 73%, 50%);
-    --colBkg: hsl(209, 60%, 80%);
+    --colTable: hsl(209, 60%, 95%);
+    --colNavLinkHover: hsl(209, 40%, 75%);
+    --colBkg: hsl(209, 40%, 85%);
     --colBorders: #055aac;
     --colLinks: #055aac;
     --colText:black;
@@ -159,13 +159,12 @@ header a {
 
 nav a {
     text-decoration: none;
-    padding-right:1rex;
+    margin-right:1rex;
 }
 
 
 nav a:hover {
     background-color: var(--colNavLinkHover);
-    border-bottom:none;
     text-decoration: underline solid;
     /* color:var(--colText) */
 
