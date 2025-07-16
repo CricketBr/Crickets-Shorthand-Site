@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW - Shorthand Course
-rev: 2025-07-15, 156
+rev: 2025-07-16, 156
 ---
 
 # Cricket’s Shorthand Course
@@ -86,7 +86,7 @@ Review the theory and copy words that demonstrate each rule. You will work throu
 
 Modern books (beginner and advanced) often incorporate a systematic review in their exercises. If your book does this, then you can spend less time reading theory and more time reading and writing shorthand. Swem's course starts after you know all the theory and can write new material at 80wpm for 5 minutes -- and he still recommends reviewing the basic manual at least 1-2 more times, until you reach 125wpm.
 
-If you are ready for an advanced book, but it does not review the basic rules, then alternate books.
+If you are ready for an advanced book, but it does not review the basic rules, then alternate the basic and advanced books.
 
 [Reading instructions](#how-to-read-shorthand) are in a later section.
 
@@ -94,13 +94,13 @@ If your book says to just read *then keep reading* for the rest of the hour. (Th
 
 **10 minutes reading your own writing.**
  
-Use material that has rested for a bit. This give you practice reading your own writing, and will catch bad habits early. Practice a few words that need it, but do not redo the entire passage. At first, focus on recent work (to catch bad habits quickly). Then gradually extend it to six months or more, so you practice reading old material. Note that your first writing will be so bad that, while it's good to read it to find problems to fix, you may not benefit from reading it weeks later. Use your own judgement. (Keep a sample so in a year you can look back and see how far you've come.)
+Use material that has rested for a bit. This give you practice reading your own writing, and will catch bad habits early. Practice a few words that need it. Only redo the entire passage if you think it will help, but usually not. At first, focus on recent work (to catch bad habits quickly). Then gradually extend it to six months or more, so you practice reading old material. Note that your first writing will be so bad that, while it's good to read it to find problems to fix, you may not benefit from reading it weeks later. Use your own judgement. (Keep a sample so in a year you can look back and see how far you've come.)
 
 **30 minutes copying and/or writing from dictation.**
 
 If you have not already written for 5 minutes (copying example words), do that now to warm up. Use penmanship exercises from your system, or one similar, if you have them.
 
-As said before, take time from this block if your book has reading material.
+As said before, reduce time in this block if your book has more reading material.
 
 4 sessions out of 5, follow the usual copy and dictation pattern, described later. Start slow, increase speed until accuracy is fairly low, then finish at a medium speed.
 
@@ -110,11 +110,11 @@ As said before, take time from this block if your book has reading material.
 
 End each writing session, no matter how short, with accurate but not-slow writing. Music teachers also recommend this. Your body remembers the final minutes of a lesson strongly.
 
+Divide your penmanship time equally between tracing, penmanship exercises (usually repeating the same shape, or a family of similar shapes and outlines), and copying a recent exercise carefully -- but keep it fluid. You are writing, not drawing.
+
 Swem suggests tracing shorthand in the textbook. This will force you to notice subtle details, but isn't always an option and may not give much variety. Many systems have penmanship exercises. Do some from your system, or one similar, or invent your own. Sometimes work on problems you know you have. Other times work on other aspects. Often the real problem is something we think we've mastered.
 
 Leslie worked with Swem under JR Gregg, and recommends against tracing outlines at any stage. They were both successful teachers.
-
-Divide your penmanship time equally between tracing, penmanship exercises (usually repeating the same shape, or a family of similar shapes and outlines), and copying a recent exercise carefully -- but keep it fluid. You are writing, not drawing.
 
 Once you know the shapes well, add speed to this, enough to make your writing smooth but not enough to sacrifice accuracy.
 
@@ -126,18 +126,18 @@ A diary shows progress (reassuring) and the results of experiments. It will also
 
 You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy vs duration, and the effect of different types of repetition. This will change rapidly at first, then settle down, then change again as you increase your target speeds.
 
-I recommend date, passage description, length in words, activity (Read, Copy, Dictation), the wpm (words per minute) and accuracy of each attempt. The numbers will go up and down, but the average will gradually go up. Include room for other notes.
-
 Reading skill is as important as writing skill. Test it every few sessions.
 
-| Date | Passage | Length | 1st | 2nd | 3rd | 4th | 5th | 6th | Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jun26 | GSF2 ch5 ex40 | 100 | Read sh, 50wpm | 30/95 | 40/95 | 50/90 | 40/95 | | |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jun26 | Hob ch1 L100-110 | 100 | Read txt, practice all | 40/95 | 50/95 | 60/90 | 70/90 | 60/95 | Lots of long words|
-| Jun26 | Hob ch1 L110-120 | 100 | Read txt, practice problems only |40/90 | 40/95 | 50/90| 60/90 | 50/98| Happy! |
-| Jun26 | Hob ch1 L110-120 | 100 | Read Jn1, writing was good, reading needs practice |40/90 | 40/95 | 50/95| 60/90 | 50/98| |
+| Date  | Passage          | Length | 1st    | 2nd     | 3rd   | 4th   | 5th   | 6th   | Notes |
+| ---   | ---              | ---    | ---    | ---     | ---   | ---   | ---   | ---   | ---   |
+| Jun1  | GSF2 ch5 ex40    | 114    | c40/90 | d40/95  | 50/95 | 60/90 | 50/98 |       |       |
+| ...   |                  |        |        |         |       |       |       |       |       |
+| Jun26 | GSF2 ch5 ex40    | 114    | r70/98 | d50/95  | 60/90 | 60/95 |       |       | penmanship clear, reading slow     |
+| Jun26 | GSF2 ch6 ex50    | 91     | c40/95 | d50/95  | 60/95 | 70/90 | 50/98 |       |       |
 
+Here I copied a passage on June 1, took dictation and built it to 60 with 90% accuracy, then slowed down again. Several weeks later I read it, was happy with the penmanship but couldn't remember what some abbreviations meant, then built it up to 60wpm with 95% accuracy. Then I copied another passage, tried dictation at 50wpm, built it up, attempted 70wpm, then dropped to 50 for a clean take to end the session.
+
+Do what works for you! 
 
 ## How to Read Shorthand
 
@@ -354,6 +354,8 @@ Reading well-written shorthand is the best way learn how the rules work together
 
 Dictation fast enough to make you focus and keep your pen moving smoothly is the best way to practice. It forces your brain and hand to work without hesitation and highlights problem areas. However, it is a waste of time if you don't know what you are supposed to write.
 
+It's impossible to know the right speed for each dictation. Some passages harder than others. Some are difficult just because the outlines are new, and are easy to speed up; others are difficult because the outlines are awkward. Some days are better than others. Try to minimize the times you go too fast, but don't be afraid of pushing, as long as you repeat the passage at fast but accurate speed.
+
 The normal sequence for each exercise before mastering the theory is:
 - Preparation appropriate to the level of theory mastery.
 - Slow dictation. Retake at this speed once if needed.
@@ -556,11 +558,17 @@ The total repetitions for easy and hard passages will be about the same. The onl
 
 ## Building Endurance
 
-Swem says to begin his Systematic Speed Course at 80-100wpm for 5 minutes, but until now you've mostly done shorter exercises.  
-
 Your speed will go down for longer passages. This is normal.
 
-Long dictations penalize slow sections more; you can't catch up when the voice stops. They also require longer attention span, which you need to build. Lastly, poor posture and tension and pen grip will start to become problems because you can't rest as often.
+Long dictations require longer attention span, which you need to build. They penalize slow spots more (pen and brain); you can't catch up when the voice stops. Lastly, poor posture and tension and pen grip will start to become problems because you can't rest as often.
+
+Those are all separate skills. Try exercises that work on each one separately. Often the skill we think isn't a problem is the one that's holding us back. Work on pen speed by writing the same 10-word sentence repeatedly for a minute (per Beryl Pratt). Work on brain speed by visualizing outlines without writing. Work on focus, posture and grip by writing longhand.
+
+Think of other exercises and experiment!
+
+Working at the edge of your ability means sometimes you'll over-shoot. Try to minimize this, and balance it with work that's a bit easier. When your penmanship starts to drop, try to bring it back, but don't reinforce bad habits for the sake of endurance until much later, when your penmanship is solid at speed.
+
+Swem says to begin his Systematic Speed Course at 80-100wpm for 5 minutes, but until now you've mostly done shorter exercises. 
 
 ### Good Textbook
 
@@ -584,6 +592,7 @@ If your long-dictation speed lags more than 20wpm below your short-dictation spe
 
 Occasionally experiment with even longer dictations, to build more endurance.
 
+Berryl Pratt, who is an accomplished Pitman writer and teacher, recommends writing the same 10-word sentence for an entire page.
 
 ### Professional Advice for Endurance
 
@@ -638,7 +647,7 @@ Blanchard is very clear that the pyramid plan is only to be used when the gap be
 
 ### Other Methods
 
-* Beryl Pratt gives sensible advice: [Reddit/r/shorthand, June 6, 2025](https://www.reddit.com/r/shorthand/comments/1lmfiqn/approx_40_wpm_after_about_21_days_but_how_to/)
+* Beryl Pratt is an accomplished Pitman writer and teacher, and gives sensible advice: [Reddit/r/shorthand, June 6, 2025](https://www.reddit.com/r/shorthand/comments/1lmfiqn/approx_40_wpm_after_about_21_days_but_how_to/)
 
 * More of Beryl's advice: [Reddit/r/shorthand, July 2, 2025](https://www.reddit.com/r/shorthand/comments/1lpvjtp/comment/n13ia20/?context=3)
 
@@ -678,67 +687,63 @@ Swem's course is for building speed once you know the theory. The first dictatio
 
 
 <table>
-<thead><th>Cricket, Beginner and Intermediate</th><th>Swem, Advanced</th></thead>
+  <thead>
+    <th>Cricket, Beginner and Intermediate</th>
+    <th>Swem, Advanced</th>
+  </thead>
 <tbody>
-
-<tr>
-  <td>Mistakes are due to both lack of speed and lack of knowledge.  
-    </td>
-  <td>Very few mistakes are due to lack of knowledge.</td>
-</tr>
-
-<tr>
-  <td>Squeeze in what you can. Several shorter sessions works better than infrequent long sessions.<br />
-    Experiment every 5th passage.   
-    </td>
-  <td>7 x 1-hour sessions per week. 5 of one type of practice, 2 of a different type. Double up some days to create a rest day each week. Never more than 2 days without practice.</td>
-</tr>
-
-<tr>
-  <td>10 minutes per hour read your old writing.</td>
-  <td>Not done.</td>
-</tr>
-
-<tr>
-  <td>15 minutes per hour (re)read theory.</td>
-  <td>15 minutes per hour (re)read theory. Even though you know the theory, a review helps, especially for the optional rules.</td>
-</tr>
-
-<tr>
-  <td>1 minute passage, as many as will fit in the session. Increase duration when reach 80wpm.</td>
-  <td>5 minute passage, 1 in each each hour-long session.</td>
-</tr>
-<tr>
-  <td>Preview depending on theory knowledge and available materials.</td>
-  <td>"A speed at which you must exert yourself...Just get it down some way or another." Swem does not specify an accuracy until you reach 125wpm and 95% for a first attempt.</td>
-</tr>
-<tr>
-  <td>First dictation slow enough for 95% accuracy, then correct it.</td>
-  <td>Next dictation slow enough for "practically perfect" (but no slower).</td>
-</tr>
-<tr>
-  <td>Read, correct, and practice problem areas for all attempts.</td>
-  <td>Read and correct first attempts only. Practice problem areas after all attempts.</td>
-</tr>
-<tr>
-  <td>Increase until above target speed.</td>
-  <td>Increase until reach starting speed, which will be much better than the first attempt.</td>
-</tr>
-<tr>
-  <td>Decrease to target speed for final attempt.</td>
-  <td>You will probably be able to take it even above the speed of the first attempt, and by now the hour will probably be up.</td>
-</tr>
-  <td>Usually five repetitions, plus preparation.</td>
-  <td>At least four repetitions, including the first attempt.</td>
-<tr>
-  <td>Finish every writing session, no matter how short, with penmanship practice. Alternate methods between sessions.</td>
-  <td>Finish every session (sessions are an hour) with 5 minutes penmanship practice tracing textbook with dry pen.</td>
-</tr>
-<tr>
-  <td>1 session in 5, experiment with other speeds and methods.</td>
-  <td>For 2x30-minute sessions/week, start dictation at highest readable speed. Correct but do not write again.</td>
-</tr>
-</tbody>
+    <tr>
+      <td>Mistakes are due to both lack of speed and lack of knowledge.      </td>
+      <td>Very few mistakes are due to lack of knowledge.</td>
+    </tr>
+    <tr>
+      <td>Squeeze in what you can. Several shorter sessions works better than infrequent long sessions.<br />
+        Experiment every 5th passage.       </td>
+      <td>7 x 1-hour sessions per week. 5 of one type of practice, 2 of a different type. Double up some days to create a rest day each week. Never more than 2 days without practice.</td>
+    </tr>
+    <tr>
+      <td>10 minutes per hour read your old writing.</td>
+      <td>Not done.</td>
+    </tr>
+    <tr>
+      <td>15 minutes per hour (re)read theory.</td>
+      <td>15 minutes per hour (re)read theory. Even though you know the theory, a review helps, especially for the optional rules.</td>
+    </tr>
+    <tr>
+      <td>1 minute passage, as many as will fit in the session. Increase duration when reach 80wpm.</td>
+      <td>5 minute passage, 1 in each each hour-long session.</td>
+    </tr>
+    <tr>
+      <td>Preview depending on theory knowledge and available materials.</td>
+      <td>"A speed at which you must exert yourself...Just get it down some way or another." Swem does not specify an accuracy until you reach 125wpm and 95% for a first attempt.</td>
+    </tr>
+    <tr>
+      <td>First dictation slow enough for 95% accuracy, then correct it.</td>
+      <td>Next dictation slow enough for "practically perfect" (but no slower).</td>
+    </tr>
+    <tr>
+      <td>Read, correct, and practice problem areas for all attempts.</td>
+      <td>Read and correct first attempts only. Practice problem areas after all attempts.</td>
+    </tr>
+    <tr>
+      <td>Increase until above target speed.</td>
+      <td>Increase until reach starting speed, which will be much better than the first attempt.</td>
+    </tr>
+    <tr>
+      <td>Decrease to target speed for final attempt.</td>
+      <td>You will probably be able to take it even above the speed of the first attempt, and by now the hour will probably be up.</td>
+    </tr>
+      <td>Usually five repetitions, plus preparation.</td>
+      <td>At least four repetitions, including the first attempt.</td>
+    <tr>
+      <td>Finish every writing session, no matter how short, with penmanship practice. Alternate methods between sessions.</td>
+      <td>Finish every session (sessions are an hour) with 5 minutes penmanship practice tracing textbook with dry pen.</td>
+    </tr>
+    <tr>
+      <td>1 session in 5, experiment with other speeds and methods.</td>
+      <td>For 2x30-minute sessions/week, start dictation at highest readable speed. Correct but do not write again.</td>
+    </tr>
+  </tbody>
 </table>
 
 

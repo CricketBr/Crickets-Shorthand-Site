@@ -6,7 +6,7 @@
     --test: hsl(208, 83%, 36%);
     --black: hsl(0, 0%, 0%);
     --white: hsl(0, 0%, 100%);
-    --colTable: #91bbe3;
+    --colTable: hsl(209, 59%, 90%);
     --colNavLinkHover: hsl(209, 73%, 50%);
     --colBkg: hsl(209, 60%, 80%);
     --colBorders: #055aac;
@@ -333,7 +333,7 @@ img.def {
 
 img.man {
     max-width: min(30rem, 100%);
-    border-right: none;
+    padding:0.2em;
 }
 
 img.man1row {
@@ -362,13 +362,13 @@ img.sup1row {
 
 img.teach1 {
     max-width: min(45rem, 100%);
-    padding-top: 1ex;
+    padding-top: 0.5ex;
 }
 
 img.teach1-1row {
     height: 2.2em;
     border-top: 7px double var(--colBorders);
-    padding-top: 1ex;
+    padding-top: 0.5ex;
 }
 
 .rev {
