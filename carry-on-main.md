@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Carry On Orthic
-rev: 2025-07-09, 142
+rev: 2025-07-17, 157
 ---
 # Carry On Jeeves in Orthic
 
@@ -17,9 +17,9 @@ My intention is to begin by assuming you can read the Fully Written Style, and a
 
 I'll build speed for each passage, so might also share that version.
 
-It's a plan. In pencil, as all good plans are.
+It's a plan, in pencil, as all good plans are.
 
-Line numbers are on GitHub.
+Line numbers are on [GitHub](https://github.com/CricketBr/Crickets-Shorthand-Site/blob/main/assets/carry-on-jeeves-orthic/jeeves-carry-on.txt). Text from Project Gutenberg. License included in the file. (Other formats are on [Project Gutenberg](https://www.gutenberg.org/ebooks/65974).)
 
 All Comments Welcome.
 
