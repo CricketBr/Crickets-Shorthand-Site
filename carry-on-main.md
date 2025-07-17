@@ -24,12 +24,12 @@ Line numbers are on [GitHub](https://github.com/CricketBr/Crickets-Shorthand-Sit
 All Comments Welcome.
 
 Cricket
-
+test 
 Page 1
 
 
-
-xxx image
+test
+xxx imagetest
 
 This page is Fully Written, which I find painfully slow (after decades of slowly writing Gregg). Jeeves will probably appear many times, so he gets an abbreviation. All the punctuation is included, since in this sort of book the author's choice of pacing is adds to the fun. Hyphens are doubled instead of intersected; it's just as fast and stands out more. Agatha and Willoughby should get brief forms. They're named 27 times in the book. They'll get them when they next appear. I gave up trying to write "ghby" in Willoughby. It's an uncommon enough name that I want it written clearly once.
 
