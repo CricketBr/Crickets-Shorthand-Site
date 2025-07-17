@@ -17,7 +17,9 @@ My intention is to begin by assuming you can read the Fully Written Style, and a
 
 I'll build speed for each passage, so might also share that version.
 
-It's a plan. In pencil.
+It's a plan. In pencil, as all good plans are.
+
+Line numbers are on GitHub.
 
 All Comments Welcome.
 
@@ -25,9 +27,13 @@ Cricket
 
 Page 1
 
+
+
 xxx image
 
 This page is Fully Written, which I find painfully slow (after decades of slowly writing Gregg). Jeeves will probably appear many times, so he gets an abbreviation. All the punctuation is included, since in this sort of book the author's choice of pacing is adds to the fun. Hyphens are doubled instead of intersected; it's just as fast and stands out more. Agatha and Willoughby should get brief forms. They're named 27 times in the book. They'll get them when they next appear. I gave up trying to write "ghby" in Willoughby. It's an uncommon enough name that I want it written clearly once.
+
+
 
 
 

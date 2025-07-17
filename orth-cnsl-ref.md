@@ -2341,7 +2341,7 @@ In words ending in *ove* or *olve*, it is generally better to omit the *o* or *o
 See Modes for Revised's warnings about over-use.
 
 
-#### WARD `ard`
+#### -WARD `ard`
 ![shorthand image](<assets/manual-bits/ward-with-ther-m016 copy.png>){: .rev}\
 Manual: hr, others, ward, towards,
 
