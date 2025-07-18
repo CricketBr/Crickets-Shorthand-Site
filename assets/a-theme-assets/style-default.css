@@ -3,22 +3,36 @@
 }
 
 :root {
-    --test: hsl(208, 83%, 36%);
+    --base: hsl(208, 83%, 36%);
+
     --black: hsl(0, 0%, 0%);
-    --white: hsl(0, 0%, 100%);
-    --colTable: hsl(209, 60%, 95%);
+
+    --colText: hsl(0, 0%, 0%);
+    --colBorders: hsl(209, 94%, 35%);
+    --colLinks: hsl(209, 94%, 35%);
     --colNavLinkHover: hsl(209, 40%, 75%);
     --colBkg: hsl(209, 40%, 85%);
-    --colBorders: #055aac;
-    --colLinks: #055aac;
-    --colText:black;
-    --colTxtBkg: white;
+    --colTable: hsl(209, 60%, 95%);
+    --colTxtBkg: hsl(0, 0%, 100%);
+    --white: hsl(0, 0%, 100%);
 
     font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    
-    background-color: var(--colBkg);
+
+    --a0: hsl(0, 0%, 0%);
+    --a1: hsl(0, 0%, 100%);
+    --a2: hsl(209, 94%, 35%);
+    --a3: hsl(209, 40%, 75%);
+    --a4: hsl(209, 40%, 85%);
+    --a5: hsl(209, 60%, 95%);
+    --a6: hsl(0, 0%, 100%);
+    --a7: hsl(209, 94%, 35%);
+    --a8: hsl(209, 94%, 35%);
+    --a9: hsl(209, 94%, 35%);
+    --a10: hsl(209, 94%, 35%);
+
+
 }
 
 /*
@@ -159,7 +173,7 @@ header a {
 
 nav a {
     text-decoration: none;
-    margin-right:1rex;
+    margin-right: 1rex;
 }
 
 
@@ -171,7 +185,7 @@ nav a:hover {
 }
 
 a:hover {
-    border-bottom-width: 0.15em ;
+    border-bottom-width: 0.15em;
     border-bottom-style: solid;
     /* background-color: var(--colBkg); */
 }
@@ -332,7 +346,7 @@ img.def {
 
 img.man {
     max-width: min(30rem, 100%);
-    padding:0.2em;
+    padding: 0.2em;
 }
 
 img.man1row {
