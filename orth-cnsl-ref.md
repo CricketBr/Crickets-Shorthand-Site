@@ -1501,7 +1501,7 @@ Tricky! `b` = able, `ab` = ab
 
 This is only in Revised, and I don't like it. (It's also the opposite of Gregg, where longer words usually get longer abbreviations.) (Cricket)
 
-#### -ACITY `ct``
+#### -ACITY `ct`
 ![shorthand image](assets/revised-split/acity-r19.jpg){: .rev}\
 Revised: capacity, pertinacity, veracity,
 

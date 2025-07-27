@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSW Homepage
-rev: 2025-07-11, 151
+rev: 2025-07-23 157
 ---
 
 # Cricket's Shorthand Site
@@ -23,6 +23,10 @@ Comments and corrections are more than welcome.
 
 A series of steps for learning shorthand, especially if you don't have a teacher to guide you.
 
+### [Course Extras](cr-shorthand-course-extras.md)
+
+Mostly long quotes and details from other books that are useful but also distracting.
+
 ### Course Summary -- Not Started
 
 Because the first one, with all the reasons and references, is too long.
@@ -30,6 +34,10 @@ Because the first one, with all the reasons and references, is too long.
 ### [Tips - Deprecated](cr-shorthand-tips.md)
 
 A collection of tips I've accumulated over the years. Replaced by Cricket's Shorthand Course.
+
+### [Swem's Systematic Speed Course](swem-systematic-speed-course.md)
+
+Start this after you reach 80wpm for 5 minutes on unseen material. Cricket's Course has instructions for a modified version starting at 60wpm for 1 minute.
 
 ## Orthic Consolidated
 
