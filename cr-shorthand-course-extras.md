@@ -296,9 +296,16 @@ of the transcripts resulting from those notes
 Very clear results: 
 Of the total correctly written shorthand outlines, 2.3 per- 
 cent were incorrectly transcribed. 
+
+
+
 'Elizabeth Iannizzi, "Transcription and Shorthand Errors Among Elementary 
 and Advanced High School Writers of Simplified and Diamond Jubilee Gregg 
 Shorthand" (Doctoral dissertation, New York University, 1967), p. 71. 
+
+https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990012399670107876
+
+
 11 
 
 p11
@@ -1040,3 +1047,124 @@ State University, 1966.
 
 
 Note that all systems, even the simpler ones, simplify spelling and even leave out many sounded letters, which is scary at first. Trust the system. The main difference between phonetic systems often claim the write as you speak, but in fact write as the author speaks, complete with accent. Memorize the shorthand spelling of common words, like you did when learning to write English as a child. You will get plenty of practice for them. Use the spelling you think makes sense for the rest. I often use the standard English spelling for vowels, rather than think carefully about how I actually say them.
+
+
+
+https://archive.org/details/ERIC_ED094232
+Dyep J. Lee
+A Comparison of Two Practice Patterns Used for the Development of Skills in Writing Shorthand Dictation, Apr 74
+Paper presented to the Annual Meeting of the American Educational Research Association (SSth, Chicago, Illinois, April 1974)
+
+ABSTRACT
+
+The major purpose of this study was to whether two patterns of writing practice dictation wou iifferent resur..s in the development of shorthand writ of Gr<?gg Shorthand, Diamond Jubilee. The findings indi rate pattern does not appear to affect the level of ac writing shorthand from dictation; therefore, shorthand should have no hesitation in using the ^aster practice Teachers should endeavor to assist students to set rea that will permit continiious periods of success in t^^rit from dictationo (Author)
+
+Authorities differ as to the most appropriate speeds for dictation prac^ 
+tlce. Some writers believe that the students shoxild be encouraged to practice 
+at speeds below their three-minute dictation test rates; others feel that >all 
+the practice for speed bidlding should be at least 20 to 1+0 words a minute 
+above the rate the student is attempting to pass on a three-minute dictation 
+test. 
+
+first year students, uni freshmen
+
+djs -- good book
+3 minute final
+1 minute for practice, repetitive
+
+"No significant difference in the level achieved in writing shorthand from dictation" between the two methods! includes comparing high/low SAT groups.
+
+tiny but nonsig diff -- higher did worse on practice, better on test
+
+NSDif in attitudes towards learning
+"NSig relationship between each of the areas on the aptitude inventory and the level of achievement on the shorthand dictation tests."
+
+
+fast group, all did equally well, highest level on test
+next highest smart slow
+worst dull low -- not author's words
+
+attitudes: faster were happier, fav attitude toward study of shorthand, speed they wanted to practice, confidence in adequacy..skill..office position, even though test results same
+
+-- teachers don't have to worry about different speeds for each student
+
+(I say BS -- failing at "too hard that everyone does" vs "slower but progressing")
+
+attitudes related to results on tests -- set good goals
+
+
+
+
+
+
+Bellows, Gladys Pauline. A Comparison of Methods in Teaching Gregg Shorthand, thesis, August 1949; Denton, Texas. (https://digital.library.unt.edu/ark:/67531/metadc83508/m1/1/: accessed July 27, 2025), University of North Texas Libraries, UNT Digital Library, https://digital.library.unt.edu; .
+Aug 1949 -- edge of simp and anni
+
+
+https://digital.library.unt.edu/ark:/67531/metadc83508/m1/1/
+
+
+
+A Comparison of Methods in Teaching Gregg Shorthand
+
+DescriptionBookmark this section
+The purpose of this problem is to make a comparative study of methods in teaching Gregg shorthand. The problem is to compare the methods of approach, procedures, and techniques used, and to determine what has been accomplished in the way of experiments which have been performed by the different writers.
+
+Physical DescriptionBookmark this section
+iv, 84 leaves
+
+Creation InformationBookmark this section
+Bellows, Gladys Pauline August 1949.
+
+Manual vs Direct
+manual/functional better than direct -- but what is direct?
+use of blackboard!!
+
+Functional better in all ways except brief forms in first few months
+BUt...
+advanced class shows opposite in first test, afer vacation
+(easy enough ti fix) thoery: drill of manual type new to fn group so it would be more effecive,
+speed of transcription much higher with fn
+
+Direct method: genrealization from other words
+
+Leslie functional 761 pages of shorthand; next highest 558, only after combining with gregg manual and speed studies
+
+p69
+functional better in all ways
+esp
+formal penmanship drills not beneficial
+class time for practice, not quesitons to/from students
+formal testing harmful
+writign word lists no help
+copying outlines or connected matter numberous times no help
+no review of principles nec at end of yr bec review takes place naturally by frequent recurrenc of common words
+
+**"The success of any method depends on the skill and enthusiasm of the teacher."**
+
+p71 as above and
+do not memorize rules
+blackboard!
+prompt promptly when necessary for speed building
+mix of activities
+encourage pupils by allowing on lsuccessful experiences
+
+
+
+++++++++++++
+
+
+The textbook and teaching method affects student success more than the system, as long as the system is not too extreme. Leslie's Functional Method for Gregg Anniversary (xxxref) had great success, even though it did not state the rules clearly, because it had so much well-written shorthand for each chapter, a key in the back, a teacher's book and magazines with tests for each chapter, instructions on how to teach new words, how much time to spend each day on each type of exercise, instructions for gradual increasing of difficulty, and ways to keep students interested. The better results may not have been due to the innovation of delaying all writing for the first half of the class and reduced wording of the rules.
+
+
+
+ Leslie's book *Methods of Teaching Gregg Shorthand*. (1953, 497 pages, not to be confused with other similarly-named books by the same company and even the same author.) 
+
+
+ A good book will:
+- introduce the material in an order that allows for natural language and interesting material as early as possible.
+- have plenty of well-written shorthand to read and copy at all stages.
+- say when to increase speed and when to move to the next type of practice.
+- clearly state when enough rules have been taught that it is safe for you to write your own material.
+
+This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do. It gives more specific guidance to those who wish it; explains some of the reasoning behind the suggestions; reinforces common advice; and adds useful ideas not commonly found in other places.

@@ -52,134 +52,80 @@ xxx redo
 
 ## Introduction
 
-This was supposed to be a series of steps to learn shorthand based mostly on Leslie's Functional Method xxxx ref. Then I read more teacher handbooks, and a few studies comparing methods, and entirely rewrote it.
+Most modern shorthand learners do not have the luxury of a teacher, or even a good self-instruction book (especially those of us who prefer obscure systems).
 
-Every author is convinced that their method is best, but there  very little evidence behind many of them. Methods of Shorthand Instruction A research Analysis (Pullis, JM, 1973) was an eye-opener.
+This page was supposed to be a series of steps for those students, based mostly on the Gregg Functional Method. Then I read more teacher handbooks, and a few studies comparing methods, and entirely rewrote it, not because the Functional Method was wrong overall (studies repeatedly show it works very well) (Bellows Comparison xxxref) but because some of its advice is extreme and may not work for all students, especially if it is taken out of context.
 
-(References and links under...wait for it...References.)
+Every author is convinced that their method is best -- even the extreme ones -- but there is very little evidence behind many of them. Methods of Shorthand Instruction: A Research Analysis (Pullis, JM, 1973 xxx) was an eye-opener. Often a method that works well for advanced students who need to build speed wastes time (at best) or frustrates students still struggling with the theory. {.aside}
 
-The textbook and teaching method affects student success more than the system, as long as the system is not too extreme. Leslie's Functional Method for Gregg Anniversary (xxxref) had great success, even though it did not state the rules clearly, because it had so much well-written shorthand for each chapter, a key in the back, supplementary books, with tests for each chapter, instructions on how to teach new words, how much time to spend each day on each type of exercises, instructions for gradual increasing of difficulty, and ways to keep students interested, not because students did not write anything for the first half, even though delayed writing was the Big Thing it advertised. Gregg Publishing's large library, including magazines for teachers and stenographers, probably helped.
+(References and links under...wait for it...References.){.aside}
 
+In most cases I recommend alternating exercises, since each one works on different skills. Sometime I recommend a middle path, and in others, where the evidence is clear, I recommend one method over the others. I have tried to identify my unsupported opinions, opinions of the majority of authors, and the opinions of just a few, but may not have succeeded.
 
-
-sss
-
-
-
-
-
-
-
-
-Many of the studies saying one shorthand is faster are more influenced by the textbook than the shorthand.
-
-
-
-
-
-Much of the advice is conflicting. Some of the advice is actually promises from the marketing department.
-
-There is no doubt Leslie's Functional Method for teaching Gregg was more successful than the previous method, but that was probably due to the drastic increase in shorthand plates in each chapter and the enthusiasm of the teacher, not the extreme delay in picking up the pen lack of focus on rules and penmanship.
-
-
-
-
-
-Most modern shorthand learners do not have the luxury of a teacher, or even a good self-instruction book (especially those of us who prefer older systems).
-
-A good book will:
-- introduce the material in an order that allows for natural language and interesting material as early as possible.
-- have plenty of well-written shorthand to read and copy at all stages.
-- say when to increase speed and when to move to the next type of practice.
-- clearly state when enough rules have been taught that it is safe for you to write your own material.
-
-This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do. It gives more specific guidance to those who wish it; explains some of the reasoning behind the suggestions; reinforces common advice; and adds useful ideas not commonly found in other places.
-
-Note that sometimes teachers disagree. Experiment and use what works for you.
-
-Adjust this program as you see fit.
+In all cases, experiment! Look carefully at the results, and continue to experiment. Some exercises work on the skill you need. Some can be varied to work on different skills. Some exercises are more useful immediately after a speed jump. Others are more useful just before. Some exercises that seem like a waste of time are often exactly what you need, or will need later.
 
 ### Expectations
 
-How do you eat an elephant? One bite at a time. Shorthand is a whole herd of elephants. Learning the theory is just one elephant, and generally takes a four-month course.
+How do you eat an elephant? One bite at a time. Shorthand is a whole herd of elephants.
 
-Most modern books for use in class spread the theory out fairly evenly over the semester, with enough practice in each chapter to fill the time. Thick self-instruction books don't sell, so those books have the theory but not much practice.
+Shorthand is like playing piano. After a bit of study, I knew the notes to play and when, and even what it should sound like, but couldn't read the notes fast enough to tell my fingers what to do. Even when I know what they should do, I can't make them do it.
 
-Even with the same book, some teachers speed through the theory. By mid-term their students can write anything slowly. Some spend more time each week building speed and work very slowly through the theory. Teenagers stuck in school will learn slower than young adults paying good money to learn an employable skill. Adults have other responsibilities and will learn slower.
+Also like piano, shorter and more-frequent works better than longer and less-frequent. Of course longer and frequent works even better. Strategies to work on your specific problems will work better than simply playing the same piece over and over. All the advice from good teachers about how to practice can be applied to shorthand.
 
-Take full advantage of the exercises in each chapter. Build each one to your current best speed, or maybe a tiny bit more, then move on. When you finish the book you will have a firm grasp of the theory and write faster than longhand. If your book doesn't have enough material in each chapter to reinforce the theory, do your best. Either way, fully prepare dictations by writing them from text and checking carefully, until you can write new material accurately on your first attempt.
+Reports on how long it takes to learn vary widely, even with the same system. Modern introductory books usually cover the theory in 90 lessons, including tests, asking for equal time at home as in class, and reach 60-80 words per minute (wpm) on practiced material but only 40-60 on new material. Those courses have teachers who can catch bad habits early and keep up the pressure, and don't count students who dropped out but could have passed if they had more time. Some books, especially Teach Yourself style, claim to go faster, but this might be marketing. One self-taught student took 220 hours to reach 100wpm. (Wentworth)xxxref. It's complicated further by quality of book and teacher, and the system. Systems that are designed for high speeds usually take longer to learn and to reach intermediate speeds, but reach speeds that are impossible for simpler systems.
 
-The Extras page has several examples of expectations. Many don't include students who dropped out, but could have succeeded if given more time. Some don't specify whether the speed is on new or practiced material. Many specify "terms" or "years" of the course, but not how many hours in that term. My high school's beginning shorthand class was 110 hours over 8 months. A business school might devote half or more of each day to the subject. Very few list length of test. Some are from marketing materials. (Teacher handbooks are a form of marketing.)
-
-Your first goal is faster than longhand, not dictation. 
-
-
-
-
-Books usually cover the theory in 3 months, to accommodate schools with l
-
-. Modern books spread theory over 3-4 months, and have a fair amount of practice in each chapter. Many books 
-
-
-
-Some teachers speed through the theory, so their students are slower on mid-term tests. Others spend more time on each chapter, so by mid-term 
-
-
-
-Learning just the theory is fairly easy.
-
-ory, but takes a great deal of time and practice for brain and hand to build writing speed. A partial list of suggestions from teacher manuals and personal reports is xxx link
-
-
-
-Many learners quit because they aren't progressing fast enough. Sometimes it's due to unrealistic expectations. Other times it's because they aren't making the best use of their time. (I wrote out the entire Forkner and Gregg DJS manuals, twice, slowly, but didn't build useful speed until I started dictation.)
-
-Shorthand is like playing piano. I know the notes to play and when, and even what it should sound like, but can't read the notes fast enough to tell my fingers what to do. Even when I know what they should do, I can't make them do it.
-
-Also like with piano, shorter and more-frequent works better than longer and less-frequent. Of course longer and frequent works even better. All the advice that music teachers give about how to practice can be applied to shorthand.
-
-Reports on how long it takes to learn vary widely, even with the same system. 
-
-
-Time to complete the theory and the early speed curve depends on how much practice you do in each chapter. Tests on "Unpracticed material" might be familiar words in new sentences, or entirely new words. Long dictations are harder than slow ones.
-
-Note that, as with piano, learning the theory is the easy part. xxxx link has actual numbers from different books.
+> All popular systems can reach at least 120wpm. Slower systems were rarely purchased by schools, so did not become popular.{.aside}
+>
+> For comparison, longhand is typically 20-40wpm for longhand, typing 60-100wpm, UK Journalists (until recently) 100wpm, slow formal speech 100-120wpm,  court reporting and closed captioning over 200wpm. {.aside}
 
 ## Overview
 
-How to go through the book the first time depends on how good the book is.
+The course begins with quickly reading all or part of your textbook, to help avoid beginner mistakes (usually caught by teachers), and show you penmanship details are important and which are not. This is reading to see what exists, not to learn the material.
 
-Some books have enough material in each chapter that you will learn it well before moving to the next. They have a mix of long and short material to help build endurance. If so, trust it. Follow the advice here for how to read, copy and take dictation.
+Students whose books are merely a description of the rules with a few examples then follow an repetitive routine of re-reading the theory, reading their own writing, copying well-written shorthand and/or taking dictation at a variety of speeds, and penmanship. The way they prepare for dictation and build speed changes as they master the theory and reach higher pen speeds.
 
-Other books go through the rules quickly, with very little practice material in each chapter. In that case do the best you can with what you have.
+Students who have modern books which have enough exercises in each chapter then follow the book, building a bit of speed and endurance in each chapter. After finishing the book they follow the same routine as the other students.
 
-Prepare all dictation by copying well-written shorthand or creating your own from text, until you truly master the theory (except for the occasional test).
+Most books that have sufficient examples do not explain how to use them. Follow the advice below.
 
-After finishing the theory (but probably not mastering it), divide each hour of study into reviewing theory, reading your own writing, copying and/or dictation for half the hour, and penmanship practice.
+Dictation begins by fully preparing each passage: Copy it from the book or write it from text; correct that copy; copy several times until you are comfortable with it; then take from slow dictation and gradually increase the speed. Then gradually reduce the preparation to only a few copies, and eventually just practicing new words.
 
-* 15 minutes rereading the text and copying the examples (but not the exercises) Continue this until you have mastered the theory. This also warms up your hand. Continue this review until you reach 125wpm for five minute on unseen material
+Cold (or unprepared) dictation is rarely useful until you have finished half or more of the theory. Some books have passages for that, with just a few new words mixed with old. Your first cold dictation material will be much slower. Don't worry! You will build speed on cold dictation later, after finishing the theory.
 
-* 10 minutes reading your own writing. This is a skill you need to practice!
+If your book does not have enough material in each chapter to practice cold dictation, don't worry. You'll get to it.
 
-* 30 minutes copying and/or writing from dictation. Use a combination of [Pratt's Easy Intro to Dictation](https://www.reddit.com/r/shorthand/comments/1m1gsj5/comment/n3o4309/?context=3), Leslie's One Minute Speed Forcing Plan, and Swem's Systematic Speed Course for Advanced Writers.
+Do NOT write your own material at any speed until you finish reading the entire book. Writing outlines which will change when you learn more theory will slow you down in the long run. Practice makes Permanent, not Perfect. Only copy and build speed on correct shorthand.
 
-  xxx add links.
+If your book says it is safe to write new material before finishing the theory, take that with a grain of salt. Later chapters might have better ways to write words you use often, and you'll have to unlearn the simpler methods.
 
-* 5 minutes penmanship practice to end every writing session, no matter how short.
-
-At first, copy all material several times before taking dictation. Gradually reduce that to only one or two copies, but no lower until you master the theory.
-
-Once you have mastered the theory, and no longer need to write the shorthand before dictation, alternate between working on speed forcing and slower dictation you take only once and type the next day.
+Some teachers say to write at "comfortable" or "uncomfortable" speeds. I prefer easy, difficult, and impossible. With a bit of practice, you will become comfortable at impossible speeds!
 
 ## Diary
 
-Optional, but I find it useful to review the results of earlier experiments and to balance different types of exercises. This is for your own use. Be as specific or vague as you like.
-
-You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy vs duration, and the effect of different exercises. The numbers will change rapidly at first, then settle down, then change again as you increase your target speeds.
+You do not need to count or time all the readings or copies, but do enough that you get a feel for speed vs accuracy vs duration. The numbers will change rapidly at first, then settle down, then change again as you increase your target speeds. It will also remind you which exercises you need to do more of to keep a reasonable balance.
 
 Reading skill is as important as writing skill. Test it every few sessions.
 
-## First Time Through The Book
+## Quick Read
+
+Most mistakes made by new shorthand writers have could be avoided if they read more of the book before writing. They make lines too long or squash circles or write high above the line, not realizing that later chapters give other meanings to those long lines, squashed circles and raised outlines. They also do the opposite, and spend hours practicing lines exact to a fraction of a millimeter.
+
+Modern books are organized to prevent those problems. Read about 1/4 to 1/2 first. It's your choice whether to read the shorthand examples. It will be time well-spent, but isn't necessary for this purpose. If your book merely presents the rules in alphabetical order, then consider reading it all before picking up your pen.
+
+This first read can be overwhelming. Remember, you are not reading to learn the material, but to learn what the outlines should look like.
+
+Many groups have a Quote of the Day, with multiple submissions and critiques. Reading those will help you avoid making the same mistakes, even if you don't yet know all the theory.
+
+Your first few hours writing will be erratic, no matter how much well-written shorthand you read first. That is normal while your hand learns the new shapes -- but your brain will know what those shapes should look like, so your hand will improve rapidly.
+
+## Learning the Theory
+
+Even with the same book, some teachers speed through the theory, not pushing speed until later. By mid-term their students can write anything slowly. Some spend more time each week building speed and work very slowly through the theory.
+
+Split the difference. Take full advantage of the exercises in each chapter. Build each one to your current best speed, or maybe a tiny bit more, then move on. This will help you "automatize" the outlines so you write them without thought. If your book doesn't have enough material in each chapter to reinforce the theory, do your best.
+
+
+
 
 Your goal at this stage is not to build speed, but to become familiar with the rules and the building blocks in a variety of settings, which is aided by a bit of speed. (Paraphrase of Leslie.)
 
@@ -197,7 +143,37 @@ If your book says to just read *then keep reading*. Gregg Simplified, Functional
 
 If your book has enough material but you finished it without really learning the theory or building speed, reread the book and do each exercise. This will be more effective than working with material not graded to each chapter.
 
+
+
+
+A typical hour of study on your first time through the book will be:
+
+* 10 minutes reading your old writing (if you have it), ranging from yesterday to several months ago.
+
+* 45 minutes following the book: Reading theory, copying example words, copying, and taking dictation at various speeds. Details are below, and vary on how much material your book has to copy.
+
+* 5 minutes penmanship practice. A variety of methods are described later. Note: Mindlessly writing the same shape over and over will not help. If your book has practice exercises, then start with those.
+
+If your book has an appendix or sequel, continue that pattern.
+
+A typical hour after finishing a less-good book, and after finishing a good book but before mastering the theory will be:
+
+* 10 minutes reading your own writing. This is a skill you need to practice!
+
+* 15 minutes rereading the text and copying the examples (but not the exercises) This also warms up your hand. Continue this review until you reach 125wpm for five minute on unseen material. (Maybe skip writing the very early examples.) If you made a complete summary that is better than the text, use that, otherwise consider alternating.
+
+* 30 minutes copying and/or writing from dictation. Use a combination of [Pratt's Easy Intro to Dictation](https://www.reddit.com/r/shorthand/comments/1m1gsj5/comment/n3o4309/?context=3), Leslie's One Minute Speed Forcing Plan, and Swem's Systematic Speed Course for Advanced Writers, depending on your stage.
+
+* 5 minutes penmanship practice to end every writing session.
+
+As your theory improves -- as proven by writing it correctly on your first attempt -- reduce the preparation.
+
+
+Most modern books for use in class spread the theory fairly evenly over the semester, with enough practice in each chapter to fill the time. Thick self-instruction books don't sell, so those books are the opposite: theory, but not much practice.
+
 ### How to Read Shorthand
+
+xxx write lightly with pencil
 
 Do not worry about deciphering difficult words at first. They will all be difficult! For now, seeing the building blocks in a variety of settings is more important than practice deciphering. Leslie recommends you keep one finger on the shorthand and the other on the key.
 
@@ -266,6 +242,22 @@ Read out loud and follow with your finger so you don't skip words. Typing it is 
 Once you start Mailable Transcripts, some of your reading time will be on those, but continue to read your fast writing.
 
 ## How to Copy Shorthand
+
+
+
+Practice writing in different modes: Slow enough to write "practically perfect" notes, so fast you cannot keep up, and in between. If you only practice writing slowly, you will never build speed, and will panic when you fall behind. If you only practice writing so fast that you cannot write neatly, your shapes will degrade to illegibility. Always write as neatly as possible for the current speed, but be ready to sacrifice neatness and parts of words if necessary in order to keep up.
+
+> On a study of immediate and deferred transcription, Pullis (reporting on Iannizzi) found inaccurate notes led to inaccurate transcription. The effect was more significant for less-skilled writers and more significant after a week delay. (p11)\
+
+> One study was of a 5 minute dictation at 80wpm. The students were partway through an advanced class, and this speed was well within their abilities. 4.45% of the words were written incorrectly. For immediate transcription, the total error rate was 1.25%. 4.45% of the outlines were written incorrectly, but those few words accounted for 67% of the transcription mistakes. For deferred transcription of the same writing, that ratio went up to 75%, for a total error rate of 1.95%.
+
+> In a related study of second year students at 70wpm, the results were even more drastic. Total transcription mistakes were 4%, and fully half of them were from the 12% of the outlines which were incorrect. {.aside}
+
+However...too much emphasis on perfect notes leads to a slow hand.
+
+> In teaching shorthand we have given too little thought to the right posture and and to the development of swift, effortless writing from the beginning. Many teachers places such emphasis on *slow*, careful writing that the *habit* of slow movement is fastened on the student. Afterwards, in the advanced work, the student finds it difficult, and sometimes impossible, to overcome the sluggish, painfully precise style thus acquired. -- Gregg, JR. Making Shorthand Teaching Effective, A paper read before the Eastern Commercial Teachers' Association. Gregg Publishing Company,  1921. xxx ref 
+
+
 
 Copying well-written shorthand is the fastest way to learn how the building blocks go together. Copying can also help with building hand speed and endurance, but those will come later.
 
@@ -418,6 +410,21 @@ Graph paper can help you practice consistent sizes, especially for horizontal li
 
 ## Writing From Dictation
 
+
+
+, no matter how short.
+
+At first, copy all material several times before taking dictation. Gradually reduce that to only one or two copies, but no lower until you master the theory.
+
+Once you have mastered the theory, and no longer need to write the shorthand before dictation, alternate between working on speed forcing and slower dictation you take only once and type the next day.
+Separate your practice into sections.
+- Reading shorthand without copying it. (The Gregg Functional method delays all writing until half-way through the theory.)
+- Reading theory and copying words that demonstrate each rule. (There is some evidence copying word lists is an inefficient way to learn theory.)
+- Copying well-written shorthand.
+- Writing shorthand from 
+
+
+
 Finally!
 
 Practice all material until you're confident you can write it well, gradually lowering the preparation to only one or two copies. Continue to make one or two copies before taking until your first writing of an exercise should be correct and readable, even if the penmanship isn't perfect.
@@ -521,6 +528,7 @@ That is not to say word lists are never useful.
 * A list of names at the beginning of a meeting makes it easy to make temporary abbreviations.  
 * A list of words that sound similar but have different meanings helps find ways to distinguish them.  
 * A list in the back of your notebook can help you remember uncommon or difficult words, especially if you need them months later.
+* A quick way to increase vocabulary, but your hold on these words still needs to be reinforced with use in sentences.
 
 ### Working With Word Lists — Spaced Repetition
 
@@ -537,6 +545,14 @@ Write the longhand in one column and shorthand in the column beside it. Fold or 
 Copy all words with mistakes in the first column of a page with tomorrow’s date. You will work on them again then. Copy the words you always got correct to another page, marked with the date you want to review them.
 
 Each time a word passes, double the time until the next review. If you get a word wrong, demote it all the way down to every day, and make it earn its way up again. Write the length of the streak beside the word.
+
+### Word Lists in Random Order and Random Sentences
+
+xxxx qwertysteno for random
+
+sentences? many recommend
+
+  
 
 ## How to Take Dictation
 
@@ -1597,7 +1613,14 @@ Pullis, Joe. *Methods of Shorthand Instruction: A Research Analysis*. \
 South-Western Publishing Co., Cincinnati, Ohio, Nov. 1973.\
 https://www.academia.edu/62276876/Methods_of_Shorthand_Instruction_A_Research_Analysis?nav_from=e9ae591c-da29-451b-9430-405ea7e0d271
 
-functional method
+Leslie, Louis. *Methods of Teaching Gregg Shorthand*.\
+Gregg Publishing Company, Chicago, 1953.\
+https://www.stenophile.com/gregg\
+https://drive.google.com/file/d/1f0DptfHpnRXnp2CU6L5969wnIF05PAxK/view?usp=sharing
+https://books.google.ca/books/about/Methods_of_teaching_Gregg_shorthand.html?id=VhcXAAAAIAAJ\
+
+
+
 
 the other smaller functional teacher book
 
@@ -1656,9 +1679,4 @@ hand position
 
 
 Advice on when to start creating your own shorthand from text or dictation varies. If your book is modern and has instructions, follow them. If your book does not have much material, the choice is made for you! Some older books say to only write from well-written shorthand until you have finished the theory. Most modern books divide it evenly: Half the exercises in each chapter begin by reading well-written shorthand, and half begin by writing shorthand from the text. Even books that come with a CD for dictation say to write the material a few times, and build a minimum speed, before attempting dictation, except perhaps for a few exercises with familiar words in new sentence at very slow speeds.
-
-
-
-## References
-
 
