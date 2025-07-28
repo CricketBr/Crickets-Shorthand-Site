@@ -1168,3 +1168,171 @@ The textbook and teaching method affects student success more than the system, a
 - clearly state when enough rules have been taught that it is safe for you to write your own material.
 
 This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do. It gives more specific guidance to those who wish it; explains some of the reasoning behind the suggestions; reinforces common advice; and adds useful ideas not commonly found in other places.
+
+
+
+Richardson, et. al. "Eye Movements in Language and Cognition, A Brief Introduction," *Empirical Methods in Cognitive Linguistics*. John Benjamins Publishing Company, 2007\
+https://www.researchgate.net/publication/236627037_Eye_movements_in_language_and_cognition_A_brief_introduction\
+https://co-mind.org/rdmaterials/pdfs/chapters/richardson_dale_spivey_2007.pdf
+
+
+ [Pratt's Easy Intro to Dictation](https://www.reddit.com/r/shorthand/comments/1m1gsj5/comment/n3o4309/?context=3),
+
+
+Pullis, Joe. "The Relationship between Competency in Shorthand Accuracy and Achivement in Shorthand Dictation." PhD Dissertation. North Texas State University, 1966\
+https://www.academia.edu/62276863/The_Relationship_between_Competency_in_Shorthand_Accuracy_and_Achivement_in_Shorthand_Dictation
+
+
+
+### Four Column Method for Copying
+
+This method combines reading well-written shorthand, writing, and reading your own writing into a single exercise. It works well at the copying stage, in the early stages of dictation when you should have well-written shorthand in front of you, when you cannot take dictation, and at all stages for penmanship practice. It also helps you build pen speed separate from brain speed.
+
+It will not, however, help you build brain speed. I speak from experience. Only exercises that force you to think of outlines at speed will help brain speed.
+
+Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect. If you are creating your own material, write your first attempt in the first column and leave room for corrections.
+
+The 1st column needs to be accurate, since it will be the model for the others. Accurate means legible and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
+
+Check your work and make corrections. Choose a few outlines you struggled with and copy them a few times, then a few more including a few words on either side.
+
+I sometimes do the first column of several passages, so I only have to carry my notebook to practice. This adds a delay between first writing and reading. It looks very different after the break. For now, though, go to the next step immediately.
+
+Copy from the first column to the second, check your work, make corrections, and practice difficult sections. Then copy from the second column to the third, and the third to the forth. Check your work, make corrections, and practice difficult sections after each copy.
+
+Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed. 
+
+Speed up even more for the 3rd column. Go so fast that your writing is only 95% accurate. (If your goal for the exercise is penmanship, then go slower.)
+
+The 4th and final column should be slow enough for 98% accuracy, but no slower. Your hand will remember this copy most. Too slow will teach slow writing. Too fast will teach inaccurate writing.
+
+It will take a bit of practice to learn how fast to write each column. The speeds will increase over time. Some passages will be easier or harder than others. Find speeds that usually work and don't worry about it. By speed, I mean how hard to push yourself, but you can also do this exercise with dictation.
+
+If you wait between the first and second column, then read the entire passage before copying. This time counts as reading your own writing.
+
+### Pratt's One Line Method for Copying
+
+Easy intro to dictations. [Reddit, r/shorthand, June 10, 2025](https://www.reddit.com/r/shorthand/comments/1m1gsj5/i_thought_i_was_getting_the_hang_of_shorthand/)
+
+This is similar, but uses one-line sentences or word groups (about 10 words), lines instead of columns, and more copies. See the Reddit post and [Pratt's site] for more details.
+
+
+
+
+
+
+> -- Larson, Kevin. "The Science of Word Recognition". Microsoft, paper presented 2003, reprinted 2022.
+
+https://learn.microsoft.com/en-us/typography/develop/word-recognition
+
+
+
+
+
+
+
+Leslie recommends approximately a week of slow copying and slow dictation until the last initial diffuse movements have disappeared or are under control [before working on speed]. -- Leslie, Methods of Teaching Gregg Shorthand, page 363 xxx ref
+
+
+
+
+A comparison of student dictation speed in first year shorthand when taught by the micromolar approach and the early new-matter approach , MS Thesis
+Montana State University - Bozeman, College of Professional Schools	en
+dc.rights.holder	Copyright 1972 by Russell Leon Sevier
+https://scholarworks.montana.edu/handle/1/11418
+both approaches effective, no dif in 3 minute new matter dictation tests
+
+Shorthand I class, high school
+60 minute periods, 5/wk, entire year -- but study was only 1st quarter
+-- 3 minutes new matter after only that long??
+immediate transcription
+DJS -- so lots of matrial in book
+partial preview and practice
+
+Early New-Matter Method
+
+- tracing on oninskin paper, 6 wks, as homework to be turned in
+- accordion method for brief forms
+- new matter dictation practice as son as learned second list of brief forms, very simple matter, mostly brief forms
+- slow enough that all can get it
+- then slow 3 minute takes
+- formal review homeowork for lesson 1 assigned when 21 is assigned
+- use key diong homework
+- every 6th lesson is only reading for speed
+- hwk - trace lesson for 1st 6 weeks. write lesson for remainder of course, according brief forms, writing review lessons 3x, readinng for speed
+
+micromolar
+
+- constant practice rate -- 100wpm throughout the semester
+- all at this rate except test material
+- controlled reader for constant speed in reading and writing
+- tracing material for much of the material dictated in class for 1st 6 wks, not or testing
+- hw - read over and over until rapidly and with ease
+- early intro to writing, on lesson 4, material from lesson 3 dictated, at 100wpm, ony 10-15 s
+- other proecedures similar to tradl
+rules of theory presented but not stressed
+word lists used but little emphasis, major cohncern is continuous material
+key parovided for hw
+brief form drills
+formal review of theory at regular intervfals
+hw for first semester mostly resding assigned lesson
+
+
+
+grrr, changed several things! between groups
+
+
+++
+report on study by schloemer, reading/functional vs writing with much eveidence on rules of theory
+end of class, 3min dictation, equal results
+
+Settle, difference but insig
+
+++
+early new matter vs reading
+writer found studies disagreed
+Ward -- early new matter helped, esp for suller students
+Persing -- opposite results -- no sig dif
+
+micromolar theory -- each speed is a different skill, need to learn shorthand multiple times
+
+suggests easy material at high speed, instead of difficult at low
+Sloan -  control group practiced variety of speeds, test at only 100, for practice and tests
+
+test 4 times over 12 wks
+ctrl: 50wpm, 60, 70, 80 tests
+test: all at 100
+material?
+
+at 12 wks: battery of 3-min tests vareity fo speeds
+
+first three test, tradl methd superior
+fourth test same results
+
+Recommend: longer experiment and slower speed for the test group
+
+Boss, college students: expt better on 1st 2 interim, ctrol on the remainder; ctrl gp didn't improve during last 2 wks, explt group did
+no sig acheivement -- lots of details of expt not listed
+
+New expt:
+
+A: beginning new matter at 20wpm, each day antoher new-matter letter, with word privew and pracice
+various plans for speedbuilding -- dictation same speed vary length; vary rate keep lentgh; vary both; what htey call pyramid but actually leslie first steps up, down.
+
+
+B: 100wpm constant, no writing outside of class except tracing -- control speed
+2 types tracing plates: start with copy of prev days lesson, dicate 10-15 sec and trace
+later, 1 sentence repeated 5 times.
+complicated method of leaving out words dictated, filing them in -- what???? Why????
+only time not at this speed were the tests
+
+
+testing on 3 min new matter every week, much practice dictation on other days
+end of st wk, test dictate to all at 20, 30, 40 
+final 5 takes, 40 50 60 70 80
+
+
+
+Badly designed!!
+
+

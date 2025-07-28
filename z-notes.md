@@ -38,3 +38,8 @@ Where a rule is not contradicted by later books, only the oldest is quoted, unle
 xxx means a section needs to be fixed
 
 <!-- #codespell:ignore pblm --> splg pblm
+
+
+find a::after symbols for external, internal links
+
+learn to use citation style? Will have to use html ... markdown doesn't have it
