@@ -28,17 +28,6 @@ include 1 sentence summary
 
 
 
-Leslie -- xxx
--- each day do both
-
-Leslie also says...way too fast.
-
-
-
-
-
-
-For your very first passage, make the following changes:
 
 
 

@@ -112,6 +112,8 @@ xxx The rest of the chapter covers:
 {#leslie-speed-forcing}
 xxx check this link method
 
+xxx use Lamb's version!!! p88
+
 -- Leslie, Methods of Teaching Gregg Shorthand, page 174
 
 xxx check format of heading/ref , and the blockquote
@@ -150,7 +152,8 @@ xxx check format of heading/ref , and the blockquote
 [Swem's Systematic Course for Advanced Writers](swem-systematic-speed-course.md).
 
 
-
+xxx
+get Lamb's version!!!
 
 
 At this stage, begin each passage by writing it once, checking it carefully, making a clean copy, and copying it enough to get past the "initial diffuse movements."
@@ -174,10 +177,7 @@ https://www.reddit.com/r/shorthand/comments/1m967yk/hours_of_study_needed_any_ex
 * 68 hours to reach 80wpm for 1 minute on practiced material. (Half-way through book designed for 80 lessons, 45 minutes class+home.)\
   -- Forkner and Brown; Forkner Shorthand; Gage Publishing, US, 1972.
 
-* 20 hours for theory and 200 hours practice to reach 100wpm for exam, half an hour twice a day, for 7 months, Teeline.\
-  [LinkedIn post](https://www.linkedin.com/pulse/i-am-proof-you-can-teach-yourself-shorthand-pass-100wpm-wentworth)
 
-* quarter hour a day at home, plus in class, 9 lessons, 60wpm -- but doesn't say how frequent the lessons are. Stevens, W.; The Teaching of Orthic Shorthand; Clay and Sons Publishing, London, 1896
 
 * 100 hours to reach 80 words a minute and "perfect ease in reading it" (2 hours/day at home, 6-8 weeks). "A Note on Shorthand in Medical Work"; letter from "a gentleman in London, who has had the greatest experience in teaching Callendar's system (Orthic)" (probably Stevens); St. Mary's Hospital Gazette, Nov 1896. [Reddit Shorthand Group.](https://www.reddit.com/r/orthic/comments/ehqac5/a_note_on_shorthand_in_medical_work_fa_brooks_st/)
 
@@ -239,6 +239,328 @@ chart after 1 yr instruction (how many hours/wk?) most reached 60-70wpm over 5 m
 
 https://www.academia.edu/28437294/Evaluation_of_First_Year_Shorthand_Achievement_Final_Report?nav_from=3e8db814-01e5-4c07-bafb-c1befa1b7ee0
 no sutdent coudl produce a mailabe letter at 80wpm 
+
+
+
+
+++++
+
+
+
+add: Middle Way, for all things
+
+
+
+
+
+
+
+
+
+
+### References and Other Sites
+
+If not specified, Leslie refers to xxxx and Swem refers to xxx.
+
+* [Long Live Pitman's Shorthand](https://www.long-live-pitmans-shorthand.org.uk) Beryl Pratt is an accomplished Pitman writer and teacher. Her site has advice and many exercises that apply to all systems, as do many of her Reddit comments.
+
+* www.stenophile.com . Stenophile has collected hundreds of books and articles about shorthand and shorthand teaching.
+
+
+
+A study of the minimum standards for first-year shorthand in community unit high schools in Illinois
+Author Jacquelynn J. Harder
+Publication Date 1967
+Dissertation/Thesis
+Department of Business Education
+North Illinois University
+https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/749/
+
+The most common minimum speed requirement for first-year shorthand was 60 words per minute. 6. Most of the dictation is new letter-type material. Office-style dictation was not given until the last of the second semester if at all. 7. The most common length of dictation was three minutes
+
+
+
+
+https://esirc.emporia.edu/handle/123456789/2456
+ESIRC Home → Theses → Theses 1977 → View Item
+A survey of Forkner Shorthand instruction at selected post-secondary schools in the United States.
+Wenger, Phyllis C.
+URI: http://hdl.handle.net/123456789/2456
+Date: 2012-12-20
+Emporia State University
+Emporia, Kansas 
+1977
+
+Hadfield conducted a study to determine and compare the learning
+achievement of students using the Gregg (DJ) symbol shorthand and two
+abbreviated longhand systems--Forkner Shorthand and Stenoscript ABC
+Shorthand--as measured by the dictation speed and standard vords correctly transcribed at the end of two semesters by eleventh and twelfthgrade high school students.
+A total of nine public high schools were included in the study-­
+three Iligh schools for each of the three shorthand systems. A language
+achievement test was used to determine the student's ability level.
+Hadfield concluded that the Forkner students achieved significantly
+higher than the students using the Stenoscript or the Gregg systems.
+The Forkner students in each ability level achieved higher than the students of corresponding levels in the Gregg and Stenoscript groups.
+The Gregg and Stenoscript students achieved their highest
+achievement in the 60-words-per-minute speed level while the Forkner
+students achieved their highest achievement in the 80-\Vord-per-minute
+speed level
+
+
+
+
+
+
+
+
+
+
+
+# To Read
+https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/831/items/1.0106517?o=2
+A comparison of a reading approach with a reading-writing approach to the learning of shorthand
+Abercrombie, William Thomas
+
+Several factors mitigated against a successful experiment. First, a start was made with too few matched pairs, because when the groups were given their final test only 14 matched pairs could be used. Secondly, disturbing factors such as truancy, illness, and laziness interfered with some of the students' application to their studies. In a large group, these influences probably would have balanced out, but in a small group, they tended to invalidate the test results. Although the study did not prove one method of approach to the learning of shorthand to be superior to another, still it is to be hoped that further experimentation will be carried on with a view to reducing the learning time of Pitman Shorthand, so that the student will learn to use this vocational tool in the shortest possible time.
+
+
+
+An experimental study of two shorthand systems
+Sangster, Norman
+Abstract
+[No abstract available]
+--- gregg vs pitman
+
+Item Metadata
+Title	
+An experimental study of two shorthand systems
+Creator	
+Sangster, Norman
+Publisher	
+University of British Columbia
+Date Issued	
+1937
+http://hdl.handle.net/2429/38589
+
+
+
+
+https://www.academia.edu/28437294/Evaluation_of_First_Year_Shorthand_Achievement_Final_Report
+Evaluation of First-Year Shorthand Achievement. Final Report
+By Judith Lambrecht
+ABSTRACT 
+Pretests and dictation achievement tests were 
+administered-to 1,317 first-year shorthand students and 120 
+second-year students learning Century 21, Forkner, or Gregg shorthand 
+in the Minneapolis-St. Paul area high schools. Forkner shorthand' 
+students achieved a higher 
+accuracy and transcription rate during.the 
+first year of instruction. Thus, it is suggested that this is the 
+preferred method of instruction for studentg who are able to devote , 
+one year or less to shorthand instruction. However, by the end of the 
+second year Gregg shorthand s 
+bad higher accuracy scores and 
+better. English error scores, suibg,that this is the preferred 
+method for students who are able to tak wo years of shorthand 
+instruction. None of the three shor 
+nd systems included in this 
+project resulted'in first-year shorthand achievement at vocational 
+skill levels, assuming that maifable letters from dictation at 80 
+words per minute represents inilum vocational skill. 
+(Complete data 
+tables are included.) (BB)
+
+dropouts the same for all 3 systems
+no C21 in 2nd yr class
+Half the Gregg students continued; teacher told some they couldn't
+31% Forkner continued
+--- some selection bias
+
+
+
+https://www.semanticscholar.org/paper/A-comparison-of-the-learning-difficulty-of-Forkner-Smith/7e2cee1fa110a1ae3b7b5edbf7ba66a623d639bf  -- catalog listing
+A comparison of the learning difficulty of Forkner alphabet shorthand and Gregg shorthand (DJ)
+E. R. Smith
+Published 1967
+Linguistics
+https://www.semanticscholar.org/paper/A-comparison-of-the-learning-difficulty-of-Forkner-Smith/7e2cee1fa110a1ae3b7b5edbf7ba66a623d639bf?utm_source=direct_link
+
+tables, but not the full text
+
+
+
+
+
+1982
+A comparison of Gregg and Forkner shorthand in the public
+schools
+Randall Charles Krejci
+University of Northern Iowa 
+https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=3695&context=grp
+Krejci, Randall Charles, "A comparison of Gregg and Forkner shorthand in the public schools" (1982).
+Graduate Research Papers. 2734.
+https://scholarworks.uni.edu/grp/2734 
+
+
+
+
+
+Smith {20) summarized the following conclusions based on
+his study:
+(l) The Forkner Alphabet Shorthand System is easier to
+learn than the Gregg Shorthand System. This conclusion
+is based on the fact that when comparing systems and
+achievement, Forkner achieved significantly higher than Gregg.
+(2) The learning progress of first year Forkner Alphabet Shorthand students is greater than the learning progress of Gregg students.
+(3) The Forkner Alphabet Shorthand System is better adapted than the Gregg Shorthand System to the above average,
+average, and below average student.
+(4) In one year of shorthand, Forkner excels in superiority
+over the Gregg system. Three sets of dictation were
+used and the findings were compared not only between
+systems, but also with comparison to grade point
+average of similar nature in both groups. 
+20. Smith, E.R. 11A comparison of the learning difficulty of Forkner
+alphabet skills and Gregg Shorthand,n Doctoral dissertation, Ohio
+State University, 1966. 
+
+
+
+
+
+Note that all systems, even the simpler ones, simplify spelling and even leave out many sounded letters, which is scary at first. Trust the system. The main difference between phonetic systems often claim the write as you speak, but in fact write as the author speaks, complete with accent. Memorize the shorthand spelling of common words, like you did when learning to write English as a child. You will get plenty of practice for them. Use the spelling you think makes sense for the rest. I often use the standard English spelling for vowels, rather than think carefully about how I actually say them.
+
+
+
+https://archive.org/details/ERIC_ED094232
+Dyep J. Lee
+A Comparison of Two Practice Patterns Used for the Development of Skills in Writing Shorthand Dictation, Apr 74
+Paper presented to the Annual Meeting of the American Educational Research Association (SSth, Chicago, Illinois, April 1974)
+
+ABSTRACT
+
+The major purpose of this study was to whether two patterns of writing practice dictation wou iifferent resur..s in the development of shorthand writ of Gr<?gg Shorthand, Diamond Jubilee. The findings indi rate pattern does not appear to affect the level of ac writing shorthand from dictation; therefore, shorthand should have no hesitation in using the ^aster practice Teachers should endeavor to assist students to set rea that will permit continiious periods of success in t^^rit from dictationo (Author)
+
+Authorities differ as to the most appropriate speeds for dictation prac^ 
+tlce. Some writers believe that the students shoxild be encouraged to practice 
+at speeds below their three-minute dictation test rates; others feel that >all 
+the practice for speed bidlding should be at least 20 to 1+0 words a minute 
+above the rate the student is attempting to pass on a three-minute dictation 
+test. 
+
+first year students, uni freshmen
+
+djs -- good book
+3 minute final
+1 minute for practice, repetitive
+
+"No significant difference in the level achieved in writing shorthand from dictation" between the two methods! includes comparing high/low SAT groups.
+
+tiny but nonsig diff -- higher did worse on practice, better on test
+
+NSDif in attitudes towards learning
+"NSig relationship between each of the areas on the aptitude inventory and the level of achievement on the shorthand dictation tests."
+
+
+fast group, all did equally well, highest level on test
+next highest smart slow
+worst dull low -- not author's words
+
+attitudes: faster were happier, fav attitude toward study of shorthand, speed they wanted to practice, confidence in adequacy..skill..office position, even though test results same
+
+-- teachers don't have to worry about different speeds for each student
+
+(I say BS -- failing at "too hard that everyone does" vs "slower but progressing")
+
+attitudes related to results on tests -- set good goals
+
+
+
+
+
+
+
+++++++++++++
+
+
+The textbook and teaching method affects student success more than the system, as long as the system is not too extreme. Leslie's Functional Method for Gregg Anniversary (xxxref) had great success, even though it did not state the rules clearly, because it had so much well-written shorthand for each chapter, a key in the back, a teacher's book and magazines with tests for each chapter, instructions on how to teach new words, how much time to spend each day on each type of exercise, instructions for gradual increasing of difficulty, and ways to keep students interested. The better results may not have been due to the innovation of delaying all writing for the first half of the class and reduced wording of the rules.
+
+
+
+ Leslie's book *Methods of Teaching Gregg Shorthand*. (1953, 497 pages, not to be confused with other similarly-named books by the same company and even the same author.) 
+
+
+ A good book will:
+- introduce the material in an order that allows for natural language and interesting material as early as possible.
+- have plenty of well-written shorthand to read and copy at all stages.
+- say when to increase speed and when to move to the next type of practice.
+- clearly state when enough rules have been taught that it is safe for you to write your own material.
+
+This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do. It gives more specific guidance to those who wish it; explains some of the reasoning behind the suggestions; reinforces common advice; and adds useful ideas not commonly found in other places.
+
+
+
+Richardson, et. al. "Eye Movements in Language and Cognition, A Brief Introduction," *Empirical Methods in Cognitive Linguistics*. John Benjamins Publishing Company, 2007\
+https://www.researchgate.net/publication/236627037_Eye_movements_in_language_and_cognition_A_brief_introduction\
+https://co-mind.org/rdmaterials/pdfs/chapters/richardson_dale_spivey_2007.pdf
+
+
+ [Pratt's Easy Intro to Dictation](https://www.reddit.com/r/shorthand/comments/1m1gsj5/comment/n3o4309/?context=3),
+
+
+
+
+
+
+
+
+
+
+
+
+Leslie recommends approximately a week of slow copying and slow dictation until the last initial diffuse movements have disappeared or are under control [before working on speed]. -- Leslie, Methods of Teaching Gregg Shorthand, page 363 xxx ref
+
+
+
+## Pratt Summary
+
+[Pratt's Easy Intro to Dictations, with and without sound file](https://www.reddit.com/r/shorthand/comments/1m1gsj5/i_thought_i_was_getting_the_hang_of_shorthand/)
+
+
+
+
+
+
+
+
+
+
+There are a few ways to build speed on longer passages.
+
+Another way is to pick a speed you hope to hold for the entire time, and just keep writing. Pause the dictation as needed. When you reach that speed, start the next. Weisman's used this method. ref xxx 
+
+
+Yet another way is Pratt's Easy Intro to Duration Training. xxx ref. That is a good introduction to new speeds. She also explains why longer dictations are more difficult.
+
+
+
++++
+Leslie taught teachers and wrote textbooks for students and teachers. In multiple studies, his methods did as well or better than traditnional methods.
+
+Swem was a championship writer, and worked for the US Congress. ??? check
+
+Both worked for Gregg
+
+
+Modern Books: Several Teeline books, two Forkner from .... onwards.
+
+
+
+Every author is convinced that their method is best -- even the extreme ones -- but there is very little evidence behind many of them. Often a method that works well for advanced students who need to build speed frustrates students still struggling with the theory.
+
+
+
+Modern books mostly use the same methods, but you can't use those if your book doesn't have enough graded material. (Graded = uses only the rules you have learned to that point.)
+
 
 
 
@@ -500,7 +822,7 @@ Students who were faster at 3 minute were also fsater at 5 miute
 
 time to make the transcription also goes up when notes are cold, not just accuracy of transcription
 
-p37
+p39
 No doubt 
 this 
 concern is due in large part to the fact that a higher percentage of 
@@ -527,7 +849,10 @@ these students
 are instructed, for the proficiency attained by the students is directly 
 related to the teaching methods utilized in the classroom.
 
-Use either the functional or the manual method of teaching, 
+**Based upon current research findings in shorthand, Anderson recommends that teachers seriously consider incorporating the following practices in their shorthand teaching:**
+
+
+1. Use either the functional or the manual method of teaching, 
 whichever will give the best results, making certain adjustments 
 which need to be made as indicated below. 
 2. Emphasize theory throughout the shorthand program, but most 
@@ -851,488 +1176,38 @@ does help emphasize, however, the importance of writing accurate,
 legible shorthand outlines.
 
 
-++++
 
 
 
-add: Middle Way, for all things
+> Leslie, Gregg Shorthand Fucntional Metrhod Teahcers Handbook, p64,
+As the pupils show that they are able to handle the new
+matter, it may be made more difficult and the dictations may
+be longer until finally, at the end of 120 to 140 periods,
+most of the pupils in the class will be able to take dictation
+for five minutes at 60 words a minute and transcribe it (probably in longhand, for lack of typing skill) with 95 per cent
+accuracy or better. 
 
 
 
 
+alphabet exercise -- entire alphabet vs single letter
 
+visualize
 
++++++ my thoughts
 
+Dictation from text
 
+Easier, useful before masteries theory instead of having to leave gaps 
 
+Not good
+Unsteady rate. Nothing tells, you that you just spent so long on 1 words that you missed half the sentence. Your average mbe good, but nothing tells you that you just spent so long on 1 work that you missed half the sentence 
 
-### References and Other Sites
 
-If not specified, Leslie refers to xxxx and Swem refers to xxx.
+Swem weekend matches Leslie nails 
 
-* [Long Live Pitman's Shorthand](https://www.long-live-pitmans-shorthand.org.uk) Beryl Pratt is an accomplished Pitman writer and teacher. Her site has advice and many exercises that apply to all systems, as do many of her Reddit comments.
+Swem, alternate 2 lengths
 
-* www.stenophile.com . Stenophile has collected hundreds of books and articles about shorthand and shorthand teaching.
-
-
-
-A study of the minimum standards for first-year shorthand in community unit high schools in Illinois
-Author Jacquelynn J. Harder
-Publication Date 1967
-Dissertation/Thesis
-Department of Business Education
-North Illinois University
-https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/749/
-
-The most common minimum speed requirement for first-year shorthand was 60 words per minute. 6. Most of the dictation is new letter-type material. Office-style dictation was not given until the last of the second semester if at all. 7. The most common length of dictation was three minutes
-
-
-
-
-https://esirc.emporia.edu/handle/123456789/2456
-ESIRC Home → Theses → Theses 1977 → View Item
-A survey of Forkner Shorthand instruction at selected post-secondary schools in the United States.
-Wenger, Phyllis C.
-URI: http://hdl.handle.net/123456789/2456
-Date: 2012-12-20
-Emporia State University
-Emporia, Kansas 
-1977
-
-Hadfield conducted a study to determine and compare the learning
-achievement of students using the Gregg (DJ) symbol shorthand and two
-abbreviated longhand systems--Forkner Shorthand and Stenoscript ABC
-Shorthand--as measured by the dictation speed and standard vords correctly transcribed at the end of two semesters by eleventh and twelfthgrade high school students.
-A total of nine public high schools were included in the study-­
-three Iligh schools for each of the three shorthand systems. A language
-achievement test was used to determine the student's ability level.
-Hadfield concluded that the Forkner students achieved significantly
-higher than the students using the Stenoscript or the Gregg systems.
-The Forkner students in each ability level achieved higher than the students of corresponding levels in the Gregg and Stenoscript groups.
-The Gregg and Stenoscript students achieved their highest
-achievement in the 60-words-per-minute speed level while the Forkner
-students achieved their highest achievement in the 80-\Vord-per-minute
-speed level
-
-
-
-
-
-
-
-
-Arthur Hadfield, "A Comparison of the Learning Achievement in
-Gregg (DJ) Symbol Shorthand and Selected Abbreviated Longhand Systems,"
-Business Education Forum, XXXI (October, 1976), 104. 
-https://openlibrary.org/books/OL13548876M/A_comparison_of_the_learning_achievement_in_Gregg_(DJ)_symbol_shorthand_and_selected_abbreviated_lon
-
-can't find images of the book
-
-
-
-
-https://openlibrary.org/works/OL10348005W/A_comparison_of_the_learning_achievement_in_Gregg_%28DJ%29_symbol_shorthand_and_selected_abbreviated_lon?edition=
-thesis by hadfield
-
-
-# To Read
-https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/831/items/1.0106517?o=2
-A comparison of a reading approach with a reading-writing approach to the learning of shorthand
-Abercrombie, William Thomas
-
-Several factors mitigated against a successful experiment. First, a start was made with too few matched pairs, because when the groups were given their final test only 14 matched pairs could be used. Secondly, disturbing factors such as truancy, illness, and laziness interfered with some of the students' application to their studies. In a large group, these influences probably would have balanced out, but in a small group, they tended to invalidate the test results. Although the study did not prove one method of approach to the learning of shorthand to be superior to another, still it is to be hoped that further experimentation will be carried on with a view to reducing the learning time of Pitman Shorthand, so that the student will learn to use this vocational tool in the shortest possible time.
-
-
-
-An experimental study of two shorthand systems
-Sangster, Norman
-Abstract
-[No abstract available]
---- gregg vs pitman
-
-Item Metadata
-Title	
-An experimental study of two shorthand systems
-Creator	
-Sangster, Norman
-Publisher	
-University of British Columbia
-Date Issued	
-1937
-http://hdl.handle.net/2429/38589
-
-
-
-
-https://www.academia.edu/28437294/Evaluation_of_First_Year_Shorthand_Achievement_Final_Report
-Evaluation of First-Year Shorthand Achievement. Final Report
-By Judith Lambrecht
-ABSTRACT 
-Pretests and dictation achievement tests were 
-administered-to 1,317 first-year shorthand students and 120 
-second-year students learning Century 21, Forkner, or Gregg shorthand 
-in the Minneapolis-St. Paul area high schools. Forkner shorthand' 
-students achieved a higher 
-accuracy and transcription rate during.the 
-first year of instruction. Thus, it is suggested that this is the 
-preferred method of instruction for studentg who are able to devote , 
-one year or less to shorthand instruction. However, by the end of the 
-second year Gregg shorthand s 
-bad higher accuracy scores and 
-better. English error scores, suibg,that this is the preferred 
-method for students who are able to tak wo years of shorthand 
-instruction. None of the three shor 
-nd systems included in this 
-project resulted'in first-year shorthand achievement at vocational 
-skill levels, assuming that maifable letters from dictation at 80 
-words per minute represents inilum vocational skill. 
-(Complete data 
-tables are included.) (BB)
-
-dropouts the same for all 3 systems
-no C21 in 2nd yr class
-Half the Gregg students continued; teacher told some they couldn't
-31% Forkner continued
---- some selection bias
-
-
-
-https://www.semanticscholar.org/paper/A-comparison-of-the-learning-difficulty-of-Forkner-Smith/7e2cee1fa110a1ae3b7b5edbf7ba66a623d639bf  -- catalog listing
-A comparison of the learning difficulty of Forkner alphabet shorthand and Gregg shorthand (DJ)
-E. R. Smith
-Published 1967
-Linguistics
-https://www.semanticscholar.org/paper/A-comparison-of-the-learning-difficulty-of-Forkner-Smith/7e2cee1fa110a1ae3b7b5edbf7ba66a623d639bf?utm_source=direct_link
-
-tables, but not the full text
-
-
-
-
-
-1982
-A comparison of Gregg and Forkner shorthand in the public
-schools
-Randall Charles Krejci
-University of Northern Iowa 
-https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=3695&context=grp
-Krejci, Randall Charles, "A comparison of Gregg and Forkner shorthand in the public schools" (1982).
-Graduate Research Papers. 2734.
-https://scholarworks.uni.edu/grp/2734 
-
-
-
-
-
-Smith {20) summarized the following conclusions based on
-his study:
-(l) The Forkner Alphabet Shorthand System is easier to
-learn than the Gregg Shorthand System. This conclusion
-is based on the fact that when comparing systems and
-achievement, Forkner achieved significantly higher than Gregg.
-(2) The learning progress of first year Forkner Alphabet Shorthand students is greater than the learning progress of Gregg students.
-(3) The Forkner Alphabet Shorthand System is better adapted than the Gregg Shorthand System to the above average,
-average, and below average student.
-(4) In one year of shorthand, Forkner excels in superiority
-over the Gregg system. Three sets of dictation were
-used and the findings were compared not only between
-systems, but also with comparison to grade point
-average of similar nature in both groups. 
-20. Smith, E.R. 11A comparison of the learning difficulty of Forkner
-alphabet skills and Gregg Shorthand,n Doctoral dissertation, Ohio
-State University, 1966. 
-
-
-
-
-
-Note that all systems, even the simpler ones, simplify spelling and even leave out many sounded letters, which is scary at first. Trust the system. The main difference between phonetic systems often claim the write as you speak, but in fact write as the author speaks, complete with accent. Memorize the shorthand spelling of common words, like you did when learning to write English as a child. You will get plenty of practice for them. Use the spelling you think makes sense for the rest. I often use the standard English spelling for vowels, rather than think carefully about how I actually say them.
-
-
-
-https://archive.org/details/ERIC_ED094232
-Dyep J. Lee
-A Comparison of Two Practice Patterns Used for the Development of Skills in Writing Shorthand Dictation, Apr 74
-Paper presented to the Annual Meeting of the American Educational Research Association (SSth, Chicago, Illinois, April 1974)
-
-ABSTRACT
-
-The major purpose of this study was to whether two patterns of writing practice dictation wou iifferent resur..s in the development of shorthand writ of Gr<?gg Shorthand, Diamond Jubilee. The findings indi rate pattern does not appear to affect the level of ac writing shorthand from dictation; therefore, shorthand should have no hesitation in using the ^aster practice Teachers should endeavor to assist students to set rea that will permit continiious periods of success in t^^rit from dictationo (Author)
-
-Authorities differ as to the most appropriate speeds for dictation prac^ 
-tlce. Some writers believe that the students shoxild be encouraged to practice 
-at speeds below their three-minute dictation test rates; others feel that >all 
-the practice for speed bidlding should be at least 20 to 1+0 words a minute 
-above the rate the student is attempting to pass on a three-minute dictation 
-test. 
-
-first year students, uni freshmen
-
-djs -- good book
-3 minute final
-1 minute for practice, repetitive
-
-"No significant difference in the level achieved in writing shorthand from dictation" between the two methods! includes comparing high/low SAT groups.
-
-tiny but nonsig diff -- higher did worse on practice, better on test
-
-NSDif in attitudes towards learning
-"NSig relationship between each of the areas on the aptitude inventory and the level of achievement on the shorthand dictation tests."
-
-
-fast group, all did equally well, highest level on test
-next highest smart slow
-worst dull low -- not author's words
-
-attitudes: faster were happier, fav attitude toward study of shorthand, speed they wanted to practice, confidence in adequacy..skill..office position, even though test results same
-
--- teachers don't have to worry about different speeds for each student
-
-(I say BS -- failing at "too hard that everyone does" vs "slower but progressing")
-
-attitudes related to results on tests -- set good goals
-
-
-
-
-
-
-Bellows, Gladys Pauline. A Comparison of Methods in Teaching Gregg Shorthand, thesis, August 1949; Denton, Texas. (https://digital.library.unt.edu/ark:/67531/metadc83508/m1/1/: accessed July 27, 2025), University of North Texas Libraries, UNT Digital Library, https://digital.library.unt.edu; .
-Aug 1949 -- edge of simp and anni
-
-
-https://digital.library.unt.edu/ark:/67531/metadc83508/m1/1/
-
-
-
-A Comparison of Methods in Teaching Gregg Shorthand
-
-DescriptionBookmark this section
-The purpose of this problem is to make a comparative study of methods in teaching Gregg shorthand. The problem is to compare the methods of approach, procedures, and techniques used, and to determine what has been accomplished in the way of experiments which have been performed by the different writers.
-
-Physical DescriptionBookmark this section
-iv, 84 leaves
-
-Creation InformationBookmark this section
-Bellows, Gladys Pauline August 1949.
-
-Manual vs Direct
-manual/functional better than direct -- but what is direct?
-use of blackboard!!
-
-Functional better in all ways except brief forms in first few months
-BUt...
-advanced class shows opposite in first test, afer vacation
-(easy enough ti fix) thoery: drill of manual type new to fn group so it would be more effecive,
-speed of transcription much higher with fn
-
-Direct method: genrealization from other words
-
-Leslie functional 761 pages of shorthand; next highest 558, only after combining with gregg manual and speed studies
-
-p69
-functional better in all ways
-esp
-formal penmanship drills not beneficial
-class time for practice, not quesitons to/from students
-formal testing harmful
-writign word lists no help
-copying outlines or connected matter numberous times no help
-no review of principles nec at end of yr bec review takes place naturally by frequent recurrenc of common words
-
-**"The success of any method depends on the skill and enthusiasm of the teacher."**
-
-p71 as above and
-do not memorize rules
-blackboard!
-prompt promptly when necessary for speed building
-mix of activities
-encourage pupils by allowing on lsuccessful experiences
-
-
-
-++++++++++++
-
-
-The textbook and teaching method affects student success more than the system, as long as the system is not too extreme. Leslie's Functional Method for Gregg Anniversary (xxxref) had great success, even though it did not state the rules clearly, because it had so much well-written shorthand for each chapter, a key in the back, a teacher's book and magazines with tests for each chapter, instructions on how to teach new words, how much time to spend each day on each type of exercise, instructions for gradual increasing of difficulty, and ways to keep students interested. The better results may not have been due to the innovation of delaying all writing for the first half of the class and reduced wording of the rules.
-
-
-
- Leslie's book *Methods of Teaching Gregg Shorthand*. (1953, 497 pages, not to be confused with other similarly-named books by the same company and even the same author.) 
-
-
- A good book will:
-- introduce the material in an order that allows for natural language and interesting material as early as possible.
-- have plenty of well-written shorthand to read and copy at all stages.
-- say when to increase speed and when to move to the next type of practice.
-- clearly state when enough rules have been taught that it is safe for you to write your own material.
-
-This course will help you overcome those deficiencies in your book, and to do for yourself most of the things a good teacher would do. It gives more specific guidance to those who wish it; explains some of the reasoning behind the suggestions; reinforces common advice; and adds useful ideas not commonly found in other places.
-
-
-
-Richardson, et. al. "Eye Movements in Language and Cognition, A Brief Introduction," *Empirical Methods in Cognitive Linguistics*. John Benjamins Publishing Company, 2007\
-https://www.researchgate.net/publication/236627037_Eye_movements_in_language_and_cognition_A_brief_introduction\
-https://co-mind.org/rdmaterials/pdfs/chapters/richardson_dale_spivey_2007.pdf
-
-
- [Pratt's Easy Intro to Dictation](https://www.reddit.com/r/shorthand/comments/1m1gsj5/comment/n3o4309/?context=3),
-
-
-Pullis, Joe. "The Relationship between Competency in Shorthand Accuracy and Achivement in Shorthand Dictation." PhD Dissertation. North Texas State University, 1966\
-https://www.academia.edu/62276863/The_Relationship_between_Competency_in_Shorthand_Accuracy_and_Achivement_in_Shorthand_Dictation
-
-
-
-### Four Column Method for Copying
-
-This method combines reading well-written shorthand, writing, and reading your own writing into a single exercise. It works well at the copying stage, in the early stages of dictation when you should have well-written shorthand in front of you, when you cannot take dictation, and at all stages for penmanship practice. It also helps you build pen speed separate from brain speed.
-
-It will not, however, help you build brain speed. I speak from experience. Only exercises that force you to think of outlines at speed will help brain speed.
-
-Make four columns by dividing two pages into two columns each, so you can see all at the same time. Copy the passage from the book into the first column. Aim for a slightly uncomfortable speed, at which your notes are readable and follow the rules, but are not perfect. If you are creating your own material, write your first attempt in the first column and leave room for corrections.
-
-The 1st column needs to be accurate, since it will be the model for the others. Accurate means legible and following the rules, not perfect penmanship. Go as slow as needed to reach this level, but no slower.
-
-Check your work and make corrections. Choose a few outlines you struggled with and copy them a few times, then a few more including a few words on either side.
-
-I sometimes do the first column of several passages, so I only have to carry my notebook to practice. This adds a delay between first writing and reading. It looks very different after the break. For now, though, go to the next step immediately.
-
-Copy from the first column to the second, check your work, make corrections, and practice difficult sections. Then copy from the second column to the third, and the third to the forth. Check your work, make corrections, and practice difficult sections after each copy.
-
-Speed up a bit for the 2nd column. Counter-intuitively, shorthand is easier to write neatly with a bit of speed. 
-
-Speed up even more for the 3rd column. Go so fast that your writing is only 95% accurate. (If your goal for the exercise is penmanship, then go slower.)
-
-The 4th and final column should be slow enough for 98% accuracy, but no slower. Your hand will remember this copy most. Too slow will teach slow writing. Too fast will teach inaccurate writing.
-
-It will take a bit of practice to learn how fast to write each column. The speeds will increase over time. Some passages will be easier or harder than others. Find speeds that usually work and don't worry about it. By speed, I mean how hard to push yourself, but you can also do this exercise with dictation.
-
-If you wait between the first and second column, then read the entire passage before copying. This time counts as reading your own writing.
-
-### Pratt's One Line Method for Copying
-
-Easy intro to dictations. [Reddit, r/shorthand, June 10, 2025](https://www.reddit.com/r/shorthand/comments/1m1gsj5/i_thought_i_was_getting_the_hang_of_shorthand/)
-
-This is similar, but uses one-line sentences or word groups (about 10 words), lines instead of columns, and more copies. See the Reddit post and [Pratt's site] for more details.
-
-
-
-
-
-
-> -- Larson, Kevin. "The Science of Word Recognition". Microsoft, paper presented 2003, reprinted 2022.
-
-https://learn.microsoft.com/en-us/typography/develop/word-recognition
-
-
-
-
-
-
-
-Leslie recommends approximately a week of slow copying and slow dictation until the last initial diffuse movements have disappeared or are under control [before working on speed]. -- Leslie, Methods of Teaching Gregg Shorthand, page 363 xxx ref
-
-
-
-
-A comparison of student dictation speed in first year shorthand when taught by the micromolar approach and the early new-matter approach , MS Thesis
-Montana State University - Bozeman, College of Professional Schools	en
-dc.rights.holder	Copyright 1972 by Russell Leon Sevier
-https://scholarworks.montana.edu/handle/1/11418
-both approaches effective, no dif in 3 minute new matter dictation tests
-
-Shorthand I class, high school
-60 minute periods, 5/wk, entire year -- but study was only 1st quarter
--- 3 minutes new matter after only that long??
-immediate transcription
-DJS -- so lots of matrial in book
-partial preview and practice
-
-Early New-Matter Method
-
-- tracing on oninskin paper, 6 wks, as homework to be turned in
-- accordion method for brief forms
-- new matter dictation practice as son as learned second list of brief forms, very simple matter, mostly brief forms
-- slow enough that all can get it
-- then slow 3 minute takes
-- formal review homeowork for lesson 1 assigned when 21 is assigned
-- use key diong homework
-- every 6th lesson is only reading for speed
-- hwk - trace lesson for 1st 6 weeks. write lesson for remainder of course, according brief forms, writing review lessons 3x, readinng for speed
-
-micromolar
-
-- constant practice rate -- 100wpm throughout the semester
-- all at this rate except test material
-- controlled reader for constant speed in reading and writing
-- tracing material for much of the material dictated in class for 1st 6 wks, not or testing
-- hw - read over and over until rapidly and with ease
-- early intro to writing, on lesson 4, material from lesson 3 dictated, at 100wpm, ony 10-15 s
-- other proecedures similar to tradl
-rules of theory presented but not stressed
-word lists used but little emphasis, major cohncern is continuous material
-key parovided for hw
-brief form drills
-formal review of theory at regular intervfals
-hw for first semester mostly resding assigned lesson
-
-
-
-grrr, changed several things! between groups
-
-
-++
-report on study by schloemer, reading/functional vs writing with much eveidence on rules of theory
-end of class, 3min dictation, equal results
-
-Settle, difference but insig
-
-++
-early new matter vs reading
-writer found studies disagreed
-Ward -- early new matter helped, esp for suller students
-Persing -- opposite results -- no sig dif
-
-micromolar theory -- each speed is a different skill, need to learn shorthand multiple times
-
-suggests easy material at high speed, instead of difficult at low
-Sloan -  control group practiced variety of speeds, test at only 100, for practice and tests
-
-test 4 times over 12 wks
-ctrl: 50wpm, 60, 70, 80 tests
-test: all at 100
-material?
-
-at 12 wks: battery of 3-min tests vareity fo speeds
-
-first three test, tradl methd superior
-fourth test same results
-
-Recommend: longer experiment and slower speed for the test group
-
-Boss, college students: expt better on 1st 2 interim, ctrol on the remainder; ctrl gp didn't improve during last 2 wks, explt group did
-no sig acheivement -- lots of details of expt not listed
-
-New expt:
-
-A: beginning new matter at 20wpm, each day antoher new-matter letter, with word privew and pracice
-various plans for speedbuilding -- dictation same speed vary length; vary rate keep lentgh; vary both; what htey call pyramid but actually leslie first steps up, down.
-
-
-B: 100wpm constant, no writing outside of class except tracing -- control speed
-2 types tracing plates: start with copy of prev days lesson, dicate 10-15 sec and trace
-later, 1 sentence repeated 5 times.
-complicated method of leaving out words dictated, filing them in -- what???? Why????
-only time not at this speed were the tests
-
-
-testing on 3 min new matter every week, much practice dictation on other days
-end of st wk, test dictate to all at 20, 30, 40 
-final 5 takes, 40 50 60 70 80
-
-
-
-Badly designed!!
+Not sure how to advise increasing speed. Can't just writie from text afap.
 
 

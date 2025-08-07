@@ -3,7 +3,7 @@
 By Charles Lee Swem, Offical Reporter, Supreme Court, State of New York  
 Appendix to Gregg Speed Building
 
-[PDF of Original Text](systematic-speed-course-for-advanced-writers-swem.pdf)
+[PDF of Original Text](assets/systematic-speed-course-for-advanced-writers-swem.pdf)
 
 
 "How do you go about the acquiring of speed in shorthand?" is a question that, if asked once of the speed writer, is asked a thousand times. The reply variously heard is work, practice, knowledge of system, or vocabulary, depending on the viewpoint of the one replying. The reply may be given in all sincerity, for there is no doubt that all these factors play vital parts in the acquisition of speed, but I am convinced that this is not what is wanted when the question is asked. The student has heard all this in the classroom. If he possess but ordinary intelligence, he should know that he cannot learn to write shorthand fast without a thorough knowledge of his system, or without a vocabulary, or without practice. That is not new to him. What he wants, I feel, is a program. When a housewife asks for a recipe for a cake she does not expect to be told that she must use eggs and flour and butter; what she desires is the proportion in which these ingredients are to be mixed.

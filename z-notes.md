@@ -24,7 +24,6 @@
 
 - move Sources to sep file and include it? Or just link to it? Do I need to force people to download it if they save the page?
 
-- ```### My Great Heading {#custom-id}```
 
 
 ## Reminders of Decisions and Tips
@@ -43,3 +42,21 @@ xxx means a section needs to be fixed
 find a::after symbols for external, internal links
 
 learn to use citation style? Will have to use html ... markdown doesn't have it
+
+Add ::begin?? to css for blockquotes
+
+
++++
+A shortcut for setting the ID is also provided. Just prefix the ID with a hash symbol:
+
+> A nice blockquote
+{: #with-an-id}
+<blockquote id="with-an-id">
+  <p>A nice blockquote</p>
+</blockquote>
+
+A nice blockquote
++++
+2 dif instructions
+
+- ```### My Great Heading {#custom-id}```

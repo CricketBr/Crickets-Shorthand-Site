@@ -91,9 +91,9 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 
 **Heading Format**
 
--xx- : beginning, middle, or end of word. Text will clarify if cannot use in all 3 positions.
--xx : only at the end of a word.
-xx- : only at the beginning of a word.
+--xx-- : beginning, middle, or end of word. Text will clarify if cannot use in all 3 positions.
+--xx : only at the end of a word.
+xx-- : only at the beginning of a word.
 (Probably some mistakes.)
 
 All headings (should) have the dashes, so you can use the browser Find function.
@@ -372,7 +372,7 @@ Teaching 1: ye, obey
 
 
 
-#### -AE-, -AI-, -EA-, -IA-, -AY-
+#### --AE--, --AI--, --EA--, --IA--, --AY--
 
 See S for AYS.
 
@@ -410,7 +410,7 @@ Teaching 1 gives several examples of what might happen if you use the wrong orde
 
 Teaching 1 recommends that AI always be written in AI order, regardless of surrounding letters, but does not say why. IA is written IA. It also recommends dotting the I. The Manual and Supplement do not have any counter-examples. Revised does not mention the rule, and even has a counter-example.
 
-#### -AO-, -OA-, -AU-
+#### --AO--, --OA--, --AU--
 
 ![shorthand image](assets/teach-1-bits/oar,laon-t104.jpg){: .teach1}\
 <!-- cspell:disable-next-line -->Teaching 1: oar, Laon,
@@ -422,7 +422,7 @@ Write A above O, possibly towards the correct end of the O.
 
 
 
-### -E-
+### --E--
 
 See also AE.
 
@@ -455,7 +455,7 @@ Revised: ea, ee, ei, eu, ew, few,
 
 
 
-### -I-
+### --I--
 
 See also AI, EI.
 
@@ -465,7 +465,7 @@ Manual: social, optician, chief,
 ![shorthand image](assets/revised-split/i-r07.jpg){: .rev}\
 Revised: i, e, ia, ie,
 
-### -O-
+### --O--
 ![shorthand image](assets/manual-bits/o-diphth-m010.png){: .man}\
 Manual: oar, or, oak, oi, toil, ou, out, oy, boys,
 
@@ -483,7 +483,7 @@ Revised: oy, toy, annoy, decoy,
 
 See S for OYS.
 
-### -U-
+### --U--
 
 See also EE.
 
@@ -497,7 +497,7 @@ Revised: ua, guard, dual, usual,
 
 
 
-### -Y-
+### --Y--
 
 See also AY.
 
@@ -516,7 +516,7 @@ Teaching 1: ye, obey,
 
 Some concepts are under a letter other than the first, if the other letter is sounded more strongly, or it makes for a more sensible explanation.
 
-### -A- -- With Consonants
+### --A-- - With Consonants
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
@@ -2093,10 +2093,10 @@ Double-wide M. Vowel is left out. (Teaching 1)
 
 ### -MP- See -MB-.
 
-#### -NCH- -- See H.
+### -NCH- -- See H.
 
 
-#### -NESS `.es`
+### -NESS `.es`
 ![shorthand image](assets/manual-bits/ness-m016.png){: .man}\
 Manual: happiness, thoughtfulness, `hapyns, ^otfl.ns` -- ***Deprecated***
 
@@ -2111,17 +2111,17 @@ Note in thoughtfulness that ns is not marked as raised. It is in position 2, and
 This termination should be written ‑ess detached, by the general rule, and not ns as given in the Manual. [E.g. goodness.] Detached n and ns can then be used, as in longhand, for the expression of the common terminations ‑ation and ‑ations. (Suplement)
 
 
-#### -NG -- See ING.
+### -NG -- See ING.
 
-#### -ODE, -OTE `o`
+### -ODE, -OTE `o`
 ![shorthand image](assets/revised-split/ode,ote-r21.jpg){: .rev}\
 Revised: explode, strode, promote, wrote,
 
 
-#### -OLOGY `ogy`
+### -OLOGY `ogy`
 Supplement, Notes on Reporting.
 
-#### -OLUTE, -UDE, -UTE `u`
+### -OLUTE, -UDE, -UTE `u`
 ![shorthand image](assets/revised-split/olute,ude,ute-r21.jpg){: .rev}\
 Revised: absolute, denude, mute\
 Words which might clash: incide/incite, rede/ride/rite, side/site, mode/mote, rode/rote, delude/dilute, illude/elude,
@@ -2129,20 +2129,20 @@ Words which might clash: incide/incite, rede/ride/rite, side/site, mode/mote, ro
 Again, too many clashes for my taste! (Cricket)
 
 
-#### -OLVE -- See -VE
+### -OLVE -- See -VE
 
-#### -ORY -- See -ARY
+### -ORY -- See -ARY
 
-#### -OSION, -OTION `oun`
+### -OSION, -OTION `oun`
 
 ![shorthand image](assets/revised-split/osion,otion-r20.jpg){: .rev}\
 Revised: explosion, lotion,
 
-#### -OTE See -ODE
+### -OTE See -ODE
 
-#### -OUD, -OUT, -OUND, -OUNT -- See -OUND, -OUNT
+### -OUD, -OUT, -OUND, -OUNT -- See -OUND, -OUNT
 
-#### -OUGH `o`
+### -OUGH `o`
 ![shorthand image](assets/manual-bits/ough,ought-m016.png){: .man}\
 Manual: ought, brought,
 
@@ -2152,7 +2152,7 @@ Teaching 1: ought, thought,
 ![shorthand image](assets/revised-split/ough-r12.jpg){: .rev}\
 Revised: o, brought, plough,
 
-#### -OUND, -OUNT `ou`
+### -OUND, -OUNT `ou`
 
 ![shorthand image](assets/teach-1-bits/ound,ount-t110.jpg){: .teach1}\
 Teaching 1: round, sound, count, counter, county, country,
@@ -2171,14 +2171,14 @@ Note the final E in route.
 
 There are examples of this in the Supplement, but it isn't listed as a rule. It is listed as a rule in Teaching 1.
 
-#### -OVE-, -OLVE- -- See -VE.
+### -OVE-, -OLVE- -- See -VE.
 
-#### PR- Family
+### PR- Family
 
 Someone needs to dive into this a bit more, but on first glance it appears all PRv and PvR at start of word are treated the same. Super/supra differently. So why do all the books separate them? (Cricket)
 
 
-#### PER-, PRO-, PRE-, PARA-, PARI-, PRI-, PUR-, maybe PRA- `^`
+### PER-, PRO-, PRE-, PARA-, PARI-, PRI-, PUR-, maybe PRA- `^`
 ![shorthand image](assets/supp-bits/person-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/present-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/promise-s.png){: .sup1row}
@@ -2212,9 +2212,9 @@ Always write O before F. (Why?) (Revised)
 
 In the prefixes super, supra, hyper, the per is expressed by writing the terminal portion of the word close above and to the right of the initial prefix. Thus superfine, supralinear. (Revised)
 
-#### -SCH- -- See CH, Abbreviating Principles and SH
+### -SCH- -- See CH, Abbreviating Principles and SH
 
-#### -SHIP `.p` or `p`
+### -SHIP `.p` or `p`
 ![shorthand image](assets/supp-bits/worship-s.png){: .sup1row}\
 Supplement: worship,
 
@@ -2229,13 +2229,13 @@ Revised, looks like it's connected, and separated in the first example for ease 
 
 
 
-#### -STRUCT `str`
+### -STRUCT `str`
 ![shorthand image](assets/revised-split/struct-r20.jpg){: .rev}\
 Revised: instruct, obstructing, destructive,
 
-#### SUPER-, SUPRA -- See PER.
+### SUPER-, SUPRA -- See PER.
 
-#### -T-
+### -T-
 
 T may generally be slurred in the terminations ty (20) and th, thus `duy` = duty, `wih` = with, `ohr` = other. (Supplement, Notes on Reporting)
 
@@ -2245,7 +2245,7 @@ Supplement said it better. (Cricket)
 
 
 
-#### -TCH- `ch`
+### -TCH- `ch`
 
 No examples in Supplement and Teaching 1.
 
@@ -2258,10 +2258,10 @@ The t may always be omitted in this combination. (Supplement, Teaching 1)
 
 
 
-#### -TD- -- See DD.
+### -TD- -- See DD.
 
 
-#### TH- `^`
+### TH- `^`
 
 ![shorthand image](assets/manual-bits/th-raised-m015.png){: .man}\
 Manual: the, they, this, them, tho', that,
@@ -2287,7 +2287,7 @@ The only case of a word written above the line and not presupposing initial Th i
 
 
 
-#### -THER `(ther)`
+### -THER `(ther)`
 
 ![shorthand image](assets/manual-bits/ther-m016.png){: .man}\
 Manual: ther, others, ard, toward,
@@ -2300,10 +2300,10 @@ Teaching 1: HR, other,
 
 Slur the T into the H circle and put the R inside. (Teaching 1)
 
-#### -TION -- See ION.
+### -TION -- See ION.
 
 
-#### TRANS- `trs`
+### TRANS- `trs`
 
 ![shorthand image](assets/supp-bits/transact-s.png){: .sup1row}\
 Supplement: transact,
@@ -2311,7 +2311,7 @@ Supplement: transact,
 ![shorthand image](assets/revised-split/trans-r11.jpg){: .rev}\
 Revised: trans, transfer, transmit, transcript,
 
-#### -TY `y ??`
+### -TY `y ??`
 
 T may generally be slurred in the termination -ty. (Supplement, Notes on Reporting)
 
@@ -2319,9 +2319,9 @@ duty: `duy`
 
 See also ITY, which includes ETY and IETY.
 
-#### -UDE, -UTE See -OLUTE.
+### -UDE, -UTE See -OLUTE.
 
-#### -VE, -IVE, -OVE, -OLVE, -V- `^*`
+### -VE, -IVE, -OVE, -OLVE, -V- `^*`
 
 ![shorthand image](assets/supp-bits/arrive-s.png){: .sup1row}
 ![shorthand image](assets/supp-bits/gives,en-s.png){: .sup1row}
@@ -2341,7 +2341,7 @@ In words ending in *ove* or *olve*, it is generally better to omit the *o* or *o
 See Modes for Revised's warnings about over-use.
 
 
-#### -WARD `ard`
+### -WARD `ard`
 ![shorthand image](<assets/manual-bits/ward-with-ther-m016 copy.png>){: .rev}\
 Manual: hr, others, ward, towards,
 
@@ -2351,7 +2351,7 @@ Teaching 1: forward,
 ![shorthand image](assets/revised-split/ward-r12.jpg){: .rev}\
 Revised: ard, inward, outward, forward,
 
-#### -WISE `.se` or `se`
+### -WISE `.se` or `se`
 ![shorthand image](assets/supp-bits/otherwise-s.png){: .sup1row}\
 Supplement: otherwise,
 
@@ -2361,10 +2361,10 @@ Revised: likewise, otherwise, unwise,
 Why not keep the W? (Cricket)
 
 
-#### X- -- See EX- and X (Joining Consonants)
+### X- -- See EX- and X (Joining Consonants)
 
 
-#### -YING `ing1`
+### -YING `ing1`
 ![shorthand image](assets/revised-split/ying-r20.jpg){: .rev}\
 Revised: conveying, crying, dying, flying,
 
