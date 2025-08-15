@@ -1763,7 +1763,7 @@ Too much to include here. If you're desperate for an example or dictation materi
 xxx get link to another copy
 
 
-## The New Testament: Authorised Version: written in Orthic Shorthand, Reporting, Stevens
+## The New Testament: Authorised Version: written in Orthic Shorthand, Mix of Levels, Stevens
 
 * [Link to archive.org](https://archive.org/details/the-new-testament-authorized-version-written-in-orthic-shorthand-by-w.-stevens)
 
