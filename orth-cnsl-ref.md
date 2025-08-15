@@ -91,9 +91,9 @@ Revised mostly uses the same rules in Fully Written, but not entirely. The diffe
 
 **Heading Format**
 
---xx-- : beginning, middle, or end of word. Text will clarify if cannot use in all 3 positions.
---xx : only at the end of a word.
-xx-- : only at the beginning of a word.
+-xx- : beginning, middle, or end of word. Text will clarify if cannot use in all 3 positions.
+-xx : only at the end of a word.
+xx- : only at the beginning of a word.
 (Probably some mistakes.)
 
 All headings (should) have the dashes, so you can use the browser Find function.
@@ -180,21 +180,34 @@ Don't worry about it. The only true test of shorthand quality is whether the int
 
 ### Notation
 
+Mostly from (orthic.shorthand.fun)[https://orthic.shorthand.fun/dictionary#notation]
+
 Use the joining rules for Fully Written unless otherwise specified.
 
 Letters in brackets are compound letters or slurs.
 
-* ^ indicates the following letters are raised.
-* . indicates a small gap to indicate omitted letters, as in Mode 2.
-* _ indicates the following letters are lowered.
-* \* indicates a dot on the line (or a tiny bit above). Always preceded and followed by a gap.
-* : indicates a sharp join between vowels. Otherwise all vowels have rounded joins.
-* I indicates dotted i. E is used if the dot is optional.
-* Dot for doubled letters is not included.
-* () indicates a compound letter.
-* vowels are listed in order written.
+* A caret `^` signals raising, as in `^e` for “the”. This is a half-step (the height of a `c`, `s`, or `e`) up from the letter just written.
+* A dot `.` signals a disjoin or butting up of two outlines for mode 2. This should be written markedly smaller than a word space.
+* An underscore `_` signals lowering, as in `_t` for the “-ight” ending. This is a half-step down.
+* A `* `signals a dot, as in `*plex` for “complex”.
+* An uppercase letter often signals a double-sized version of that letter, as in the a`V` “adv-“ prefix. (ee is written as such, though, being treated as a vowel combo rather than a double-sized e.)
+  * `B` for the “falling” vertical b
+  * `D` for the double-wide td/dt/dd blend
+  * `M `for the mb blend
+  * `N` for the double-wide nm/mn/mm blend
+  * `V` for the dv blend (a v that is as wide as a d)
+  * `Y` for the -ing stroke. (See below for `G1` and `G2` to distinguish curved and straight -ing.)
+* A `:` signals a diaresis - a sharp join in vowels rather than a smooth join, as in fiasko `fi:asco`, where an i then an a is written rather than an ai join. It signals double consonants thar are both written, as in ordinary style moment m:mt
+* A double letter signals a dotted letter, as in comment comment. `ee` signals the blended vowel combo "ee".
+* `i` is strictly reserved for dotted i. When the dot is omitted, the letter is notated as e.
 
-Where there is more than one way to write a letter or compound, I added extra characters. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : `(ing1)` = straight, `(ing2)` = curved, chosen because 1 is straight and 2 is curved. `(ph-b)` is the PH that looks like the letter b. (Cricket)
+I have added a few more. 
+* `G1` is straight line, `G2` is curved. "1" is straight, "2" is curved.
+* Some compounds are in brackets () to clarify. It's harder to type but easier to remember.
+* Vowels are listed in order written. Vowels are blended unless `:` is used as above.
+
+
+Where there is more than one way to write a letter or compound, I added extra characters. Often the number chosen reflects the shape of the compound, as a mnemonic, but this was not always possible. Eg **ing** : `(G1)` = straight, `(G2)` = curved, chosen because 1 is straight and 2 is curved. `(ph-b)` is the PH that looks like the letter b. (Cricket)
 
 ## The Alphabet
 ![shorthand image](assets/manual-bits/1alphabet-m003.png){: .man}\
@@ -213,7 +226,7 @@ Most books say use 1:3, but then use less in the Two Sizes image, and somewhere 
 Manual: alphabet, letters grouped by size, st, ste, en, ens, inst, nt, er, ers, abs, against, epitaph
 
 ![shorthand image](assets/teach-1-bits/1twosizes-t102.jpg){: .teach1}\
-Teaching 1: Alphabet, CH, ing1, ing2
+Teaching 1: Alphabet, CH, G1, G2
 
 Note the U is at a different angle between Teaching and the Manual. It's not critical.
 
@@ -226,7 +239,7 @@ Teaching 1: Letters grouped in another way.
 #### Position on the Line, aka Mode
 The rules for this are a mess.
 
-Just do what looks right to you. If you read something that doesn't make sense, remember some writers will write higher or lower than you do.
+Just do what looks right to you. If you read something that doesn't make sense, remember some writers will write higher or lower than you do. Yes, this can cause confusion when raising and lowering words.
 
 **Details:** 
 
@@ -372,7 +385,7 @@ Teaching 1: ye, obey
 
 
 
-#### --AE--, --AI--, --EA--, --IA--, --AY--
+#### -AE-, -AI-, -EA-, -IA-, -AY-
 
 See S for AYS.
 
@@ -410,7 +423,7 @@ Teaching 1 gives several examples of what might happen if you use the wrong orde
 
 Teaching 1 recommends that AI always be written in AI order, regardless of surrounding letters, but does not say why. IA is written IA. It also recommends dotting the I. The Manual and Supplement do not have any counter-examples. Revised does not mention the rule, and even has a counter-example.
 
-#### --AO--, --OA--, --AU--
+#### -AO-, -OA-, -AU-
 
 ![shorthand image](assets/teach-1-bits/oar,laon-t104.jpg){: .teach1}\
 <!-- cspell:disable-next-line -->Teaching 1: oar, Laon,
@@ -422,7 +435,7 @@ Write A above O, possibly towards the correct end of the O.
 
 
 
-### --E--
+### -E-
 
 See also AE.
 
@@ -455,7 +468,7 @@ Revised: ea, ee, ei, eu, ew, few,
 
 
 
-### --I--
+### -I-
 
 See also AI, EI.
 
@@ -465,7 +478,7 @@ Manual: social, optician, chief,
 ![shorthand image](assets/revised-split/i-r07.jpg){: .rev}\
 Revised: i, e, ia, ie,
 
-### --O--
+### -O-
 ![shorthand image](assets/manual-bits/o-diphth-m010.png){: .man}\
 Manual: oar, or, oak, oi, toil, ou, out, oy, boys,
 
@@ -483,7 +496,7 @@ Revised: oy, toy, annoy, decoy,
 
 See S for OYS.
 
-### --U--
+### -U-
 
 See also EE.
 
@@ -497,7 +510,7 @@ Revised: ua, guard, dual, usual,
 
 
 
-### --Y--
+### -Y-
 
 See also AY.
 
@@ -516,7 +529,7 @@ Teaching 1: ye, obey,
 
 Some concepts are under a letter other than the first, if the other letter is sounded more strongly, or it makes for a more sensible explanation.
 
-### --A-- - With Consonants
+### -A- -- With Consonants
 
 All examples from the Manual are under Joining Vowels with Vowels.
 
@@ -586,7 +599,7 @@ Manual: student,
 ![shorthand image](assets/revised-split/d-r07.jpg){: .rev}\
 Revised: d, t, df, dge, dh, dj, dk, dle, dm, dn, dre, ds, dt, dv, dw, dy, dz,
 
--DEN- series. In DN the letters form a wave. The end of one letter and the beginning of the next share a line. In DEN, the combination begins and ends on the same line. In <!-- cspell:disable -->DEEN<!-- cspell:enable -->, there is actually a line This is what most beginning writers think DEN should look like. I cannot find anywhere this is stated clearly, but it is consistent across all 4 books. (Cricket)
+-DEN- series. In DN the letters form a wave. The end of one letter and the beginning of the next share a line. In DEN, the combination begins and ends on the same line. In <!-- cspell:disable -->DEEN<!-- cspell:enable -->, there is actually a line. This is what most beginning writers think DEN should look like. I cannot find anywhere this is stated clearly, but it is consistent across all 4 books. (Cricket)
 
 DD, DT and TD can be written as a double-wide D. See Abbreviating Principles.
 
@@ -1671,7 +1684,7 @@ Revised: ge, edge, lodge, budge,
 
 
 
-#### DD, DT `dd, dt`, -DED-,-DET-,-TED-,-TET-
+#### DD, DT `dd, dt, D`, -DED-,-DET-,-TED-,-TET-
 
 ![shorthand image](assets/teach-1-bits/dd,dt,td-t115.jpg){: .teach1}\
 Teaching 1: DD,
@@ -1686,7 +1699,7 @@ Slurred to a double-wide D. (Teaching 1)
 #### -DJ- `j`
 In words having the combination DJ, leave out the D. (Teaching 1)
 
-#### -DV- `(dv)`
+#### -DV- `(dv)` or `V`
 
 ![shorthand image](assets/supp-bits/advantage-s.png){: .sup1row}\
 Supplement: advantage,
@@ -1721,18 +1734,17 @@ Revised: concede, impede, effete, obsolete,
 ![shorthand image](assets/revised-split/ede-note-r21.jpg){: .rev}\
 Revised: impeded, sided, eroded, concluded, secreted, indited, voted,
 
-#### -ENCE `.ce`
+#### -ENCE `.ce`, `ce`
 ![shorthand image](assets/revised-split/ence-r20.jpg){: .rev}\
 Revised: influence, residence, confidence,
 
-Supplement. No examples.
+Supplement, under Terminations, says to detach it. No examples.{: .sup1row}
 
-#### -ENCY `.cy`
+#### -ENCY `.cy`, `cy`
 ![shorthand image](assets/revised-split/ency-r20.jpg){: .rev}\
 clemency, competency, emergency,
 
-Supplement. No examples.
-
+Supplement, under Terminations, says to detach it. No examples.{: .sup1row}
 
 
 #### -ENT `.t`
@@ -1877,12 +1889,12 @@ Indicated by M written below to indicate the g, similar to -gn. (Supplement)
 Diagram is a good example of relative vs absolute positioning. (Cricket)
 
 
-#### -GRAPH `ph`
+#### -GRAPH `ph`, `.ph`
 
 ![shorthand image](assets/revised-split/graph-r20.jpg){: .rev}\
 Revised: lithograph, paragraph, geography,
 
-Supplement. No examples.
+Supplement, under Terminations, says to detach it. No examples.{: .sup1row}
 
 #### -GUE (One Syllable) `g`
 
@@ -1901,7 +1913,7 @@ Manual: manhood, `man.hd`
 ![shorthand image](assets/revised-split/hood-r12.jpg){: .rev}\
 Revised: hd, manhood, widowhood, fatherhood, bachelorhood, hardihood,
 
-Manhood has detatched HD in Manual, connected in Revised.
+Manhood has detached HD in Manual, connected in Revised.
 
 #### HYPER- -- See PR- Family.
 
@@ -1929,15 +1941,15 @@ Revised: indignant or indignity, dignity,
 #### INCOM- -- See COM-
 
 
-#### -ING `(ing1), (ing2)`
+#### -ING `G1,G2)`
 
 ![shorthand image](assets/manual-bits/ing-m016.png){: .man}\
 Manual: using, saying, seeming, king, sing, singing,\
-`us(ing1), say(ing2), seem(ing2), king, sing, sing(ing2)`
+`usG1, sayG2, seemG2, king, sing, singG2`
 
 ![shorthand image](assets/revised-split/ing-r12.jpg){: .rev}\
 Revised: \
-ing (`ing1, ing2`), leasing, placing, praying, coming, \
+ing (`G1, G2`), leasing, placing, praying, coming, \
 king, bring, bringing, sing, singin, \
 reading, blaming, sinning, setting, seeing, going, saying,
 
@@ -1971,7 +1983,7 @@ See -EDE for note.
 ![shorthand image](assets/revised-split/ism-r19.jpg){: .rev}\
 idealism, conservatism, socialism,
 
-Supplement uses `.m`, no examples.
+Supplement, under Terminations, says to detach it. No examples.{: .sup1row}
 
 #### -ITE See -IDE.
 
@@ -2084,7 +2096,7 @@ Revised: mis, ms, misuse, mislay, misnomer,
 
 Written ms, omitting the i. 
 
-#### -MM-, -MN- `mm, mn`
+#### -MM-, -MN- `mm, mn, N` (`M` is for MB)
 
 ![shorthand image](assets/teach-1-bits/mm-t114.jpg){: .teach1}\
 Teaching 1: mm, mn
@@ -2223,9 +2235,9 @@ Revised: fellowship, friendshp, worship,
 
 In accordance with the general method terminations are indicated by writing the last letter or two detached from the rest of the word. (Supplement, exact quote)
 
-But...the only example in the Supplement is not detatched.
+But...the only example in the Supplement is not detached.
 
-Revised, looks like it's connected, and separated in the first example for ease of writing, not to detatch it for the termination.
+Revised, looks like it's connected, and separated in the first example for ease of writing, not to detach it for the termination.
 
 
 
@@ -2364,7 +2376,7 @@ Why not keep the W? (Cricket)
 ### X- -- See EX- and X (Joining Consonants)
 
 
-### -YING `ing1`
+### -YING `G2`
 ![shorthand image](assets/revised-split/ying-r20.jpg){: .rev}\
 Revised: conveying, crying, dying, flying,
 
@@ -2441,14 +2453,14 @@ ther, others, ard, towards
 ![shorthand image](assets/manual-bits/9common-abbrev-m018.png){: .man}\
 Manual: about, always, am, amount, an, any, are, were, be, been, because, between, but, can, can be, child, could, do, does, down, ever, for, from, friend, good, great, have, hold, made, might, more, most, not, can't (cannot), nothing, of, of the, on, only, one, once, perhaps, right, round, self, selves, shall, she, should, themselves, therefore, thing, throughougt, thro'out, to, into, under, week, would, which, with, you, yours
 
-ABT, ALS, M, IM, AMT, AY, AR, WER, B, BN, BC, BETW, BT, CA, CAB, CHD, CD, 
-D, DS, DN, ^R, F, FM, FD, GD, GRT, HA, HD, MDE, MT, MO, MST, 
-NT, CNT, N(ING2), O, OE, N, N(LY), NE, NCE, PH (?? PRH), RT, ROU, 
-SEF, SVS, SHA, SH, SHD, ^EMSVES, ^ERF, ^(ING2), ^ROUT, T, INT, U, 
-WK, WD, WH, TH, Y, YRS 
-{: .code1}
+
+```abt, als, m, im, amt, a, ^a, ay, ae, wer, b, bn, bc, betw, bt, ca, cab, chd, cd, d, ds, dn,
+^r, f, fm, fd, gd, grt, ha, hd, mde, mt, mo, mst, nt, cnt, ^nG2, o, oe, n, n_y, ne, nce, ph??, rt, rou, sef, svs, sha, sh, shd, ^emsves, ^erf, ^G2, ^rout, t, int, u, wk, wd, wh, th, y, yrs
+```
 
 Lots of other words burried in the various specimens. Most of the specimens are typed out on https://orthic.shorthand.fun/ . A few link to other sources for the text.
+
+
 
 ### Supplement Word Lists
 
@@ -2467,7 +2479,7 @@ Supplement:\
 able, ably, above, according, acqu, adj, advantage, after, afternoon, afraid, ages, agent, also, already, announce, appropriate, apparent, arrange, arrive, -ation, -ational, baptist, be, being\
 
 
-ab, aby, abv, ac(ing1), aq, aj, a(dv), af, afnn, afd, a_s, a_t, aso, alry, a.pte, ap.t, ar_*, ar^*, n, nr, bpt, ^b, ^(ing1)
+ab, aby, abv, acG1, aq, aj, a(dv), af, afnn, afd, a_s, a_t, aso, alry, a.pte, ap.t, ar_*, ar^*, n, nr, bpt, ^b, ^G2
 {: .code}
 
 been, before, believed, better, best, bishop, body, both, by, thy, caught, changes, church, circum, circumstance, com-, con-, come, came, command, comment, common, compound\
@@ -2479,7 +2491,7 @@ been, before, believed, better, best, bishop, body, both, by, thy, caught, chang
 comprehend, concerning, conserve, consideration, counter, country, course, court, Dear, different, difference, difficult, each, editor, else, endeavour, even (e'en), evening, event, every
 
 
-*^hend, *c(ing1), *s^*, *sed, *sed.n, cour, coury, crs, crt, dr, def, def, deft, ea, edor, ls, _end^r, een, ^n(ing2), ^nt, ^ry
+*^hend, *cG1, *s^*, *sed, *sed.n, cour, coury, crs, crt, dr, def, def, deft, ea, edor, ls, _end^r, een, ^nG2, ^nt, ^ry
 {: .code}
 
 ![sup pg 12](assets/supp-bits/1abb2-s12.png){: .sup}\
@@ -2573,6 +2585,7 @@ Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, ob
 
 
 <a name="full-table-of-contents"></a>
+
 ## Full Table of Contents
 * Table of Contents
 {:toc}
@@ -2586,6 +2599,7 @@ Revised, page 23: neighbor, nevertheless, next, nor, notwithstanding, number, ob
 * [GitHub Issues](https://github.com/CricketBr/Crickets-Shorthand-Site/issues)
 
 <a id="revision-history"></a>
+
 ## Revision History
 
-Still very fluid.
+2025-08-?? : Changed notation for ing1 and ing2. Added details to Notation. Converted incorrectly capitalized ASCII versions to lower-case.

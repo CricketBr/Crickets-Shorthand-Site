@@ -60,3 +60,8 @@ A nice blockquote
 2 dif instructions
 
 - ```### My Great Heading {#custom-id}```
+
++++
+
+borders in Examples
+Maybe change border for Reporting style?

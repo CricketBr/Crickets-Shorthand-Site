@@ -1553,7 +1553,45 @@ and pa says fairy-tales ain't true; and isn't it a pity? 'cos he would so like t
 
 
 
-## Psalms, KJV, Supplement to Teaching 1 and 2, Stevens
+## Psalms (KJV or Book of Common Prayer?), KJV-NT, Supplement to Teaching 1 and 2, Stevens
+
+### Preface to the Orthic New Testament (Stevens)
+
+A mix of levels, starting with FW and adding Abbreviations.
+
+![Preface to the Orthic New Testament](assets/new-test-preface.png)
+
+
+It could doubtless be considered "ultra vires" to write a preface to an edition of any portion\
+of the Bible: but I think it is excusable to write a few words in sending out the first portion of Scripture\
+written in the Cambridge system of shorthand, commonly called "Orthic." It was borne in upon me\
+by many members of our Society that were a text book written for the use of students of the system, great
+good would result; and the consensus of opinion was that were the New Testament written in Orthic Shorthand, students\
+would have at their command a book illustrating all kinds of Orthic writing, and yet at the same time,\
+be in possession of the key should any difficulty arise. This then is my excuse for writing this edition, and\
+sending it out to the public.
+
+Just a word or two as to how it is written. I have striven to write it as free of mistakes but in\
+a work of this magnitude it is almost impossible to avoid some errors. I have however to\
+state in this connection that after each page  was written it was carefully reread, and then revised by one or our\
+Fellows and Counsellors , Mr F Pile of Taunton, to whom I wish to tender my\
+best deepest thanks. many difficulties presented themselves to me at first as to what would be the best method of\
+printing; there appeared to be two ways. One was the photo process, as carried out in the "manual" and the \
+"supplement", and one by lithography. it was clear that the first process gave the best results, but it was\
+extremely expensive, and I saw no chance or recouping myself the outlay if I adopted this plan, so\
+I determined to employ lithography : Among the advantages here were the facts that readers followed the actual\
+writing of the author and that they could notice the differences of style. As to whether I have decided rashly\
+or not I must leave myself in my readers hands to judge.
+
+The style of the writing varies somewhat. and for sufficient reason, I need not enlarge upon this, but as a \
+illustration I would draw your attention to this preface which is written in fairly full style : the Gospels begin in "manual"\
+style, and gradually increase in abbreviation and thus you will find that the later books of the New Testament are \
+written in a brief, but at the same time clear and logical style.\
+
+I send out this effort and leave it to your generosity: may the study of this book of the\
+Orthic New Testament be to you very beneficial, in more ways than one. 
+
+### Other Reading
 
 [Orthic Shorthand Site, Reading](https://orthic.shorthand.fun/reading)
 
@@ -1568,6 +1606,7 @@ Too much to include here. If you're desperate for an example or dictation materi
 [Psalms 40–65 in abbreviated style PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2040-65%20(Abbreviated%20Style)%201896%20Stevens.pdf) serves as both exercise book and exam for Lessons 6 through 8, at which point you’re expected to be writing 60 WPM and reading fluently.
 
 [Psalms 66–83 in reporting style PDF](https://orthic.shorthand.fun/assets/reading/Orthic%20Psalms%2066-83%20(Reporting%20Style)%201897%20Stevens.pdf) serves as both exercise book and exam for the second volume of The Teaching of Orthic Shorthand. (1897; 16 pages of shorthand).
+
 
 
 
