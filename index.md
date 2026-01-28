@@ -70,7 +70,7 @@ Rules sorted by Orthic spelling.
 No promises about accuracy. Let me know if you find a mistake and I'll fix it or at least note it.
 
 * [The Cat Who Walked By Himself, Rudyard Kipling, Orthic](cat-main.md)\
-Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated.
+Written in shorthand by Cricket. Three columns: Typed, Fully Written, (Slightly) Abbreviated. Not well proof-read.
 
 * [Carry On Jeeves, PG Wodehouse. Humour, Orthic](carry-on-main.md)\
 Written in Shorthand by Cricket. Starts with Fully Written Style and adds rules a bit at a time.\
