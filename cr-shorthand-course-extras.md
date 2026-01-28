@@ -1,3 +1,5 @@
+Quote or reference recently read report, using note hand in the high school classroom of teachers college. Kids with pork cursive could write decent shorthand
+
 
 
 promised Stenophile to go through English Gregg books for general vs gregg advice

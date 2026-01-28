@@ -1,9 +1,10 @@
 # Cricket’s Shorthand Tips
 
 
-# Deprecated. 
+# Un-Deprecated. 
 
-# [Use Cricket's Shorthand Course](cr-shorthand-course.md)
+# [Don't Use Cricket's Shorthand Course](cr-shorthand-course.md)
+(An attempt at a major revision was a disaster. More work needed. It has all these tips, and more, but it's way too long.)
 
 
 Rev 2025-06-08
@@ -169,7 +170,7 @@ This exercise can harm as much as help. Do not be more precise than your system 
 
 There are several sites that generate graph paper to your specifications, including different horizontal and vertical spacing. Even if middle letters don’t start/stop on a line, the grid helps you measure them.
 
-### Use Spaced Repetition
+## Use Spaced Repetition
 
 Use the Leitner system for spaced repetition. [https://en.wikipedia.org/wiki/Leitner\_system](https://en.wikipedia.org/wiki/Leitner_system)
 

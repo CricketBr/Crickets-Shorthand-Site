@@ -138,6 +138,8 @@ The most common minimum speed requirement for first-year shorthand was 60 words 
 
 
 
+https://www.reddit.com/r/shorthand/comments/1p8nvfy/comment/nrp7r84/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+I haven't calculated the total, but I can give a rough estimation. I started at around July or August this year, so 3 months, 1 hour one per day -> let's say 90 hours. Which is pretty standard for learning any skill, 3 digit hours is needed to become proficient in a new writing system.
 
 https://esirc.emporia.edu/handle/123456789/2456
 ESIRC Home → Theses → Theses 1977 → View Item
@@ -174,6 +176,19 @@ palling, the same reports show that after completing two years of
 shorthand instruction, less than 50 percent of the students are capable 
 of taking dictation at 80 words a minute. (Pullis, Methods, 1973)
 
+https://www.reddit.com/r/greggshorthand/comments/1nw4ucy/wrote_today_at_101_wpm/
+
+4 months, didn't say how much per average day.
+
+Why not? I think I have written 3 + hrs which is an over exaggeration. I am mostly practice in the bracket of 10-40 mins. Hardly I would have ever practiced more than or equal to two and half hour.
+
+
+
+
+Forkner Shorthand; Forkner and Brown; Gage Publishers Canada, 1972/
+"A few of the most able students will complete the Forkner Shorthand course in 75 hours of classroom instruction. Most students, however, should have a second half-year course during which time special attention is given to increasing dictation and transcription skills, including further development of language facilty." p.viii
+
+37 chapters. End wtih "Have each letter dictated to you until you can write each letter in shorthand at 80 or more words a minute." p161. Letters are 88-100 words long.
 
 
 ### Advice Varies
