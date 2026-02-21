@@ -65,3 +65,7 @@ A nice blockquote
 
 borders in Examples
 Maybe change border for Reporting style?
+
+
+shorthand advice from BerylPratt
+https://www.reddit.com/r/shorthand/comments/1n8p5pp/comment/nciny1k/?share_id=3a5Lu6GDYMuM4fOTY9Ab3&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=10

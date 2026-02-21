@@ -183,6 +183,17 @@ https://www.reddit.com/r/greggshorthand/comments/1nw4ucy/wrote_today_at_101_wpm/
 Why not? I think I have written 3 + hrs which is an over exaggeration. I am mostly practice in the bracket of 10-40 mins. Hardly I would have ever practiced more than or equal to two and half hour.
 
 
+https://www.reddit.com/r/greggshorthand/comments/1qtq91n/comment/o377ceq/?context=1
+Vast-Town-6338
+OP
+•
+4h ago
+Hi, thanks for the reply.  But I had already told you the answer of above asked questions at least 2 times in my previous posts few months back, but you still ask me the same question again and again.
+
+But let me tell again... Sometimes I studied (Gregg Shorthand related stuffs) 10 minutes a day to sometimes for 2-4 hours. It was not fixed. But I was consistent enough to do it everyday. So that helped a lot. I was able to write at 80 wpm in about 3 or 4 months and 100 in about 5 and 120 in about 7 (after 2 days, it will be 8 months). All data is approximate.
+
+Now I am also eager to see the result of your survey. Even is it getting released?
+
 
 
 Forkner Shorthand; Forkner and Brown; Gage Publishers Canada, 1972/
